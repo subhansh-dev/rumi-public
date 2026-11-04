@@ -8,21 +8,18 @@ https://github.com/subhansh-dev/rumi
 
 ## Providers used (all have free tiers)
 
-The engine routes across 7 providers with automatic fallback. Every provider below
+The engine routes across 4 providers with automatic fallback. Every provider below
 has a free tier (or free credits) -- no paid subscription is required to run RUMI.
 
 1. **Groq** -- `llama-3.3-70b-versatile` (3 API keys, fast fallback, 30 req/min free)
 2. **Cerebras** -- `gpt-oss-120b` (6 API keys, primary for creative phases, fast fallback)
-3. **NVIDIA NIM** -- `nvidia/llama-3.1-nemotron-ultra-253b-v1` (MiniMax M3 channel, strong reasoning)
-4. **Kimi K2.6** -- `moonshotai/kimi-k2.6` (via NVIDIA NIM, best for math/reasoning)
-5. **GLM 5.1** -- `zhipu/glm-5.1` (via NVIDIA NIM, used for critic/adversarial roles)
-6. **Fireworks** -- `accounts/fireworks/models/deepseek-r1` ($6 free credits, temporary)
-7. **Xiaomi MiMo** -- `mimo-v2.5-pro` (via Anthropic-compatible proxy, general-purpose)
+3. **NVIDIA NIM** -- `nvidia/llama-3.1-nemotron-ultra-253b-v1` (free API key; also hosts Kimi K2.6, GLM 5.1, and DeepSeek V4 Pro via the same key)
+4. **Fireworks** -- `accounts/fireworks/models/deepseek-r1` ($6 free credits, temporary)
 
-Routing chain: Cerebras -> Groq -> NVIDIA -> Kimi -> GLM -> Fireworks -> Xiaomi MiMo.
-Math phases route through: DeepSeek R1 -> Kimi -> DeepSeek V4 -> general chain.
-Critic/adversarial phases are pinned to GLM (a disjoint model family) to avoid
-self-preference bias.
+Routing chain: Cerebras -> Groq -> NVIDIA NIM -> Fireworks.
+Math phases route through reasoning models hosted on NVIDIA NIM.
+Critic/adversarial phases are pinned to GLM 5.1 (hosted on NVIDIA NIM, a disjoint
+model family) to avoid self-preference bias.
 
 ## Notes
 
