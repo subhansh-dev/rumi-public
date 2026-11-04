@@ -234,4 +234,4 @@ We built an autonomous discovery engine, then built the judge that could tell us
 
 ---
 
-*Built by Subhansh Kumar, age 17, from a laptop and a lot of API free tiers. If you find a flaw in the measurement, please open an issue — that's the whole point.*
+*If you find a flaw in the measurement, open an issue.*
