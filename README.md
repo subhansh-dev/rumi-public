@@ -4,7 +4,7 @@
 [![The engine](https://img.shields.io/badge/engine-RUMI%20v2%20(discovery%20pipeline)-crimson?logo=github)](https://github.com/subhansh-dev/rumi)
 [![Graded runs](https://img.shields.io/badge/discovery_runs-51-blue)](run_analysis.md)
 [![External grades](https://img.shields.io/badge/external_grades-0%20A%20%3A%200%20B%20%3A%2045%20C%20%3A%206%20F-8a2c2c)](run_analysis.md)
-[![Anti-vibes](https://img.shields.io/badge/self--score_jitter-%2B38%20to%20%2D20-orange)](run_analysis.md)
+[![Anti-vibes](https://img.shields.io/badge/self--score_jitter-%2B38%20to%20%2D53-orange)](run_analysis.md)
 [![Tamper-evidence](https://img.shields.io/badge/eval_ledger-hash--chained%20append--only-2d6a4f)](Engine/eval/ledger.jsonl)
 
 I built RUMI — an autonomous scientific discovery engine that runs 16 phases from knowledge-graph construction to adversarial theory tournaments and even rewrites its own code. I also built its external evaluation harness, then let it grade itself, then let the harness grade the same runs, and compared.
