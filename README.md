@@ -24,9 +24,9 @@ This repo is what made that comparison possible. These are the artifacts from th
 * Average external score: **52.0** — C grade.
 * Its own score agrees with the judge either way on average (+1.1 gap), which is the problem: self-score is *unreliable in both directions*, with excitations up to **+38 points** — and it swings down 20 points below the judge on other runs.
 * `no_citations` flag hits **51/51 runs.** It fetches real papers. It scores them 0/100 on evidence. Hmm.
-* Ownership point: this is a single-lab, single-developer artifact. If any of this looks like a demo, it's because the demo ran for 21 hours straight. Bug fixes and repro procedures live in the paper.
+* Scope note: this is a single-lab, single-developer artifact. If any of this looks like a demo, it's because the demo ran for 21 hours straight. Bug fixes and repro procedures live in the paper.
 
-## Bot summary (read this before opening the Dataset folder)
+## tl;dr before you open the Dataset folder
 
 RUMI runs a 16-phase autonomous discovery pipeline over retrieved research: it picks a research question, walks real citation networks, builds a persistent knowledge graph, mines gaps / anomalies / hidden variables, generates and falsifies mechanisms, runs a theory tournament, tries to beat itself in a second pass (sometimes successfully: pass 1 → 80, sometimes it gets worse: 83.8 → 65.2), and writes a report. Alongside it runs a self-scoring layer that judges its own quality — accuracy 0/100 so far on the frozen external metrics, apparently.
 
