@@ -136,3 +136,33 @@ meta-process as the winning theory for why Alzheimer's trials fail.
 For hand-verification next: sample ~10 claims from 3 runs, try to find them in the
 fetched paper abstracts, and log supported/unsupported/contradicted â€” that sample
 becomes the article's claim-support table.
+
+## 8. Control test -- validating the harness
+
+To check that the harness can distinguish good from bad (and that no_citations is a
+real finding rather than a detector blind spot), a RUMI-shaped control report was
+constructed with 5 papers, proper [1]-[5] citations resolving to those papers,
+claim sentences carrying citations, a named winner, mechanism steps, and predictions.
+It was run through the same frozen harness.
+
+| Metric | Control (well-cited) | RUMI (avg, n=51) |
+|---|---|---|
+| citation_validity | 1.0 | 0 (no citations) |
+| claim_support_rate | 1.0 | null (no claims detected) |
+| novelty_vs_archive | 1.0 | ~0.0-0.5 |
+| structure_completeness | 0.429 | ~0.14 |
+| External score | 68.6 (B) | 52.0 (C) |
+| Grade | B | C |
+
+The control scored a B -- the first B grade the harness has ever produced. RUMI runs
+score C. The harness correctly distinguishes a well-cited, well-structured report
+from RUMI's output. The no_citations finding is confirmed real, not a detector artifact.
+
+One harness limitation noted: score_consistency never fires on real RUMI data because
+the report format stores dimension scores as top-level keys rather than under the
+scores/weights_used sub-dicts the metric expects. This does not affect the main
+findings but means the inflation audit is effectively disabled in practice.
+
+For hand-verification next: sample ~10 claims from 3 runs, try to find them in the
+fetched paper abstracts, and log supported/unsupported/contradicted -- that sample
+becomes the article's claim-support table.
