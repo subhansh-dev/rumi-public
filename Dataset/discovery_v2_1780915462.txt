@@ -1,0 +1,491 @@
+======================================================================
+  DISCOVERY REPORT
+======================================================================
+  Topic: dark matter gravitational effects
+  Domain: space_astronomy
+  Mode: full
+  Duration: 669.6s
+
+──────────────────────────────────────────────────────────────────────
+  PAPERS (101)
+──────────────────────────────────────────────────────────────────────
+  [core] Gravitational effects of condensate dark matter on compact stellar
+  objects
+    Authors: Cheng, K. S., Li, Xinyu, Wang, Fayin
+    Year: 2012
+  [crossref] An Upgrade of Universal Gravitation: A New Theory Incorporating Newton’s Gravita
+    Authors: Zhong Su
+  [crossref] On the Effects of Gravitational Fields on the Electrical Properties of Matter
+    Authors: Geoffrey I Opat
+    Year: 1993
+  [arxiv] Imprints of dark matter on gravitational ringing of supermassive black holes
+    Authors: Chao Zhang, Tao Zhu, Xiongjun Fang
+    Year: 2022
+  [core] Gravitational Waves in Cold Dark Matter
+    Authors: Flauger, Raphael, Weinberg, Steven
+    Year: 2017
+  [core] Gravitational Origin of Dark Matter
+    Authors: Babichev, Eugeny, Marzola, Luca, Raidal, Martti
+    Year: 2016
+  [core] Effects of dark energy and flat rotation curve on the gravitational time
+  delay
+    Authors: Bhadra, Arunava, Ghosh, Shubhrangshu, Sarkar, Tamal
+    Year: 2016
+  [core] Planck-scale effects on WIMP dark matter
+    Authors: Boucenna, M. S., Lineros, R. A., Valle, J. W. F.
+    Year: 2013
+  [core] Can extra dimensional effects replace dark matter ?
+    Authors: Allen, Allen, Bahcall
+    Year: 2004
+  [arxiv] Gravitational Positivity Bounds on Higgs-Portal Dark Matter
+    Authors: Kimiko Yamashita
+    Year: 2025
+  ... and 91 more papers
+
+──────────────────────────────────────────────────────────────────────
+  KNOWLEDGE GRAPH
+──────────────────────────────────────────────────────────────────────
+  Entities: 403
+  Relationships: 3417
+
+──────────────────────────────────────────────────────────────────────
+  KNOWLEDGE GAPS (10)
+──────────────────────────────────────────────────────────────────────
+  [orphan_observation] (5 gaps)
+    - 'cancer' is a disease mentioned in 6 paper(s) but has no causal/explanatory mechanism in the graph. It is observed but n
+    - 'Acceleration' is a phenomenon mentioned in 5 paper(s) but has no causal/explanatory mechanism in the graph. It is obser
+    - 'fluctuation' appears in 4 paper(s) but has zero relationships in the knowledge graph. It may represent an isolated find
+  [structural_hole] (5 gaps)
+    - These 1294 and 1 entities share type(s) concept but have no connecting relationships. This may indicate an unexplored cr
+    - These 1294 and 1 entities share type(s) concept but have no connecting relationships. This may indicate an unexplored cr
+    - These 1294 and 1 entities share type(s) entity but have no connecting relationships. This may indicate an unexplored cro
+
+──────────────────────────────────────────────────────────────────────
+  ANOMALIES (8)
+──────────────────────────────────────────────────────────────────────
+  [outlier_entity] 'dark matter' has degree 87 (z=7.6), much higher than average (4.9). It's a hub — either a genuine driver or an over-stu
+  [outlier_entity] 'act' has degree 61 (z=5.2), much higher than average (4.9). It's a hub — either a genuine driver or an over-studied ent
+  [outlier_entity] 'quantum' has degree 57 (z=4.8), much higher than average (4.9). It's a hub — either a genuine driver or an over-studied
+  [prediction_violation] There's a path concept_gravitational_lensing→dark matter→concept_axion_dark_matter_minihalos but no direct connection. E
+  [prediction_violation] There's a path concept_gravitational_lensing→dark matter→Planck but no direct connection. Either the direct link doesn't
+  [prediction_violation] There's a path concept_gravitational_lensing→dark matter→act but no direct connection. Either the direct link doesn't ex
+  [prediction_violation] There's a path concept_gravitational_lensing→dark matter→concept_stellar_cooling_anomaly but no direct connection. Eithe
+  [prediction_violation] There's a path concept_gravitational_lensing→dark matter→neutron but no direct connection. Either the direct link doesn'
+
+──────────────────────────────────────────────────────────────────────
+  HIDDEN VARIABLES (8)
+──────────────────────────────────────────────────────────────────────
+  1. [unknown] Cosmic Acceleration Fluctuation Field (CAFF)
+     Description: A stochastic field representing small-scale temporal fluctuations in the cosmic acceleration parameter (a_0) arising from large‑scale structure inhomogeneities. CAFF can explain observed scatter in ac
+     Derivation:
+       Assuming the background cosmological constant Λ contributes a uniform acceleration a_0 = c H_0 / 2π. Inhomogeneities ind
+
+  2. [unknown] Hubble‑Scale Gravitational Shear (HGS)
+     Description: A shear component of the metric that varies slowly over Hubble distances, producing an apparent 'Hubble' anomaly in local measurements of dark matter distributions. HGS acts like a tidal field that ca
+     Derivation:
+       Starting from the perturbed FLRW metric with a traceless shear term, solve the geodesic deviation equation for light ray
+
+  3. [unknown] Quantum‑Gravitational Actuation (QGA)
+     Description: A process where quantum fluctuations of spacetime (gravitons) generate an effective 'act' term in the gravitational action, leading to additional acceleration observed in galaxy rotation curves. This 
+     Derivation:
+       Integrating out high‑frequency graviton modes yields a higher‑derivative correction term proportional to \(R^{\mu\nu}R_{
+
+  4. [counterfactual] Gravitational Shear Gradient Index (GSGI)
+     Description: A dimensionless parameter that quantifies the radial gradient of tidal shear in galaxy cluster outskirts, derived from high‑resolution weak‑lensing maps. Unlike traditional mass‑profile slopes, GSGI i
+
+  5. [counterfactual] Quantum Fluctuation Echo Frequency (QFEF)
+     Description: A measurable frequency band (in the nanohertz regime) of stochastic gravitational‑wave background that arises from coherent echoes of primordial quantum fluctuations interacting with large‑scale struc
+
+  6. [counterfactual] Hubble‑Scale Acceleration Discrepancy Parameter (HSADP)
+     Description: A scalar quantity measuring the deviation between locally inferred cosmic acceleration (from Type Ia supernovae) and the acceleration implied by large‑scale structure growth rates, after correcting fo
+
+  7. [contradiction_explanation] Feedback‑Modulated Organizational Act
+     Description: The 'organization_act' represents a regulatory node that can be driven either by baryonic feedback processes (e.g., supernova‑driven outflows) or by dark‑matter‑dominated dynamics, depending on the st
+
+  8. [contradiction_explanation] Condensate‑Mass Threshold Effect
+     Description: Paper 1 and Paper 10 both describe the gravitational influence of condensate dark matter on compact objects, but they focus on different regimes of the ratio between the object’s Schwarzschild radius 
+
+
+──────────────────────────────────────────────────────────────────────
+  MECHANISMS (5)
+──────────────────────────────────────────────────────────────────────
+  1. [causal_pathway] Cold Dark Matter Halo (ΛCDM)
+     A pressure‑less, collisionless particle species that clusters gravitationally, providing the extra mass needed for observed dynamics.
+     Step 1: A pressure‑less, collisionless particle species that clusters gravitationally, providing the extra mass needed for observed dynamics.
+
+  2. [causal_pathway] Modified Newtonian Dynamics (MOND) as emergent from quantum vacuum
+     At accelerations below a₀, the effective inertia of test particles is altered by a coupling to zero‑point fluctuations of the metric.
+     Step 1: At accelerations below a₀, the effective inertia of test particles is altered by a coupling to zero‑point fluctuations of the metric.
+
+  3. [causal_pathway] Cosmic Acceleration Fluctuation Field (CAFF)
+     A stochastic field ξ(x,t) that modulates the local value of the cosmic acceleration parameter a₀, producing scatter in the RAR.
+     Step 1: A stochastic field ξ(x,t) that modulates the local value of the cosmic acceleration parameter a₀, producing scatter in the RAR.
+
+  4. [causal_pathway] Hubble‑Scale Gravitational Shear (HGS)
+     A slowly varying shear tensor σ_{ij}(z) superimposed on the Friedmann‑Lemaître‑Robertson‑Walker (FLRW) metric, generating an apparent excess lensing signal.
+     Step 1: A slowly varying shear tensor σ_{ij}(z) superimposed on the Friedmann‑Lemaître‑Robertson‑Walker (FLRW) metric, generating an apparent excess lensing s
+
+  5. [causal_pathway] Quantum‑Gravitational Actuation (QGA)
+     Quantum graviton fluctuations generate an effective action term ∝ R^{3/2} that yields an additional acceleration a_Q = β (Gρ)^{1/2}, where β is a dimensionless coupling.
+     Step 1: Quantum graviton fluctuations generate an effective action term ∝ R^{3/2} that yields an additional acceleration a_Q = β (Gρ)^{1/2}, where β is a dime
+
+
+──────────────────────────────────────────────────────────────────────
+  PREDICTIONS (7 generated, 7 accepted)
+──────────────────────────────────────────────────────────────────────
+  1. [correlational] If the Cold Dark Matter Halo (ΛCDM) mechanism is dominant, then the galaxy rotation curves will exhibit a flat velocity profile with a slope of -0.22 ± 0.05 at radii greater than 2
+     Confidence: 0.7
+     Test: Observe the rotation curves of a sample of 100 spiral galaxies using spectrographic data and compare the slope of the ve
+     Falsification: Observing a significant deviation from the predicted slope, such as a slope of -0.5 or greater, would falsify this predi
+
+  2. [correlational] If the Modified Newtonian Dynamics (MOND) mechanism is correct, then the acceleration of stars in the outer regions of galaxies will be 1.2 ± 0.3 times lower than the acceleration 
+     Confidence: 0.8
+     Test: Compare the observed accelerations of stars in the outer regions of galaxies to the predicted accelerations using Newton
+     Falsification: Observing no significant difference between the observed and predicted accelerations using Newtonian dynamics would fals
+
+  3. [novel] If the Quantum-Gravitational Actuation (QGA) mechanism is present, then the power spectrum of the cosmic microwave background radiation will exhibit a characteristic 'bump' at a fr
+     Confidence: 0.6
+     Test: Analyze the power spectrum of the cosmic microwave background radiation using data from the next-generation CMB experime
+     Falsification: Failing to detect the predicted 'bump' feature in the power spectrum would falsify this prediction.
+
+  4. [interventional] If the Cosmic Acceleration Fluctuation Field (CAFF) mechanism is responsible for the observed scatter in the Tully-Fisher relation, then the scatter will be reduced by 30 ± 10% whe
+     Confidence: 0.75
+     Test: Select a sample of 500 galaxies with high-quality distance measurements and compare the scatter in the Tully-Fisher rela
+     Falsification: Observing no significant reduction in scatter would falsify this prediction.
+
+  5. [correlational] If the Hubble-Scale Gravitational Shear (HGS) mechanism is present, then the observed distribution of galaxy clusters will exhibit a characteristic 'ellipticity' of 0.25 ± 0.05, wh
+     Confidence: 0.8
+     Test: Analyze the distribution of galaxy clusters using data from the next-generation large-scale structure surveys and compar
+     Falsification: Observing an ellipticity consistent with the expected value from ΛCDM simulations would falsify this prediction.
+
+  6. [novel] If the Quantum Fluctuation Echo Frequency (QFEF) mechanism is responsible for the observed stochastic gravitational wave background, then the frequency spectrum will exhibit a char
+     Confidence: 0.5
+     Test: Analyze the frequency spectrum of the stochastic gravitational wave background using data from the next-generation gravi
+     Falsification: Failing to detect the predicted 'peak' feature in the frequency spectrum would falsify this prediction.
+
+  7. [counterfactual] If the Gravitational Shear Gradient Index (GSGI) mechanism is present, then the observed distribution of galaxy clusters will exhibit a characteristic 'gradient' of 0.15 ± 0.03, wh
+     Confidence: 0.65
+     Test: Analyze the distribution of galaxy clusters using data from the next-generation large-scale structure surveys and compar
+     Falsification: Observing a gradient consistent with the expected value from ΛCDM simulations would falsify this prediction.
+
+
+──────────────────────────────────────────────────────────────────────
+  KILLED / SUPERSEDED BY ADVERSARIAL TEST (1)
+──────────────────────────────────────────────────────────────────────
+  [SUPERSEDED] ΛCDM Cold Dark Matter Halo (attack score: 0.30)
+     Reason: The ΛCDM halo model is a long‑standing, textbook component of modern cosmology, fully supported by a
+
+──────────────────────────────────────────────────────────────────────
+  THEORY TOURNAMENT (17 entered, 8 survived, 12 eliminated)
+──────────────────────────────────────────────────────────────────────
+  Tournament rounds:
+    Round 1: generation — 17 candidates
+    Round 2: elimination — 8 survived, 9 eliminated
+    Round 3: cross_comparison_elimination — 5 survived, 3 eliminated
+    Round final: survivors — ? candidates
+
+  Analysis: Winner: ΛCDM Cold Dark Matter Halo (score: 0.65). 5 theories survived the tournament. 12 were eliminated. Clear winner — gap to runner-up is 0.08. NULL HYPOTHESIS CHECK: WARNING — Winner does NOT beat conventional explanation 'ΛCDM Cold Dark Matter Halo' (gap: 0.00). The novel theory may not be bett
+
+  Survivors (ranked):
+  1. ΛCDM Cold Dark Matter Halo (score: 0.65) [conventional]
+     The standard cosmological model posits a pressure‑less, collisionless particle species that clusters hierarchically, forming halos that dominate the mass budget of galaxies and clusters. The extra gra
+     Mechanism: Cold dark matter particles (mass ~100 GeV) aggregate into halos; gravitational lensing traces the projected mass, producing the observed dark‑matter →
+     Explains: Observation 1 (high degree of dark matter); Observation 4 (path dark matter → axion mini‑halos); Observation 5 (path dark matter → Planck)
+     Fails to explain: Observation 2 (high degree of act) if act is not a particle ; Observation 3 (high degree of quantum) beyond citation bias; Knowledge gaps involving cancer, fluctuation, Hubble
+     Key assumptions: Dark matter is a stable, non‑relativistic particle.; Structure formation follows linear growth then non‑linear co
+     Causal status: no_causal_claim
+
+  2. Quantum‑Vacuum MOND (score: 0.57) [alternative]
+     At accelerations below a₀≈1.2×10⁻¹⁰ m s⁻², the inertia of test particles is modified by coupling to zero‑point fluctuations of the metric. This emergent MOND behaviour reproduces the observed lensing 
+     Mechanism: A stochastic quantum vacuum field generates an effective modification to Newtonian dynamics: a = (a_N a₀)¹ᐟ² for a_N < a₀. The indirect paths arise be
+     Explains: Observation 2 (high degree of act) via act as a proxy for ac; Observation 3 (high degree of quantum); Observation 4,5,6 (indirect paths through shared citation ne
+     Fails to explain: Observation 1 (high degree of dark matter) if dark matter is; Knowledge gaps involving cancer, Hubble, and disconnected cl
+     Key assumptions: Zero‑point metric fluctuations couple universally to mass.; No additional dark matter component is required.
+
+  3. Act‑Quantum Coupling Hypothesis (score: 0.55) [alternative]
+     The term "act" (as in action) and "quantum" are linked through a hypothesised coupling between the classical action functional and quantum vacuum energy density. This coupling modulates the effective 
+     Mechanism: G_eff = G [1 + γ S·ℏρ_vac], where S is the action density of the system and ρ_vac is the vacuum energy. Regions with high S (e.g., dense galaxies) exp
+     Explains: Observations 1‑3 (high hub degrees); Observations 4‑6 (indirect paths via co‑citation)
+     Fails to explain: Knowledge gap 4 (cancer) and 5 (fluctuation) which are unrel; Direct physical mechanism for how action density influences 
+     Key assumptions: Vacuum energy couples linearly to classical action density.; γ is constant across scales.
+     Causal status: no_causal_claim
+
+  4. Gravitational Shear Gradient Index (GSGI) (score: 0.50) [alternative]
+     A dimensionless index GSGI quantifies the radial gradient of tidal shear in cluster outskirts. A non‑zero GSGI produces extra lensing that is mis‑attributed to dark matter, and its measurement correla
+     Mechanism: GSGI = (dσ/dr)·r/σ modifies the projected mass density Σ → Σ (1 + GSGI). The indirect paths arise because studies of shear gradients often cite both l
+     Explains: Observation 1 (dark matter hub); Observations 4‑6 (missing direct links); Observation 2 (act hub) via methodological overlap
+     Fails to explain: Observation 3 (quantum hub) unless quantum methods are invok; Knowledge gaps involving cancer, fluctuation, Hubble
+     Key assumptions: Tidal shear varies smoothly with radius.; GSGI is universal for massive clusters.
+     Causal status: correlation_only
+
+  5. Null Hypothesis: Systematic and Selection Bias (score: 0.50) [null]
+     All observed high‑degree hubs and missing direct links are artifacts of publication bias, citation practices, and instrument systematics. No new physics is required; the apparent dark‑matter effects a
+     Mechanism: Selection bias preferentially cites "dark matter", "act", and "quantum" papers; weak‑lensing pipelines introduce a multiplicative bias m ≈ 0.05 that i
+     Explains: Observations 1‑3 (hub degrees) as citation bias; Observations 4‑6 (missing direct links) as indexing gaps
+     Fails to explain: Any genuine physical correlation between lensing signals and; Knowledge gaps involving cancer, fluctuation, Hubble that re
+     Key assumptions: Current bibliometric databases have systematic omission erro; Instrumental biases dominate over astrophysical signals.
+     Causal status: no_causal_claim
+
+  6. Scale‑Dependent Coupling Hypothesis (score: 0.00) [contradiction_resolution]
+     Theoretical models that connect the most entities (e.g., ΛCDM, Modified Newtonian Dynamics, emergent gravity) are each valid but operate on different spatial scales. On galactic scales, the model that
+
+  7. Environment‑Dependent Dark Matter Composition Hypothesis (score: 0.00) [contradiction_resolution]
+     The hub status of ‘entity_dark_matter’ arises because dark matter may not be a single particle species. In high‑density, high‑temperature environments (e.g., galaxy clusters, early‑universe filaments)
+
+  Discriminating experiments (would separate top 2):
+    1. Measure the weak‑lensing shear (γ) around a statistically complete sample of isolated dwarf galaxies (M∗≈10⁸ M⊙) at projected radii 0.3–0.7 Mpc using 
+    2. Obtain high‑resolution rotation curves for a set of edge‑on spiral galaxies with halo masses ≈10¹¹ M⊙ using radio interferometry (e.g., ALMA) to trace
+    3. Perform a stacked weak‑lensing analysis of galaxy clusters at z≈0.5 with masses ≈10¹⁴ M⊙ using data from the Euclid survey.  ΛCDM predicts a convergen
+
+  Eliminated (12):
+    ✗ Cancer‑Acceleration Analogy Model (score: 0.50) — Score 0.50 — bottom half
+    ✗ Fluctuation‑Driven Minihalo Formation (QFEF) (score: 0.50) — Score 0.50 — bottom half
+    ✗ Standard Cold Dark Matter Halo (ΛCDM) (score: 0.50) — Score 0.50 — bottom half
+    ✗ Metabolic‑Network Analogy (Biology‑Inspired) (score: 0.50) — Score 0.50 — bottom half
+    ✗ Dark Matter as Capital Flow (Economics‑Inspired) (score: 0.50) — Score 0.50 — bottom half
+    ... and 7 more
+
+----------------------------------------------------------------------
+  CURIOUS QUESTIONING - The Newton Step
+----------------------------------------------------------------------
+  Core Question: Could the apparent weakness of dark matter's gravitational lensing signal be due to an unrecognized coupling between dark matter and photons that varies with wavelength?
+  Question Hypothesis: Dark matter possesses a tiny, effective refractive index that modifies photon trajectories differently across the electromagnetic spectrum, leading to underestimates of its gravitational influence in conventional analyses.
+  Why It Matters: If dark matter interacts with light in a wavelength‑dependent way, it would reshape our interpretation of lensing measurements, reconcile the small magnitude of observed effects, and open a new window
+  Surprising Observations: 3
+    - unlike previous analyses that rely on linear expansions in the halo parameters, we deri
+    - however, the magnitude of the effect is too small to be
+    - however, depending on the wavelength, the
+  Questions Generated: 10
+    [assumption_attack] What assumption does everyone accept about dark matter gravitational effects? Wh
+    [scale_transfer] Does a mechanism at one scale (quantum/molecular) also drive dark matter gravita
+    [cross_domain] What field solved an analogous problem to: unlike previous analyses that rely on
+    [cross_domain] What field solved an analogous problem to: however, the magnitude of the effect 
+    [assumption_attack] What if the standard model of matter gravitational effects is fundamentally inco
+  Cross-Domain Connections (Newton's Move): 3
+    Domain A: space_astronomy: Weak gravitational lensing signals from dark matter halos are systematically low
+    Domain B: condensed_matter / photonic_metamaterials: In engineered metamaterials, the effective refractive index can become near‑zero
+    Connection: Both cases involve a medium whose interaction strength with photons depends strongly on wavelength, 
+    Hypothesis: Dark matter possesses a tiny, wavelength‑dependent effective refractive index (or dielectric respons
+    Prediction: Gravitational lensing measured in radio or millimetre wavelengths should be measurably stronger (by 
+
+    Domain A: space_astronomy: The apparent deficit of dark‑matter‑induced lensing is most pronounced for backg
+    Domain B: plasma_physics: In plasma physics, electromagnetic waves with frequencies below the plasma frequ
+    Connection: Both phenomena can be described by a collective medium response that introduces a frequency cutoff: 
+    Hypothesis: Dark matter forms a weakly interacting dark plasma with a characteristic plasma frequency in the opt
+    Prediction: Strong gravitational lensing of background quasars observed in hard X‑ray or gamma‑ray bands should 
+
+    Domain A: space_astronomy: Statistical analyses of galaxy‑cluster lensing show a subtle, wavelength‑depende
+    Domain B: quantum_optics: Electromagnetically induced transparency (EIT) in atomic vapors creates a narrow
+    Connection: Both involve a resonant quantum‑interference effect that selectively suppresses the interaction betw
+    Hypothesis: Dark‑matter particles have internal quantum states that can be coherently driven by ambient photon f
+    Prediction: If a bright, narrow‑band laser tuned to the resonant wavelength is placed behind a dark‑matter halo,
+
+  Curiosity Constraint (Track B):
+    Forbidden Theories: Modified Newtonian Dynamics (MOND), Tensor‑Vector‑Scalar gravity (TeVeS), Emergent Gravity (Verlinde), f(R) modified gravity, Self‑interacting dark matter with velocity‑dependent cross‑section (SIDM‑VD)
+    Required Properties:
+      + Provides a wavelength‑dependent modification to photon trajectories that can be expressed as an effective refractive index for dark matter
+      + Derives the effect from first‑principles (e.g., quantum field theory, effective medium theory) rather than invoking ad‑hoc parametrizations
+      + Predicts an observable deviation from standard gravitational lensing that varies across the electromagnetic spectrum and is testable with upcoming multi‑band surveys
+    Novelty Direction: Explore mechanisms in which dark matter behaves as a weakly coupled dark plasma or a quantum‑coherent medium, yielding a frequency‑dependent dielectric response that alters photon propagation without altering the underlying gravitational potential.
+
+----------------------------------------------------------------------
+  DUAL-TRACK COMPARISON: Curiosity vs Pipeline
+----------------------------------------------------------------------
+
+  Two independent approaches were used:
+  1. CURIOUS ENGINE: Generated a question-driven hypothesis
+  2. CONVENTIONAL PIPELINE: Ran full 21-phase discovery
+
+  These are SEPARATE tracks. The curiosity hypothesis was NOT
+  injected into the pipeline. Both ran independently.
+
+  TRACK A: CONVENTIONAL PIPELINE WINNER
+    Name: ΛCDM Cold Dark Matter Halo
+    Score: 0.65
+    Description: The standard cosmological model posits a pressure‑less, collisionless particle species that clusters hierarchically, forming halos that dominate the mass budget of galaxies and clusters. The extra gra
+
+  TRACK B: CURIOSITY-DRIVEN HYPOTHESIS
+    Core Question: Could the apparent weakness of dark matter's gravitational lensing signal be due to an unrecognized 
+    Hypothesis: Dark matter possesses a tiny, effective refractive index that modifies photon trajectories differently across the electromagnetic spectrum, leading to underestimates of its gravitational influence in conventional analyses.
+
+  COMPARISON:
+    Pipeline says: ΛCDM Cold Dark Matter Halo
+    Curiosity says: Dark matter possesses a tiny, effective refractive index tha...
+
+  Both tracks contribute to the discovery. The pipeline
+  validates through evidence and scoring. The curiosity
+  engine identifies the RIGHT QUESTION to ask.
+
+  A discovery needs both: the right question AND the right answer.
+
+──────────────────────────────────────────────────────────────────────
+  ADVERSARIAL TEST — What Survived the Attack
+──────────────────────────────────────────────────────────────────────
+  hidden_variables: 8 tested → 5 survived, 0 weakened, 0 killed
+  mechanisms: 5 tested → 4 survived, 0 weakened, 0 killed
+  theories: 5 tested → 3 survived, 0 weakened, 0 killed
+  Hidden Variables:
+    ✓ Cosmic Acceleration Fluctuation Field (CAFF) [survived, attack score: 0.67]
+      Existing theory: Modified Newtonian Dynamics (MOND) and Cold Dark Matter (CDM) theories
+      Falsification: If the observed scatter in acceleration-mass relations is found to be consistent with known gravitat
+      Verdict: The Cosmic Acceleration Fluctuation Field (CAFF) is a novel concept that attempts to explain the observed scatter in acc
+    ✓ Hubble‑Scale Gravitational Shear (HGS) [survived, attack score: 0.67]
+      Existing theory: Modified Newtonian Dynamics (MOND) and some aspects of General Relativity
+      Falsification: If future observations of gravitational lensing and galaxy rotation curves show no signs of HGS effe
+      Verdict: The concept of Hubble-Scale Gravitational Shear (HGS) introduces a new perspective on dark matter's gravitational effect
+    ✓ Quantum‑Gravitational Actuation (QGA) [survived, attack score: 0.67]
+      Existing theory: Modified Newtonian Dynamics (MOND) and certain dark matter theories
+      Falsification: If future observations of galaxy rotation curves show no correlation with the predicted effects of Q
+      Verdict: The Quantum-Gravitational Actuation theory, while novel, faces challenges from existing theories like MOND and certain d
+    ✓ Gravitational Shear Gradient Index (GSGI) [survived, attack score: 0.92]
+      Existing theory: Modified Newtonian Dynamics (MOND) and some alternative theories of gravity
+      Falsification: If the observed gravitational shear gradient index is consistent with the predictions of general rel
+      Verdict: The proposed Gravitational Shear Gradient Index (GSGI) provides a novel way to quantify the radial gradient of tidal she
+    ✓ Quantum Fluctuation Echo Frequency (QFEF) [survived, attack score: 0.92]
+      Existing theory: Gravitational Waves in Cold Dark Matter, Imprints of dark matter on gravitational ringing of superma
+      Falsification: If we observe no correlation between pulsar-array data and the predicted QFEF frequency band, this h
+      Verdict: The Quantum Fluctuation Echo Frequency (QFEF) introduces a novel explanation for the stochastic gravitational-wave backg
+  Mechanisms:
+    ✓ Cold Dark Matter Halo (ΛCDM) [survived, attack score: 0.55]
+      Existing theory: The ΛCDM paradigm itself, i.e., General Relativity plus a pressure‑less, collisionless cold dark mat
+      Falsification: If high‑resolution rotation curves of >90 % of dwarf spheroidal galaxies show inner density slopes α
+      Verdict: The cold dark matter halo concept is already a cornerstone of modern cosmology, extensively documented in textbooks and 
+    ✓ Modified Newtonian Dynamics (MOND) as emergent fro [survived, attack score: 0.67]
+      Existing theory: Modified Newtonian Dynamics (MOND) alternatives, such as the new gravitational framework proposed in
+      Falsification: If observations of gravitational effects in systems with accelerations below a₀ do not show the pred
+      Verdict: The mechanism, while intriguing, is challenged by existing theories that attempt to explain the same phenomena without i
+    ? Cosmic Acceleration Fluctuation Field (CAFF) [challenged, attack score: 0.35]
+      Existing theory: ΛCDM halo-to-halo variations and baryonic feedback (e.g., Di Cintio et al. 2014, MNRAS 437, 415) and
+      Can remove: ξ(x,t)
+      Falsification: If a sample of >200 isolated disk galaxies shows a RAR residual scatter σ_log(g) ≤ 0.01 dex with no 
+      Verdict: Existing ΛCDM and MOND frameworks already account for the observed RAR scatter, making the stochastic CAFF unnecessary. 
+    ✓ Hubble‑Scale Gravitational Shear (HGS) [survived, attack score: 0.75]
+      Existing theory: The excess lensing signal attributed to HGS is already explained by the standard ΛCDM model with col
+      Falsification: If tomographic cosmic‑shear measurements from upcoming surveys (e.g., LSST, Euclid) agree with ΛCDM 
+      Verdict: Standard ΛCDM plus well‑studied anisotropic cosmologies already account for the observed lensing signal, and the propose
+    ✓ Quantum‑Gravitational Actuation (QGA) [survived, attack score: 0.67]
+      Existing theory: Modified Newtonian Dynamics (MOND) and f(R) gravity models that add higher‑order curvature invariant
+      Can remove: β
+      Falsification: If high‑precision rotation curves of low‑density dwarf galaxies show a systematic deviation >10 % fr
+      Verdict: Existing modified‑gravity theories already produce an acceleration with the same density dependence, making QGA largely 
+  Theories:
+    ? ΛCDM Cold Dark Matter Halo [superseded, attack score: 0.30]
+      Existing theory: ΛCDM Cold Dark Matter model (standard cosmology)
+      Can remove: m_DM, σ_8
+      Falsification: If high‑precision rotation curves of isolated spiral galaxies measured out to >50 kpc show no deviat
+      Verdict: The ΛCDM halo model is a long‑standing, textbook component of modern cosmology, fully supported by a vast body of observ
+    ✓ Act‑Quantum Coupling Hypothesis [survived, attack score: 0.55]
+      Existing theory: The ΛCDM model (e.g., Planck Collaboration 2018) and modified gravity frameworks such as MOND/TeVeS 
+      Can remove: γ
+      Falsification: If high‑precision Cavendish experiments in a region of altered vacuum energy (e.g., inside a Casimir
+      Verdict: Established cosmological and modified‑gravity models already explain the dark‑matter phenomenology, making the new coupl
+    ✓ Quantum‑Vacuum MOND [survived, attack score: 0.60]
+      Existing theory: ΛCDM with particle dark matter (e.g., Navarro‑Frenk‑White halo profiles) and relativistic MOND exten
+      Can remove: ζ_variance
+      Falsification: If weak‑lensing measurements of a sample of isolated dwarf galaxies with internal accelerations < a₀
+      Verdict: Standard ΛCDM and relativistic MOND already explain the lensing excess, making the quantum‑vacuum coupling unnecessary. 
+    ✓ Gravitational Shear Gradient Index (GSGI) [survived, attack score: 0.60]
+      Existing theory: Standard ΛCDM halo lensing combined with weak‑lensing shear‑gradient formalism (e.g., Kaiser & Squir
+      Can remove: GSGI
+      Falsification: If high‑precision weak‑lensing maps of many clusters show that the radial convergence profile κ(r) m
+      Verdict: Existing lensing theory already accounts for the observed shear gradients, making the GSGI index redundant. The index ca
+    ? Null Hypothesis: Systematic and Selection Bias [challenged, attack score: 0.35]
+      Existing theory: The ΛCDM cosmological model together with well‑characterized instrumental systematics (e.g., PSF mod
+      Can remove: m_bias, citation_bias_factor
+      Falsification: If a dark‑matter dominated halo is detected via strong gravitational lensing with a mass >10^10 M☉ a
+      Verdict: Standard ΛCDM plus quantified systematic errors already explain the gravitational phenomena, and the bias parameters int
+
+──────────────────────────────────────────────────────────────────────
+  CRITICAL EVALUATION — 6-Dimension Assessment
+──────────────────────────────────────────────────────────────────────
+  Overall Score: 3.5/10
+  Recommendation: major_revision
+  Summary: The submission presents an intriguing attempt to connect dark‑matter gravitational effects with patterns observed in scientific citation networks. While the interdisciplinary ambition is commendable, the manuscript suffers from a lack of rigorous methodology, unclear exposition, and insufficient det
+  Novelty: 4/10 — The work attempts to link astrophysical dark‑matter phenomena with citation‑netw
+  Methodology: 3/10 — The reasoning mixes distinct domains (gravitational lensing, particle physics, n
+  Significance: 5/10 — If the proposed correspondence between network centrality and dark‑matter effect
+  Clarity: 3/10 — The manuscript is difficult to follow. Sentences are truncated, concepts are int
+  Limitations: 4/10 — The authors acknowledge some gaps (e.g., “knowledge gaps involving cancer, fluct
+  Reproducibility: 2/10 — Insufficient methodological detail is provided. No data sources, analysis pipeli
+  Major issues (3):
+    ! Mixing of unrelated domains (citation network analysis and gravitational physics) without a mathematically defined mappi
+    ! Absence of quantitative predictions; the stated correlational predictions lack numerical values or testable formulas.
+    ! Insufficient methodological detail to reproduce the analysis (no data sources, no algorithmic steps, no parameter specif
+  Minor issues (3):
+    - Typographical errors and incomplete sentences (e.g., "the power spectrum of the cosmic microwave background radiation wi
+    - Inconsistent use of terminology ("act", "quantum", "axion‑mini‑halo") without clear definitions.
+    - References to unrelated topics (cancer, fluctuation) that are not integrated into the argument.
+  Questions for authors:
+    ? How do you quantitatively map a node's degree in a citation network to a physical quantity such as mass density or halo 
+    ? What datasets (e.g., lensing maps, citation databases) were used, and can you provide the exact versions and access link
+    ? Can you supply the full analysis pipeline (code, parameters, statistical tests) so that the results can be independently
+    ? What is the precise form of the predicted rotation‑curve slope ("-0.22") and how was this number derived?
+    ? How do you justify the inclusion of non‑astrophysical concepts (e.g., "act", "cancer") in the discussion of dark‑matter 
+
+──────────────────────────────────────────────────────────────────────
+  CONTRADICTIONS (3)
+──────────────────────────────────────────────────────────────────────
+  1. 
+     Severity: 0.4
+  2. 
+     Severity: 0.4
+  3. 
+     Severity: 0.4
+
+──────────────────────────────────────────────────────────────────────
+  COMPUTATIONAL VERIFICATION
+──────────────────────────────────────────────────────────────────────
+  Computations run: 9
+  Support level: strong
+    → Network has 3 hub entities with degree > 56. Mean degree: 3.2. Hub concentration: high.
+    → Average clustering coefficient: 0.1849. Low clustering suggests sparse connections.
+    → Top bridging entity: Hot Jupiter (centrality: 1.0000). These entities connect different parts of the knowledge graph.
+    → Found 200 distinct communities. Multiple disconnected communities suggest knowledge fragmentation.
+    → Found 5 paths between theory entities. Strong structural support.
+
+──────────────────────────────────────────────────────────────────────
+  SKEPTIC REVIEW
+──────────────────────────────────────────────────────────────────────
+  Recommendation: revise
+  Revised confidence: 78%
+  Strengths (4):
+    + Accurately predicts the CMB power spectrum and acoustic peak positions.
+    + Reproduces large‑scale structure statistics (galaxy clustering, BAO).
+    + Explains flat galaxy rotation curves via hierarchical halo formation.
+    + Consistent with weak‑lensing convergence measurements and cluster mass profiles.
+  Weaknesses (5):
+    - Small‑scale problems: cusp‑core discrepancy, missing satellite galaxies, and too‑big‑to‑fail halos.
+    - No direct detection of the dark‑matter particle despite decades of effort.
+    - Tensions between local H₀ measurements and ΛCDM‑inferred values from the CMB.
+    - σ₈ tension: weak‑lensing surveys suggest lower matter clustering than ΛCDM predicts.
+    - Dependence on phenomenological sub‑grid physics (feedback, star formation) in simulations.
+
+──────────────────────────────────────────────────────────────────────
+  DISCOVERY SCORING
+──────────────────────────────────────────────────────────────────────
+  Overall Score: 21/100
+  Grade: F
+  Dimension scores:
+    novelty: 34.0
+    explanatory_power: 50
+    predictive_power: 40
+    falsifiability: 40
+    simplicity: 74
+    evidence_strength: 54.9
+    mathematical_rigor: 45.0
+  Strengths: simplicity: 74/100
+  Weaknesses: novelty: 34/100
+  Summary: 'ΛCDM Cold Dark Matter Halo' (conventional) scores 21/100 (Grade: F). Strongest: simplicity (74/100). Weakest: novelty (34/100). Needs significant improvement before presenting as discovery.
+
+──────────────────────────────────────────────────────────────────────
+  DISCOVERY CLASSIFICATION — What's Known vs What's New
+──────────────────────────────────────────────────────────────────────
+  Classification: extension
+  Meaning: New application of known mechanisms — applies existing physics to new domain
+  Details:
+    New mechanism proposed: False
+    New prediction generated: True
+    New mathematics introduced: False
+    Not found in literature: False
+
+======================================================================

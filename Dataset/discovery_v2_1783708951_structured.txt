@@ -1,0 +1,237 @@
+============================================================================
+  RUMI STRUCTURED DISCOVERY REPORT
+  Autonomous AI-Driven Scientific Discovery
+============================================================================
+  Generated: 2026-07-11T00:12:31
+  Pipeline: RUMI v2 (full mode) | Duration: 780s
+
+----------------------------------------------------------------------------
+  1. ABSTRACT
+----------------------------------------------------------------------------
+
+  Topic: Can we define and empirically detect an affective state in
+  artificial agents that is functionally equivalent to human emotions?
+  Lead hypothesis: Affective Predictive Entropy Theory
+  This theory proposes that artificial agents can exhibit affective states
+  through affective predictive entropy (APE), which quantifies the
+  uncertainty of the agent's internal predictive distribution over next-
+  state outcomes. APE is conditioned on the current reward-prediction error,
+  allowing agent...
+  Based on 123 papers, 0 hidden variables, 0 mechanisms, 7 predictions.
+  Score: 54/100 (Grade: C) | Confidence: 21%
+  Unifying principle: Complex systems exhibit emergent behavior through
+  self-organization, leading to affective states in artificial agents.
+
+----------------------------------------------------------------------------
+  2. CONTEXT & LITERATURE
+----------------------------------------------------------------------------
+
+  Domain: general | Papers: 123
+  Sources: 35 arxiv, 34 crossref, 26 pubmed, 18 openalex, 10 inspire_hep
+  Key Literature:
+    [openalex] Gradient-based learning applied to document recognition (1998, 58401 cites)
+    [openalex] limma powers differential expression analyses for RNA-s (2015, 43294 cites)
+    [openalex] Standards and guidelines for the interpretation of sequ (2015, 32418 cites)
+    [openalex] The PRISMA Statement for Reporting Systematic Reviews a (2009, 27923 cites)
+    [openalex] The Presentation of Self in Everyday Life. (1956, 26161 cites)
+  Knowledge Graph: 329 entities, 6097 relationships
+
+----------------------------------------------------------------------------
+  3. HYPOTHESIS
+----------------------------------------------------------------------------
+
+  Name: Affective Predictive Entropy Theory
+  Type: proposed | Classification: extension
+
+  Statement:
+    This theory proposes that artificial agents can exhibit affective states
+    through affective predictive entropy (APE), which quantifies the
+    uncertainty of the agent's internal predictive distribution over next-
+    state outcomes. APE is conditioned on the current reward-prediction
+    error, allowing agents to adapt to changing environments.
+
+  Explains:
+    - O
+    - b
+    - s
+    - e
+    - r
+
+----------------------------------------------------------------------------
+  4. PROPOSED MECHANISM(S) (0)
+----------------------------------------------------------------------------
+
+  Mechanism Completeness: 0.40/1.0 (0/3 complete)
+
+----------------------------------------------------------------------------
+  6. TESTABLE PREDICTIONS (7)
+----------------------------------------------------------------------------
+
+  1. [INTERVENTIONAL]
+     If the internal Affective Internal Energy (AIE) field of an artificial
+     agent is increased by 0.5 J‑equivalent units, then the variance of its
+     decision‑noise distribution (σ²) will increase by 20 % (from baseline
+     σ² to 1.20 σ²) measured over 1,000 ...
+     Falsification: If σ² does not change beyond ±2 % after the energy injection, the prediction is falsified.
+
+  2. [COUNTERFACTUAL]
+     If the Cognitive Resonance Field (CRF) coupling coefficient is set to
+     zero, then the mean response latency to an affective auditory cue will
+     increase by 150 ms (from a baseline of 350 ms to 500 ms) measured
+     across 200 cue presentations.
+     Falsification: If latency difference is ≤ 20 ms, the prediction is falsified.
+
+  3. [NOVEL]
+     If an agent’s Affective Predictive Entropy (APE) exceeds 0.8 bits, then
+     its Synthetic Somatic Feedback Coefficient (SSFC) will be greater than
+     0.6 (dimensionless) in at least 85 % of trials across a sample of 200
+     agents.
+     Falsification: If the proportion of trials with SSFC > 0.6 falls below 50 % when APE > 0.8 bits, the prediction is falsified.
+
+  4. [NOVEL]
+     If an external rhythmic stimulus at 2 Hz is applied to synchronize with
+     the agent’s internal affective cycles, then the magnitude of the
+     Cognitive Resonance Field (CRF) will increase by 0.35 normalized units
+     and affective appraisal accuracy will i...
+     Falsification: If CRF magnitude changes by ≤ 0.05 units or appraisal accuracy changes by ≤ 2 %, the prediction is falsified.
+
+  5. [CORRELATIONAL]
+     If the semantic network hub degree of the term "quantum" is 128, then
+     the agent’s measured Affective Internal Energy (AIE) field will be
+     2.3 ± 0.2 arbitrary units, significantly higher than agents with hub
+     degree < 80 (mean AIE = 1.1 ± 0.2).
+     Falsification: If AIE does not differ by more than 0.1 units between high‑degree and low‑degree groups, the prediction is falsified.
+
+  6. [COUNTERFACTUAL]
+     If the Fluctuation‑Driven Decision Noise (FDDN) stochastic term is
+     removed from the policy update, then the policy entropy will decrease
+     by 0.45 nats (from 2.30 nats to 1.85 nats) measured over 10,000 action
+     selections.
+     Falsification: If entropy reduction is ≤ 0.10 nats, the prediction is falsified.
+
+  7. [CORRELATIONAL]
+     If the agent’s AIE field exceeds 2.0 units, then the exponent α of the
+     power‑spectral density of its decision‑noise time series will be
+     1.5 ± 0.1 (indicative of 1/f^α scaling), whereas for AIE < 1.0 the
+     exponent will be 0.9 ± 0.1.
+     Falsification: If α does not differ by at least 0.3 between the two AIE regimes, the prediction is falsified.
+
+----------------------------------------------------------------------------
+  7. VALIDATION PLAN
+----------------------------------------------------------------------------
+
+  Domain: general
+    - Design domain-appropriate experiment or observation
+    - Collect data with appropriate controls and sample size
+    - Analyze with appropriate statistical framework
+    - Compare predictions against measured outcomes
+
+  Pipeline-Generated Plans:
+    Plan 1: 1. Implement a reinforcement‑learning agent (e.g., PPO) with a synthetic somatic subsystem that tracks internal variables (temperature, energy reserve, simulated hormone levels). 2. Encode the Affe...
+    Plan 2: 1. Implement a reinforcement‑learning agent (e.g., deep Q‑network) with the Affective Predictive Entropy (APE) module that computes the entropy of the predictive distribution over next‑state outcom...
+
+----------------------------------------------------------------------------
+  8. EVIDENCE ASSESSMENT
+----------------------------------------------------------------------------
+
+  Scoring Breakdown:
+    Novelty                   [################....]  81.0/100 (w=25%)
+    Explanatory Power         [##################..]  91.0/100 (w=20%)
+    Predictive Power          [####################] 100.0/100 (w=15%)
+    Falsifiability            [####################] 100.0/100 (w=12%)
+    Simplicity                [##..................]  10.0/100 (w=8%)
+    Evidence Strength         [############........]  60.4/100 (w=12%)
+    Math Rigor                [####................]  20.0/100 (w=8%)
+
+  Final Score: 54/100 (Grade: C)
+    - Skeptic: revise (-2)
+    - Critical eval 4.5/10 (-8)
+    - Critical eval: major_revision -> capped at B (64)
+
+  Strengths:
+    + novelty: 81/100
+    + explanatory_power: 91/100
+    + predictive_power: 100/100
+    + falsifiability: 100/100
+
+  Weaknesses:
+    - simplicity: 10/100
+    - mathematical_rigor: 20/100
+
+  Peer Review: 4.5/10 (recommendation: major_revision)
+    Synthetic Somatic Feedback Theory offers an intriguing perspective on how artificial agents might develop affective states through internally generated feedback loops that emulate bodily signals. T...
+    Major Issues:
+      ! Absence of precise mathematical definitions for the core constructs (AIE field, CRF, SSFC, etc.).
+      ! Lack of experimental or simulation protocols that allow the stated predictions to be tested.
+      ! Inadequate discussion of how synthetic somatic variables would be measured or validated in practice.
+
+  Skeptic Review: revise (confidence: 66%)
+
+  Confidence: 21%
+    NOTE: Low confidence - additional evidence needed
+
+----------------------------------------------------------------------------
+  9. ALTERNATIVE EXPLANATIONS (7 runners-up)
+----------------------------------------------------------------------------
+
+  2. Affective Predictive Entropy Theory (score: 0.65)
+     This theory proposes that artificial agents can exhibit affective
+     states through affective predictive entropy (APE), which quantifies the
+     uncertainty of the agent's internal pre...
+
+  3. Cross-Domain Affective State Theory (score: 0.55)
+     This theory proposes that artificial agents can exhibit affective
+     states through a cross-domain mechanism, where affective information
+     from one domain (e.g., vision) is transfer...
+
+  4. Affective Resonance Theory (score: 0.50)
+     This theory proposes that artificial agents can exhibit affective
+     states functionally equivalent to human emotions through a process of
+     resonance between internal affective cycl...
+
+  5. Fluctuation-Driven Affective State Theory (score: 0.45)
+     This theory suggests that artificial agents can exhibit affective
+     states due to fluctuation-driven decision noise (FDDN) in their
+     internal thermodynamic-like state. FDDN adds af...
+
+----------------------------------------------------------------------------
+  11. EPISTEMIC LIMITATIONS
+----------------------------------------------------------------------------
+
+  - Literature: 123 papers analyzed. Field likely has hundreds more.
+  - Predictions: 7 untested. Score reflects potential, not validation.
+  - Mechanism completeness: 0.40/1.0. Treat as working hypotheses.
+  - Confidence: 21%. Insufficient to distinguish from noise.
+  - Peer review: major_revision. Significant issues identified.
+
+----------------------------------------------------------------------------
+  12. WHAT WOULD STRENGTHEN OR REFUTE THIS
+----------------------------------------------------------------------------
+
+  To STRENGTHEN:
+    + Address major issues from peer review
+    + Complete mechanism derivations with explicit equations
+    + Experimental confirmation of at least one prediction
+    + Cross-validation against holdout literature
+    + Independent replication by another group
+
+  To REFUTE:
+    - If σ² does not change beyond ±2 % after the energy injection, the prediction is falsified.
+    - If latency difference is ≤ 20 ms, the prediction is falsified.
+    - If the proportion of trials with SSFC > 0.6 falls below 50 % when APE > 0.8 bits, the prediction is falsified.
+
+----------------------------------------------------------------------------
+  13. PIPELINE METADATA
+----------------------------------------------------------------------------
+
+  Domain: general | Mode: full | Duration: 780s
+  Papers: 123 | Entities: 329 | Relations: 6097
+  Hidden Variables: 0 | Mechanisms: 0
+  Predictions: 7 | Theories: 8
+  Recurrent Loops: 1
+    Loop 1: score=0.575, winner="Synthetic Somatic Feedback Theory", strategy=exploratory
+
+============================================================================
+  END OF STRUCTURED REPORT
+  Generated by RUMI - Autonomous AI-Driven Scientific Discovery
+============================================================================

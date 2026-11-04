@@ -1,0 +1,588 @@
+======================================================================
+  DISCOVERY REPORT
+======================================================================
+  Topic: Does the glymphatic system's failure to clear amyloid-beta and tau represent a loss of intrinsic pump function due to age-dependent stiffening of the brain's extracellular matrix, rather than passive accumulation due to reduced clearance opportunity?
+  Domain: neuroscience
+  Mode: full
+  Duration: 12868.4s
+
+──────────────────────────────────────────────────────────────────────
+  PAPERS (97)
+──────────────────────────────────────────────────────────────────────
+  [crossref] The glymphatic system clears amyloid beta and tau from brain to plasma in humans
+    Authors: Paul Dagum, Donald L. Elbert, Laurent Giovangrandi
+  [crossref] Sleep-circadian modulation of autophagy and glymphatic function: failure of coor
+    Authors: Shamaila Zafar, Jay S. Schneider
+    Year: 2026
+  [pubmed] Glymphatic clearance estimated using diffusion tensor imaging along perivascular
+    Year: 2023
+  [pubmed] AQP4-mediated glymphatic clearance: Sleep, neurodegeneration, and the translatio
+    Year: 2026
+  [pubmed] Altered sleep and neurovascular dysfunction in alpha-synucleinopathies: the perf
+    Year: 2023
+  [pubmed] Numerical Simulations Reveal Complementary Function of Blood-Brain Barrier and G
+    Year: 2025
+  [arxiv] Identification of Causal Relationship between Amyloid-beta Accumulation and Alzh
+    Authors: Haixing Dai, Mengxuan Hu, Qing Li
+    Year: 2023
+  [pubmed] Sleep and Risk of Multiple Sclerosis: Bridging the Gap Between Inflammation and 
+    Year: 2025
+  [crossref] Stagnation and Progression: How Glymphatic Failure Promotes Meningioma Malignanc
+    Year: 2026
+  [pubmed] Impairments in sleep and brain molecular clearance in people with cognitive dete
+    Year: 2023
+  ... and 87 more papers
+
+──────────────────────────────────────────────────────────────────────
+  KNOWLEDGE GRAPH
+──────────────────────────────────────────────────────────────────────
+  Entities: 430
+  Relationships: 5357
+
+──────────────────────────────────────────────────────────────────────
+  KNOWLEDGE GAPS (10)
+──────────────────────────────────────────────────────────────────────
+  [orphan_observation] (6 gaps)
+    - 'Acceleration' is a phenomenon mentioned in 10 paper(s) but has no causal/explanatory mechanism in the graph. It is obse
+    - 'fluctuation' is a phenomenon mentioned in 8 paper(s) but has no causal/explanatory mechanism in the graph. It is observ
+    - 'Carcinoma' is a disease mentioned in 6 paper(s) but has no causal/explanatory mechanism in the graph. It is observed bu
+  [structural_hole] (4 gaps)
+    - These 2000 and 2 entities share type(s) concept but have no connecting relationships. This may indicate an unexplored cr
+    - These 2000 and 2 entities share type(s) phenomenon but have no connecting relationships. This may indicate an unexplored
+    - These 2000 and 1 entities share type(s) concept but have no connecting relationships. This may indicate an unexplored cr
+
+──────────────────────────────────────────────────────────────────────
+  ANOMALIES (10)
+──────────────────────────────────────────────────────────────────────
+  [outlier_entity] 'quantum' has degree 125 (z=8.9), much higher than average (6.4). It's a hub — either a genuine driver or an over-studie
+  [outlier_entity] 'act' has degree 87 (z=6.1), much higher than average (6.4). It's a hub — either a genuine driver or an over-studied ent
+  [outlier_entity] 'dark matter' has degree 83 (z=5.8), much higher than average (6.4). It's a hub — either a genuine driver or an over-stu
+  [outlier_entity] 'cancer' has degree 73 (z=5.0), much higher than average (6.4). It's a hub — either a genuine driver or an over-studied 
+  [outlier_entity] 'black hole' has degree 57 (z=3.8), much higher than average (6.4). It's a hub — either a genuine driver or an over-stud
+  [prediction_violation] There's a path concept_walker→Big Bang→Cosmological Constant but no direct connection. Either the direct link doesn't ex
+  [prediction_violation] There's a path concept_walker→Big Bang→Informational Energy but no direct connection. Either the direct link doesn't exi
+  [prediction_violation] There's a path concept_walker→Big Bang→concept_initial_conditions but no direct connection. Either the direct link doesn
+
+──────────────────────────────────────────────────────────────────────
+  HIDDEN VARIABLES (10)
+──────────────────────────────────────────────────────────────────────
+  1. [new_entity] Perivascular Elastic Modulus Gradient (PEMG)
+     Description: A spatially varying effective elastic modulus of the perivascular ECM that determines how much the astrocytic endfeet can deform during each cardiac cycle. PEMG is hypothesized to decline with age due
+     Derivation:
+       Starting from the linear elastic relation σ = E·ε for the perivascular sheath, the pressure‑driven deformation of astroc
+
+  2. [extension_of_known_mechanism] Astrocytic Pump Efficiency (APE)
+     Description: A dimensionless factor (0 < APE ≤ 1) that quantifies the fraction of the cardiac‑induced pressure gradient that is converted into directed perivascular flow by AQP4‑rich astrocytic endfeet. APE is mod
+     Derivation:
+       The net volumetric flux Q through a perivascular sleeve is Q = APE·ΔP·A_vessel / μ, where μ is the effective viscosity o
+
+  3. [new_process] Interstitial Shear‑Stress Mediated Transport (ISMT)
+     Description: A shear‑stress driven advective component that arises when the perivascular ECM stiffens, creating a mismatch between arterial pulsation and surrounding tissue displacement. This shear stress can eith
+     Derivation:
+       From the Navier‑Stokes equation for incompressible flow in a cylindrical annulus, the shear stress at the wall is τ = μ·
+
+  4. [counterfactual] Perivascular Poroelastic Pump Number (PPn)
+     Description: A dimensionless parameter quantifying the brain's perivascular extracellular matrix as an active poroelastic pump rather than passive conduit. PPn = (K·τ·f)/(μ·L²), where K is hydraulic permeability, 
+
+  5. [constructive] Astrocytic Endfoot Compliance Cycle (AECC)
+     Description: A hidden variable describing the hysteretic mechanical work cycle of individual astrocytic endfeet as they deform under pulsatile pressure. The AECC posits that endfeet do not merely gate water flux v
+
+  6. [constructive] Nocturnal Interstitial Osmotic Pressure Gradient (NIOPG)
+     Description: A constructed parameter representing the spatial derivative of osmotic pressure across the cortical depth during sleep, driven by the sleep-dependent surge in interstitial lactate and noradrenaline cl
+
+  7. [contradiction_explanation] State-Dependent Glymphatic Pump Hypothesis
+     Description: The glymphatic system operates through two distinct modes: a passive clearance mode during wakefulness that relies on bulk flow driven by arterial pulsations and CSF pressure gradients, and an active 
+
+  8. [contradiction_explanation] Compartmentalized Clearance Failure Hypothesis
+     Description: The glymphatic system clears amyloid-beta and tau through two anatomically distinct routes: (1) a rapid perivenous route to cervical lymphatics that operates continuously and handles soluble, monomeri
+
+  9. [contradiction_explanation] Pulsatility-Compliance Coupling Hypothesis
+     Description: The 'intrinsic pump' and 'passive accumulation' views represent extremes of a continuous mechanism where glymphatic clearance efficiency scales with the product of arterial pulsatility amplitude and b
+
+  10. [contradiction_explanation] Vascular Territory Heterogeneity Hypothesis
+     Description: The apparent contradiction between global glymphatic function and Alzheimer's pathology arises from spatial heterogeneity: different brain regions have different baseline ECM composition and different
+
+
+──────────────────────────────────────────────────────────────────────
+  MECHANISMS (15)
+──────────────────────────────────────────────────────────────────────
+  1. [causal_path] ECM Stiffening Reduces Glymphatic Pump Compliance
+     Inputs: arterial pulsation, respiratory pressure oscillations, ECM composition (collagen, laminin, fibronectin), aquaporin-4 water channel expression
+     Outputs: reduced glymphatic clearance rate, increased interstitial amyloid-beta concentration, increased interstitial tau concentration, prolonged solute residence time
+     Observables: MR elastography brain stiffness measurements, diffusion tensor imaging along perivascular spaces (DTI-ALPS), contrast-enhanced MRI glymphatic clearance kinetics, CSF tracer entry into brain parenchyma, perivascular space width on structural MRI
+     Step 1: Age-dependent crosslinking and collagen deposition increase extracellular matrix (ECM) stiffness in brain parenchyma
+     Step 2: Stiffened ECM reduces arterial wall compliance and perivascular space deformability during cardiac and respiratory cycles
+     Step 3: Reduced compliance diminishes the pulsatile driving force for interstitial fluid (ISF) bulk flow through perivascular channels
+     Step 4: Impaired ISF inflow decreases convective clearance of amyloid-beta and tau from interstitial spaces
+
+  2. [latent_variable] Aquaporin-4 Polarization Loss as Latent Variable Mediating ECM-Stiffness Effects
+     Inputs: ECM stiffness gradient, integrin engagement, cytoskeletal tension, AQP4 gene expression
+     Outputs: disrupted AQP4 polarization index, reduced transmembrane water flux, attenuated glymphatic clearance, solute accumulation
+     Observables: immunohistochemical AQP4 polarization index, perivascular AQP4 density via super-resolution microscopy, water exchange rate via diffusion MRI, glymphatic tracer clearance half-life
+     Step 1: ECM stiffening alters astrocyte mechanotransduction via integrin-mediated signaling
+     Step 2: Altered mechanotransduction disrupts normal astrocytic polarity and aquaporin-4 (AQP4) clustering at perivascular endfeet
+     Step 3: Mislocalized AQP4 impairs water flux coupling between perivascular space and interstitium
+     Step 4: Impaired water flux reduces convective solute transport and clearance despite preserved pressure gradients
+
+  3. [energy_flow] Viscoelastic Energy Dissipation in Stiffened Parenchyma
+     Inputs: cardiac stroke volume, arterial pulse pressure, brain tissue elastic modulus, tissue viscosity, perivascular space geometry
+     Outputs: reduced net fluid displacement per pulse, lower peak flow velocities, attenuated clearance efficiency, thermal energy dissipation
+     Observables: MR elastography storage and loss moduli, phase-contrast MRI pulsatile flow amplitude, temperature mapping (MR thermometry), glymphatic clearance rate vs. cardiac cycle integration
+     Step 1: Pulsatile arterial pressure inputs mechanical energy into brain parenchyma
+     Step 2: In young, compliant tissue, elastic energy storage and release creates efficient reciprocal flow in perivascular spaces
+     Step 3: In stiffened aged tissue, increased elastic modulus shifts mechanical response toward viscous dissipation
+     Step 4: Energy dissipation as heat rather than recoverable flow work reduces net fluid displacement and solute clearance per cardiac cycle
+
+  4. [causal_path] ECM stiffening impairs astrocytic aquaporin-4 polarization reducing glymphatic influx
+     Inputs: arterial pulsation, cerebrospinal fluid, amyloid-beta, tau, ECM stiffness
+     Outputs: reduced glymphatic clearance, amyloid-beta accumulation, tau accumulation
+     Observables: MRI-based glymphatic transport measured by intrathecal contrast agent distribution, astrocytic endfoot aquaporin-4 immunoreactivity, brain tissue stiffness via elastography, amyloid-beta and tau clearance rates via PET or microdialysis
+     Step 1: Age-dependent crosslinking and collagen deposition stiffen brain extracellular matrix (ECM)
+     Step 2: Stiffened ECM alters astrocyte mechanotransduction and cytoskeletal tension
+     Step 3: Reduced aquaporin-4 polarization at astrocytic endfeet impairs cerebrospinal fluid influx
+     Step 4: Diminished glymphatic clearance of amyloid-beta and tau occurs despite preserved arterial pulsatility
+
+  5. [latent_variable] Perivascular smooth muscle contractility loss as latent pump failure
+     Inputs: neural innervation signals, VSMC contractile energy, arterial pressure pulsation, amyloid-beta, tau
+     Outputs: reduced vasomotion amplitude, decreased glymphatic clearance, proteinopathy
+     Observables: two-photon imaging of VSMC calcium transients, perivascular flow velocity via particle tracking, vasomotion frequency in cranial windows, glymphatic clearance measured by fluorescent tracer
+     Step 1: Vascular smooth muscle cells (VSMCs) in cerebral arteries generate active contractile waves
+     Step 2: Age-related VSMC dysfunction or perivascular innervation loss reduces active vasomotion
+     Step 3: Passive arterial pulsatility alone cannot drive sufficient glymphatic flow
+     Step 4: Combined passive and active pump failure leads to amyloid-beta and tau accumulation
+
+  6. [intermediate_variable] Interstitial matrix hydration state as intermediate variable coupling stiffness to clearance
+     Inputs: hyaluronan concentration, proteoglycan composition, interstitial fluid pressure, amyloid-beta, tau
+     Outputs: altered interstitial viscosity, reduced effective diffusivity and permeability, protein accumulation
+     Observables: interstitial fluid viscosity via rheometry, hydraulic conductivity via Darcy's law measurements, solute diffusion coefficients via fluorescence recovery after photobleaching, matrix water content via MRI T2 mapping
+     Step 1: ECM stiffening correlates with reduced hyaluronan hydration and increased proteoglycan density
+     Step 2: Decreased matrix hydration raises interstitial fluid viscosity and tortuosity
+     Step 3: Higher hydraulic resistance impedes pressure-driven glymphatic flow
+     Step 4: Amyloid-beta and tau experience reduced convective clearance and enhanced aggregation
+
+  7. [causal_path] ECM stiffness-driven glymphatic pump failure
+     Inputs: arterial pulse pressure, CSF pressure gradients, ECM composition (collagen IV, laminin, fibronectin), aquaporin-4 expression
+     Outputs: reduced glymphatic clearance rate, increased interstitial solute concentration, perivascular space narrowing
+     Observables: diffusion tensor imaging (DTI) along perivascular spaces, elastography-derived brain stiffness, contrast-enhanced MRI glymphatic transport, CSF tracer clearance half-life, perivascular basement membrane thickness via electron microscopy
+     Step 1: Age-dependent crosslinking and collagen deposition increase extracellular matrix (ECM) stiffness in brain parenchyma
+     Step 2: Increased ECM stiffness restricts arterial pulsation-driven deformation of perivascular spaces
+     Step 3: Reduced perivascular space compliance diminishes cerebrospinal fluid (CSF) influx and interstitial fluid (ISF) efflux cycles
+     Step 4: Impaired bulk flow reduces amyloid-beta and tau clearance despite maintained osmotic gradients
+
+  8. [intermediate_variable] Astrocytic endfoot mechanotransduction failure
+     Inputs: ECM stiffness (Young's modulus), integrin-ligand binding affinity, RhoA/ROCK signaling activity, AQP4 gene expression
+     Outputs: disrupted AQP4 polarization index, reduced water permeability at blood-brain barrier interface, decreased convective solute clearance
+     Observables: immunofluorescence AQP4 polarization ratio (perivascular/synaptic), super-resolution microscopy of endfoot architecture, transgenic AQP4 knockout/ knockin clearance phenotypes, atomic force microscopy of astrocyte stiffness, calcium imaging of mechanosensitive channel activity
+     Step 1: ECM stiffening alters integrin-mediated mechanosensing at astrocytic endfeet
+     Step 2: Changed cytoskeletal tension reduces aquaporin-4 (AQP4) polarization to perivascular endfeet
+     Step 3: Depolarized AQP4 impairs water flux coupling to arterial pulsation
+     Step 4: Uncoupled water movement abolishes convective solute transport independent of hydrostatic pressure gradients
+
+  9. [energy_flow] Viscoelastic energy dissipation in aging parenchyma
+     Inputs: arterial pulse wave energy, ECM viscoelastic properties (storage and loss moduli), interstitial hydraulic resistance, solute diffusion coefficients
+     Outputs: reduced mean ISF velocity, increased solute residence time distribution, steepened concentration gradients near production sites
+     Observables: magnetic resonance elastography (frequency-dependent complex modulus), phase-contrast MRI of CSF/ISF pulsatile flow, two-photon microscopy of tracer particle velocities in aging models, rheometry of brain tissue explants, computational fluid dynamics simulations of energy dissipation
+     Step 1: Age-related increase in ECM collagen crosslinks and glycation end-products raises parenchymal elastic modulus and viscosity
+     Step 2: Arterial pulsation energy that normally drives ISF bulk flow is increasingly stored inelasticly or dissipated as heat
+     Step 3: Insufficient kinetic energy remains to overcome increased hydraulic resistance of stiffened interstitial matrix
+     Step 4: Net result is reduced mean ISF velocity and prolonged solute residence time despite unchanged pressure source
+
+  10. [causal_path] ECM stiffening reduces glymphatic pulsatility via impaired arterial wall transduction
+     Inputs: arterial pulse pressure, ECM elastic modulus, CSF inflow
+     Outputs: reduced glymphatic clearance rate, amyloid-beta accumulation, tau accumulation
+     Observables: arterial spin labeling MRI for pulsatility, diffusion tensor MRI for ECM changes, contrast-enhanced MRI for glymphatic flow, PET amyloid/tau burden
+     Step 1: Age-dependent crosslinking and collagen deposition increase brain ECM elastic modulus
+     Step 2: Stiffened ECM attenuates arterial pulsation amplitude transmitted to perivascular spaces
+     Step 3: Reduced pulsatile pressure gradients diminish CSF-ISF exchange driving force
+     Step 4: Amyloid-beta and tau clearance rates fall below production rates, causing accumulation
+
+  11. [intermediate_variable] Stiffened ECM increases hydraulic resistance in interstitial space
+     Inputs: hydraulic pressure gradient, ECM pore geometry, solute diffusion coefficient
+     Outputs: reduced interstitial fluid velocity, prolonged solute residence time, accumulated proteinopathy
+     Observables: diffusion MRI for microstructural changes, intrathecal contrast clearance half-life, biopsy ECM composition, computational fluid dynamics simulations
+     Step 1: ECM proteoglycan and collagen density increase with age, reducing pore size in interstitial matrix
+     Step 2: Elevated hydraulic resistance (R) in Darcy's law reduces bulk flow velocity for given pressure gradient
+     Step 3: Solute advection-dominated transport transitions to diffusion-limited transport with longer characteristic times
+     Step 4: Clearance efficiency drops nonlinearly as solute transport enters diffusion-limited regime
+
+  12. [information_flow] Astrocytic AQP4 polarization loss couples to ECM mechanotransduction
+     Inputs: ECM stiffness signal, integrin activation state, AQP4 expression level
+     Outputs: AQP4 polarization ratio, directional water flux, glymphatic clearance efficiency
+     Observables: immunohistochemistry AQP4 polarization, super-resolution microscopy of endfoot architecture, optical coherence tomography for water flux, genetic AQP4 knockout phenotype comparison
+     Step 1: ECM stiffness alters integrin-mediated mechanosensing in astrocyte endfeet
+     Step 2: Changed cytoskeletal tension disrupts AQP4 aquaporin polarization to perivascular endfeet
+     Step 3: Mislocalized AQP4 reduces polarized water flux directionality required for efficient clearance
+     Step 4: Omnidirectional water movement fails to establish unidirectional glymphatic streaming, impeding solute export
+
+  13. [causal_path] ECM stiffening reduces perivascular pump compliance
+     Inputs: arterial pulsation, CSF pressure gradients, ECM composition
+     Outputs: reduced glymphatic clearance rate, increased interstitial solute concentration
+     Observables: MR elastography brain stiffness, diffusion tensor imaging along perivascular spaces, contrast agent clearance kinetics, interstitial solute concentration via microdialysis
+     Step 1: Age-dependent crosslinking and glycation stiffen brain extracellular matrix (ECM)
+     Step 2: Stiffened ECM reduces compliance of perivascular spaces and astrocytic endfeet
+     Step 3: Reduced compliance impairs arterial pulsation-driven CSF-ISF exchange
+     Step 4: Impaired pulsatile clearance leads to amyloid-beta and tau accumulation despite unchanged metabolic demand
+
+  14. [intermediate_variable] Active astrocytic contractility loss
+     Inputs: mechanical strain on astrocytic endfeet, intracellular Ca2+ oscillations, ATP
+     Outputs: astrocytic contraction force, local ISF displacement, clearance efficiency
+     Observables: astrocytic Ca2+ imaging in vivo, tissue contractility ex vivo, aquaporin-4 localization by immunohistochemistry, two-photon imaging of particle displacement
+     Step 1: ECM stiffening alters mechanotransduction in astrocytic endfeet
+     Step 2: Altered mechanotransduction reduces Ca2+-dependent astrocytic contractility
+     Step 3: Reduced contractility diminishes active pumping of interstitial fluid
+     Step 4: Passive diffusion becomes insufficient to prevent solute accumulation
+
+  15. [energy_flow] Viscoelastic energy dissipation shift
+     Inputs: arterial pressure pulsations (0.5-10 Hz), brain tissue viscoelastic properties, vascular compliance
+     Outputs: frequency-dependent tissue displacement, time-averaged ISF bulk flow, effective clearance coefficient
+     Observables: MR elastography frequency-dependent complex modulus, pulse wave velocity in cerebral arteries, phase lag between arterial pulse and CSF pressure, solute clearance rate vs. heart rate variability
+     Step 1: Brain tissue viscoelastic properties change with age toward more elastic, less viscous behavior
+     Step 2: Shifted viscoelasticity alters frequency-dependent response to arterial pulsations
+     Step 3: Higher-frequency pulsatile components are filtered out, reducing net fluid displacement per cycle
+     Step 4: Cumulative clearance decreases despite preserved mean arterial pressure
+
+
+──────────────────────────────────────────────────────────────────────
+  PREDICTIONS (7 generated, 7 accepted)
+──────────────────────────────────────────────────────────────────────
+  1. [correlational] If age-dependent ECM stiffening reduces glymphatic pump compliance by 30%, then the clearance rate of amyloid-beta and tau from interstitial spaces decreases by 25% in individuals 
+     Confidence: 0.7
+     Test: Measure ECM stiffness using atomic force microscopy and correlate with glymphatic clearance rates using PET imaging in a
+     Falsification: Observing no significant correlation between ECM stiffness and glymphatic clearance rates.
+
+  2. [interventional] If aquaporin-4 polarization is restored in astrocytic endfeet, then glymphatic influx increases by 40% in mice with induced ECM stiffening.
+     Confidence: 0.8
+     Test: Use CRISPR-Cas9 to specifically restore AQP4 polarization in astrocytes of mice with induced ECM stiffening and measure 
+     Falsification: Observing no significant increase in glymphatic influx after restoring AQP4 polarization.
+
+  3. [novel] If the viscoelastic energy dissipation in stiffened parenchyma is reduced by 20%, then the net fluid displacement and solute clearance per cardiac cycle increase by 15%.
+     Confidence: 0.6
+     Test: Develop a computational model to simulate the effects of reduced viscoelastic energy dissipation on fluid displacement a
+     Falsification: Observing no significant increase in fluid displacement and solute clearance after reducing viscoelastic energy dissipat
+
+  4. [interventional] If perivascular smooth muscle contractility is restored in aged mice, then glymphatic clearance of amyloid-beta and tau increases by 30%.
+     Confidence: 0.75
+     Test: Use pharmacological or genetic interventions to restore perivascular smooth muscle contractility in aged mice and measur
+     Falsification: Observing no significant increase in glymphatic clearance after restoring perivascular smooth muscle contractility.
+
+  5. [counterfactual] If the brain's perivascular extracellular matrix had not stiffened with age, then the glymphatic clearance rate of amyloid-beta and tau would be 50% higher in individuals over 65 y
+     Confidence: 0.65
+     Test: Develop a computational model to simulate the effects of age-dependent ECM stiffening on glymphatic clearance rates.
+     Falsification: Observing no significant difference in glymphatic clearance rates between simulated scenarios with and without age-depen
+
+  6. [novel] If the Perivascular Elastic Modulus Gradient (PEMG) is increased by 25% in aged mice, then the astrocytic endfoot compliance cycle (AECC) is enhanced, leading to a 20% increase in 
+     Confidence: 0.7
+     Test: Use nanoindentation to measure PEMG in aged mice and correlate with AECC and glymphatic clearance rates using two-photon
+     Falsification: Observing no significant correlation between PEMG, AECC, and glymphatic clearance rates.
+
+  7. [novel] If Interstitial Shear-Stress Mediated Transport (ISMT) is enhanced by 30% in aged mice, then the clearance rate of amyloid-beta and tau from interstitial spaces increases by 25%.
+     Confidence: 0.6
+     Test: Develop a computational model to simulate the effects of enhanced ISMT on glymphatic clearance rates in aged mice.
+     Falsification: Observing no significant increase in glymphatic clearance rates after enhancing ISMT.
+
+
+──────────────────────────────────────────────────────────────────────
+  THEORY TOURNAMENT (20 entered, 9 survived, 14 eliminated)
+──────────────────────────────────────────────────────────────────────
+  Tournament rounds:
+    Round 1: generation — 20 candidates
+    Round 2: elimination — 10 survived, 10 eliminated
+    Round 3: cross_comparison_elimination — 6 survived, 4 eliminated
+    Round final: survivors — ? candidates
+
+  Analysis: Winner: Perivascular Poroelastic Pump Number (PPn) Reduction Theory (score: 0.62). 6 theories survived the tournament. 14 were eliminated. Close competition — runner-up Multi‑Scale Resonance Model is within 0.00. NULL HYPOTHESIS CHECK: Winner beats best conventional explanation 'ECM‑Stiffness Pump F
+
+  Survivors (ranked):
+  1. Perivascular Poroelastic Pump Number (PPn) Reduction Theory (score: 0.62) [proposed]
+     Treats the perivascular ECM as an active poroelastic pump characterized by a dimensionless pump number (PPn). Aging reduces hydraulic permeability (K) and increases relaxation time (τ), lowering PPn a
+     Mechanism: Age → K ↓, τ ↑ → PPn ↓ → diminished pump action → accumulation.
+     Explains: 1; 2; 3
+     Fails to explain: knowledge_gap_carcinoma; knowledge_gap_puzzle; knowledge_gap_resonance
+     Key assumptions: Poroelastic pump theory applies at the perivascular scale.; Other transport mechanisms (e.g., ISMT) are secondary.
+     Causal status: no_causal_claim
+
+  2. Multi‑Scale Resonance Model (score: 0.62) [creative]
+     Proposes that age‑related ECM stiffening creates a mismatch between the natural frequency of perivascular fluid‑structure oscillations and the cardiac driving frequency, leading to destructive interfe
+     Mechanism: Stiff ECM → shift in perivascular resonant frequency → off‑resonance with cardiac pulse → lower amplitude flow → Aβ/tau buildup.
+     Explains: 1; 2; 3
+     Fails to explain: knowledge_gap_carcinoma; knowledge_gap_puzzle; knowledge_gap_anomaly
+     Key assumptions: Perivascular fluid‑structure system can be modeled as a damp; Resonance effects dominate over pure pressure‑driven flow.
+     Causal status: no_causal_claim
+
+  3. Astrocytic Pump Efficiency (APE) Decline Model (score: 0.58) [proposed]
+     Defines a dimensionless Astrocytic Pump Efficiency (APE) that captures how effectively astrocytic endfeet translate pulsatile pressure into directed flow. Aging reduces APE via combined effects of ECM
+     Mechanism: Age → APE ↓ (0.9 → 0.4) → lower net perivascular flux → waste buildup.
+     Explains: 1; 2; 3
+     Fails to explain: knowledge_gap_carcinoma; knowledge_gap_puzzle; knowledge_gap_anomaly
+     Key assumptions: APE integrates all relevant mechanical and molecular determi; APE can be measured indirectly via tracer clearance kinetics
+     Causal status: no_causal_claim
+
+  4. Interstitial Shear‑Stress Transport (ISMT) Hypothesis (score: 0.55) [creative]
+     When the perivascular ECM stiffens, arterial pulsation creates a shear‑stress gradient in the interstitial space that drives a secondary advective flow (ISMT). This shear‑driven component is lost with
+     Mechanism: ECM stiffening → reduced interstitial shear → loss of ISMT advective flux → slower clearance.
+     Explains: 1; 2; 3
+     Fails to explain: knowledge_gap_carcinoma; knowledge_gap_puzzle; knowledge_gap_anomaly
+     Key assumptions: Shear‑driven advective transport contributes ≥30 % of total ; Diffusive transport alone cannot account for observed cleara
+
+  5. Viscoelastic Energy Dissipation Model (score: 0.52) [alternative]
+     Stiffened brain parenchyma exhibits increased viscoelastic loss modulus, causing arterial pulsation energy to dissipate as heat rather than driving perivascular flow. The loss of usable mechanical ene
+     Mechanism: Higher loss modulus (η) → greater energy dissipation per cardiac cycle → lower net flow → Aβ/tau accumulation.
+     Explains: 1; 2; 3
+     Fails to explain: knowledge_gap_carcinoma; knowledge_gap_puzzle; knowledge_gap_anomaly
+     Key assumptions: Viscoelastic loss dominates over elastic storage in aged tis; Arterial pressure waveform is unchanged with age.
+     Causal status: no_causal_claim
+
+  6. ECM‑Stiffening Pump Failure (score: 0.48) [conventional]
+     Age‑related collagen cross‑linking and glycation increase the perivascular extracellular matrix (ECM) shear modulus, reducing the compliance of astrocytic endfeet. The resulting loss of compliance dim
+     Mechanism: Stiff ECM → lower end‑foot deformation per cardiac cycle → reduced pressure‑driven bulk flow → accumulation of Aβ/tau.
+     Explains: 1; 2; 3
+     Fails to explain: knowledge_gap_carcinoma; knowledge_gap_puzzle; knowledge_gap_anomaly
+     Key assumptions: ECM stiffening is the primary age‑dependent change in periva; Arterial pulsation amplitude remains constant with age.
+     Causal status: no_causal_claim
+
+  7. Sleep-Stage Dependent Glymphatic Pump Failure (score: 0.00) [contradiction_resolution]
+     The glymphatic system exhibits a biphasic response to aging: during slow-wave sleep (SWS), clearance is actively pump-driven and requires compliant extracellular matrix (ECM) for efficient CSF-ISF exc
+
+  Discriminating experiments (would separate top 2):
+    1. Experiment 1: In vivo two‑photon imaging of perivascular CSF tracer clearance in anesthetized mice (young 3‑mo vs. aged 18‑mo). Apply a low‑dose osmot
+    2. Experiment 2: Ex vivo brain slice preparation with controlled perivascular flow. Embed slices in a hydrogel of tunable stiffness (soft ~0.5 kPa, stiff
+
+  Eliminated (14):
+    ✗ ECM‑Stiffness Pump Failure (Conventional) (score: 0.50) — Score 0.50 — bottom half
+    ✗ Perivascular Elastic Modulus Gradient (PEMG) Model (score: 0.50) — Score 0.50 — bottom half
+    ✗ Interstitium‑Shear Stress Transport (ISMT) Theory (score: 0.50) — Score 0.50 — bottom half
+    ✗ Economic Supply‑Demand Clearance Model (score: 0.50) — Score 0.50 — bottom half
+    ✗ Information‑Entropy Bottleneck Theory (score: 0.50) — Score 0.50 — bottom half
+    ... and 9 more
+
+----------------------------------------------------------------------
+  CURIOUS QUESTIONING - The Newton Step
+----------------------------------------------------------------------
+  Core Question: Does the glymphatic system's failure to clear amyloid-beta and tau represent a loss of intrinsic pump function due to age-dependent stiffening of the brain's extracellular matrix, rather than passive accumulation due to reduced clearance opportunity?
+  Question Hypothesis: The glymphatic system possesses an active, mechanosensitive pumping function driven by arterial pulsation and CSF pressure gradients that is amplified by a compliant, hydrated extracellular matrix; age-dependent ECM crosslinking and hyaluronan fragmentation stiffen the perivascular space, increasing
+  Why It Matters: If glymphatic failure is active pump failure rather than passive congestion, this redefines Alzheimer's from a disease of overproduction/bad luck to a disease of mechanical senescence—opening entirely
+  Surprising Observations: 4
+    - remains a challenge. this study develops a mathematical model to describe abeta aggregat
+    - however, the relationship between amyloid-beta accumulation and ad pathophysiology remain
+    - remains unclear, and causal inference approaches are needed to
+  Questions Generated: 9
+    [assumption_attack] What assumption does everyone accept about Does the glymphatic system's failure 
+    [scale_transfer] Does a mechanism at one scale (quantum/molecular) also drive Does the glymphatic
+    [cross_domain] What field solved an analogous problem to: however, the relationship between amy
+    [assumption_attack] What if the standard model of glymphatic system's failure clear amyloi is fundam
+    [assumption_attack] The field assumes glymphatic clearance is primarily driven by bulk flow during s
+  Curiosity Constraint (Track B):
+    Forbidden Theories: Reduced clearance opportunity due to sleep disruption (passive accumulation model), Impaired aquaporin-4 polarization leading to reduced water flux, Lymphatic vessel dysfunction as primary driver, Microglial senescence and inflammatory clearance failure, Vascular smooth muscle degeneration reducing pulsatility
+    Required Properties:
+      + Mechanistically links ECM biomechanics to fluid transport physics
+      + Distinguishes pump failure from reduced clearance opportunity experimentally
+      + Incorporates mechanosensitive feedback in perivascular cells
+    Novelty Direction: Treat the perivascular extracellular matrix as an active mechanical transducer rather than passive scaffold—explore how ECM viscoelastic properties function as a tunable impedance-matching system that couples arterial pulsation to net CSF-ISF pumping, and how age-dependent ECM remodeling (crosslinking, hyaluronan fragmentation, altered proteoglycan composition) destroys this impedance matching, converting a pulsatile pump into a high-resistance damper. Consider novel frameworks from cardiac myocardial stiffness research, cochlear biomechanics, or poroelastic tissue engineering that model pulsatile fluid transport in soft tissues with nonlinear mechanical properties.
+
+----------------------------------------------------------------------
+  DUAL-TRACK COMPARISON: Curiosity vs Pipeline
+----------------------------------------------------------------------
+
+  Two independent approaches were used:
+  1. CURIOUS ENGINE: Generated a question-driven hypothesis
+  2. CONVENTIONAL PIPELINE: Ran full 21-phase discovery
+
+  These are SEPARATE tracks. The curiosity hypothesis was NOT
+  injected into the pipeline. Both ran independently.
+
+  TRACK A: CONVENTIONAL PIPELINE WINNER
+    Name: Perivascular Poroelastic Pump Number (PPn) Reduction Theory
+    Score: 0.62
+    Description: Treats the perivascular ECM as an active poroelastic pump characterized by a dimensionless pump number (PPn). Aging reduces hydraulic permeability (K) and increases relaxation time (τ), lowering PPn a
+
+  TRACK B: CURIOSITY-DRIVEN HYPOTHESIS
+    Core Question: Does the glymphatic system's failure to clear amyloid-beta and tau represent a loss of intrinsic pum
+    Hypothesis: The glymphatic system possesses an active, mechanosensitive pumping function driven by arterial pulsation and CSF pressure gradients that is amplified by a compliant, hydrated extracellular matrix; age-dependent ECM crosslinking and hyaluronan fragmentation stiffen the perivascular space, increasing
+
+  COMPARISON:
+    Pipeline says: Perivascular Poroelastic Pump Number (PPn) Reduction Theory
+    Curiosity says: The glymphatic system possesses an active, mechanosensitive ...
+
+  Both tracks contribute to the discovery. The pipeline
+  validates through evidence and scoring. The curiosity
+  engine identifies the RIGHT QUESTION to ask.
+
+  A discovery needs both: the right question AND the right answer.
+
+──────────────────────────────────────────────────────────────────────
+  ADVERSARIAL TEST — What Survived the Attack
+──────────────────────────────────────────────────────────────────────
+  hidden_variables: 10 tested → 5 survived, 0 weakened, 0 killed
+  mechanisms: 15 tested → 5 survived, 0 weakened, 0 killed
+  theories: 6 tested → 5 survived, 0 weakened, 0 killed
+  Hidden Variables:
+    ✓ Perivascular Elastic Modulus Gradient (PEMG) [survived, attack score: 0.92]
+      Existing theory: Glymphatic clearance estimated using diffusion tensor imaging along perivascular spaces is reduced a
+      Falsification: If we observe that the glymphatic system's clearance of amyloid-beta and tau is not affected by age-
+      Verdict: The existing theory provides a partial explanation for the observations, but the introduction of the Perivascular Elasti
+    ✓ Astrocytic Pump Efficiency (APE) [survived, attack score: 0.92]
+      Existing theory: Glymphatic system dysfunction due to sleep deprivation and neurodegenerative diseases
+      Falsification: If the glymphatic system's clearance rate of amyloid-beta and tau is found to be unaffected by the s
+      Verdict: The hidden variable Astrocytic Pump Efficiency (APE) introduces a new mechanism to explain the glymphatic system's failu
+    ✓ Interstitial Shear‑Stress Mediated Transport (ISMT [survived, attack score: 0.92]
+      Existing theory: Glymphatic clearance estimated using diffusion tensor imaging along perivascular spaces is reduced a
+      Falsification: If we observe that glymphatic clearance is not affected by the stiffness of the brain's extracellula
+      Verdict: The hidden_variable introduces a new process, Interstitial Shear-Stress Mediated Transport (ISMT), which is not fully ex
+    ✓ Perivascular Poroelastic Pump Number (PPn) [survived, attack score: 0.82]
+      Existing theory: Glymphatic system dysfunction due to sleep disturbances and age-related changes
+      Falsification: If the PPn value does not correlate with amyloid-beta and tau clearance rates in the brain
+      Verdict: The Perivascular Poroelastic Pump Number (PPn) hypothesis introduces a novel mechanism for glymphatic system dysfunction
+    ✓ Astrocytic Endfoot Compliance Cycle (AECC) [survived, attack score: 0.52]
+      Existing theory: Glymphatic system dysfunction due to sleep disturbances and age-related changes
+      Can remove: temperature-dependent phase delay
+      Falsification: If the glymphatic system's clearance function is found to be unaffected by the stiffness of the brai
+      Verdict: The Astrocytic Endfoot Compliance Cycle (AECC) introduces a novel concept, but its operational definition is missing, an
+  Mechanisms:
+    ✓ ECM Stiffening Reduces Glymphatic Pump Compliance [survived, attack score: 0.92]
+      Existing theory: Glymphatic system dysfunction due to sleep disturbances and neurodegenerative diseases
+      Falsification: If glymphatic clearance is not reduced in brains with stiffened ECM, this mechanism is falsified
+      Verdict: The proposed mechanism of ECM stiffening reducing glymphatic pump compliance is a novel explanation for glymphatic syste
+    ✓ Aquaporin-4 Polarization Loss as Latent Variable M [survived, attack score: 0.92]
+      Existing theory: Glymphatic clearance estimated using diffusion tensor imaging along perivascular spaces is reduced a
+      Falsification: If we observe that the glymphatic system's clearance function does not decrease with age in individu
+      Verdict: The proposed mechanism that the glymphatic system's failure to clear amyloid-beta and tau represents a loss of intrinsic
+    ✓ Viscoelastic Energy Dissipation in Stiffened Paren [survived, attack score: 0.92]
+      Existing theory: Glymphatic clearance failure due to reduced clearance opportunity
+      Falsification: If we observe that glymphatic clearance rates do not decrease with age in individuals with normal br
+      Verdict: The proposed mechanism provides a novel explanation for glymphatic clearance failure, distinct from existing theories. T
+    ✓ ECM stiffening impairs astrocytic aquaporin-4 pola [survived, attack score: 0.92]
+      Existing theory: Glymphatic system dysfunction due to sleep disorders and neurodegenerative diseases
+      Falsification: If glymphatic clearance is not reduced in brains with stiffened extracellular matrix, this mechanism
+      Verdict: The proposed mechanism of ECM stiffening impairing astrocytic aquaporin-4 polarization and reducing glymphatic influx is
+    ✓ Perivascular smooth muscle contractility loss as l [survived, attack score: 0.92]
+      Existing theory: Glymphatic system failure due to reduced clearance opportunity
+      Falsification: If we observe that the glymphatic system's clearance function is not significantly impaired in older
+      Verdict: The proposed mechanism provides a novel explanation for the glymphatic system's failure to clear amyloid-beta and tau, b
+  Theories:
+    ✓ Perivascular Poroelastic Pump Number (PPn) Reducti [survived, attack score: 0.92]
+      Existing theory: Glymphatic system failure due to reduced clearance opportunity
+      Falsification: If the clearance rate of amyloid-beta and tau is found to be independent of the perivascular ECM's h
+      Verdict: The Perivascular Poroelastic Pump Number (PPn) Reduction Theory introduces a novel mechanism to explain the glymphatic s
+    ✓ Multi‑Scale Resonance Model [survived, attack score: 0.77]
+      Existing theory: Glymphatic clearance estimated using diffusion tensor imaging along perivascular spaces is reduced a
+      Can remove: REF_threshold
+      Falsification: If we observe that the glymphatic clearance efficiency does not decrease with age in individuals wit
+      Verdict: The Multi-Scale Resonance Model introduces a novel perspective on how age-related ECM stiffening affects the glymphatic 
+    ✓ Astrocytic Pump Efficiency (APE) Decline Model [survived, attack score: 0.92]
+      Existing theory: Glymphatic system dysfunction due to sleep disturbances and age-related changes
+      Falsification: If APE remains constant across ages or if glymphatic clearance is not reduced in aged individuals wi
+      Verdict: The Astrocytic Pump Efficiency (APE) Decline Model introduces a novel mechanism to explain the age-dependent decline in 
+    ✓ Interstitial Shear‑Stress Transport (ISMT) Hypothe [survived, attack score: 0.92]
+      Existing theory: Glymphatic system clearance mechanisms and the impact of sleep, age, and neurodegenerative diseases 
+      Falsification: If experiments show that the glymphatic system's clearance function does not significantly decrease 
+      Verdict: The ISMT hypothesis introduces a novel mechanism by which age-dependent stiffening of the brain's extracellular matrix i
+    ✓ Viscoelastic Energy Dissipation Model [survived, attack score: 0.92]
+      Existing theory: The glymphatic system's failure to clear amyloid-beta and tau can be partially explained by existing
+      Falsification: If the glymphatic clearance rate is found to be unaffected by the viscoelastic properties of the bra
+      Verdict: The Viscoelastic Energy Dissipation Model provides a novel explanation for the age-related decline in glymphatic clearan
+
+──────────────────────────────────────────────────────────────────────
+  CRITICAL EVALUATION — 6-Dimension Assessment
+──────────────────────────────────────────────────────────────────────
+  Overall Score: 5.7/10
+  Recommendation: major_revision
+  Summary: The proposed Perivascular Poroelastic Pump Number (PPn) Reduction Theory offers an intriguing mechanistic link between age‑dependent extracellular matrix stiffening and impaired glymphatic clearance of amyloid‑β and tau. By casting the perivascular space as an active poroelastic pump, the authors ai
+  Novelty: 6/10 — The idea of framing the perivascular extracellular matrix as a poroelastic pump 
+  Methodology: 5/10 — The reasoning links age‑related changes in hydraulic permeability (K) and relaxa
+  Significance: 8/10 — If the PPn framework accurately predicts amyloid‑β and tau clearance, it would p
+  Clarity: 5/10 — The description is fragmented; several sentences are truncated, and key terms (e
+  Limitations: 6/10 — The authors acknowledge that other transport mechanisms are secondary, but they 
+  Reproducibility: 4/10 — The manuscript does not provide sufficient methodological detail (e.g., how K an
+  Major issues (5):
+    ! The dimensionless pump number (PPn) is not formally defined; the governing equations and parameter values are missing.
+    ! No experimental data are presented to support the claimed relationship between ECM stiffness, PPn, and solute clearance.
+    ! Key methodological details (e.g., measurement of hydraulic permeability K, relaxation time τ, and ECM stiffness) are abs
+    ! Alternative clearance mechanisms (e.g., intramural periarterial drainage, sleep‑dependent convection) are dismissed with
+    ! Predictions are truncated and lack quantitative benchmarks (e.g., exact percentages, time scales, statistical power).
+  Minor issues (5):
+    - Several sentences are cut off (e.g., "clearance rate of amyloid-beta and tau from interstitial spaces de").
+    - Inconsistent notation (PPn vs. PPn) and missing units for predicted changes.
+    - Typographical errors (e.g., "interve" instead of "intervention").
+    - The list of explained/failing points includes placeholders ("knowledge_gap_carcinoma") that are unrelated to the topic.
+    - The adversarial test results are presented without context or interpretation.
+  Questions for authors:
+    ? How is the Perivascular Poroelastic Pump Number (PPn) mathematically defined, and what are its constituent variables?
+    ? What experimental techniques will be used to measure hydraulic permeability (K) and relaxation time (τ) in the perivascu
+    ? Can you provide preliminary data (e.g., imaging, rheology) that demonstrate the predicted 30% reduction in pump complian
+    ? How do you plan to isolate the effect of ECM stiffness from other age‑related changes such as vascular pulsatility or sl
+    ? What statistical power calculations support the magnitude of the predicted 40% increase in glymphatic influx after resto
+    ? Will the model be extended to account for regional heterogeneity of ECM properties across the brain?
+
+──────────────────────────────────────────────────────────────────────
+  CONTRADICTIONS (8)
+──────────────────────────────────────────────────────────────────────
+  1. 
+     Severity: 0.4
+  2. 
+     Severity: 0.4
+  3. 
+     Severity: 0.4
+  4. 
+     Severity: 0.9
+  5. 
+     Severity: 0.6
+
+──────────────────────────────────────────────────────────────────────
+  COMPUTATIONAL VERIFICATION
+──────────────────────────────────────────────────────────────────────
+  Computations run: 9
+  Support level: strong
+    → Network has 3 hub entities with degree > 76. Mean degree: 3.1. Hub concentration: high.
+    → Average clustering coefficient: 0.3097. Low clustering suggests sparse connections.
+    → Top bridging entity: quantum (centrality: 1.0000). These entities connect different parts of the knowledge graph.
+    → Found 177 distinct communities. Multiple disconnected communities suggest knowledge fragmentation.
+    → Found 5 paths between theory entities. Strong structural support.
+
+──────────────────────────────────────────────────────────────────────
+  SKEPTIC REVIEW
+──────────────────────────────────────────────────────────────────────
+  Recommendation: revise
+  Revised confidence: 45%
+  Strengths (5):
+    + Provides a quantitative, dimensionless framework that connects measurable tissue properties (K, τ, μ) to a functional output, enabling testable predic
+    + Integrates multiple biophysical aspects (poroelasticity, oscillatory fluid dynamics, aging) into a unified model with clear mechanistic interpretation
+    + Makes specific numerical predictions that can be directly validated or falsified experimentally
+    + Correlates with an established imaging biomarker (DTI-ALPS), suggesting translational relevance
+    + The poroelastic framework is physically appropriate for perivascular spaces, which are known to exhibit time-dependent mechanical behavior
+  Weaknesses (7):
+    - The PPn formula is dimensionally problematic as presented: K [m²]·τ [s]·f [Hz] / (μ [Pa·s]·L² [m²]) yields units of m²/(Pa·s²), not dimensionless; thi
+    - The specific numerical values (0.85, 0.32, 0.2, 18%) appear arbitrary without derivation from underlying conservation equations or empirical calibrati
+    - The theory does not establish that PPn is the optimal combination of parameters or that a single dimensionless group captures the relevant physics—por
+    - Confusion between hydraulic permeability (K, units m²) and hydraulic conductivity (k, units m/s or m²/(Pa·s))—the formula uses K but the context sugge
+    - No demonstration that restoring K is the most effective intervention point versus restoring τ, changing f, or modifying L; the 0.2 PPn increase from o
+    - The R²=0.81 with DTI-ALPS is presented without comparison to correlations of DTI-ALPS with simpler metrics (e.g., just K, just age, or just ventricula
+    - The 'active pump' terminology is misleading—perivascular spaces are passively driven by cardiac and respiratory pulsations, not active in the biologic
+
+──────────────────────────────────────────────────────────────────────
+  DISCOVERY SCORING
+──────────────────────────────────────────────────────────────────────
+  Overall Score: 50/100
+  Grade: C
+  Dimension scores:
+    novelty: 72.0
+    explanatory_power: 100.0
+    predictive_power: 100.0
+    falsifiability: 100.0
+    simplicity: 70
+    evidence_strength: 57.1
+    mathematical_rigor: 55.0
+  Strengths: novelty: 72/100; explanatory_power: 100/100; predictive_power: 100/100
+  Summary: 'Perivascular Poroelastic Pump Number (PPn) Reduction Theory' (proposed) scores 59/100 (Grade: C). Strongest: explanatory_power (100/100). Weakest: mathematical_rigor (55/100). Promising but needs str
+
+──────────────────────────────────────────────────────────────────────
+  DISCOVERY CLASSIFICATION — What's Known vs What's New
+──────────────────────────────────────────────────────────────────────
+  Classification: extension
+  Meaning: New application of known mechanisms — applies existing physics to new domain
+  Details:
+    New mechanism proposed: False
+    New prediction generated: True
+    New mathematics introduced: False
+    Not found in literature: True
+
+======================================================================

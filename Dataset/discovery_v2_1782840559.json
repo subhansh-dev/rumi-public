@@ -1,0 +1,1836 @@
+{
+  "topic": "what are prime numbers and how can we predict them",
+  "domain": "mathematics",
+  "mode": "standard",
+  "pipeline_version": "v2_discovery",
+  "started_at": "2026-06-30T22:30:21.668326",
+  "phases": {
+    "literature": {
+      "papers_found": 91,
+      "sources": [
+        "pubmed",
+        "arxiv",
+        "inspire_hep",
+        "crossref",
+        "openalex",
+        "core"
+      ],
+      "papers": [
+        {
+          "title": "Prominent Numbers, Indices and Ratios in Exchange Rate Determination and Financial Crashes: in Economists’ Models, in the Field and in the Laboratory",
+          "abstract": "The prior paper in this sequel, Pope (2009) introduced the concept of a nominalist heuristic, defined as a focus on prominent numbers, indices or ratios. In this paper the concept is used to show three things in how scientists and practitioners analyse and evaluate to decide (conclude). First, in constructing theories such as purchasing power and interest parity to predict exchange rates and to advocate floating exchange rates, economists unwittingly employ nominalist heuristics. Second, nominalist heuristics have influenced actual exchange rates through the centuries, and this finding is repl",
+          "authors": [
+            "Reinhard Selten",
+            "Jürgen von Hagen",
+            "Robin Pope",
+            "Sebastian Kube"
+          ],
+          "year": "None",
+          "doi": null,
+          "source": "core",
+          "pmid": "Prominent Numbers, Indices and"
+        },
+        {
+          "title": "Searching for the Proton's Missing Spin: Small-$x$ Helicity Evolution Equations and Their Analytic Solutions",
+          "abstract": "The proton spin puzzle denotes the challenge of describing the proton's spin in terms of the angular momenta of the quarks and gluons which comprise it. These quarks and gluons carry a fraction $x$ of the proton's momentum. Contributions from small-$x$ quarks and gluons, which only possess a little of the proton's momentum, are difficult to measure, since this requires very high energy experiments. Furthermore, early theoretical work in the 1990s predicted substantial contributions to the proton spin from these small-$x$ particles. We need theoretical control over this corner of phase space in",
+          "authors": [
+            "Borden, Jeremy"
+          ],
+          "year": "2026",
+          "source": "inspire_hep",
+          "id": "3132871",
+          "pmid": "3132871"
+        },
+        {
+          "title": "Unquenched Charmonium and Beyond",
+          "abstract": "The year 2024 marked the 50th anniversary of the discovery of the $J/ψ$ particle, which unveiled the charm quark and the charmonium spectrum, instigating the \"November Revolution\" in particle physics. This discovery catalyzed the development of quenched potential models, most notably the Cornell model, which provided a foundational quantitative description of the hadronic spectrum. However, the landscape of hadron spectroscopy has been profoundly transformed since the turn of the 21st century with the observation of numerous charmonium-like states, such as $X(3872)$, which exhibit properties s",
+          "authors": [
+            "Bai, Zi-Yue",
+            "Chen, Dian-Yong",
+            "Qi-Huang",
+            "Liu, Xiang",
+            "Luo, Si-Qiang"
+          ],
+          "year": "2026",
+          "source": "inspire_hep",
+          "id": "3122929",
+          "pmid": "3122929"
+        },
+        {
+          "source": "pubmed",
+          "id": "42351904",
+          "title": "Validation-Aware Retrospective EEG Treatment-Response Modelling Using Chaotic Pattern of Prime Numbers Features: Segment-Level Separability and Subject-Wise Generalisation.",
+          "abstract": "This study presents a validation-aware EEG framework based on Chaotic Pattern of Prime Numbers (CPPN) features for depression treatment-response modelling across one SSRI cohort and two rTMS cohorts. CPPN features were evaluated through a seven-protocol validation hierarchy spanning random segment splitting, segment-level cross-validation, nested segment-level cross-validation, leave-N-subjects-out, fixed-feature leave-one-subject-out (LOSO), nested leave-N-subjects-out, and nested LOSO, with normalisation, NCA ranking, feature-count selection where applicable, and model fitting confined to th",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42351904/",
+          "citation_key": "PMID:42351904",
+          "pmid": "42351904"
+        },
+        {
+          "source": "pubmed",
+          "id": "42341047",
+          "title": "Deviance detection via competitive inhibition between local neocortical ensembles.",
+          "abstract": "The process by which neocortical neurons and circuits amplify their response to an unexpected change in stimulus, typically referred to as deviance detection (DD), has traditionally been thought to be the product of specialized cell types and/or routing from distinct brain areas. Here, we explore a different theory, whereby DD emerges intrinsically from local network-level interactions driven by a deviant increase or decrease in exogenous input to a neocortical column. We propose that deviance-driven neural dynamics are generated by ensembles of excitatory and inhibitory neurons that have a fu",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42341047/",
+          "citation_key": "PMID:42341047",
+          "pmid": "42341047"
+        },
+        {
+          "source": "pubmed",
+          "id": "42287633",
+          "title": "Multiple broadly neutralizing antibody lineages can co-exist and mature in the same germinal centers.",
+          "abstract": "An efficacious HIV vaccine will need to generate broadly neutralizing antibodies (bnAbs) against distinct viral epitopes. To facilitate this, immunogens targeting precursor B cells of bnAbs have been developed. With this strategy, individual immunogens can even target multiple lineages, thereby beneficially limiting the number of immunogens needed for a multi-bnAb-generating vaccine. However, it is unclear whether this approach diminishes the responses compared with isolated targeting of lineages with distinct immunogens. Here, we address this using an in silico model of naive B cell activatio",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42287633/",
+          "citation_key": "PMID:42287633",
+          "pmid": "42287633"
+        },
+        {
+          "source": "pubmed",
+          "id": "42184705",
+          "title": "You shall know a number by the company it keeps: Neighborhood effects in number processing.",
+          "abstract": "Little is known about whether number-theoretic properties shape the mental representation and processing of integers. Guided by neighborhood effects in word processing, we investigate whether numbers reside in mental neighborhoods defined by their factors, with prime numbers living alone, and composite numbers inhabiting neighborhoods of varying sizes. We propose that processing a number requires 'searching' through its task-irrelevant factors to find the task-relevant factor; we therefore predict that in a factoring task, more highly composite numbers will be processed more slowly. We find ev",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42184705/",
+          "citation_key": "PMID:42184705",
+          "pmid": "42184705"
+        },
+        {
+          "source": "pubmed",
+          "id": "42151378",
+          "title": "Glucocorticoids induce a phagocytic C1Q+ macrophage phenotype primed for IFNγ-dependent CXCL9 secretion.",
+          "abstract": "Glucocorticoids are an emerging component of the tumor microenvironment and play a multifaceted role in modulating immune responses. Adrenocortical carcinoma (ACC) is a rare endocrine malignancy characterized by systemic cortisol excess in ~ 60% of cases. Responses to immune checkpoint inhibitors (ICI) in patients with ACC are variable, and currently, no reliable biomarkers exist to predict therapeutic outcomes. Here, in vitro-differentiated and glucocorticoid-polarized peripheral blood monocytes from healthy donors were characterized using NanoString nCounter gene expression analysis, western",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42151378/",
+          "citation_key": "PMID:42151378",
+          "pmid": "42151378"
+        },
+        {
+          "source": "pubmed",
+          "id": "42079041",
+          "title": "A human specific CCG repeat in the RBFOX1 promoter is implicated in speech and autism.",
+          "abstract": "Human speech likely arose from regulatory changes for speech-related brain regions, yet causal variants and mechanisms remain unclear. RBFOX1 is a prime candidate, showing specialized expression in vocal learning circuits of human and zebra finch brains and carrying a promoter deletion linked to autism spectrum disorder (ASD) with language dysfunction. Here, we perform integrative analyses with cross-species brain single-cell multi-omic data and the more complete genomes of the Vertebrate Genomes Project. We identify a human-specific CCG insertion in the RBFOX1 promoter, creating a human-uniqu",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42079041/",
+          "citation_key": "PMID:42079041",
+          "pmid": "42079041"
+        },
+        {
+          "source": "pubmed",
+          "id": "42058759",
+          "title": "Cardiac dysfunction after acute ischaemic stroke: Long-term outcomes from the SICFAIL cohort.",
+          "abstract": "Systolic dysfunction, diastolic dysfunction, and clinically overt heart failure are frequently encountered after acute ischaemic stroke. We investigated whether these cardiac phenotypes, considered as distinct entities, are associated with readmission and death within two years after stroke in the prospective SICFAIL cohort. Adults with acute ischaemic stroke were consecutively enrolled between 01/2014 and 02/2017. Cardiac function was assessed at baseline, and patients were followed annually by mail or telephone. The primary endpoint was the composite of all-cause readmission or death. Second",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42058759/",
+          "citation_key": "PMID:42058759",
+          "pmid": "42058759"
+        },
+        {
+          "source": "pubmed",
+          "id": "41989090",
+          "title": "Decoding the diabetic transition: a lipidomic approach for biomarker discovery in an Indian cohort.",
+          "abstract": "Type 2 diabetes mellitus (T2DM) is a significant public health burden in India, where the disease presents with unique clinical characteristics, yet data from this high-risk population remain scarce. This study aimed to conduct a lipidomic analysis to identify candidate lipid species associated with different glycemic stages using a refined untargeted lipidomics approach. A cross-sectional study of 95 individuals from Mumbai was stratified into healthy, prediabetic, newly diagnosed diabetic, and advanced diabetic groups based on glycated hemoglobin levels. An untargeted ultra-high-performance ",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41989090/",
+          "citation_key": "PMID:41989090",
+          "pmid": "41989090"
+        },
+        {
+          "source": "pubmed",
+          "id": "41986673",
+          "title": "Perceptual rhythms by phase-aligned perceptual performance peaks across trials.",
+          "abstract": "Perceptual processing may rhythmically alternate. There is a line of evidence from dense sampling psychophysics supporting this claim: In such studies, performance in visual target detection or discrimination is repeatedly tested at various fine-grained time intervals relative to a reference event. This reference event is presented at the beginning of each trial, and it is thought to reset some internal oscillation. Performance time courses following the reset often show rhythmic oscillations in the sub-second range. The interpretation has been that several quickly alternating peaks and trough",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41986673/",
+          "citation_key": "PMID:41986673",
+          "pmid": "41986673"
+        },
+        {
+          "source": "pubmed",
+          "id": "41952182",
+          "title": "Identification of an episignature for CHD3-related Snijders Blok-Campeau syndrome reveals heterogeneity in the CHARGE syndrome episignature: towards a better characterisation of chromatinopathies.",
+          "abstract": "BACKGROUND: Recent advances in sequencing technologies have enhanced patient diagnosis; however, causal pathogenic variants remain unidentified for a significant number of patients due to limited understanding of certain variants, regulatory sequences, or sequencing challenges, such as complex rearrangements. Investigating the epigenetic landscape has become essential to improve the diagnostic yield. Diseases caused by pathogenic variants in epigenetic regulators, often associated with growth abnormalities, intellectual disability, and facial dysmorphism, are prime models for studying episigna",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41952182/",
+          "citation_key": "PMID:41952182",
+          "pmid": "41952182"
+        },
+        {
+          "source": "pubmed",
+          "id": "41950325",
+          "title": "Selective, genetically induced increase in synaptic vesicle priming.",
+          "abstract": "Synaptic vesicle (SV) release probability (Pv) is determined by two probabilistic factors: the probability of release sites being occupied by fusion-competent, well-primed SVs and their fusion probability (Pfusion). While recent studies emphasize SV priming as a key mechanism underlying functional synaptic diversity, disentangling priming from fusion is notoriously challenging. Here we developed a mouse genetic approach for inducible and selective increase of SV priming. A histidine-to-lysine mutation at position 567 of Munc13-1 increases its function. Combining this mutation with a Cre-depend",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41950325/",
+          "citation_key": "PMID:41950325",
+          "pmid": "41950325"
+        },
+        {
+          "source": "pubmed",
+          "id": "41949774",
+          "title": "Predicting coronary artery abnormalities in Kawasaki disease: Model development and validation.",
+          "abstract": "Routine echocardiography at one month after diagnosis is the current standard for screening coronary artery abnormalities (CAA), a major complication of Kawasaki disease. The study aimed to develop and validate models to predict CAA and assess whether routine echocardiography could be safely reduced in low-risk patients. Two prospective multicenter Japanese registries were utilized: PEACOCK (development/internal validation) and Post-RAISE (external validation). Variables obtained within one week of diagnosis were used to predict CAA at one month after diagnosis, defined as a maximum coronary a",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41949774/",
+          "citation_key": "PMID:41949774",
+          "pmid": "41949774"
+        },
+        {
+          "source": "pubmed",
+          "id": "41949516",
+          "title": "Opportunistic Cardiovascular Risk Assessment Using Routine Head CT in the Emergency Department.",
+          "abstract": "Routine noncardiac computed tomography (CT) imaging may contain information about cardiovascular risk. Head computed tomography (CTH) is among the most common imaging studies, conducted annually in millions of patients. Its utility for cardiovascular risk assessment has not been studied. The purpose of this study was to develop and validate deep learning models for predicting incident cardiovascular disease (CVD) and estimating coronary artery calcium (CAC) scores from CTH, and assess performance against clinical risk factors. This retrospective cohort study used data from the Stanford Health ",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41949516/",
+          "citation_key": "PMID:41949516",
+          "pmid": "41949516"
+        },
+        {
+          "source": "pubmed",
+          "id": "41946557",
+          "title": "Advance care plans in parkinsonism: cross-sectional study within a randomised controlled trial.",
+          "abstract": "The importance of advance care planning in parkinsonism is increasingly recognised. Existing evidence shows plans are infrequent in this population. Little is known about the details of the plans themselves and whether patient factors predict advance care planning practices. This study aimed to describe advance care planning in people with parkinsonism enrolled in the PRoactive Integrated Management and Empowerment (PRIME-UK) trial, and identify factors associated with advance care planning. This is a cross-sectional substudy of 211 participants within the PRIME-UK randomised controlled trial,",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41946557/",
+          "citation_key": "PMID:41946557",
+          "pmid": "41946557"
+        },
+        {
+          "source": "pubmed",
+          "id": "41872378",
+          "title": "Attachment based priming reduces anxiety during the exam period in female university students when adjusting for baseline perceived stress and anxiety.",
+          "abstract": "Attachment security priming has shown promise in reducing anxiety in controlled experiments, yet its application and effectiveness in real-world educational settings remain underexplored. This study investigated whether a brief, single-session attachment-based priming intervention could reduce anxiety levels in university students, while accounting for baseline anxiety and perceived stress. Seventy female students participated in a quasi-experimental design, with participants self-selecting into either an experimental or a control group. The intervention involved a guided recall exercise encou",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41872378/",
+          "citation_key": "PMID:41872378",
+          "pmid": "41872378"
+        },
+        {
+          "source": "pubmed",
+          "id": "41866580",
+          "title": "Dynamic changes in TREX1 and LGALS9 mRNA levels in PBMCs predict HBsAg clearance and treatment responses to Peg-IFN-α therapy in HBeAg-negative chronic hepatitis B patients.",
+          "abstract": "OBJECTIVE: To investigate whether the mRNA expression levels of three prime repair exonuclease 1 (TREX1) and galectin 9 (LGALS9) in peripheral blood mononuclear cells (PBMCs) are associated with responses to Peg-IFN-α therapy and HBsAg clearance. METHODS: In this prospective study, HBeAg-negative CHB patients receiving Peg-IFN-α were followed for 48 weeks. Patients were classified as the virological response (VR) and non-virological response (NVR) groups based on the changes in HBsAg levels observed at week 48, and as serological response (SR) and non-serological response (NSR) groups based on",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41866580/",
+          "citation_key": "PMID:41866580",
+          "pmid": "41866580"
+        },
+        {
+          "source": "pubmed",
+          "id": "41816513",
+          "title": "Intracranial Stenting During Acute Endovascular Therapy of Stroke: Clinical and Radiological Outcomes of the RESISTANT International Registry.",
+          "abstract": "In the case of failed reperfusion or severe stenosis during endovascular treatment of acute stroke, intracranial stenting is a growing practice. We aimed to study clinical and radiological outcomes in a large multicenter cohort. The RESISTANT registry (Registry of Endovascular Salvage for Intracranial Stenting in Thrombectomy-Refractory Stroke; 2016-2023) is a multicenter single-arm retrospective registry of patients with acute stroke who underwent intracranial stenting during endovascular treatment across 36 international centers. The primary end point was functional outcome at 90 days. Secon",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41816513/",
+          "citation_key": "PMID:41816513",
+          "pmid": "41816513"
+        },
+        {
+          "source": "pubmed",
+          "id": "41796211",
+          "title": "Prescription‑dose stratification improves deep learning‑based VMAT dose prediction in locally advanced NSCLC.",
+          "abstract": "Volumetric-modulated arc therapy (VMAT) planning for locally advanced non-small cell lung cancer (NSCLC) is an iterative and planner-dependent process that often requires multiple optimization cycles to balance target coverage and organ‑at‑risk (OAR) sparing. Deep‑learning dose prediction can accelerate planning by providing patient‑specific reference dose distributions, but the impact of prescription‑dose mixing during model training remains unclear. This study evaluated whether prescription‑stratified models improve VMAT dose prediction performance. Seventy-two NSCLC VMAT cases were recalcul",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41796211/",
+          "citation_key": "PMID:41796211",
+          "pmid": "41796211"
+        },
+        {
+          "source": "pubmed",
+          "id": "41795035",
+          "title": "Development and validation of a trans-ancestry polygenic risk score for type 1 diabetes.",
+          "abstract": "The high heritability of type 1 diabetes has enabled the development of polygenic risk scores (PRSs) as disease risk screening tools. PRSs can identify individuals at the highest genetic risk in a population, who can benefit from autoantibody and metabolic surveillance, to avoid ketoacidosis at diagnosis and to access preventive therapies. However, PRSs for type 1 diabetes developed from European data perform less well in non-European ancestries. We aimed to develop a PRS with comparable performance among different ancestries. Using the PRS-CSx method, and data from large European, East Asian,",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41795035/",
+          "citation_key": "PMID:41795035",
+          "pmid": "41795035"
+        },
+        {
+          "source": "pubmed",
+          "id": "41791380",
+          "title": "Vascular STING activation facilitates NK cell anti-tumor immunity in small cell lung cancer.",
+          "abstract": "Small cell lung cancer (SCLC) typically displays a \"cold\" tumor microenvironment with a paucity of immune infiltrate. Neuroendocrine SCLC cells also profoundly repress MHC-I expression, rendering them vulnerable to NK cell-mediated cytotoxicity. Here, we confirm that neuroendocrine SCLC cells are sensitive to NK cell-mediated attack, yet the quantitative spatial profiling of the SCLC immune microenvironment in patient samples reveals that effector immune cells, including NK cells, are excluded from MHC-Ilow/neg SCLC regions. To study this biology, we develop dynamic single-cell RNA sequencing ",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41791380/",
+          "citation_key": "PMID:41791380",
+          "pmid": "41791380"
+        },
+        {
+          "source": "arxiv",
+          "id": "2506.11814",
+          "title": "On the sum of a prime and a square-free number co-prime to any integer with at most two prime factors",
+          "abstract": "Every natural number greater than $2$ can be written as the sum of a prime and a square-free number, and recent work has imposed additional divisibility conditions on the square-free number. We overcome limitations in these works to prove new results on square-free numbers co-prime to any integer with up to two prime factors, which make the expected asymptotic results explicit.",
+          "authors": [
+            "Ethan S. Lee",
+            "Rowan O'Clarey"
+          ],
+          "year": "2025",
+          "url": "https://arxiv.org/pdf/2506.11814v4",
+          "citation_key": "arXiv:2506.11814",
+          "pmid": "2506.11814"
+        },
+        {
+          "source": "arxiv",
+          "id": "2504.04729",
+          "title": "On primitive prime divisors of the orders of Suzuki-Ree groups (corrected version)",
+          "abstract": "There is a well-known factorization of the number $2^{2m}+1$, with $m$ odd, related to the orders of tori of simple Suzuki groups: $2^{2m}+1$ is a product of $a=2^m+2^{(m+1)/2}+1$ and $b=2^m-2^{(m+1)/2}+1$. By the Bang-Zsigmondy theorem, there is a primitive prime divisor of $2^{4m}-1$, that is, a prime $r$ that divides $2^{4m}-1$ and does not divide $2^i-1$ for any $i<4m$. It is easy to see that $r$ divides $2^{2m}+1$, and so it divides one of the numbers $a$ and $b$. The main objective of this",
+          "authors": [
+            "Maria Grechkoseeva"
+          ],
+          "year": "2025",
+          "url": "https://arxiv.org/pdf/2504.04729v1",
+          "citation_key": "arXiv:2504.04729",
+          "pmid": "2504.04729"
+        },
+        {
+          "title": "A short review on QCD sum rule studies of $P$-wave single heavy baryons",
+          "abstract": "In recent decades, the spectroscopy of singly heavy baryons has made significant progress, with many excited states observed experimentally. Among the various theoretical approaches used to study their properties, the QCD sum rule method has been widely applied. In this paper, we review QCD sum rule studies of singly heavy baryons, with particular emphasis on our systematic investigations of $P$-wave states over the past ten years using QCD sum rules and light-cone sum rules within the framework of heavy quark effective theory. These studies provide plausible interpretations for many observed ",
+          "authors": [
+            "Luo, Xuan",
+            "Zhang, Shu-Wei",
+            "Chen, Hua-Xing",
+            "Hosaka, Atsushi",
+            "Su, Niu"
+          ],
+          "year": "2025",
+          "source": "inspire_hep",
+          "id": "3069969",
+          "pmid": "3069969"
+        },
+        {
+          "title": "Detecting low-mass haloes with strong gravitational lensing - II. Constraints on the density profiles of two detected subhaloes",
+          "abstract": "Aims. Strong gravitational lensing can detect the presence of low-mass haloes and subhaloes through their effect on the surface brightness of lensed arcs. We carry out an extended analysis of the density profiles and mass distributions of two detected subhaloes, with the intention of determining whether their properties are consistent with the predictions of the cold dark matter (CDM) model.Methods. We analysed two gravitational lensing systems in which the presence of a low-mass subhalo has previously been reported: SDSSJ0946+1006 and JVASB1938+66. We modelled these detections by assuming fou",
+          "authors": [
+            "Despali, Giulia",
+            "Heinze, Felix M.",
+            "Fassnacht, Christopher D.",
+            "Vegetti, Simona",
+            "Spingola, Cristiana"
+          ],
+          "year": "2024",
+          "source": "inspire_hep",
+          "id": "2809041",
+          "pmid": "2809041"
+        },
+        {
+          "title": "Distance between two manifolds, topological phase transitions and scaling laws",
+          "abstract": "Topological phases are generally characterized by topological invariants denoted by integer numbers. However, different topological systems often require different topological invariants to measure, such as geometric phases, topological orders, winding numbers, etc. Moreover, geometric phases and its associated definitions usually fail at critical points. Therefore, it's challenging to predict what would occur during the transformation between two different topological phases. To address these issues, in this work, we propose a general definition based on fidelity and trace distance from quant",
+          "authors": [
+            "Fang, ZhaoXiang",
+            "Gong, Ming",
+            "Guo, Guang-Can",
+            "Fu, Yongxu",
+            "Xiong, Long"
+          ],
+          "year": "2024",
+          "source": "inspire_hep",
+          "id": "2783785",
+          "pmid": "2783785"
+        },
+        {
+          "title": "RG-CAT: Detection pipeline and catalogue of radio galaxies in the EMU pilot survey",
+          "abstract": "We present source detection and catalogue construction pipelines to build the first catalogue of radio galaxies from the 270 $\\rm deg^2$ pilot survey of the Evolutionary Map of the Universe (EMU-PS) conducted with the Australian Square Kilometre Array Pathfinder (ASKAP) telescope. The detection pipeline uses Gal-DINO computer vision networks (Gupta et al. 2024, PASA, 41, e001) to predict the categories of radio morphology and bounding boxes for radio sources, as well as their potential infrared host positions. The Gal-DINO network is trained and evaluated on approximately 5 000 visually inspec",
+          "authors": [
+            "Gupta, Nikhel",
+            "Norris, Ray P.",
+            "Hayder, Zeeshan",
+            "Huynh, Minh",
+            "Petersson, Lars"
+          ],
+          "year": "2024",
+          "source": "inspire_hep",
+          "id": "2770765",
+          "pmid": "2770765"
+        },
+        {
+          "source": "arxiv",
+          "id": "2308.10075",
+          "title": "Largest Prime Factors of Polynomials",
+          "abstract": "Let $x>1$ be a large number. This note shows that the largest prime factor of the quadratic product $\\prod_{x\\leq n\\leq 2x}\\left(n^2+1 \\right)$ satisfies the relation $p \\geq x^{3/2}$ as $x$ tends to infinity. This improves the current estimate $p \\geq x^{1.279}$.",
+          "authors": [
+            "N. A. Carella"
+          ],
+          "year": "2023",
+          "url": "https://arxiv.org/pdf/2308.10075v7",
+          "citation_key": "arXiv:2308.10075",
+          "pmid": "2308.10075"
+        },
+        {
+          "title": "Symmetric carbon tetramers forming spin qubits in hexagonal boron nitride",
+          "abstract": "Point defect quantum bits in semiconductors have the potential to revolutionize sensing at atomic scales. Currently, vacancy-related defects are at the forefront of high spatial resolution and low-dimensional sensing. On the other hand, it is expected that impurity-related defect structures may give rise to new features that could further advance quantum sensing in low dimensions. Here, we study the symmetric carbon tetramer clusters in hexagonal boron nitride and propose them as spin qubits for sensing. We utilize periodic-DFT and quantum chemistry approaches to reliably and accurately predic",
+          "authors": [
+            "Benedek, Zsolt",
+            "Babar, Rohit",
+            "Ganyecz, Ádám",
+            "Szilvási, Tibor",
+            "Legeza, Örs"
+          ],
+          "year": "2023",
+          "source": "inspire_hep",
+          "id": "2720840",
+          "pmid": "2720840"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.4230/lipics.itp.2023.19",
+          "title": "MizAR 60 for Mizar 50",
+          "abstract": "",
+          "authors": [],
+          "year": "2023",
+          "url": "https://doi.org/10.4230/lipics.itp.2023.19",
+          "citation_key": "OA:https://doi.org/10.4",
+          "citation_count": 76325,
+          "open_access": true,
+          "concepts": [
+            "Computer science",
+            "Machine translation",
+            "Transformer",
+            "BLEU",
+            "Encoder"
+          ],
+          "pmid": "https://doi.org/10.4230/lipics.itp.2023.19"
+        },
+        {
+          "source": "crossref",
+          "id": "10.33140/jmtcm.02.08.03",
+          "title": "Linearity of the Position of Prime Numbers. The Order of Prime and Composite Numbers",
+          "abstract": "In this paper it was shown that all prime numbers lie on 96 half-lines. At the same time, it was shown that if a given number does not lie on any of the above half-lines, then it is a composite number. A corresponding linear mathematical relationship was also derived and it was shown that all prime numbers must satisfy it. If a given number does not satisfy the above dependence, then it is a composite number. One linear equation and 8 numbers are enough to carry out all of the above-ment",
+          "authors": [],
+          "year": "2023",
+          "url": "https://doi.org/10.33140/jmtcm.02.08.03",
+          "citation_key": "DOI:10.33140/jmtcm.02.08",
+          "citation_count": 0,
+          "pmid": "10.33140/jmtcm.02.08.03"
+        },
+        {
+          "title": "CLIMBER: Galaxy–Halo Connection Constraints from Next-generation Surveys",
+          "abstract": "In the coming decade, a new generation of massively multiplexed spectroscopic surveys, such as the Prime Focus Spectrograph Galaxy Evolution Survey (PFS), Wide Area Vista Extragalactic Survey-Deep (WAVES), and Multi-Object Optical and Near-infrared Spectrograph (MOONS) for the Very Large Telescope, will probe galaxies in the distant universe in vastly greater numbers than was previously possible. In this work, we generate mock catalogs for each of these three planned surveys to help quantify and optimize their scientific output. To assign photometry into the UniverseMachine empirical model, we",
+          "authors": [
+            "Pearl, Alan N.",
+            "Bezanson, Rachel",
+            "Zentner, Andrew R.",
+            "Newman, Jeffrey A.",
+            "Goulding, Andy D."
+          ],
+          "year": "2021",
+          "source": "inspire_hep",
+          "id": "1982198",
+          "pmid": "1982198"
+        },
+        {
+          "title": "The Theory of Fundamental Duality, Quantum Dualiton and Topological Dual Invariance",
+          "abstract": "Fundamental duality is a concept which refers to two irreducible, heterogeneous principles which are in opposite and complementary of each other. The complementary principle in quantum mechanics is also praised by Bohr. This important concept is known to appear in a lot of places in our physical universe, however a rigorous mathematical definition and physics theory has not yet ever developed in a formal way. In this paper, we establish a formalism for fundamental duality and study its various properties and theorems. One of the most profound results is that we establish a relation between dua",
+          "authors": [
+            "Wong, B.T.T."
+          ],
+          "year": "2021",
+          "source": "inspire_hep",
+          "id": "1907536",
+          "pmid": "1907536"
+        },
+        {
+          "title": "Exploding operators for Majorana neutrino masses and beyond",
+          "abstract": "Building UV completions of lepton-number-violating effective operators has proved to be a useful way of studying and classifying models of Majorana neutrino mass. In this paper we describe and implement an algorithm that systematises this model-building procedure. We use the algorithm to generate computational representations of all of the tree-level completions of the operators up to and including mass-dimension 11. Almost all of these correspond to models of radiative neutrino mass. Our work includes operators involving derivatives, updated estimates for the bounds on the new-physics scale a",
+          "authors": [
+            "Gargalionis, John",
+            "Volkas, Raymond R."
+          ],
+          "year": "2020",
+          "source": "inspire_hep",
+          "id": "1820122",
+          "pmid": "1820122"
+        },
+        {
+          "title": "Inequities in the Shanks-Renyi Prime Number Race: An asymptotic formula for the densities",
+          "abstract": "76 pages. Corrected a numerical error in Proposition 2.14 and its consequences in Section 5. Paper has been accepted to CrelleChebyshev was the first to observe a bias in the distribution of primes in residue classes. The general phenomenon is that if $a$ is a nonsquare\\mod q and $b$ is a square\\mod q, then there tend to be more primes congruent to $a\\mod q$ than $b\\mod q$ in initial intervals of the positive integers; more succinctly, there is a tendency for $\\pi(x;q,a)$ to exceed $\\pi(x;q,b)$. Rubinstein and Sarnak defined $\\delta(q;a,b)$ to be the logarithmic density of the set of positive ",
+          "authors": [
+            "Fiorilli, Daniel",
+            "Martin, Greg"
+          ],
+          "year": "2020",
+          "doi": null,
+          "source": "core",
+          "pmid": "Inequities in the Shanks-Renyi"
+        },
+        {
+          "title": "Trend Analysis and Forecasting of COVID-19 outbreak in India",
+          "abstract": "COVID-19 is spreading really fast around the world. The current study describes the situation of the outbreak of this disease in India and predicts the number of cases expected to rise in India. The study also discusses the regional analysis of Indian states and presents the preparedness level of India in combating this outbreak. The study uses exploratory data analysis to report the current situation and uses time-series forecasting methods to predict the future trends. The data has been considered from the repository of John Hopkins University and covers up the time period from 30th January ",
+          "authors": [
+            "Dr. Rajan Gupta",
+            "Dr. Saibal K Pal"
+          ],
+          "year": "2020",
+          "doi": "10.35543/osf.io/e547c",
+          "source": "core",
+          "pmid": "Trend Analysis and Forecasting"
+        },
+        {
+          "source": "arxiv",
+          "id": "1907.12979",
+          "title": "Counting Primes Rationally And Irrationally",
+          "abstract": "The recent technique for estimating lower bounds of the prime counting function $π(x)=#\\{p \\leq x: p\\text{ prime}\\}$ by means of the irrationality measures $μ(ζ(s)) \\geq 2$ of special values of the zeta function claims that $π(x) \\gg \\log \\log x/\\log \\log \\log x$. This note improves the lower bound to $π(x) \\gg \\log x$, and extends the analysis to the irrationality measures $μ(ζ(s)) \\geq 1$ for rational ratios of zeta functions.",
+          "authors": [
+            "N. A. Carella"
+          ],
+          "year": "2019",
+          "url": "https://arxiv.org/pdf/1907.12979v2",
+          "citation_key": "arXiv:1907.12979",
+          "pmid": "1907.12979"
+        },
+        {
+          "source": "arxiv",
+          "id": "1901.07086",
+          "title": "Generalization of Bertrand's Postulate for Gaussian Primes",
+          "abstract": "Bertrand's Postulate states about the prime distribution for the real numbers. The generalization of Bertrand's Postulate was proved by Das et al. [Arxiv 2018]. In this paper, we have formalized this idea for the Gaussian primes (or the primes on the complex plane). This result gives information about the prime distribution on the complex plane.",
+          "authors": [
+            "Madhuparna Das"
+          ],
+          "year": "2019",
+          "url": "https://arxiv.org/pdf/1901.07086v3",
+          "citation_key": "arXiv:1901.07086",
+          "pmid": "1901.07086"
+        },
+        {
+          "source": "arxiv",
+          "id": "1912.05923",
+          "title": "Prime Values of the Euler Polynomial",
+          "abstract": "This note provides an effective lower bound for the number of primes in the quadratic progression $p=n^2+1 \\leq x$ as $x \\to \\infty$.",
+          "authors": [
+            "N. A. Carella"
+          ],
+          "year": "2019",
+          "url": "https://arxiv.org/pdf/1912.05923v4",
+          "citation_key": "arXiv:1912.05923",
+          "pmid": "1912.05923"
+        },
+        {
+          "source": "arxiv",
+          "id": "1810.02188",
+          "title": "6m Theorem for Prime numbers",
+          "abstract": "We show that for any $P= 6^{m+1}.N -1 $ is a prime number for any $1 < N \\le 13$ , $N \\ne 8$ and $N \\ne i^{m+1}Mod(6i+1) $ where $ i \\in Z^+ $ and $ m \\in $ $odd$ $Z^+ $ for $1 < N \\le 13$ and $N \\ne 8$ and also we further discussed that $P= 6^{m+1}.N -1 $ is a prime number for $ N >13 $ if and only if , $N \\ne i^{m+1}Mod(6i+1) +(6i +1)a $ $ ; i,a \\le Z^+ $",
+          "authors": [
+            "Gandarawatta R. W. M. P. I. S. B.",
+            "Perera S. P. C.",
+            "Rathnayake R. M. L. S."
+          ],
+          "year": "2018",
+          "url": "https://arxiv.org/pdf/1810.02188v1",
+          "citation_key": "arXiv:1810.02188",
+          "pmid": "1810.02188"
+        },
+        {
+          "source": "arxiv",
+          "id": "1802.07178",
+          "title": "Primitive abundant and weird numbers with many prime factors",
+          "abstract": "We give an algorithm to enumerate all primitive abundant numbers (briefly, PANs) with a fixed $Ω$ (the number of prime factors counted with their multiplicity), and explicitly find all PANs up to $Ω=6$, count all PANs and square-free PANs up to $Ω=7$ and count all odd PANs and odd square-free PANs up to $Ω=8$. We find primitive weird numbers (briefly, PWNs) with up to 16 prime factors, improving the previous results of [Amato-Hasler-Melfi-Parton] where PWNs with up to 6 prime factors have been g",
+          "authors": [
+            "Gianluca Amato",
+            "Maximilian F. Hasler",
+            "Giuseppe Melfi",
+            "Maurizio Parton"
+          ],
+          "year": "2018",
+          "url": "https://arxiv.org/pdf/1802.07178v2",
+          "citation_key": "arXiv:1802.07178",
+          "pmid": "1802.07178"
+        },
+        {
+          "title": "A quick look at prime numbers",
+          "abstract": "​Since the time of the ancient Greeks, and probably long before then, we have been fascinated by prime numbers. One possible reason for our fascination with prime numbers is that the in-ter-relationships between them and the patterns that they appear to create are so difficult to understand. Another possible reason is that the primes appear to exhibit both deterministic behaviours (i.e. fully determined on the basis of naturally-occurring relationships) and random behaviours (i.e. occurring by chance). Nobody has succeeded in creating mathematical models that predict the magnitudes of prime nu",
+          "authors": [
+            "Lillis, David"
+          ],
+          "year": "2018",
+          "doi": null,
+          "source": "core",
+          "pmid": "A quick look at prime numbers"
+        },
+        {
+          "source": "arxiv",
+          "id": "1706.00392",
+          "title": "On the difference in values of the Euler totient function near prime arguments",
+          "abstract": "We prove unconditionally that for each $\\ell \\geq 1$, the difference $φ(p-\\ell) - φ(p+\\ell)$ is positive for $50\\%$ of odd primes $p$ and negative for $50\\%$.",
+          "authors": [
+            "Stephan Ramon Garcia",
+            "Florian Luca"
+          ],
+          "year": "2017",
+          "url": "https://arxiv.org/pdf/1706.00392v2",
+          "citation_key": "arXiv:1706.00392",
+          "pmid": "1706.00392"
+        },
+        {
+          "source": "arxiv",
+          "id": "1711.07996",
+          "title": "Irregular behaviour of class numbers and Euler-Kronecker constants of cyclotomic fields: the log log log devil at play",
+          "abstract": "Kummer (1851) and, many years later, Ihara (2005) both posed conjectures on invariants related to the cyclotomic field $\\mathbb Q(ζ_q)$ with $q$ a prime. Kummer's conjecture concerns the asymptotic behaviour of the first factor of the class number of $\\mathbb Q(ζ_q)$ and Ihara's the positivity of the Euler-Kronecker constant of $\\mathbb Q(ζ_q)$ (the ratio of the constant and the residue of the Laurent series of the Dedekind zeta function $ζ_{\\mathbb Q(ζ_q)}(s)$ at $s=1$). If certain standard con",
+          "authors": [
+            "Pieter Moree"
+          ],
+          "year": "2017",
+          "url": "https://arxiv.org/pdf/1711.07996v2",
+          "citation_key": "arXiv:1711.07996",
+          "pmid": "1711.07996"
+        },
+        {
+          "source": "arxiv",
+          "id": "1712.08166",
+          "title": "Results for Wieferich Primes",
+          "abstract": "Let $v\\geq 2$ be a fixed integer, and let $x \\geq 1$ and $z \\geq x$ be large numbers. The exact asymptotic formula for the number of Wieferich primes $p$ such that $ v^{p-1} \\equiv 1 \\bmod p^2$ in the short interval $[x,x+z]$ is proposed in this note. The search conducted on the last 100 years have produced two primes $p<x=10^{15}$ such that $2^{p-1} -1\\equiv 0 \\bmod p^2$. The probabilistic and theoretical information within predicts the existence of another base $v=2$ prime on the interval $[10",
+          "authors": [
+            "N. A. Carella"
+          ],
+          "year": "2017",
+          "url": "https://arxiv.org/pdf/1712.08166v2",
+          "citation_key": "arXiv:1712.08166",
+          "pmid": "1712.08166"
+        },
+        {
+          "source": "arxiv",
+          "id": "1710.00088",
+          "title": "Inclusive prime number races",
+          "abstract": "Let $π(x;q,a)$ denote the number of primes up to $x$ that are congruent to $a$ modulo $q$. A prime number race, for fixed modulus $q$ and residue classes $a_1, \\ldots, a_r$, investigates the system of inequalities $π(x;q,a_1) > π(x;q,a_2) > \\cdots > π(x;q,a_r)$. The study of prime number races was initiated by Chebyshev and further studied by many others, including Littlewood, Shanks-Rényi, Knapowski-Turan, and Kaczorowski. We expect that this system of inequalities should have arbitrarily large",
+          "authors": [
+            "Greg Martin",
+            "Nathan Ng"
+          ],
+          "year": "2017",
+          "url": "https://arxiv.org/pdf/1710.00088v2",
+          "citation_key": "arXiv:1710.00088",
+          "pmid": "1710.00088"
+        },
+        {
+          "source": "arxiv",
+          "id": "1510.03465",
+          "title": "A Simple Proof Of The Prime Number Theorem",
+          "abstract": "It is shown that the Mean Value Theorem for arithmetic functions, and simple properties of the zeta function are sufficient to assemble proofs of the Prime Number Theorem, and Dirichlet Theorem. These are among the simplest proofs of the asymptotic formulas of the corresponding prime counting functions.",
+          "authors": [
+            "N. A. Carella"
+          ],
+          "year": "2015",
+          "url": "https://arxiv.org/pdf/1510.03465v2",
+          "citation_key": "arXiv:1510.03465",
+          "pmid": "1510.03465"
+        },
+        {
+          "title": "High Resolution Model to Predict Oil Spill Dispersion in Harbour and Coastal Areas",
+          "abstract": "2013/2014Mostriamo un modello allo stato dell’arte, che considera i principali processi fisici che governano il greggio in mare nelle prime ore dopo il rilascio, (Zanier, et al., 2014). Le particelle e i tar sono trattati come particelle lagrangiane, ognuna con la propria densità e il proprio diametro; consideriamo le forze principali che agiscono su di esse ossia: galleggiamento, trascinamento e la forza di Coriolis. Il greggio in forma di film sottile è modellato tramite le equazioni proposte da Nihoul (Nihoul 1983/84). Il modello originale di Nihoul considera le forze principali (ossia grav",
+          "authors": [
+            "Zanier, Giulia"
+          ],
+          "year": "2015",
+          "doi": null,
+          "source": "core",
+          "pmid": "High Resolution Model to Predi"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1038/nature15393",
+          "title": "A global reference for human genetic variation",
+          "abstract": "",
+          "authors": [],
+          "year": "2015",
+          "url": "https://doi.org/10.1038/nature15393",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 19981,
+          "open_access": true,
+          "concepts": [
+            "1000 Genomes Project",
+            "Genome",
+            "Biology",
+            "Reference genome",
+            "Genetic variation"
+          ],
+          "pmid": "https://doi.org/10.1038/nature15393"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1017/cbo9781316182277.004",
+          "title": "“Named” Prime Numbers",
+          "abstract": "",
+          "authors": [],
+          "year": "2015",
+          "url": "https://doi.org/10.1017/cbo9781316182277.004",
+          "citation_key": "DOI:10.1017/cbo978131618",
+          "citation_count": 0,
+          "pmid": "10.1017/cbo9781316182277.004"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1017/cbo9781316182277.003",
+          "title": "What are Prime Numbers?",
+          "abstract": "",
+          "authors": [],
+          "year": "2015",
+          "url": "https://doi.org/10.1017/cbo9781316182277.003",
+          "citation_key": "DOI:10.1017/cbo978131618",
+          "citation_count": 0,
+          "pmid": "10.1017/cbo9781316182277.003"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1017/cbo9781316182277.009",
+          "title": "Prime Numbers Viewed from a Distance",
+          "abstract": "",
+          "authors": [],
+          "year": "2015",
+          "url": "https://doi.org/10.1017/cbo9781316182277.009",
+          "citation_key": "DOI:10.1017/cbo978131618",
+          "citation_count": 0,
+          "pmid": "10.1017/cbo9781316182277.009"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1017/cbo9781316182277.021",
+          "title": "Computer Music Files and Prime Numbers",
+          "abstract": "",
+          "authors": [],
+          "year": "2015",
+          "url": "https://doi.org/10.1017/cbo9781316182277.021",
+          "citation_key": "DOI:10.1017/cbo978131618",
+          "citation_count": 0,
+          "pmid": "10.1017/cbo9781316182277.021"
+        },
+        {
+          "source": "arxiv",
+          "id": "1405.2490",
+          "title": "Researches on the Twin Prime Problem",
+          "abstract": "Twin prime number problem is mainly the structure of the twin prime numbers and whether there are infinitely many prime twins group. In this paper, by constructing a special cluster number set(see formula(2.3)in the paper), proves that the number of set number of the first n columns set the intersection of the minimum number of q is decision of the prime twins (q, q+2), and the minimum number of series is divergent(see Theorem 2).The main rezults are Theorem 2,Theorem 3 and Theorem 4.Prime twins",
+          "authors": [
+            "Zhang Baoshan"
+          ],
+          "year": "2014",
+          "url": "https://arxiv.org/pdf/1405.2490v2",
+          "citation_key": "arXiv:1405.2490",
+          "pmid": "1405.2490"
+        },
+        {
+          "source": "arxiv",
+          "id": "1406.4801",
+          "title": "Two statements that are equivalent to a conjecture related to the distribution of prime numbers",
+          "abstract": "Let $n\\in\\mathbb{Z}^+$. In [8] we ask the question whether any sequence of $n$ consecutive integers greater than $n^2$ and smaller than $(n+1)^2$ contains at least one prime number, and we show that this is actually the case for every $n\\leq 1,193,806,023$. In addition, we prove that a positive answer to the previous question for all $n$ would imply Legendre's, Brocard's, Andrica's, and Oppermann's conjectures, as well as the assumption that for every $n$ there is always a prime number in the in",
+          "authors": [
+            "Germán Paz"
+          ],
+          "year": "2014",
+          "url": "https://arxiv.org/pdf/1406.4801v2",
+          "citation_key": "arXiv:1406.4801",
+          "pmid": "1406.4801"
+        },
+        {
+          "title": "Prime numbers",
+          "abstract": "·  ·  · prime numbers “grow like weeds among the natural numbers, seeming to obey no other law than that of chance, and nobody can predict where the next one will sprout. ” Don Zagier Abstract. In my talk I will pose several questions about prime numbers. We will see that on the one hand some of them allow an answer with a proof of just a few lines, on the other hand, some of them lead to deep questions and conjectures not yet understood. This seems to represent a general pattern in mathematics: your curiosity leads to a study of “easy ” questions related with quite deep structures. I will giv",
+          "authors": [
+            "Frans Oort"
+          ],
+          "year": "2014",
+          "doi": null,
+          "source": "core",
+          "pmid": "Prime numbers"
+        },
+        {
+          "source": "arxiv",
+          "id": "1306.0795",
+          "title": "Matrix Online Characteristic Number and Its applications in Goldbach Conjecture,Polignac Conjecture,the Twin Prime Conjecture",
+          "abstract": "This article consists of three chapters.In Chapter 1, it is determined by the consecutive odd numbers, and study to the intrinsic properties of a class of matrix sequence. Through the establishment of matrix online number concept, characteristics and the online number column use mathematical induction to prove the some properties of this kind of matrix on the number of online features (Theorem 1). Finally, it is given a trial to prove the Goldbach conjecture (Theorem 6). This is the author in th",
+          "authors": [
+            "Baoshan Zhang"
+          ],
+          "year": "2013",
+          "url": "https://arxiv.org/pdf/1306.0795v2",
+          "citation_key": "arXiv:1306.0795",
+          "pmid": "1306.0795"
+        },
+        {
+          "source": "arxiv",
+          "id": "1302.6245",
+          "title": "Quantum Computation of Prime Number Functions",
+          "abstract": "We propose a quantum circuit that creates a pure state corresponding to the quantum superposition of all prime numbers less than 2^n, where n is the number of qubits of the register. This Prime state can be built using Grover's algorithm, whose oracle is a quantum implementation of the classical Miller-Rabin primality test. The Prime state is highly entangled, and its entanglement measures encode number theoretical functions such as the distribution of twin primes or the Chebyshev bias. This alg",
+          "authors": [
+            "Jose I. Latorre",
+            "German Sierra"
+          ],
+          "year": "2013",
+          "url": "https://arxiv.org/pdf/1302.6245v3",
+          "citation_key": "arXiv:1302.6245",
+          "pmid": "1302.6245"
+        },
+        {
+          "source": "arxiv",
+          "id": "1312.2481",
+          "title": "Note On The Maximal Primes Gaps",
+          "abstract": "This note presents a result on the maximal prime gap of the form p_(n+1) - p_n <= C(log p_n)^(1+e), where C > 0 is a constant, for any arbitrarily small real number e > 0, and all sufficiently large integer n > n_0. Equivalently, the result shows that any short interval [x, x + y], y => C(log x)^(1+e), contains prime numbers for all sufficiently large real numbers x => x_0 unconditionally. An application demonstrates that a prime p => x > 2 can be determined in deterministic polynomial time O(lo",
+          "authors": [
+            "N. A. Carella"
+          ],
+          "year": "2013",
+          "url": "https://arxiv.org/pdf/1312.2481v4",
+          "citation_key": "arXiv:1312.2481",
+          "pmid": "1312.2481"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1038/ng.2764",
+          "title": "The Cancer Genome Atlas Pan-Cancer analysis project",
+          "abstract": "",
+          "authors": [],
+          "year": "2013",
+          "url": "https://doi.org/10.1038/ng.2764",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 9533,
+          "open_access": true,
+          "concepts": [
+            "Biology",
+            "Repurposing",
+            "Computational biology",
+            "Cancer",
+            "Genome"
+          ],
+          "pmid": "https://doi.org/10.1038/ng.2764"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1186/1471-2105-12-323",
+          "title": "RSEM: accurate transcript quantification from RNA-Seq data with or without a reference genome",
+          "abstract": "",
+          "authors": [],
+          "year": "2011",
+          "url": "https://doi.org/10.1186/1471-2105-12-323",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 23461,
+          "open_access": true,
+          "concepts": [
+            "Computational biology",
+            "RNA-Seq",
+            "Genome",
+            "Biology",
+            "Reference genome"
+          ],
+          "pmid": "https://doi.org/10.1186/1471-2105-12-323"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1007/978-0-8176-8298-9_7",
+          "title": "Prime Numbers and Cryptography",
+          "abstract": "",
+          "authors": [
+            "Hans Riesel"
+          ],
+          "year": "2011",
+          "url": "https://doi.org/10.1007/978-0-8176-8298-9_7",
+          "citation_key": "DOI:10.1007/978-0-8176-8",
+          "citation_count": 0,
+          "pmid": "10.1007/978-0-8176-8298-9_7"
+        },
+        {
+          "source": "arxiv",
+          "id": "1003.4015",
+          "title": "Continued fractions constructed from prime numbers",
+          "abstract": "We give 50 digits values of the simple continued fractions whose denominators are formed from a) prime numbers, b) twin primes, c) generalized $d$-twins, d) primes of the form $m^2+n^4$, e)primes of the form $m^2+1$, f) Mersenne primes and g) primorial primes. All these continued fractions belong to the set of measure zero of exceptions to the theorems of Khinchin and Levy. We claim that all these continued fractions are transcendental numbers. Next we propose the conjecture which indicates the ",
+          "authors": [
+            "Marek Wolf"
+          ],
+          "year": "2010",
+          "url": "https://arxiv.org/pdf/1003.4015v2",
+          "citation_key": "arXiv:1003.4015",
+          "pmid": "1003.4015"
+        },
+        {
+          "source": "arxiv",
+          "id": "1004.1563",
+          "title": "Sieve Procedure for the Möbius prime-functions, the Infinitude of Primes and the Prime Number Theorem",
+          "abstract": "Using a sieve procedure akin to the sieve of Eratosthenes we show how for each prime $p$ to build the corresponding Möbius prime-function, which in the limit of infinitely large primes becomes identical to the original Möbius function. Discussing this limit we present two simple proofs of the Prime Number Theorem. In the framework of this approach we give several proofs of the infinitude of primes.",
+          "authors": [
+            "R. M. Abrarov",
+            "S. M. Abrarov"
+          ],
+          "year": "2010",
+          "url": "https://arxiv.org/pdf/1004.1563v2",
+          "citation_key": "arXiv:1004.1563",
+          "pmid": "1004.1563"
+        },
+        {
+          "title": "On the Amount of Sieving in Factorization Methods",
+          "abstract": "Factorization methods, such as the quadratic sieve and the number field sieve, spend a lot of time on the sieving step, in which the necessary relations are collected for factoring the given number N. Relations are smooth or k-semismooth numbers (numbers with either all prime factors below some bound or all with the exception of at most k prime factors that do not exceed a second bound) or pairs of these type of numbers. In this thesis, we predict the amount of k-semismooth numbers needed to factor N, based on asymptotic approximation formulas (these formulas generalize the published results),",
+          "authors": [
+            "Ekkelkamp, W.H.",
+            "Ekkelkamp, Willemien",
+            "Ekkelkamp, W.H. (Willemien)"
+          ],
+          "year": "2010",
+          "doi": null,
+          "source": "core",
+          "pmid": "On the Amount of Sieving in Fa"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1002/jcc.21287",
+          "title": "CHARMM: The biomolecular simulation program",
+          "abstract": "",
+          "authors": [],
+          "year": "2009",
+          "url": "https://doi.org/10.1002/jcc.21287",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 9143,
+          "open_access": true,
+          "concepts": [
+            "Molecular dynamics",
+            "Computer science",
+            "Force field (fiction)",
+            "Solvent models",
+            "Chemistry"
+          ],
+          "pmid": "https://doi.org/10.1002/jcc.21287"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1038/nature05911",
+          "title": "Genome-wide association study of 14,000 cases of seven common diseases and 3,000 shared controls",
+          "abstract": "",
+          "authors": [],
+          "year": "2007",
+          "url": "https://doi.org/10.1038/nature05911",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 9635,
+          "open_access": true,
+          "concepts": [
+            "Genome-wide association study",
+            "Genetics",
+            "Genetic association",
+            "Disease",
+            "Biology"
+          ],
+          "pmid": "https://doi.org/10.1038/nature05911"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1371/journal.pmed.0040297",
+          "title": "Strengthening the Reporting of Observational Studies in Epidemiology (STROBE): Explanation and Elaboration",
+          "abstract": "",
+          "authors": [],
+          "year": "2007",
+          "url": "https://doi.org/10.1371/journal.pmed.0040297",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 8421,
+          "open_access": true,
+          "concepts": [
+            "Strengthening the reporting of observational studies in epidemiology",
+            "Observational study",
+            "Checklist",
+            "Critical appraisal",
+            "Statement (logic)"
+          ],
+          "pmid": "https://doi.org/10.1371/journal.pmed.0040297"
+        },
+        {
+          "title": "Attempts to reduce drug resistance of bacteria and cancer cells",
+          "abstract": "",
+          "authors": [
+            "Spengler Gabriella"
+          ],
+          "year": "2006",
+          "doi": null,
+          "source": "core",
+          "pmid": "Attempts to reduce drug resist"
+        },
+        {
+          "title": "Sex in the mediaan influence on adolescent development",
+          "abstract": "Plan BThe purpose of this study was to identify the prevalence of sex in the television media that adolescents watch and the magazine media targeted at adolescent females. The study was conducted by researcher observation and categorical tallying of sex related instances on various prime time television shows and commercials and in four major magazines. The television shows chosen for analysis were determined by media ratings reports indicating they are popular among adolescents. Targeted audience determined the magazines chosen for analysis. The analysis of the television shows and magazines ",
+          "authors": [
+            "Okey, Jessica"
+          ],
+          "year": "2002",
+          "doi": null,
+          "source": "core",
+          "pmid": "Sex in the mediaan influence o"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1016/s1386-4181(01)00024-6",
+          "title": "Illiquidity and stock returns: cross-section and time-series effects",
+          "abstract": "",
+          "authors": [],
+          "year": "2002",
+          "url": "https://doi.org/10.1016/s1386-4181(01)00024-6",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 10358,
+          "open_access": true,
+          "concepts": [
+            "Stock (firearms)",
+            "Economics",
+            "Financial economics",
+            "Stock market",
+            "Liberian dollar"
+          ],
+          "pmid": "https://doi.org/10.1016/s1386-4181(01)00024-6"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1038/35057062",
+          "title": "Initial sequencing and analysis of the human genome",
+          "abstract": "",
+          "authors": [],
+          "year": "2001",
+          "url": "https://doi.org/10.1038/35057062",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 24581,
+          "open_access": true,
+          "concepts": [
+            "Human genome",
+            "Genome",
+            "Sequence (biology)",
+            "Computational biology",
+            "Whole genome sequencing"
+          ],
+          "pmid": "https://doi.org/10.1038/35057062"
+        },
+        {
+          "title": "Homelessness, crime, and the police: Crime and order maintenance on the street",
+          "abstract": "The intent of this dissertation is to examine crime among the homeless, focusing on social context. Most research on homelessness and crime focuses on differences between rates of crime among the homeless and the domiciled. Researchers pay less attention to aspects of homeless life increasing probabilities of crime commission or police contact. The first issue examined was whether need is the primary motivator for crimes of the homeless. Given that most homeless people lack resources and yet only a minority commit crime, the key question became, \"Why do some commit crime while others do not?\" ",
+          "authors": [
+            "Quist, Theron Macay, 1960-"
+          ],
+          "year": "1996",
+          "doi": null,
+          "source": "core",
+          "pmid": "Homelessness, crime, and the p"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1613/jair.301",
+          "title": "Reinforcement Learning: A Survey",
+          "abstract": "",
+          "authors": [],
+          "year": "1996",
+          "url": "https://doi.org/10.1613/jair.301",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 8837,
+          "open_access": true,
+          "concepts": [
+            "Reinforcement learning",
+            "Computer science",
+            "Reinforcement",
+            "Artificial intelligence",
+            "Markov decision process"
+          ],
+          "pmid": "https://doi.org/10.1613/jair.301"
+        },
+        {
+          "source": "crossref",
+          "id": "10.64628/aai.fukwj4w9t",
+          "title": "Prime numbers, the building blocks of mathematics, have fascinated for centuries − now technology is revolutionizing the search for them",
+          "abstract": "",
+          "authors": [
+            "Jeremiah Bartz"
+          ],
+          "year": "",
+          "url": "https://doi.org/10.64628/aai.fukwj4w9t",
+          "citation_key": "DOI:10.64628/aai.fukwj4w",
+          "citation_count": 0,
+          "pmid": "10.64628/aai.fukwj4w9t"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1007/0-387-28979-8_8",
+          "title": "The Ubiquity of Prime Numbers",
+          "abstract": "",
+          "authors": [],
+          "year": "",
+          "url": "https://doi.org/10.1007/0-387-28979-8_8",
+          "citation_key": "DOI:10.1007/0-387-28979-",
+          "citation_count": 1,
+          "pmid": "10.1007/0-387-28979-8_8"
+        },
+        {
+          "source": "crossref",
+          "id": "10.2139/ssrn.5807385",
+          "title": "Prime Numbers Expressed in the Base 2 System and their Relationships with Other Prime Numbers Used as a New Method for Prime Number Generation",
+          "abstract": "",
+          "authors": [
+            "Pedro Alejandro Chou Rodríguez"
+          ],
+          "year": "",
+          "url": "https://doi.org/10.2139/ssrn.5807385",
+          "citation_key": "DOI:10.2139/ssrn.5807385",
+          "citation_count": 0,
+          "pmid": "10.2139/ssrn.5807385"
+        },
+        {
+          "source": "crossref",
+          "id": "10.14293/pr2199.002300.v1",
+          "title": "Prime Numbers and L-Functions",
+          "abstract": "This paper examines the intrinsic relationship between complex analysis and the distribution of prime numbers through the analytical framework of L-functions, with particular emphasis on the Riemann zeta function. Beginning from the Euler product representation, the study explores how L-functions encode prime number properties within the complex plane and how analytic continuation extends their domain to reveal deeper structural symmetries. Central to this investigation is the Riemann Hy",
+          "authors": [
+            "Amirthan Sotheeswaran"
+          ],
+          "year": "",
+          "url": "https://doi.org/10.14293/pr2199.002300.v1",
+          "citation_key": "DOI:10.14293/pr2199.0023",
+          "citation_count": 0,
+          "pmid": "10.14293/pr2199.002300.v1"
+        },
+        {
+          "title": "Distance learning from projective measurements as an information-geometric probe of many-body physics",
+          "abstract": "The ability of modern quantum simulators--both digital and analogue--to generate large ensembles of single-shot projective \"snapshots\" has opened a data-rich avenue for the study of quantum many-body systems. Unsupervised machine learning analysis of such snapshots has gained traction, with numerous works reconstructing phase diagrams by learning and clustering low-dimensional representations of quantum states. Here, we forgo such representation learning in favour of distance learning: we infer the pairwise distances between quantum states--already sufficient for clustering--directly from snap",
+          "authors": [
+            "Malyshev, Oleksii",
+            "Linsel, Simon M.",
+            "Grusdt, Fabian",
+            "Bohrdt, Annabelle",
+            "Demler, Eugene"
+          ],
+          "year": "2026",
+          "source": "inspire_hep",
+          "id": "3129619",
+          "pmid": "3129619"
+        },
+        {
+          "title": "Quantum Advantage in Resource Estimation",
+          "abstract": "Quantum computing promises the ability to compute properties of quantum systems exponentially faster than classical computers. Quantum advantage is achieved when a practical problem is solved more efficiently on a quantum computer than on a classical computer. Demonstrating quantum advantage requires a powerful quantum computer with low error rates and an efficient quantum algorithm that has a useful application. Despite rapid progress in hardware development, we still lack useful applications that are feasible for the next generation of quantum computers. Here we argue that an exponential qua",
+          "authors": [
+            "Simon, William A.",
+            "Love, Peter J."
+          ],
+          "year": "2025",
+          "source": "inspire_hep",
+          "id": "3088629",
+          "pmid": "3088629"
+        },
+        {
+          "title": "Space Astrometry with Gaia: Advances in Understanding our Galaxy",
+          "abstract": "Gaia is a satellite mission of the European Space Agency which is creating a catalogue of extremely accurate positions, distances and space motions of two billion stars in our Galaxy, along with more than one hundred thousand solar system asteroids, and several million distant quasars, all on the same extragalactic reference system. Complementary information on each object's multi-epoch photometry and spectra provides a vast and unprecedented data base of (model-dependent) fundamental physical quantities, such as each star's mass, age, and chemical composition. I outline the field's historical",
+          "authors": [
+            "Perryman, Michael"
+          ],
+          "year": "2025",
+          "source": "inspire_hep",
+          "id": "3098227",
+          "pmid": "3098227"
+        },
+        {
+          "title": "QCD sum rule study of excited light meson operators",
+          "abstract": "We apply the QCD sum rule method to systematically study excited light meson operators and calculate their decay constants. These operators are constructed by explicitly adding one covariant derivative to the quark-antiquark pair. In total, twelve such operators are constructed, among which ten are subjected to detailed numerical analyses. The considered quark contents include <math display=\"inline\"><mover accent=\"true\"><mi>q</mi><mo stretchy=\"false\">¯</mo></mover><mi>q</mi></math>, <math display=\"inline\"><mover accent=\"true\"><mi>q</mi><mo stretchy=\"false\">¯</mo></mover><mi>s</mi></math>, and ",
+          "authors": [
+            "Tan, Wei-Han",
+            "Liu, Wen-Ying",
+            "Xi, Hong-Zhou",
+            "Chen, Hua-Xing"
+          ],
+          "year": "2025",
+          "source": "inspire_hep",
+          "id": "2926932",
+          "pmid": "2926932"
+        },
+        {
+          "title": "Role of the short-range dynamics in a simultaneous interpretation of <math><msub><mi>P</mi><mrow><mi>c</mi><mi>s</mi></mrow></msub></math> pentaquarks as <math><mrow><msubsup><mi mathvariant=\"normal\">Ξ</mi><mi>c</mi><mrow><mo>(</mo><mo>′</mo><mo>,</mo><mo>*</mo><mo>)</mo></mrow></msubsup><msup><mover accent=\"true\"><mi>D</mi><mo>¯</mo></mover><mrow><mo>(</mo><mo>*</mo><mo>)</mo></mrow></msup></mrow></math> molecules",
+          "abstract": "We investigate hidden-charm molecular states in <math><mrow><msubsup><mi mathvariant=\"normal\">Ξ</mi><mi>c</mi><mrow><mo>(</mo><mo>′</mo><mo>,</mo><mo>*</mo><mo>)</mo></mrow></msubsup><msup><mover accent=\"true\"><mi>D</mi><mo>¯</mo></mover><mrow><mo>(</mo><mo>*</mo><mo>)</mo></mrow></msup></mrow></math> systems using the one-boson exchange model. By regulating the short-range interactions with parameter <math><mi>a</mi></math> and cutoff <math><mi mathvariant=\"normal\">Λ</mi></math>, we found ten bound states in isoscalar systems. Our analysis reveals that if the LHCb Collaboration's <math><mrow>",
+          "authors": [
+            "Wang, Ziye",
+            "Yalikun, Nijiati",
+            "Reyimuaji, Yakefu"
+          ],
+          "year": "2025",
+          "source": "inspire_hep",
+          "id": "2918247",
+          "pmid": "2918247"
+        },
+        {
+          "title": "A linear collider vision for the future of particle physics",
+          "abstract": "In this paper we review the physics opportunities at linear \\mathrm{e}^{+}\\mathrm{e}^{-} colliders with a special focus on high centre-of-mass energies and beam polarisation, take a fresh look at the various accelerator technologies available or under development and, for the first time, discuss how a facility first equipped with a technology that is mature today could be upgraded with technologies of tomorrow to reach much higher energies and/or luminosities. In addition, we discuss detectors, alternative collider modes, as well as opportunities for beyond-collider experiments and R&D facilit",
+          "authors": [
+            "Abramowicz, H.",
+            "Adli, E.",
+            "Alharthi, F.",
+            "Almanza-Soto, M.",
+            "Altakach, M.M."
+          ],
+          "year": "2025",
+          "source": "inspire_hep",
+          "id": "2904473",
+          "pmid": "2904473"
+        },
+        {
+          "title": "Hermitian and Non-Hermitian Topological Transitions Characterized by Manifold Distance",
+          "abstract": "Topological phases are generally characterized by topological invariants denoted by integer numbers. However, different topological systems often require different topological invariants to measure, and theses definition usually fail at critical points. Therefore, it's challenging to predict what would occur during the transformation between two different topological phases. To address these issues, we propose a general definition based on fidelity and trace distance from quantum information theory: manifold distance (MD). This definition does not rely on the berry connection but rather on the",
+          "authors": [
+            "Fang, ZhaoXiang",
+            "Gong, Ming",
+            "Guo, Guang-Can",
+            "Fu, Yongxu",
+            "Xiong, Long"
+          ],
+          "year": "2025",
+          "source": "inspire_hep",
+          "id": "2866262",
+          "pmid": "2866262"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1186/1758-2946-4-17",
+          "title": "Avogadro: an advanced semantic chemical editor, visualization, and analysis platform",
+          "abstract": "",
+          "authors": [],
+          "year": "2012",
+          "url": "https://doi.org/10.1186/1758-2946-4-17",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 10391,
+          "open_access": true,
+          "concepts": [
+            "Computer science",
+            "Visualization",
+            "Python (programming language)",
+            "Plug-in",
+            "Avogadro constant"
+          ],
+          "pmid": "https://doi.org/10.1186/1758-2946-4-17"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1093/bioinformatics/btp033",
+          "title": "Jalview Version 2—a multiple sequence alignment editor and analysis workbench",
+          "abstract": "",
+          "authors": [],
+          "year": "2009",
+          "url": "https://doi.org/10.1093/bioinformatics/btp033",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 10923,
+          "open_access": true,
+          "concepts": [
+            "Java applet",
+            "Workbench",
+            "Annotation",
+            "Computer science",
+            "Java"
+          ],
+          "pmid": "https://doi.org/10.1093/bioinformatics/btp033"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1101/gr.094052.109",
+          "title": "Fast model-based estimation of ancestry in unrelated individuals",
+          "abstract": "",
+          "authors": [],
+          "year": "2009",
+          "url": "https://doi.org/10.1101/gr.094052.109",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 10620,
+          "open_access": true,
+          "concepts": [
+            "Population stratification",
+            "Algorithm",
+            "Population",
+            "Expectation–maximization algorithm",
+            "Bayesian probability"
+          ],
+          "pmid": "https://doi.org/10.1101/gr.094052.109"
+        },
+        {
+          "source": "crossref",
+          "id": "10.20944/preprints202509.1503.v1",
+          "title": "The Number of Prime Numbers and Twin Prime Numbers Is Infinite",
+          "abstract": "A prime number graphic method is proposed. In the coordinate system, the prime number and its multiple points are represented by the prime number span-arc. Other points that cannot be determined as the prime number or the composite number are called undetermined points, so as to obtain the prime number generation process diagram represented by the hierarchical prime number span-arc. Then, prime factorial is defined to represent the product of generated prime numbers and used to segment a",
+          "authors": [
+            "Wensheng Yin"
+          ],
+          "year": "",
+          "url": "https://doi.org/10.20944/preprints202509.1503.v1",
+          "citation_key": "DOI:10.20944/preprints20",
+          "citation_count": 0,
+          "pmid": "10.20944/preprints202509.1503.v1"
+        }
+      ]
+    },
+    "citation_network": {
+      "total_papers": 22,
+      "citation_hop1": 0,
+      "citation_hop2": 0
+    },
+    "knowledge_graph": {
+      "entities": 309,
+      "relationships": 5837,
+      "papers": 1594,
+      "predicted_links": 10,
+      "predicted_links_added": 10
+    },
+    "gap_detection": {
+      "total_gaps": 24,
+      "structural_holes": 5,
+      "orphan_observations": 8,
+      "weak_bridges": 6,
+      "missing_mechanisms": 6,
+      "explanation_deficits": 0,
+      "avg_gap_score": 0.6388333333333334,
+      "graph_density": 0.1229,
+      "top_gaps": [
+        {
+          "entity": "Acceleration",
+          "entity_type": "phenomenon",
+          "papers": 10,
+          "confidence": 0.9,
+          "reason": "'Acceleration' is a phenomenon mentioned in 10 paper(s) but has no causal/explanatory mechanism in the graph. It is observed but not explained.",
+          "type": "orphan_observation",
+          "source": "algorithmic",
+          "gap_score": 0.938
+        },
+        {
+          "entity": "Carcinoma",
+          "entity_type": "disease",
+          "papers": 8,
+          "confidence": 0.9,
+          "reason": "'Carcinoma' is a disease mentioned in 8 paper(s) but has no causal/explanatory mechanism in the graph. It is observed but not explained.",
+          "type": "orphan_observation",
+          "source": "algorithmic",
+          "gap_score": 0.923
+        },
+        {
+          "entity": "fluctuation",
+          "entity_type": "phenomenon",
+          "papers": 8,
+          "confidence": 0.9,
+          "reason": "'fluctuation' is a phenomenon mentioned in 8 paper(s) but has no causal/explanatory mechanism in the graph. It is observed but not explained.",
+          "type": "orphan_observation",
+          "source": "algorithmic",
+          "gap_score": 0.923
+        },
+        {
+          "entity": "resonance",
+          "entity_type": "phenomenon",
+          "papers": 5,
+          "confidence": 0.9,
+          "reason": "'resonance' is a phenomenon mentioned in 5 paper(s) but has no causal/explanatory mechanism in the graph. It is observed but not explained.",
+          "type": "orphan_observation",
+          "source": "algorithmic",
+          "gap_score": 0.894
+        },
+        {
+          "entity": "puzzle",
+          "entity_type": "phenomenon",
+          "papers": 5,
+          "confidence": 0.9,
+          "reason": "'puzzle' is a phenomenon mentioned in 5 paper(s) but has no causal/explanatory mechanism in the graph. It is observed but not explained.",
+          "type": "orphan_observation",
+          "source": "algorithmic",
+          "gap_score": 0.894
+        },
+        {
+          "entity": "anomaly",
+          "entity_type": "phenomenon",
+          "papers": 5,
+          "confidence": 0.9,
+          "reason": "'anomaly' is a phenomenon mentioned in 5 paper(s) but has no causal/explanatory mechanism in the graph. It is observed but not explained.",
+          "type": "orphan_observation",
+          "source": "algorithmic",
+          "gap_score": 0.894
+        },
+        {
+          "entity": "3 K",
+          "entity_type": "parameter",
+          "papers": 5,
+          "confidence": 0.9,
+          "reason": "'3 K' appears in 5 paper(s) but has zero relationships in the knowledge graph. It may represent an isolated finding that needs causal integration.",
+          "type": "orphan_observation",
+          "source": "algorithmic",
+          "gap_score": 0.744
+        },
+        {
+          "description": "Disconnected clusters share types: phenomenon, unknown",
+          "cluster_a": [
+            "concept_llps",
+            "concept_computational_tools",
+            "concept_dispersion_measure_(dm)",
+            "AKT",
+            "phenomenon_fractional_quantum_hall_states"
+          ],
+          "cluster_b": [
+            "organism_lamb",
+            "concept_antimicrobial_properties",
+            "phenomenon_immunomodulatory_effect",
+            "chemical_short-chain_fatty_acids",
+            "technology_bifido‑_and_lactobacilli_complex"
+          ],
+          "shared_types": [
+            "phenomenon",
+            "unknown"
+          ],
+          "confidence": 0.7999999999999999,
+          "reason": "These 2186 and 34 entities share type(s) phenomenon, unknown but have no connecting relationships. This may indicate an unexplored cross-domain connection.",
+          "type": "structural_hole",
+          "source": "algorithmic",
+          "gap_score": 0.66
+        },
+        {
+          "description": "Disconnected clusters share types: drug",
+          "cluster_a": [
+            "concept_llps",
+            "concept_computational_tools",
+            "concept_dispersion_measure_(dm)",
+            "AKT",
+            "phenomenon_fractional_quantum_hall_states"
+          ],
+          "cluster_b": [
+            "lapatinib"
+          ],
+          "shared_types": [
+            "drug"
+          ],
+          "confidence": 0.75,
+          "reason": "These 2186 and 1 entities share type(s) drug but have no connecting relationships. This may indicate an unexplored cross-domain connection.",
+          "type": "structural_hole",
+          "source": "algorithmic",
+          "gap_score": 0.648
+        },
+        {
+          "description": "Disconnected clusters share types: concept",
+          "cluster_a": [
+            "concept_llps",
+            "concept_computational_tools",
+            "concept_dispersion_measure_(dm)",
+            "AKT",
+            "phenomenon_fractional_quantum_hall_states"
+          ],
+          "cluster_b": [
+            "HSV",
+            "HHV",
+            "Human Herpes Virus",
+            "Herpes Simplex Virus"
+          ],
+          "shared_types": [
+            "concept"
+          ],
+          "confidence": 0.75,
+          "reason": "These 2186 and 4 entities share type(s) concept but have no connecting relationships. This may indicate an unexplored cross-domain connection.",
+          "type": "structural_hole",
+          "source": "algorithmic",
+          "gap_score": 0.648
+        }
+      ]
+    },
+    "anomaly_detection": {
+      "total_anomalies": 10,
+      "conflicting_evidence": 0,
+      "outlier_entities": 6,
+      "prediction_violations": 5,
+      "category_anomalies": 0,
+      "semantic_anomalies": 0,
+      "avg_anomaly_score": 0.7433,
+      "top_anomalies": [
+        {
+          "entity": "quantum",
+          "entity_type": "theory",
+          "degree": 125,
+          "papers": 36,
+          "z_score": 8.22,
+          "anomaly_direction": "hub",
+          "confidence": 0.9,
+          "reason": "'quantum' has degree 125 (z=8.2), much higher than average (7.1). It's a hub — either a genuine driver or an over-studied entity.",
+          "type": "outlier_entity",
+          "anomaly_score": 0.895
+        },
+        {
+          "entity": "cancer",
+          "entity_type": "disease",
+          "degree": 114,
+          "papers": 21,
+          "z_score": 7.45,
+          "anomaly_direction": "hub",
+          "confidence": 0.9,
+          "reason": "'cancer' has degree 114 (z=7.5), much higher than average (7.1). It's a hub — either a genuine driver or an over-studied entity.",
+          "type": "outlier_entity",
+          "anomaly_score": 0.895
+        },
+        {
+          "entity": "act",
+          "entity_type": "organization",
+          "degree": 87,
+          "papers": 7,
+          "z_score": 5.57,
+          "anomaly_direction": "hub",
+          "confidence": 0.9,
+          "reason": "'act' has degree 87 (z=5.6), much higher than average (7.1). It's a hub — either a genuine driver or an over-studied entity.",
+          "type": "outlier_entity",
+          "anomaly_score": 0.895
+        },
+        {
+          "entity": "dark matter",
+          "entity_type": "entity",
+          "degree": 83,
+          "papers": 17,
+          "z_score": 5.29,
+          "anomaly_direction": "hub",
+          "confidence": 0.9,
+          "reason": "'dark matter' has degree 83 (z=5.3), much higher than average (7.1). It's a hub — either a genuine driver or an over-studied entity.",
+          "type": "outlier_entity",
+          "anomaly_score": 0.895
+        },
+        {
+          "entity": "black hole",
+          "entity_type": "entity",
+          "degree": 57,
+          "papers": 16,
+          "z_score": 3.48,
+          "anomaly_direction": "hub",
+          "confidence": 0.8478940920181592,
+          "reason": "'black hole' has degree 57 (z=3.5), much higher than average (7.1). It's a hub — either a genuine driver or an over-studied entity.",
+          "type": "outlier_entity",
+          "anomaly_score": 0.853
+        },
+        {
+          "entity_a": "concept_rc",
+          "entity_b": "Carcinoma",
+          "entity_c": "concept_lung_squamous_cell_carcinomas",
+          "path": "concept_rc --?--> Carcinoma --associated_with--> concept_lung_squamous_cell_carcinomas",
+          "missing_direct": "concept_rc → concept_lung_squamous_cell_carcinomas",
+          "confidence": 0.5,
+          "reason": "There's a path concept_rc→Carcinoma→concept_lung_squamous_cell_carcinomas but no direct connection. Either the direct link doesn't exist (novel finding) or it hasn't been studied yet.",
+          "type": "prediction_violation",
+          "anomaly_score": 0.6
+        },
+        {
+          "entity_a": "concept_rc",
+          "entity_b": "Carcinoma",
+          "entity_c": "cancer",
+          "path": "concept_rc --?--> Carcinoma --associated_with--> cancer",
+          "missing_direct": "concept_rc → cancer",
+          "confidence": 0.5,
+          "reason": "There's a path concept_rc→Carcinoma→cancer but no direct connection. Either the direct link doesn't exist (novel finding) or it hasn't been studied yet.",
+          "type": "prediction_violation",
+          "anomaly_score": 0.6
+        },
+        {
+          "entity_a": "concept_rc",
+          "entity_b": "Carcinoma",
+          "entity_c": "concept_proteasome_system",
+          "path": "concept_rc --?--> Carcinoma --associated_with--> concept_proteasome_system",
+          "missing_direct": "concept_rc → concept_proteasome_system",
+          "confidence": 0.5,
+          "reason": "There's a path concept_rc→Carcinoma→concept_proteasome_system but no direct connection. Either the direct link doesn't exist (novel finding) or it hasn't been studied yet.",
+          "type": "prediction_violation",
+          "anomaly_score": 0.6
+        },
+        {
+          "entity_a": "concept_rc",
+          "entity_b": "Carcinoma",
+          "entity_c": "concept_abnormal_ubiquitination",
+          "path": "concept_rc --?--> Carcinoma --associated_with--> concept_abnormal_ubiquitination",
+          "missing_direct": "concept_rc → concept_abnormal_ubiquitination",
+          "confidence": 0.5,
+          "reason": "There's a path concept_rc→Carcinoma→concept_abnormal_ubiquitination but no direct connection. Either the direct link doesn't exist (novel finding) or it hasn't been studied yet.",
+          "type": "prediction_violation",
+          "anomaly_score": 0.6
+        },
+        {
+          "entity_a": "concept_lung_squamous_cell_carcinomas",
+          "entity_b": "Carcinoma",
+          "entity_c": "cancer",
+          "path": "concept_lung_squamous_cell_carcinomas --?--> Carcinoma --associated_with--> cancer",
+          "missing_direct": "concept_lung_squamous_cell_carcinomas → cancer",
+          "confidence": 0.5,
+          "reason": "There's a path concept_lung_squamous_cell_carcinomas→Carcinoma→cancer but no direct connection. Either the direct link doesn't exist (novel finding) or it hasn't been studied yet.",
+          "type": "prediction_violation",
+          "anomaly_score": 0.6
+        }
+      ]
+    },
+    "missing_variables": {
+      "proposed": 8,
+      "variables": [
+        "Unnamed Variable",
+        "Unnamed Variable",
+        "Unnamed Variable",
+        "Prime Resonance Index (PRI)",
+        "Causal Flux Coefficient (CFC) for Anomalous Hubs",
+        "Mathematical Acceleration Constant (MAC) for Prime Generation",
+        "Multifaceted Disease Modeling",
+        "Dynamic Model Relevance"
+      ],
+      "variable_details": [
+        {
+          "Variable Name": "Prime Number Resonance Field (PNRF)",
+          "Type": "Field",
+          "Description": "A hypothetical field influencing prime number distribution, potentially explaining the 'fluctuation' and 'anomaly' gaps in prime number occurrence.",
+          "Equation/Quantitative Relationship": "PNRF(x) = Σ (1/p) * sin(2πx/p) for prime p ≤ √x, influencing prime likelihood at x",
+          "Mathematical Formalism": {
+            "Coupling Constant": "α_pn = 0.1 (to be calibrated)",
+            "Parameter Ranges": "x ≥ 2 (integers), p ≤ √x (prime numbers)"
+          },
+          "Literature Grounding": "Extends concepts from [The Number of Prime Numbers and Twin Prime Numbers Is Infinite] by introducing a field influencing prime distribution",
+          "Prediction/Measurement Proposal": "Analyze prime number clusters against PNRF predictions; Calibrate α_pn using known prime distributions up to 10^6",
+          "name": "Unnamed Variable",
+          "type": "unknown",
+          "confidence": 0.5,
+          "predictions": [],
+          "explains_gaps": [],
+          "explains_anomalies": [],
+          "reasoning_type": "abductive",
+          "novelty_score": 0.5,
+          "novelty_verdict": "refinement",
+          "is_novel_vs_known": "refinement",
+          "novelty_checked": true
+        },
+        {
+          "Variable Name": "Carcinoma-Prime (C-P) Entanglement",
+          "Type": "Mechanism",
+          "Description": "A speculative entanglement between certain mathematical patterns (like prime numbers) and the onset of Carcinoma, addressing the 'Carcinoma' knowledge gap",
+          "Equation/Quantitative Relationship": "C-P Entanglement Score (CPES) = |Σ (PrimePatternMatch - RandomMatch)|, where PrimePatternMatch assesses presence of prime-related patterns in patient data",
+          "Mathematical Formalism": {
+            "Coupling Constant": "Not directly applicable; instead, a threshold for CPES (e.g., CPES_th = 5)",
+            "Parameter Ranges": "Patient dataset with integrated mathematical pattern analysis"
+          },
+          "Literature Grounding": "Inspired by [Validation-Aware Retrospective EEG Treatment-Response Modelling Using Chaotic Pattern of Prime Numbers Features], extending to Carcinoma",
+          "Prediction/Measurement Proposal": "Retrospective study analyzing CPES in diagnosed Carcinoma patients vs. controls; Threshold calibration for CPES_th",
+          "name": "Unnamed Variable",
+          "type": "unknown",
+          "confidence": 0.5,
+          "predictions": [],
+          "explains_gaps": [],
+          "explains_anomalies": [],
+          "reasoning_type": "abductive",
+          "novelty_score": 0.5,
+          "novelty_verdict": "refinement",
+          "is_novel_vs_known": "refinement",
+          "novelty_checked": true
+        },
+        {
+          "Variable Name": "Quantum Acceleration in Prime Number Generation (QAPNG)",
+          "Type": "Process",
+          "Description": "Hypothesizing a quantum mechanical acceleration in the 'generation' or distribution of prime numbers, linking to 'Acceleration' and 'Quantum' anomalies",
+          "Equation/Quantitative Relationship": "ΔT_QAPNG = T_Classical / (1 + α_q * Σ|ψ_p|^2), where ψ_p represents prime number quantum states",
+          "Mathematical Formalism": {
+            "Coupling Constant": "α_q = 10^-5 (speculative, requires calibration)",
+            "Parameter Ranges": "T_Classical (classical prime generation time), Σ|ψ_p|^2 (quantum superposition measure)"
+          },
+          "Literature Grounding": "Combines insights from quantum computing and number theory, akin to [Prime Numbers and L-Functions]",
+          "Prediction/Measurement Proposal": "Simulate prime number generation classically vs. with QAPNG model; Measure ΔT_QAPNG in optimized quantum algorithms for prime number generation",
+          "name": "Unnamed Variable",
+          "type": "unknown",
+          "confidence": 0.5,
+          "predictions": [],
+          "explains_gaps": [],
+          "explains_anomalies": [],
+          "reasoning_type": "abductive",
+          "novelty_score": 0.5,
+          "novelty_verdict": "refinement",
+          "is_novel_vs_known": "refinement",
+          "novelty_checked": true
+        },
+        {
+          "name": "Prime Resonance Index (PRI)",
+          "description": "A novel explanatory variable proposing that prime numbers are not just mathematical entities but are interconnected through a 'resonance' phenomenon, akin to quantum entanglement. PRI quantifies the harmonic resonance between consecutive prime numbers, potentially predicting prime number distribution. This index is calculated as the logarithmic ratio of the difference between consecutive primes to their harmonic mean.",
+          "type": "predictive",
+          "novelty": "high",
+          "confidence": 0.25,
+          "testable_prediction": "The next prime number after 170721 will be within ±PRI(170721) * 10^4 of 170721 + PRI(170721)*10^6, where PRI(170721) is the Prime Resonance Index calculated for the prime 170721.",
+          "why_novel": "While number theory abounds with distribution predictions (e.g., Prime Number Theorem), the concept of 'resonance' between primes as a predictive tool has not been explored, possibly due to the abstract nature of primes and the influence of outlier entities distracting from this line of inquiry.",
+          "source": "counterfactual_engine",
+          "novelty_score": 0.74,
+          "novelty_verdict": "novel",
+          "is_novel_vs_known": "novel",
+          "novelty_checked": true
+        },
+        {
+          "name": "Causal Flux Coefficient (CFC) for Anomalous Hubs",
+          "description": "Explains the high degree of outlier entities ('quantum', 'cancer', etc.) by introducing a Causal Flux Coefficient, measuring how much an entity's influence in literature exceeds its actual causal impact across disciplines. CFC could predict the emergence of new hubs and explain the over-studied phenomenon.",
+          "type": "explanatory",
+          "novelty": "medium-high",
+          "confidence": 0.4,
+          "testable_prediction": "Entities with a CFC > 2.5 will show a 30% decrease in citation rate within the next 5 years post peak, as their over-studied status corrects. 'Quantum' will exhibit this behavior by 2028.",
+          "why_novel": "Though network analysis in bibliometrics is common, quantifying the disparity between citation impact and actual causal influence across diverse fields in such a direct, predictive manner is novel, potentially overlooked due to disciplinary silos.",
+          "source": "counterfactual_engine",
+          "novelty_score": 0.5,
+          "novelty_verdict": "refinement",
+          "is_novel_vs_known": "refinement",
+          "novelty_checked": true
+        },
+        {
+          "name": "Mathematical Acceleration Constant (MAC) for Prime Generation",
+          "description": "Addresses the 'acceleration' orphan observation by proposing a constant (MAC) that represents the rate of increase in the 'generation time' of prime numbers as one moves further along the number line. MAC could unify prime number theory with concepts of mathematical 'acceleration' observed in other phenomena.",
+          "type": "unifying",
+          "novelty": "high",
+          "confidence": 0.2,
+          "testable_prediction": "The time (computational or theoretical) to discover the next prime after a given large prime will accelerate by a factor of MAC (~1.05, hypothesized) for every order of magnitude increase in the prime number value.",
+          "why_novel": "The direct linking of 'acceleration' (a phenomenon more commonly discussed in physics) with the theoretical generation of prime numbers in a quantifiable constant has not been proposed, likely due to the disciplinary divide between number theory and the study of dynamic phenomena.",
+          "source": "counterfactual_engine",
+          "novelty_score": 0.5,
+          "novelty_verdict": "refinement",
+          "is_novel_vs_known": "refinement",
+          "novelty_checked": true
+        },
+        {
+          "name": "Multifaceted Disease Modeling",
+          "description": "The role of 'theory_model' in disease (cancer) research encompasses diverse modeling approaches, each suited to different aspects of the disease.",
+          "type": "contradiction_explanation",
+          "resolves": "disease_cancer",
+          "hidden_variable": "Modeling Objective Spectrum (MOS)",
+          "testable_prediction": "For MOS focused on cellular behavior, agent-based models are more accurate; for MOS targeting large-scale epidemiology, compartmental models (e.g., SIR) are more predictive.",
+          "source": "contradiction_driven",
+          "novelty_score": 0.5,
+          "novelty_verdict": "refinement",
+          "is_novel_vs_known": "refinement",
+          "novelty_checked": true
+        },
+        {
+          "name": "Dynamic Model Relevance",
+          "description": "The effectiveness of 'theory_model' depends on the phase of research or the specific question being addressed, necessitating a dynamic approach to model selection.",
+          "type": "contradiction_explanation",
+          "resolves": "theory_model",
+          "hidden_variable": "Research Phase Indicator (RPI)",
+          "testable_prediction": "In exploratory RPI phases, simpler, more flexible models (e.g., heuristic models) are preferred; in confirmatory RPI phases, complex, detailed models (e.g., mechanistic models) yield higher accuracy.",
+          "source": "contradiction_driven",
+          "novelty_score": 0.5,
+          "novelty_verdict": "refinement",
+          "is_novel_vs_known": "refinement",
+          "novelty_checked": true
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "curious_questioning": {
+    "observations": [
+      {
+        "observation": "what causes landslides? can we predict them to save lives? ",
+        "source": "What causes landslides? Can we predict them to save lives?",
+        "type": "surprising"
+      }
+    ],
+    "questions": [
+      {
+        "category": "assumption_attack",
+        "question": "What assumption does everyone accept about what are prime numbers and how can we predict them? What if it's wrong?",
+        "from_observation": false
+      },
+      {
+        "category": "scale_transfer",
+        "question": "Does a mechanism at one scale (quantum/molecular) also drive what are prime numbers and how can we predict them at another scale (macroscopic/cosmic)?",
+        "from_observation": false
+      },
+      {
+        "category": "assumption_attack",
+        "question": "What if the standard model of prime numbers predict is fundamentally incomplete?",
+        "from_observation": false
+      },
+      {
+        "category": "assumption_attack",
+        "question": "Do prime numbers truly occur 'randomly' among the integers, or is this assumption obscuring a deeper, predictable structure?"
+      },
+      {
+        "category": "missing_variable",
+        "question": "Is there an unconsidered mathematical 'force' or invariant (e.g., related to divisibility, modular forms, or geometric interpretations of numbers) that influences prime number distribution?"
+      },
+      {
+        "category": "scale_transfer",
+        "question": "Do the statistical patterns observed in the distribution of prime numbers at small scales (e.g., less than 10^6) reliably predict patterns at vastly larger scales (e.g., greater than 10^100)?"
+      },
+      {
+        "category": "cross_domain",
+        "question": "Can insights from predictability in chaotic systems (e.g., weather patterns) or material science (e.g., crystal formation) inform a predictive model for prime numbers?"
+      },
+      {
+        "category": "anomaly",
+        "question": "Why do certain prime number gaps (e.g., the unexpectedly large gap around 113489) defy current probabilistic models, and what underlying mechanism could explain these anomalies?"
+      }
+    ],
+    "core_question": "Is there a hidden, deterministic pattern in the distribution of prime numbers that can be derived from a yet unidentified mathematical operation or principle?",
+    "question_hypothesis": "Yes, such a pattern exists, potentially rooted in a novel application of fractal geometry or a previously unexplored number theoretic principle.",
+    "why_it_matters": "Answering this could lead to a revolutionary prime number theorem, enabling precise prediction of prime numbers, with profound impacts on cryptography, coding theory, and our understanding of number theory's foundations.",
+    "generalizations": [
+      {
+        "observation_a": "The normalized gaps between consecutive prime numbers (after scaling by the average gap) exhibit a distribution with level‑repulsion: small gaps are rarer than would be expected for a Poisson process, and the pair‑correlation function closely follows the sine‑kernel form.",
+        "domain_a": "mathematics",
+        "observation_b": "The spacings between adjacent energy levels of heavy atomic nuclei (or chaotic quantum billiards) follow the Gaussian Orthogonal Ensemble (GOE) statistics of random matrix theory, showing the same level‑repulsion and sine‑kernel pair correlation.",
+        "domain_b": "physics – quantum chaos",
+        "connection": "Both sets of numbers appear to be eigenvalues of a self‑adjoint operator whose classical analogue is chaotic; the same deterministic dynamics that generate chaotic spectra also generate the pattern of prime gaps.",
+        "hypothesis": "There exists a yet‑unidentified Hermitian operator H whose spectrum, when ordered, coincides with the sequence of prime numbers. The operator’s classical limit is a chaotic Hamiltonian, so the statistical properties of its eigenvalues (prime gaps) must obey GOE random‑matrix predictions.",
+        "novelty": "unknown",
+        "testable_prediction": "Higher‑order correlation functions (e.g., the three‑point correlation) of the scaled prime gaps will match GOE predictions to within statistical error, whereas existing probabilistic models (Cramér’s model) predict no such correlations. Precise measurement of prime gaps up to 10^12 should reveal the predicted GOE signatures."
+      },
+      {
+        "observation_a": "The frequency of occurrence of a given prime gap size k (after normalising by log p) decays approximately as a power law: N(k) ∝ k^{-α} with α≈1.5 for moderate k, deviating from the exponential decay expected for a purely random sequence.",
+        "domain_a": "mathematics",
+        "observation_b": "The distribution of landslide volumes follows a Gutenberg‑Richter‑type power law: the number of landslides with volume V scales as V^{-β} with β≈1.5–1.6 across many geological settings.",
+        "domain_b": "geology – landslide dynamics",
+        "connection": "Both phenomena can be modelled as threshold‑driven avalanche processes: stress (or number‑theoretic density) accumulates until a critical condition is met, then a ‘release’ (a prime gap or a landslide) occurs, producing a scale‑free size distribution.",
+        "hypothesis": "Prime numbers are generated by a deterministic cellular‑automaton that mimics the stress‑accumulation and failure dynamics of a granular slope. The same governing rule (a piecewise‑linear map with a critical threshold) produces both the observed prime‑gap power law and the landslide‑size power law.",
+        "novelty": "no",
+        "testable_prediction": "If the cellular‑automaton model is calibrated on landslide data, it will predict the exact exponent α for prime‑gap frequencies. Conversely, measuring prime‑gap statistics for primes up to 10^14 should yield an exponent indistinguishable from the landslide exponent β, a coincidence not expected under random‑gap models."
+      },
+      {
+        "observation_a": "When prime numbers are plotted on a logarithmic frequency axis (log p), the spacing between successive primes tends to cluster around integer multiples of log 2, producing audible beats when interpreted as frequencies of a harmonic series.",
+        "domain_a": "mathematics",
+        "observation_b": "The overtone series of a vibrating string or air column produces frequencies f_n = n·f_1; the beats between non‑harmonic partials occur at frequencies that are integer multiples of the logarithm of the fundamental, creating a pattern of constructive interference at specific logarithmic intervals.",
+        "domain_b": "acoustics – musical instrument physics",
+        "connection": "Both systems involve resonant modes that are spaced logarithmically; the prime‑frequency mapping reveals that primes correspond to resonant peaks where constructive interference (beats) is maximised, analogous to the way harmonic overtones align.",
+        "hypothesis": "Primes are the set of frequencies at which a nonlinear wave equation with fixed boundary conditions exhibits maximal resonance (i.e., minimal damping). The same resonance condition governs the formation of audible beats in musical instruments, implying a shared underlying spectral principle.",
+        "novelty": "unknown",
+        "testable_prediction": "Construct a physical resonator (e.g., a stretched membrane) whose eigenfrequencies are tuned to the first 10,000 primes (scaled to audible range). The resonator will display unusually strong standing‑wave amplitudes at those prime frequencies, exceeding amplitudes predicted by standard membrane theory. Detection of this selective amplification would falsify conventional models that treat prime‑related frequencies as accidental."
+      }
+    ],
+    "constraint": {
+      "core_question": "Is there a hidden, deterministic pattern in the distribution of prime numbers that can be derived from a yet unidentified mathematical operation or principle?",
+      "forbidden_theories": [],
+      "required_properties": [
+        "Provides a deterministic formula or algorithm for predicting prime numbers",
+        "Offers a unified explanation for both small and large prime number distributions",
+        "Makes testable predictions about the distribution of unknown large primes"
+      ],
+      "novelty_direction": "Exploring intersections of fractal geometry, novel number theoretic principles, and interdisciplinary analogies (e.g., with physics, particularly quantum mechanics and chaos theory) to uncover hidden patterns in prime number distribution",
+      "constraint_prompt": "### Discovery Guide Prompt for Novel Prime Number Distribution Theories\n\n**Context (Existing Foundations, Not Boundaries)**\n- **Prime Number Theorem (PNT)**: Describes the distribution of prime numbers among the integers, but does not predict the location of individual primes.\n- **Modular Forms and Elliptic Curves**: Have been used to prove certain properties of primes, but a direct predictive model remains elusive.\n- **Twin Prime Conjecture**: A specific case highlighting our inability to prove the existence of patterns in prime gaps.\n\n**Challenge: Beyond the Known**\nPropose a novel theory that uncovers a deterministic pattern in the distribution of prime numbers. Your approach should ideally:\n- **Provide a deterministic formula or algorithm** for predicting prime numbers, going beyond probabilistic distributions.\n- **Unify the explanation** for the distribution of both small and large primes, addressing any observed discrepancies.\n- **Make testable predictions** about the distribution of unknown large primes, enabling empirical validation.\n\n**Novelty Encouragement**\nConsider drawing inspiration from:\n- **Fractal Geometry**: Are there self-similar patterns at different scales in prime number distribution?\n- **Unexplored Number Theoretic Principles**: Could novel applications of existing or new theorems reveal a hidden order?\n- **Interdisciplinary Analogies**: Might principles from quantum mechanics (e.g., eigenvalue distributions), chaos theory, or the physics of threshold-driven processes (as in landslide predictions) offer a breakthrough analogy for understanding prime number generation?\n\n**Your Task**\nSubmit a concise theory outline, including your novel approach, how it addresses the desirable properties, and a clear method for empirical testing.",
+      "cross_domain_connections": [
+        {
+          "observation_a": "The normalized gaps between consecutive prime numbers (after scaling by the average gap) exhibit a distribution with level‑repulsion: small gaps are rarer than would be expected for a Poisson process, and the pair‑correlation function closely follows the sine‑kernel form.",
+          "domain_a": "mathematics",
+          "observation_b": "The spacings between adjacent energy levels of heavy atomic nuclei (or chaotic quantum billiards) follow the Gaussian Orthogonal Ensemble (GOE) statistics of random matrix theory, showing the same level‑repulsion and sine‑kernel pair correlation.",
+          "domain_b": "physics – quantum chaos",
+          "connection": "Both sets of numbers appear to be eigenvalues of a self‑adjoint operator whose classical analogue is chaotic; the same deterministic dynamics that generate chaotic spectra also generate the pattern of prime gaps.",
+          "hypothesis": "There exists a yet‑unidentified Hermitian operator H whose spectrum, when ordered, coincides with the sequence of prime numbers. The operator’s classical limit is a chaotic Hamiltonian, so the statistical properties of its eigenvalues (prime gaps) must obey GOE random‑matrix predictions.",
+          "novelty": "unknown",
+          "testable_prediction": "Higher‑order correlation functions (e.g., the three‑point correlation) of the scaled prime gaps will match GOE predictions to within statistical error, whereas existing probabilistic models (Cramér’s model) predict no such correlations. Precise measurement of prime gaps up to 10^12 should reveal the predicted GOE signatures."
+        },
+        {
+          "observation_a": "The frequency of occurrence of a given prime gap size k (after normalising by log p) decays approximately as a power law: N(k) ∝ k^{-α} with α≈1.5 for moderate k, deviating from the exponential decay expected for a purely random sequence.",
+          "domain_a": "mathematics",
+          "observation_b": "The distribution of landslide volumes follows a Gutenberg‑Richter‑type power law: the number of landslides with volume V scales as V^{-β} with β≈1.5–1.6 across many geological settings.",
+          "domain_b": "geology – landslide dynamics",
+          "connection": "Both phenomena can be modelled as threshold‑driven avalanche processes: stress (or number‑theoretic density) accumulates until a critical condition is met, then a ‘release’ (a prime gap or a landslide) occurs, producing a scale‑free size distribution.",
+          "hypothesis": "Prime numbers are generated by a deterministic cellular‑automaton that mimics the stress‑accumulation and failure dynamics of a granular slope. The same governing rule (a piecewise‑linear map with a critical threshold) produces both the observed prime‑gap power law and the landslide‑size power law.",
+          "novelty": "no",
+          "testable_prediction": "If the cellular‑automaton model is calibrated on landslide data, it will predict the exact exponent α for prime‑gap frequencies. Conversely, measuring prime‑gap statistics for primes up to 10^14 should yield an exponent indistinguishable from the landslide exponent β, a coincidence not expected under random‑gap models."
+        },
+        {
+          "observation_a": "When prime numbers are plotted on a logarithmic frequency axis (log p), the spacing between successive primes tends to cluster around integer multiples of log 2, producing audible beats when interpreted as frequencies of a harmonic series.",
+          "domain_a": "mathematics",
+          "observation_b": "The overtone series of a vibrating string or air column produces frequencies f_n = n·f_1; the beats between non‑harmonic partials occur at frequencies that are integer multiples of the logarithm of the fundamental, creating a pattern of constructive interference at specific logarithmic intervals.",
+          "domain_b": "acoustics – musical instrument physics",
+          "connection": "Both systems involve resonant modes that are spaced logarithmically; the prime‑frequency mapping reveals that primes correspond to resonant peaks where constructive interference (beats) is maximised, analogous to the way harmonic overtones align.",
+          "hypothesis": "Primes are the set of frequencies at which a nonlinear wave equation with fixed boundary conditions exhibits maximal resonance (i.e., minimal damping). The same resonance condition governs the formation of audible beats in musical instruments, implying a shared underlying spectral principle.",
+          "novelty": "unknown",
+          "testable_prediction": "Construct a physical resonator (e.g., a stretched membrane) whose eigenfrequencies are tuned to the first 10,000 primes (scaled to audible range). The resonator will display unusually strong standing‑wave amplitudes at those prime frequencies, exceeding amplitudes predicted by standard membrane theory. Detection of this selective amplification would falsify conventional models that treat prime‑related frequencies as accidental."
+        }
+      ]
+    }
+  },
+  "duration_seconds": 1738.1,
+  "completed_at": "2026-06-30T22:59:19.732476",
+  "summary_text": "======================================================================\n  DISCOVERY REPORT\n======================================================================\n  Topic: what are prime numbers and how can we predict them\n  Domain: mathematics\n  Mode: standard\n  Duration: 1738.1s\n\n──────────────────────────────────────────────────────────────────────\n  PAPERS (113)\n──────────────────────────────────────────────────────────────────────\n  [crossref] Linearity of the Position of Prime Numbers. The Order of Prime and Composite Num\n    Year: 2023\n  [arxiv] Two statements that are equivalent to a conjecture related to the distribution o\n    Authors: Germán Paz\n    Year: 2014\n  [crossref] The Number of Prime Numbers and Twin Prime Numbers Is Infinite\n    Authors: Wensheng Yin\n  [pubmed] Validation-Aware Retrospective EEG Treatment-Response Modelling Using Chaotic Pa\n    Year: 2026\n  [arxiv] Primitive abundant and weird numbers with many prime factors\n    Authors: Gianluca Amato, Maximilian F. Hasler, Giuseppe Melfi\n    Year: 2018\n  [crossref] Prime Numbers and L-Functions\n    Authors: Amirthan Sotheeswaran\n  [core] A quick look at prime numbers\n    Authors: Lillis, David\n    Year: 2018\n  [core] Prime numbers\n    Authors: Frans Oort\n    Year: 2014\n  [arxiv] 6m Theorem for Prime numbers\n    Authors: Gandarawatta R. W. M. P. I. S. B., Perera S. P. C., Rathnayake R. M. L. S.\n    Year: 2018\n  [arxiv] Continued fractions constructed from prime numbers\n    Authors: Marek Wolf\n    Year: 2010\n  ... and 103 more papers\n\n──────────────────────────────────────────────────────────────────────\n  KNOWLEDGE GRAPH\n──────────────────────────────────────────────────────────────────────\n  Entities: 400\n  Relationships: 5847\n\n──────────────────────────────────────────────────────────────────────\n  KNOWLEDGE GAPS (10)\n──────────────────────────────────────────────────────────────────────\n  [orphan_observation] (7 gaps)\n    - 'Acceleration' is a phenomenon mentioned in 10 paper(s) but has no causal/explanatory mechanism in the graph. It is obse\n    - 'Carcinoma' is a disease mentioned in 8 paper(s) but has no causal/explanatory mechanism in the graph. It is observed bu\n    - 'fluctuation' is a phenomenon mentioned in 8 paper(s) but has no causal/explanatory mechanism in the graph. It is observ\n  [structural_hole] (3 gaps)\n    - These 2186 and 34 entities share type(s) phenomenon, unknown but have no connecting relationships. This may indicate an \n    - These 2186 and 1 entities share type(s) drug but have no connecting relationships. This may indicate an unexplored cross\n    - These 2186 and 4 entities share type(s) concept but have no connecting relationships. This may indicate an unexplored cr\n\n──────────────────────────────────────────────────────────────────────\n  ANOMALIES (10)\n──────────────────────────────────────────────────────────────────────\n  [outlier_entity] 'quantum' has degree 125 (z=8.2), much higher than average (7.1). It's a hub — either a genuine driver or an over-studie\n  [outlier_entity] 'cancer' has degree 114 (z=7.5), much higher than average (7.1). It's a hub — either a genuine driver or an over-studied\n  [outlier_entity] 'act' has degree 87 (z=5.6), much higher than average (7.1). It's a hub — either a genuine driver or an over-studied ent\n  [outlier_entity] 'dark matter' has degree 83 (z=5.3), much higher than average (7.1). It's a hub — either a genuine driver or an over-stu\n  [outlier_entity] 'black hole' has degree 57 (z=3.5), much higher than average (7.1). It's a hub — either a genuine driver or an over-stud\n  [prediction_violation] There's a path concept_rc→Carcinoma→concept_lung_squamous_cell_carcinomas but no direct connection. Either the direct li\n  [prediction_violation] There's a path concept_rc→Carcinoma→cancer but no direct connection. Either the direct link doesn't exist (novel finding\n  [prediction_violation] There's a path concept_rc→Carcinoma→concept_proteasome_system but no direct connection. Either the direct link doesn't e\n\n──────────────────────────────────────────────────────────────────────\n  HIDDEN VARIABLES (8)\n──────────────────────────────────────────────────────────────────────\n  1. [unknown] Unnamed Variable\n\n  2. [unknown] Unnamed Variable\n\n  3. [unknown] Unnamed Variable\n\n  4. [predictive] Prime Resonance Index (PRI)\n     Description: A novel explanatory variable proposing that prime numbers are not just mathematical entities but are interconnected through a 'resonance' phenomenon, akin to quantum entanglement. PRI quantifies the h\n\n  5. [explanatory] Causal Flux Coefficient (CFC) for Anomalous Hubs\n     Description: Explains the high degree of outlier entities ('quantum', 'cancer', etc.) by introducing a Causal Flux Coefficient, measuring how much an entity's influence in literature exceeds its actual causal impa\n\n  6. [unifying] Mathematical Acceleration Constant (MAC) for Prime Generation\n     Description: Addresses the 'acceleration' orphan observation by proposing a constant (MAC) that represents the rate of increase in the 'generation time' of prime numbers as one moves further along the number line.\n\n  7. [contradiction_explanation] Multifaceted Disease Modeling\n     Description: The role of 'theory_model' in disease (cancer) research encompasses diverse modeling approaches, each suited to different aspects of the disease.\n\n  8. [contradiction_explanation] Dynamic Model Relevance\n     Description: The effectiveness of 'theory_model' depends on the phase of research or the specific question being addressed, necessitating a dynamic approach to model selection.\n\n\n----------------------------------------------------------------------\n  CURIOUS QUESTIONING - The Newton Step\n----------------------------------------------------------------------\n  Core Question: Is there a hidden, deterministic pattern in the distribution of prime numbers that can be derived from a yet unidentified mathematical operation or principle?\n  Question Hypothesis: Yes, such a pattern exists, potentially rooted in a novel application of fractal geometry or a previously unexplored number theoretic principle.\n  Why It Matters: Answering this could lead to a revolutionary prime number theorem, enabling precise prediction of prime numbers, with profound impacts on cryptography, coding theory, and our understanding of number t\n  Surprising Observations: 1\n    - what causes landslides? can we predict them to save lives? \n  Questions Generated: 8\n    [assumption_attack] What assumption does everyone accept about what are prime numbers and how can we\n    [scale_transfer] Does a mechanism at one scale (quantum/molecular) also drive what are prime numb\n    [assumption_attack] What if the standard model of prime numbers predict is fundamentally incomplete?\n    [assumption_attack] Do prime numbers truly occur 'randomly' among the integers, or is this assumptio\n    [missing_variable] Is there an unconsidered mathematical 'force' or invariant (e.g., related to div\n  Cross-Domain Connections (Newton's Move): 3\n    Domain A: mathematics: The normalized gaps between consecutive prime numbers (after scaling by the aver\n    Domain B: physics – quantum chaos: The spacings between adjacent energy levels of heavy atomic nuclei (or chaotic q\n    Connection: Both sets of numbers appear to be eigenvalues of a self‑adjoint operator whose classical analogue is\n    Hypothesis: There exists a yet‑unidentified Hermitian operator H whose spectrum, when ordered, coincides with th\n    Prediction: Higher‑order correlation functions (e.g., the three‑point correlation) of the scaled prime gaps will\n\n    Domain A: mathematics: The frequency of occurrence of a given prime gap size k (after normalising by lo\n    Domain B: geology – landslide dynamics: The distribution of landslide volumes follows a Gutenberg‑Richter‑type power law\n    Connection: Both phenomena can be modelled as threshold‑driven avalanche processes: stress (or number‑theoretic \n    Hypothesis: Prime numbers are generated by a deterministic cellular‑automaton that mimics the stress‑accumulatio\n    Prediction: If the cellular‑automaton model is calibrated on landslide data, it will predict the exact exponent \n\n    Domain A: mathematics: When prime numbers are plotted on a logarithmic frequency axis (log p), the spac\n    Domain B: acoustics – musical instrument physics: The overtone series of a vibrating string or air column produces frequencies f_n\n    Connection: Both systems involve resonant modes that are spaced logarithmically; the prime‑frequency mapping rev\n    Hypothesis: Primes are the set of frequencies at which a nonlinear wave equation with fixed boundary conditions \n    Prediction: Construct a physical resonator (e.g., a stretched membrane) whose eigenfrequencies are tuned to the \n\n  Curiosity Constraint (Track B):\n    Required Properties:\n      + Provides a deterministic formula or algorithm for predicting prime numbers\n      + Offers a unified explanation for both small and large prime number distributions\n      + Makes testable predictions about the distribution of unknown large primes\n    Novelty Direction: Exploring intersections of fractal geometry, novel number theoretic principles, and interdisciplinary analogies (e.g., with physics, particularly quantum mechanics and chaos theory) to uncover hidden patterns in prime number distribution\n\n======================================================================"
+}

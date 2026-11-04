@@ -1,0 +1,231 @@
+============================================================================
+  RUMI STRUCTURED DISCOVERY REPORT
+  Autonomous AI-Driven Scientific Discovery
+============================================================================
+  Generated: 2026-07-04T22:58:10
+  Pipeline: RUMI v2 (full mode) | Duration: 1343s
+
+----------------------------------------------------------------------------
+  1. ABSTRACT
+----------------------------------------------------------------------------
+
+  Topic: What specific neural processes during REM sleep encode,
+  consolidate, and integrate recent experiences into long‑term memory, and
+  how does this mechanistic activity give rise to the phenomenology of
+  dreaming?
+  Lead hypothesis: Predictive Coding Dream Generator Theory
+  This theory suggests that the brain's predictive coding mechanisms, which
+  are normally involved in perception and learning, are also active during
+  REM sleep and generate the phenomenology of dreaming. The brain predicts
+  sensory inputs based on past experiences and updates its internal models
+  acco...
+  Based on 104 papers, 0 hidden variables, 0 mechanisms, 6 predictions.
+  Score: 54/100 (Grade: C) | Confidence: 12%
+  Unifying principle: Neural resonance during REM sleep integrates recent
+  experiences into long-term memory through synchronized oscillations,
+  giving rise to the phenomenology of dreaming
+
+----------------------------------------------------------------------------
+  2. CONTEXT & LITERATURE
+----------------------------------------------------------------------------
+
+  Domain: neuroscience | Papers: 104
+  Sources: 35 arxiv, 29 crossref, 21 pubmed, 10 inspire_hep, 9 openalex
+  Key Literature:
+    [openalex] Adam: A Method for Stochastic Optimization (2014, 84784 cites)
+    [openalex] MizAR 60 for Mizar 50 (2023, 76347 cites)
+    [openalex] ImageNet classification with deep convolutional neural  (2017, 75710 cites)
+    [openalex] Very Deep Convolutional Networks for Large-Scale Image  (2014, 75541 cites)
+    [openalex] Gradient-based learning applied to document recognition (1998, 58337 cites)
+  Knowledge Graph: 399 entities, 5937 relationships
+
+----------------------------------------------------------------------------
+  3. HYPOTHESIS
+----------------------------------------------------------------------------
+
+  Name: Predictive Coding Dream Generator Theory
+  Type: alternative | Classification: extension
+
+  Statement:
+    This theory suggests that the brain's predictive coding mechanisms,
+    which are normally involved in perception and learning, are also active
+    during REM sleep and generate the phenomenology of dreaming. The brain
+    predicts sensory inputs based on past experiences and updates its
+    internal models accordingly.
+
+  Explains:
+    - dream content is related to past experiences
+
+----------------------------------------------------------------------------
+  4. PROPOSED MECHANISM(S) (0)
+----------------------------------------------------------------------------
+
+  Mechanism Completeness: 0.41/1.0 (3/15 complete)
+
+----------------------------------------------------------------------------
+  6. TESTABLE PREDICTIONS (6)
+----------------------------------------------------------------------------
+
+  1. [CORRELATIONAL]
+     If the amplitude of the REM‑Integrated Oscillatory Field (RIOF)
+     increases by 1 standard deviation (≈0.12 µV) during REM, then the
+     average spine‑head volume of pyramidal neurons in layer 2/3 of the
+     prefrontal cortex will increase by ≈15 % within 30...
+     Falsification: If no statistically significant relationship (p > 0.2) is found between RIOF amplitude and spine‑volume change, the prediction is falsified.
+
+  2. [INTERVENTIONAL]
+     If cholinergic tone in the basal forebrain is optogenetically
+     suppressed (continuous 590 nm illumination, 5 mW) during REM, then RIOF
+     amplitude will drop by ≈40 % and the Theta‑Delta Phase Coupling Index
+     (TDPCI) will fall by ≈30 %, leading to a 25...
+     Falsification: If cholinergic suppression does not produce the predicted ≥30 % TDPCI decline or the memory deficit is <10 %, the hypothesis is falsified.
+
+  3. [NOVEL]
+     If the Theta‑Delta Phase Coupling Index (TDPCI) measured during REM is
+     0.1 higher (e.g., 0.45 vs. 0.35), then participants will rate their
+     dream vividness 0.5 points higher on a 10‑point Likert scale the
+     following morning (n = 30 human subjects).
+     Falsification: If the regression slope is not significantly different from zero (p > 0.1) or the effect size <0.1 points per 0.1 TDPCI, the prediction is falsified.
+
+  4. [COUNTERFACTUAL]
+     If hippocampal sharp‑wave ripples are pharmacologically blocked during
+     REM (e.g., by systemic injection of 1‑methyl‑4‑phenyl‑pyridinium,
+     2 mg/kg), then the Synaptic Replay Entropy Gradient (SREG) variance
+     across cortical layers will be reduced by ...
+     Falsification: If SREG variance does not change (Δ < 10 %) or maze performance is unchanged (Δ < 5 %), the prediction is falsified.
+
+  5. [NOVEL]
+     If the phase offset between the peak of the RIOF and the trough of
+     cortical delta waves is within ±10° during REM, then the semantic
+     coherence score of subsequent dream reports (rated by independent
+     judges on a 0‑10 scale) will exceed 8; offsets >...
+     Falsification: If coherence scores do not differ significantly between the two phase‑offset groups (p > 0.2), the prediction is falsified.
+
+  6. [CORRELATIONAL]
+     If the Resonant Binding Factor (RBF) increases by 0.05 (e.g., from 0.30
+     to 0.35) during REM, then overnight improvement on a motor sequence
+     task will increase by ≈3 % (measured as reduced execution time, n = 18
+     mice).
+     Falsification: If the correlation coefficient r < 0.1 or p > 0.3, the prediction is falsified.
+
+----------------------------------------------------------------------------
+  7. EXPERIMENTAL VALIDATION PLAN
+----------------------------------------------------------------------------
+
+  Domain: neuroscience
+    - Electrophysiology (patch-clamp, multi-electrode array)
+    - Functional imaging (fMRI, calcium imaging)
+    - Optogenetic/chemogenetic manipulation for causal testing
+    - Behavioral assays with appropriate statistical power
+
+  Pipeline-Generated Plans:
+    Plan 1: 1. Implant chronic tetrodes and fiber‑photometry probes in dorsal CA1, ventral CA1, medial prefrontal cortex (mPFC) and basal forebrain (BF) of adult male Long‑Evans rats (n=60). 2. Inject AAV5‑ChA...
+    Plan 2: 1. Implant chronic tetrode arrays in dorsal CA1 of the hippocampus and in medial prefrontal cortex (mPFC) of adult Long‑Evans rats (n=48). 2. Inject AAV5‑CaMKII‑ArchT‑GFP into the basal forebrain (...
+
+----------------------------------------------------------------------------
+  8. EVIDENCE ASSESSMENT
+----------------------------------------------------------------------------
+
+  Scoring Breakdown:
+    Novelty                   [##############......]  72.0/100 (w=25%)
+    Explanatory Power         [##################..]  94.0/100 (w=20%)
+    Predictive Power          [####################] 100.0/100 (w=15%)
+    Falsifiability            [####################] 100.0/100 (w=12%)
+    Simplicity                [###############.....]  77.0/100 (w=8%)
+    Evidence Strength         [###########.........]  55.3/100 (w=12%)
+    Math Rigor                [####................]  20.0/100 (w=8%)
+
+  Final Score: 54/100 (Grade: C)
+    - Skeptic: revise (-2)
+    - Critical eval 3.8/10 (-8)
+    - Critical eval: major_revision -> capped at B (64)
+
+  Strengths:
+    + novelty: 72/100
+    + explanatory_power: 94/100
+    + predictive_power: 100/100
+    + falsifiability: 100/100
+    + simplicity: 77/100
+
+  Weaknesses:
+    - mathematical_rigor: 20/100
+
+  Peer Review: 3.8/10 (recommendation: major_revision)
+    The Resonance Binding Theory offers an intriguing, albeit incremental, perspective on how REM sleep may coordinate hippocampal and cortical activity to support memory consolidation and dreaming. Th...
+    Major Issues:
+      ! Lack of a quantitative or computational model linking RBF/RIOF to observable neural signals.
+      ! Predictions are truncated and lack concrete, testable parameters (e.g., missing units, effect sizes).
+      ! Insufficient experimental detail for the proposed optogenetic and electrophysiological manipulations.
+
+  Skeptic Review: revise (confidence: 73%)
+
+  Confidence: 12%
+    WARNING: Very low confidence - treat as preliminary hypothesis
+
+----------------------------------------------------------------------------
+  9. ALTERNATIVE EXPLANATIONS (5 runners-up)
+----------------------------------------------------------------------------
+
+  2. REM Sleep Oscillation Theory (score: 0.57)
+     This theory proposes that the neural processes during REM sleep encode,
+     consolidate, and integrate recent experiences into long-term memory
+     through the interaction of hippocampa...
+
+  3. Cross-Domain Theory (score: 0.57)
+     This theory proposes that the neural processes during REM sleep encode,
+     consolidate, and integrate recent experiences into long-term memory
+     through the interaction of neural and...
+
+  4. Neural Attunement Theory (score: 0.50)
+     This theory proposes that the neural processes during REM sleep encode,
+     consolidate, and integrate recent experiences into long-term memory
+     through the attunement of neural acti...
+
+  5. Transformer Neural Process Theory (score: 0.50)
+     This theory proposes that the neural processes during REM sleep encode,
+     consolidate, and integrate recent experiences into long-term memory
+     through the use of transformer neural...
+
+----------------------------------------------------------------------------
+  11. EPISTEMIC LIMITATIONS
+----------------------------------------------------------------------------
+
+  - Literature: 104 papers analyzed. Field likely has hundreds more.
+  - Predictions: 6 untested. Score reflects potential, not validation.
+  - Mechanism completeness: 0.41/1.0. Treat as working hypotheses.
+  - Confidence: 12%. Insufficient to distinguish from noise.
+  - Peer review: major_revision. Significant issues identified.
+
+----------------------------------------------------------------------------
+  12. WHAT WOULD STRENGTHEN OR REFUTE THIS
+----------------------------------------------------------------------------
+
+  To STRENGTHEN:
+    + Address major issues from peer review
+    + Complete mechanism derivations with explicit equations
+    + Experimental confirmation of at least one prediction
+    + Cross-validation against holdout literature
+    + Independent replication by another group
+
+  To REFUTE:
+    - If no statistically significant relationship (p > 0.2) is found between RIOF amplitude and spine‑volume change, the prediction is falsified.
+    - If cholinergic suppression does not produce the predicted ≥30 % TDPCI decline or the memory deficit is <10 %, the hypothesis is falsified.
+    - If the regression slope is not significantly different from zero (p > 0.1) or the effect size <0.1 points per 0.1 TDPCI, the prediction is falsified.
+
+----------------------------------------------------------------------------
+  13. PIPELINE METADATA
+----------------------------------------------------------------------------
+
+  Domain: neuroscience | Mode: full | Duration: 1343s
+  Papers: 104 | Entities: 399 | Relations: 5937
+  Hidden Variables: 0 | Mechanisms: 0
+  Predictions: 6 | Theories: 6
+  Recurrent Loops: 3
+    Loop 1: score=0.650, winner="Predictive Coding Dream Generator Theory", strategy=exploratory
+    Loop 2: score=0.600, winner="Theta-Delta Phase Coupling Index Theory", strategy=rigorous
+    Loop 3: score=0.650, winner="Predictive Coding Dream Generator Theory", strategy=convergent
+
+============================================================================
+  END OF STRUCTURED REPORT
+  Generated by RUMI - Autonomous AI-Driven Scientific Discovery
+============================================================================

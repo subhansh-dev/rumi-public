@@ -1,0 +1,236 @@
+============================================================================
+  RUMI STRUCTURED DISCOVERY REPORT
+  Autonomous AI-Driven Scientific Discovery
+============================================================================
+  Generated: 2026-06-18T19:07:01
+  Pipeline: RUMI v2 (full mode) | Duration: 21.2h
+
+----------------------------------------------------------------------------
+  1. ABSTRACT
+----------------------------------------------------------------------------
+
+  Topic: What microscopic electronic or structural feature distinguishes
+  topological superconductors that host non‑abelian anyons from structurally
+  similar materials that do not, and how can this feature be deliberately
+  engineered?
+  Lead hypothesis: Surface Reconstruction vs Bulk Band Inversion Competition
+  Theory
+  In certain iron‑based superconductors the surface terminates in a
+  reconstructed layer that can either preserve the bulk band inversion or
+  locally restore a trivial band ordering. The competition between surface
+  reconstruction energy (E_rec) and bulk inversion energy (E_inv) determines
+  whether Maj...
+  Based on 95 papers, 0 hidden variables, 0 mechanisms, 7 predictions.
+  Score: 50/100 (Grade: C) | Confidence: 16%
+  Unifying principle: A single momentum‑space Berry‑curvature monopole
+  (non‑trivial band inversion) that survives the superconducting transition
+  and endows the paired state with a topological invariant, thereby
+  generati...
+
+----------------------------------------------------------------------------
+  2. CONTEXT & LITERATURE
+----------------------------------------------------------------------------
+
+  Domain: materials_science | Papers: 95
+  Sources: 35 arxiv, 23 crossref, 20 openalex, 15 pubmed, 2 inspire_hep
+  Key Literature:
+    [openalex] QUANTUM ESPRESSO: a modular and open-source software pr (2009, 28791 cites)
+    [openalex] 2015 American Thyroid Association Management Guidelines (2015, 16380 cites)
+    [openalex] 2013 ESH/ESC Guidelines for the management of arterial  (2013, 13674 cites)
+    [openalex] CHARMM: The biomolecular simulation program (2009, 9128 cites)
+    [openalex] The MARTINI Force Field:  Coarse Grained Model for Biom (2007, 5725 cites)
+  Knowledge Graph: 372 entities, 5166 relationships
+
+----------------------------------------------------------------------------
+  3. HYPOTHESIS
+----------------------------------------------------------------------------
+
+  Name: Surface Reconstruction vs Bulk Band Inversion Competition Theory
+  Type: creative | Classification: extension
+
+  Statement:
+    In certain iron‑based superconductors the surface terminates in a
+    reconstructed layer that can either preserve the bulk band inversion or
+    locally restore a trivial band ordering. The competition between surface
+    reconstruction energy (E_rec) and bulk inversion energy (E_inv)
+    determines whether Majorana zero modes appear.
+
+  Explains:
+    - Observation 6 (missing direct link)
+    - Relevant Paper 3 (Observation of topological superconductivity on the surface of an iron‑based su...
+    - Relevant Paper 5 (Lifshitz transitions in multi‑band Hubbard models)
+    - Proposed Hidden Variable 5 (Surface Reconstruction vs Bulk Band Inversion)
+
+----------------------------------------------------------------------------
+  4. PROPOSED MECHANISM(S) (0)
+----------------------------------------------------------------------------
+
+  Mechanism Completeness: 0.03/1.0 (0/14 complete)
+  WARNING: Low completeness - treat as preliminary hypotheses
+
+----------------------------------------------------------------------------
+  6. TESTABLE PREDICTIONS (7)
+----------------------------------------------------------------------------
+
+  1. [INTERVENTIONAL]
+     If a topological superconductor with a non-trivial Z2 invariant is
+     engineered with a spin-orbit coupling strength (λ_SO) greater than 0.5
+     eV, then the zero-bias conductance peak in tunneling spectroscopy will
+     exceed 0.1 μS at 0.1 K.
+     Falsification: Observation of a zero-bias conductance peak below 0.05 μS at 0.1 K for λ_SO > 0.5 eV.
+
+  2. [NOVEL]
+     If the Interlayer Quantum Geometry Curvature (IQGC) in a quasi-2D
+     superconductor is greater than 0.01 Å^-1, then the topological
+     superconducting gap will exceed 0.5 meV at 1 K.
+     Falsification: Observation of a topological superconducting gap below 0.2 meV at 1 K for IQGC > 0.01 Å^-1.
+
+  3. [INTERVENTIONAL]
+     If a topological insulator-superconductor interface is engineered with
+     a proximity-induced superconducting gap greater than 0.2 meV, then the
+     Majorana bound state will exhibit a zero-bias conductance peak
+     exceeding 0.05 μS at 0.1 K.
+     Falsification: Observation of a zero-bias conductance peak below 0.02 μS at 0.1 K for a proximity-induced gap > 0.2 meV.
+
+  4. [NOVEL]
+     If the Spin-Orbit Entanglement Index (SOEI) in a topological
+     superconductor is greater than 0.5, then the non-Abelian anyon will
+     exhibit a braiding statistics phase of π/2 ± 0.1 rad at 0.1 K.
+     Falsification: Observation of a braiding statistics phase outside the range π/2 ± 0.2 rad at 0.1 K for SOEI > 0.5.
+
+  5. [NOVEL]
+     If the Momentum-Resolved Pairing Phase Gradient (MRPG) in a topological
+     superconductor is greater than 0.01 Å^-1, then the topological
+     superconducting gap will exhibit a momentum-dependent anisotropy
+     exceeding 10% at 1 K.
+     Falsification: Observation of a topological superconducting gap anisotropy below 5% at 1 K for MRPG > 0.01 Å^-1.
+
+  6. [INTERVENTIONAL]
+     If a topological superconductor with a non-trivial Z2 invariant is
+     subjected to a perpendicular magnetic field exceeding Hc1, then the
+     vortex core will host a localized zero-energy state with a spatial
+     extent less than 10 nm at 0.1 K.
+     Falsification: Observation of a vortex core size exceeding 20 nm or no zero-energy state at 0.1 K for H > Hc1.
+
+  7. [INTERVENTIONAL]
+     If the odd-parity pairing symmetry in a topological superconductor is
+     engineered with a strain or chemical substitution, then the
+     superconducting order parameter will exhibit a non-trivial winding
+     exceeding π/2 at 1 K.
+     Falsification: Observation of a superconducting order parameter with trivial winding at 1 K for engineered odd-parity pairing symmetry.
+
+----------------------------------------------------------------------------
+  7. SYNTHESIS AND CHARACTERIZATION PLAN
+----------------------------------------------------------------------------
+
+  Domain: materials_science
+    - Material synthesis under predicted conditions
+    - Structural characterization (XRD, TEM, SEM, AFM)
+    - Property measurement (mechanical, thermal, electrical)
+    - Computational validation (DFT, MD simulation)
+
+  Pipeline-Generated Plans:
+    Plan 1: 1. Grow epitaxial thin films (≈10 nm) of the iron‑based superconductor Fe(Se,Te) on SrTiO3 substrates by molecular‑beam epitaxy (MBE). Vary the surface reconstruction by (a) post‑growth annealing a...
+    Plan 2: 1. Grow epitaxial thin films of a strong‑SOC topological insulator (e.g., Bi2Se3) on an insulating substrate using molecular‑beam epitaxy (MBE). 2. Deposit a monolayer of a heavy‑atom interfacial m...
+
+----------------------------------------------------------------------------
+  8. EVIDENCE ASSESSMENT
+----------------------------------------------------------------------------
+
+  Scoring Breakdown:
+    Novelty                   [##############......]  72.0/100 (w=25%)
+    Explanatory Power         [####################] 100.0/100 (w=20%)
+    Predictive Power          [####################] 100.0/100 (w=15%)
+    Falsifiability            [####################] 100.0/100 (w=12%)
+    Simplicity                [#############.......]  66.0/100 (w=8%)
+    Evidence Strength         [###########.........]  59.5/100 (w=12%)
+    Math Rigor                [###########.........]  55.0/100 (w=8%)
+
+  Final Score: 50/100 (Grade: C)
+    - Skeptic: revise (-2)
+    - Critical eval 5.8/10 (-3)
+    - Critical eval: major_revision -> capped at B (64)
+    - All mechanisms hollow (completeness 0.03) -> capped at 50
+
+  Strengths:
+    + novelty: 72/100
+    + explanatory_power: 100/100
+    + predictive_power: 100/100
+    + falsifiability: 100/100
+
+  Peer Review: 5.8/10 (recommendation: major_revision)
+    The manuscript introduces an intriguing "Surface Reconstruction vs Bulk Band Inversion Competition" theory to explain why some iron‑based superconductors host non‑abelian anyons while structurally ...
+    Major Issues:
+      ! Absence of quantitative modeling: no calculations or simulations that estimate E_rec and E_inv for realistic surface ...
+      ! Insufficient experimental detail: the manuscript does not specify how to measure or control the competing energies in...
+      ! Incomplete coverage of existing observations: key experimental facts (e.g., Observation 1) are left unexplained, rais...
+
+  Skeptic Review: revise (confidence: 62%)
+
+  Confidence: 16%
+    NOTE: Low confidence - additional evidence needed
+
+----------------------------------------------------------------------------
+  9. ALTERNATIVE EXPLANATIONS (8 runners-up)
+----------------------------------------------------------------------------
+
+  2. Engineered Proximity‑Induced Topological Superconductivity (score: 0.60)
+     By stacking a strong‑SOC topological insulator (TI) with a conventional
+     s‑wave superconductor (SC) and inserting a thin interfacial layer that
+     breaks inversion symmetry, one can...
+
+  3. Interlayer Quantum Geometry Curvature (IQGC) Theory (score: 0.55)
+     The tensor IQGC_ij = ∂_i Ω_j – ∂_j Ω_i, where Ω_i is the layer‑resolved
+     Berry curvature, captures how quantum geometry varies between adjacent
+     atomic layers. A large IQGC create...
+
+  4. Vortex‑Flux Quantization Majorana Localization Theory (score: 0.55)
+     Magnetic vortices in a type‑II superconductor quantize flux in units of
+     Φ₀ = h/2e. When the vortex core hosts a spin‑polarized bound state
+     whose energy aligns with the chemical ...
+
+  5. Spin‑Orbit Entanglement Index (SOEI) Theory (score: 0.54)
+     A scalar index, SOEI = ⟨L·S⟩/⟨L⟩⟨S⟩, quantifies the quantum‑mechanical
+     entanglement between local spin‑orbit coupling and the orbital
+     character of states at the Fermi surface. W...
+
+----------------------------------------------------------------------------
+  11. EPISTEMIC LIMITATIONS
+----------------------------------------------------------------------------
+
+  - Literature: 95 papers analyzed. Field likely has hundreds more.
+  - Predictions: 7 untested. Score reflects potential, not validation.
+  - Mechanism completeness: 0.03/1.0. Treat as working hypotheses.
+  - Confidence: 16%. Insufficient to distinguish from noise.
+  - Peer review: major_revision. Significant issues identified.
+
+----------------------------------------------------------------------------
+  12. WHAT WOULD STRENGTHEN OR REFUTE THIS
+----------------------------------------------------------------------------
+
+  To STRENGTHEN:
+    + Complete mechanism derivations with explicit equations
+    + Experimental confirmation of at least one prediction
+    + Cross-validation against holdout literature
+    + Independent replication by another group
+
+  To REFUTE:
+    - Observation of a zero-bias conductance peak below 0.05 μS at 0.1 K for λ_SO > 0.5 eV.
+    - Observation of a topological superconducting gap below 0.2 meV at 1 K for IQGC > 0.01 Å^-1.
+    - Observation of a zero-bias conductance peak below 0.02 μS at 0.1 K for a proximity-induced gap > 0.2 meV.
+
+----------------------------------------------------------------------------
+  13. PIPELINE METADATA
+----------------------------------------------------------------------------
+
+  Domain: materials_science | Mode: full | Duration: 21.2h
+  Papers: 95 | Entities: 372 | Relations: 5166
+  Hidden Variables: 0 | Mechanisms: 0
+  Predictions: 7 | Theories: 9
+  Recurrent Loops: 1
+    Loop 1: score=0.607, winner="Interface‑Induced Rashba Odd‑Parity Pair", strategy=exploratory
+
+============================================================================
+  END OF STRUCTURED REPORT
+  Generated by RUMI - Autonomous AI-Driven Scientific Discovery
+============================================================================

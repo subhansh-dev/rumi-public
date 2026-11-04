@@ -1,0 +1,2110 @@
+{
+  "topic": "Targeted protein degradation - substrate specificity determinants for molecular glues vs PROTACs in cancer therapy",
+  "domain": "drug_discovery",
+  "mode": "standard",
+  "pipeline_version": "v2_discovery",
+  "started_at": "2026-06-28T18:44:38.088228",
+  "phases": {
+    "literature": {
+      "papers_found": 101,
+      "sources": [
+        "core",
+        "pubmed",
+        "openalex",
+        "arxiv",
+        "crossref"
+      ],
+      "papers": [
+        {
+          "source": "arxiv",
+          "id": "2601.18716",
+          "title": "Conditioned Generative Modeling of Molecular Glues: A Realistic AI Approach for Synthesizable Drug-like Molecules",
+          "abstract": "Alzheimer's disease (AD) is marked by the pathological accumulation of amyloid beta-42 (Abeta-42), contributing to synaptic dysfunction and neurodegeneration. While extracellular amyloid plaques are well-studied, increasing evidence highlights intracellular Abeta-42 as an early and toxic driver of disease progression. In this study, we present a novel, AI-assisted drug design approach to promote targeted degradation of Abeta-42 via the ubiquitin-proteasome system (UPS), using E3 ligase-directed ",
+          "authors": [
+            "Naeyma N. Islam",
+            "Thomas R. Caulfield"
+          ],
+          "year": "2026",
+          "url": "https://arxiv.org/pdf/2601.18716v1",
+          "citation_key": "arXiv:2601.18716",
+          "pmid": "2601.18716"
+        },
+        {
+          "source": "arxiv",
+          "id": "2605.11221",
+          "title": "Beyond Manual Curation: Augmenting Targeted Protein Degradation Databases via Agentic Literature Extraction Workflows",
+          "abstract": "Predictive models in biomedicine depend on structured assay data locked in the text, tables, and supplements of primary publications. This bottleneck is especially acute in targeted protein degradation (TPD), where each assay record must combine compound identity, degradation target, recruiter, assay context, and endpoint values reported across sections, tables, and supplementary files. Inconsistent compound identifiers and incomplete or implicit assay context further demand domain-specific logi",
+          "authors": [
+            "Yaochen Rao",
+            "Farzaneh Jalalypour",
+            "N. M. Anoop Krishnan",
+            "Rocío Mercado"
+          ],
+          "year": "2026",
+          "url": "https://arxiv.org/pdf/2605.11221v1",
+          "citation_key": "arXiv:2605.11221",
+          "pmid": "2605.11221"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1016/j.drudis.2025.104563",
+          "title": "Machine learning in targeted protein degradation drug design: a technical review of PROTACs and molecular glues",
+          "abstract": "",
+          "authors": [
+            "Chieh-Te Lin",
+            "Ya-Ping Shiau",
+            "Chu-Chung Lin"
+          ],
+          "year": "2026",
+          "url": "https://doi.org/10.1016/j.drudis.2025.104563",
+          "citation_key": "DOI:10.1016/j.drudis.202",
+          "citation_count": 10,
+          "pmid": "10.1016/j.drudis.2025.104563"
+        },
+        {
+          "source": "arxiv",
+          "id": "2504.06806",
+          "title": "Mass Balance Approximation of Unfolding Improves Potential-Like Methods for Protein Stability Predictions",
+          "abstract": "The prediction of protein stability changes following single-point mutations plays a pivotal role in computational biology, particularly in areas like drug discovery, enzyme reengineering, and genetic disease analysis. Although deep-learning strategies have pushed the field forward, their use in standard workflows remains limited due to resource demands. Conversely, potential-like methods are fast, intuitive, and efficient. Yet, these typically estimate Gibbs free energy shifts without consideri",
+          "authors": [
+            "Ivan Rossi",
+            "Guido Barducci",
+            "Tiziana Sanavia",
+            "Paola Turina",
+            "Emidio Capriotti"
+          ],
+          "year": "2025",
+          "url": "https://arxiv.org/pdf/2504.06806v1",
+          "citation_key": "arXiv:2504.06806",
+          "pmid": "2504.06806"
+        },
+        {
+          "source": "arxiv",
+          "id": "2510.26806",
+          "title": "Molecular glues stabilize water-mediated hydrogen bonds in ternary complexes",
+          "abstract": "By stabilizing weak and transient protein-protein interactions (PPIs), molecular glues address the challenge of targeting proteins previously considered undruggable. Rapamycin and WDB002 are molecular glues that bind to FK506-binding protein (FKBP12) and target the FKBP12-rapamycin-associated protein (FRAP) and the centrosomal protein 250 (CEP250), respectively. Here, we used molecular dynamics simulations to gain insights into the effects of molecular glues on protein conformation and PPIs. The",
+          "authors": [
+            "Apoorva Mathur",
+            "Mariona Alegre Canela",
+            "Max von Graevenitz",
+            "Chiara Gerstner",
+            "Ariane Nunes-Alves"
+          ],
+          "year": "2025",
+          "url": "https://arxiv.org/pdf/2510.26806v1",
+          "citation_key": "arXiv:2510.26806",
+          "pmid": "2510.26806"
+        },
+        {
+          "source": "arxiv",
+          "id": "2502.18875",
+          "title": "SE(3)-Equivariant Ternary Complex Prediction Towards Target Protein Degradation",
+          "abstract": "Targeted protein degradation (TPD) induced by small molecules has emerged as a rapidly evolving modality in drug discovery, targeting proteins traditionally considered \"undruggable\". Proteolysis-targeting chimeras (PROTACs) and molecular glue degraders (MGDs) are the primary small molecules that induce TPD. Both types of molecules form a ternary complex linking an E3 ligase with a target protein, a crucial step for drug discovery. While significant advances have been made in binary structure pre",
+          "authors": [
+            "Fanglei Xue",
+            "Meihan Zhang",
+            "Shuqi Li",
+            "Xinyu Gao",
+            "James A. Wohlschlegel"
+          ],
+          "year": "2025",
+          "url": "https://arxiv.org/pdf/2502.18875v1",
+          "citation_key": "arXiv:2502.18875",
+          "pmid": "2502.18875"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1016/j.bcp.2025.117297",
+          "title": "Molecular glues and PROTACs in targeted protein degradation: mechanisms, advances, and therapeutic potential",
+          "abstract": "",
+          "authors": [
+            "Omar Eladl"
+          ],
+          "year": "2025",
+          "url": "https://doi.org/10.1016/j.bcp.2025.117297",
+          "citation_key": "DOI:10.1016/j.bcp.2025.1",
+          "citation_count": 25,
+          "pmid": "10.1016/j.bcp.2025.117297"
+        },
+        {
+          "source": "crossref",
+          "id": "10.12729/jbtr.2025.26.2.21",
+          "title": "Targeted protein degradation: therapeutic potential and challenges of\n                    PROTACs and molecular glues",
+          "abstract": "",
+          "authors": [
+            "Sun Kim",
+            "Eui-Bae Jeung"
+          ],
+          "year": "2025",
+          "url": "https://doi.org/10.12729/jbtr.2025.26.2.21",
+          "citation_key": "DOI:10.12729/jbtr.2025.2",
+          "citation_count": 2,
+          "pmid": "10.12729/jbtr.2025.26.2.21"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1002/ardp.70045",
+          "title": "DCAF16‐Based Covalent Molecular Glues for Targeted Protein Degradation of Histone Deacetylases",
+          "abstract": "ABSTRACT\n                  \n                    Histone deacetylases (HDACs) are intriguing cancer targets due to their high expression in many tumors. Consequently, inhibition or degradation of HDACs can be beneficial for cancer therapy. Targeted protein degradation using molecular glues represents a promising therapeutic approach, enabling the specific degradation of numerous disease‐causing proteins. However, the rational design of molecular glues in a target‐",
+          "authors": [
+            "Tao Sun",
+            "Shiyang Zhai",
+            "Stephan Lepper",
+            "Beate König",
+            "Mateo Malenica"
+          ],
+          "year": "2025",
+          "url": "https://doi.org/10.1002/ardp.70045",
+          "citation_key": "DOI:10.1002/ardp.70045",
+          "citation_count": 3,
+          "pmid": "10.1002/ardp.70045"
+        },
+        {
+          "source": "pubmed",
+          "id": "39972349",
+          "title": "Cullin-RING ligase BioE3 reveals molecular-glue-induced neosubstrates and rewiring of the endogenous Cereblon ubiquitome.",
+          "abstract": "The specificity of the ubiquitination process is mediated by the E3 ligases. Discriminating genuine substrates of E3s from mere interacting proteins is one of the major challenges in the field. We previously developed BioE3, a biotin-based approach that uses BirA-E3 fusions together with ubiquitin fused to a low-affinity AviTag to obtain a site-specific and proximity-dependent biotinylation of the substrates. We proved the suitability of BioE3 to identify targets of RING and HECT-type E3 ligases. BioE3 experiments were performed in HEK293FT and U2OS stable cell lines expressing TRIPZ-bioGEFUb ",
+          "authors": [],
+          "year": "2025",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39972349/",
+          "citation_key": "PMID:39972349",
+          "pmid": "39972349"
+        },
+        {
+          "source": "arxiv",
+          "id": "2410.20317",
+          "title": "ProtSCAPE: Mapping the landscape of protein conformations in molecular dynamics",
+          "abstract": "Understanding the dynamic nature of protein structures is essential for comprehending their biological functions. While significant progress has been made in predicting static folded structures, modeling protein motions on microsecond to millisecond scales remains challenging. To address these challenges, we introduce a novel deep learning architecture, Protein Transformer with Scattering, Attention, and Positional Embedding (ProtSCAPE), which leverages the geometric scattering transform alongsi",
+          "authors": [
+            "Siddharth Viswanath",
+            "Dhananjay Bhaskar",
+            "David R. Johnson",
+            "Joao Felipe Rocha",
+            "Egbert Castro"
+          ],
+          "year": "2024",
+          "url": "https://arxiv.org/pdf/2410.20317v1",
+          "citation_key": "arXiv:2410.20317",
+          "pmid": "2410.20317"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1016/j.drudis.2024.104205",
+          "title": "Advances in molecular glues: exploring chemical space and design principles for targeted protein degradation",
+          "abstract": "",
+          "authors": [
+            "S Hemant Kumar",
+            "Muthukumaran Venkatachalapathy",
+            "Ramesh Sistla",
+            "Vasanthanathan Poongavanam"
+          ],
+          "year": "2024",
+          "url": "https://doi.org/10.1016/j.drudis.2024.104205",
+          "citation_key": "DOI:10.1016/j.drudis.202",
+          "citation_count": 36,
+          "pmid": "10.1016/j.drudis.2024.104205"
+        },
+        {
+          "source": "pubmed",
+          "id": "37379266",
+          "title": "Oligomeric Remodeling by Molecular Glues Revealed Using Native Mass Spectrometry and Mass Photometry.",
+          "abstract": "Molecular glues stabilize interactions between E3 ligases and novel substrates to promote substrate degradation, thereby facilitating the inhibition of traditionally \"undruggable\" protein targets. However, most known molecular glues have been discovered fortuitously or are based on well-established chemical scaffolds. Efficient approaches for discovering and characterizing the effects of molecular glues on protein interactions are required to accelerate the discovery of novel agents. Here, we demonstrate that native mass spectrometry and mass photometry can provide unique insights into the phy",
+          "authors": [],
+          "year": "2023",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37379266/",
+          "citation_key": "PMID:37379266",
+          "pmid": "37379266"
+        },
+        {
+          "source": "arxiv",
+          "id": "2207.07410",
+          "title": "AlphaFold predicts the most complex protein knot and composite protein knots",
+          "abstract": "The computer artificial intelligence system AlphaFold has recently predicted previously unknown three-dimensional structures of thousands of proteins. Focusing on the subset with high-confidence scores, we algorithmically analyze these predictions for cases where the protein backbone exhibits rare topological complexity, i.e. knotting. Amongst others, we discovered a $7_1$-knot, the most topologically complex knot ever found in a protein, as well several 6-crossing composite knots comprised of t",
+          "authors": [
+            "Maarten A. Brems",
+            "Robert Runkel",
+            "Todd O. Yeates",
+            "Peter Virnau"
+          ],
+          "year": "2022",
+          "url": "https://arxiv.org/pdf/2207.07410v1",
+          "citation_key": "arXiv:2207.07410",
+          "pmid": "2207.07410"
+        },
+        {
+          "source": "arxiv",
+          "id": "2207.05682",
+          "title": "Long Short-Term Memory to predict 3D Amino acids Positions in GPCR Molecular Dynamics",
+          "abstract": "G-Protein Coupled Receptors (GPCRs) are a big family of eukaryotic cell transmembrane proteins, responsible for numerous biological processes. From a practical viewpoint around 34\\% of the drugs approved by the US Food and Drug Administration target these receptors. They can be analyzed from their simulated molecular dynamics, including the prediction of their behavior in the presence of drugs. In this paper, the capability of Long Short-Term Memory Networks (LSTMs) are evaluated to learn and pr",
+          "authors": [
+            "Juan Manuel López-Correa",
+            "Caroline König",
+            "Alfredo Vellido"
+          ],
+          "year": "2022",
+          "url": "https://arxiv.org/pdf/2207.05682v1",
+          "citation_key": "arXiv:2207.05682",
+          "pmid": "2207.05682"
+        },
+        {
+          "source": "arxiv",
+          "id": "2204.09486",
+          "title": "Graph neural networks and attention-based CNN-LSTM for protein classification",
+          "abstract": "This paper focuses on three critical problems on protein classification. Firstly, Carbohydrate-active enzyme (CAZyme) classification can help people to understand the properties of enzymes. However, one CAZyme may belong to several classes. This leads to Multi-label CAZyme classification. Secondly, to capture information from the secondary structure of protein, protein classification is modeled as graph classification problem. Thirdly, compound-protein interactions prediction employs graph learn",
+          "authors": [
+            "Zhuangwei Shi",
+            "Bo Li"
+          ],
+          "year": "2022",
+          "url": "https://arxiv.org/pdf/2204.09486v2",
+          "citation_key": "arXiv:2204.09486",
+          "pmid": "2204.09486"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1038/s41392-022-01151-3",
+          "title": "Lactate metabolism in human health and disease",
+          "abstract": "",
+          "authors": [],
+          "year": "2022",
+          "url": "https://doi.org/10.1038/s41392-022-01151-3",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 1320,
+          "open_access": true,
+          "concepts": [
+            "Warburg effect",
+            "Glycolysis",
+            "Inflammation",
+            "Biology",
+            "Signal transduction"
+          ],
+          "pmid": "https://doi.org/10.1038/s41392-022-01151-3"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1016/bs.mcb.2022.01.001",
+          "title": "Emerging mechanisms of targeted protein degradation by molecular glues",
+          "abstract": "",
+          "authors": [
+            "Geordon A. Frere",
+            "Elvin D. de Araujo",
+            "Patrick T. Gunning"
+          ],
+          "year": "2022",
+          "url": "https://doi.org/10.1016/bs.mcb.2022.01.001",
+          "citation_key": "DOI:10.1016/bs.mcb.2022.",
+          "citation_count": 11,
+          "pmid": "10.1016/bs.mcb.2022.01.001"
+        },
+        {
+          "source": "pubmed",
+          "id": "35320687",
+          "title": "Driving E3 Ligase Substrate Specificity for Targeted Protein Degradation: Lessons from Nature and the Laboratory.",
+          "abstract": "Methods to direct the degradation of protein targets with proximity-inducing molecules that coopt the cellular degradation machinery are advancing in leaps and bounds, and diverse modalities are emerging. The most used and well-studied approach is to hijack E3 ligases of the ubiquitin-proteasome system. E3 ligases use specific molecular recognition to determine which proteins in the cell are ubiquitinated and degraded. This review focuses on the structural determinants of E3 ligase recruitment of natural substrates and neo-substrates obtained through monovalent molecular glues and bivalent pro",
+          "authors": [],
+          "year": "2022",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35320687/",
+          "citation_key": "PMID:35320687",
+          "pmid": "35320687"
+        },
+        {
+          "source": "arxiv",
+          "id": "2105.02767",
+          "title": "Markov State Models of protein-protein encounters",
+          "abstract": "This chapter reviews how molecular dynamics simulations, experimental data, and Markov state models can synergize to map-out the mechanism of protein-protein association and dissociation.",
+          "authors": [
+            "Simon Olsson"
+          ],
+          "year": "2021",
+          "url": "https://arxiv.org/pdf/2105.02767v1",
+          "citation_key": "arXiv:2105.02767",
+          "pmid": "2105.02767"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1038/s41578-021-00279-y",
+          "title": "Engineering organoids",
+          "abstract": "",
+          "authors": [],
+          "year": "2021",
+          "url": "https://doi.org/10.1038/s41578-021-00279-y",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 1146,
+          "open_access": true,
+          "concepts": [
+            "Organoid",
+            "Computer science",
+            "Tissue engineering",
+            "Stem cell",
+            "Regenerative medicine"
+          ],
+          "pmid": "https://doi.org/10.1038/s41578-021-00279-y"
+        },
+        {
+          "source": "crossref",
+          "id": "10.3410/f.740547058.793587738",
+          "title": "Faculty Opinions recommendation of Molecular glues for targeted protein degradation: from serendipity to rational discovery.",
+          "abstract": "",
+          "authors": [
+            "John Lowe"
+          ],
+          "year": "2021",
+          "url": "https://doi.org/10.3410/f.740547058.793587738",
+          "citation_key": "DOI:10.3410/f.740547058.",
+          "citation_count": 0,
+          "pmid": "10.3410/f.740547058.793587738"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1038/s41392-020-00280-x",
+          "title": "The updated landscape of tumor microenvironment and drug repurposing",
+          "abstract": "",
+          "authors": [],
+          "year": "2020",
+          "url": "https://doi.org/10.1038/s41392-020-00280-x",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 1256,
+          "open_access": true,
+          "concepts": [
+            "Tumor microenvironment",
+            "Repurposing",
+            "Metastasis",
+            "Crosstalk",
+            "Medicine"
+          ],
+          "pmid": "https://doi.org/10.1038/s41392-020-00280-x"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1021/acs.chemrev.0c00084",
+          "title": "Printability and Shape Fidelity of Bioinks in 3D Bioprinting",
+          "abstract": "",
+          "authors": [],
+          "year": "2020",
+          "url": "https://doi.org/10.1021/acs.chemrev.0c00084",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 1252,
+          "open_access": true,
+          "concepts": [
+            "3D bioprinting",
+            "Nanotechnology",
+            "Fidelity",
+            "Computer science",
+            "Extrusion"
+          ],
+          "pmid": "https://doi.org/10.1021/acs.chemrev.0c00084"
+        },
+        {
+          "source": "arxiv",
+          "id": "1810.07135",
+          "title": "A Substrate-Independent Framework to Characterise Reservoir Computers",
+          "abstract": "The Reservoir Computing (RC) framework states that any non-linear, input-driven dynamical system (the reservoir) exhibiting properties such as a fading memory and input separability can be trained to perform computational tasks. This broad inclusion of systems has led to many new physical substrates for RC. Properties essential for reservoirs to compute are tuned through reconfiguration of the substrate, such as change in virtual topology or physical morphology. As a result, each substrate posse",
+          "authors": [
+            "Matthew Dale",
+            "Julian F. Miller",
+            "Susan Stepney",
+            "Martin A. Trefzer"
+          ],
+          "year": "2018",
+          "url": "https://arxiv.org/pdf/1810.07135v2",
+          "citation_key": "arXiv:1810.07135",
+          "pmid": "1810.07135"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1007/s11101-018-9591-z",
+          "title": "Comprehensive review of antimicrobial activities of plant flavonoids",
+          "abstract": "",
+          "authors": [],
+          "year": "2018",
+          "url": "https://doi.org/10.1007/s11101-018-9591-z",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 1159,
+          "open_access": true,
+          "concepts": [
+            "Antimicrobial",
+            "Flavonoid",
+            "Antibiotics",
+            "Antibiotic resistance",
+            "Biology"
+          ],
+          "pmid": "https://doi.org/10.1007/s11101-018-9591-z"
+        },
+        {
+          "source": "arxiv",
+          "id": "1711.10540",
+          "title": "ISLAND: In-Silico Prediction of Proteins Binding Affinity Using Sequence Descriptors",
+          "abstract": "Determination of binding affinity of proteins in the formation of protein complexes requires sophisticated, expensive and time-consuming experimentation which can be replaced with computational methods. Most computational prediction techniques require protein structures which limit their applicability to protein complexes with known structures. In this work, we explore sequence based protein binding affinity prediction using machine learning. Our paper highlights the fact that the generalization",
+          "authors": [
+            "Wajid Arshad Abbasi",
+            "Fahad Ul Hassan",
+            "Adiba Yaseen",
+            "Fayyaz Ul Amir Afsar Minhas"
+          ],
+          "year": "2017",
+          "url": "https://arxiv.org/pdf/1711.10540v2",
+          "citation_key": "arXiv:1711.10540",
+          "pmid": "1711.10540"
+        },
+        {
+          "source": "arxiv",
+          "id": "1705.09868",
+          "title": "Energy flow in biological system: Bioenergy transduction of V1-ATPase molecular rotary motor from E. hirae",
+          "abstract": "We classify research fields in biology into those on flows of materials, energy, and information. As a representative energy transducing machinery in biology, our research target, V1-ATPase from a bacterium Enterococcus hirae, a typical molecular rotary motor is introduced. Structures of several intermediates of the rotary motor are described and the molecular mechanism of the motor converting chemical energy into mechanical energy is discussed. Comments and considerations on the information flo",
+          "authors": [
+            "Ichiro Yamato",
+            "Takeshi Murata",
+            "Andrei Khrennikov"
+          ],
+          "year": "2017",
+          "url": "https://arxiv.org/pdf/1705.09868v1",
+          "citation_key": "arXiv:1705.09868",
+          "pmid": "1705.09868"
+        },
+        {
+          "source": "arxiv",
+          "id": "1705.09863",
+          "title": "Molecular recognition of the environment and mechanisms of the origin of species in quantum-like modeling of evolution",
+          "abstract": "A review of the mechanisms of speciation is performed. The mechanisms of the evolution of species, taking into account the feedback of the state of the environment and mechanisms of the emergence of complexity, are considered. It is shown that these mechanisms, at the molecular level, cannot work steadily in terms of classical mechanics. Quantum mechanisms of changes in the genome, based on the long-range interaction potential between biologically important molecules, are proposed as one of poss",
+          "authors": [
+            "Alexey V. Melkikh",
+            "Alexey V. Melkikh",
+            "Andrei Khrennikov"
+          ],
+          "year": "2017",
+          "url": "https://arxiv.org/pdf/1705.09863v1",
+          "citation_key": "arXiv:1705.09863",
+          "pmid": "1705.09863"
+        },
+        {
+          "source": "arxiv",
+          "id": "1607.04146",
+          "title": "Molecular Mechanics of Chitin-Protein Interface",
+          "abstract": "Chitin and protein are two main building blocks for many natural biomaterials. The interaction between chitin and protein critically determines the properties of the composite biological materials. As living organisms usually encounter complex ambient conditions like water, pH and ions are critical factors towards the structural integrity of biomaterials. It is therefore essential to study the chitin-protein interface under different environmental conditions. Here, an atomistic model consisting ",
+          "authors": [
+            "Zechuan Yu",
+            "Denvid Lau"
+          ],
+          "year": "2016",
+          "url": "https://arxiv.org/pdf/1607.04146v2",
+          "citation_key": "arXiv:1607.04146",
+          "pmid": "1607.04146"
+        },
+        {
+          "source": "arxiv",
+          "id": "1606.04247",
+          "title": "Characterization of protein complexes using chemical cross-linking coupled electrospray mass spectrometry",
+          "abstract": "Identification and characterization of large protein complexes is a mainstay of biochemical toolboxes. Utilization of cross-linking chemicals can facilitate the capture and identification of transient or weak interactions of a transient nature. Here we describe a detailed methodology for cell culture based proteomic approach. We describe the generation of cells stably expressing green fluorescent protein (GFP)- tagged proteins under the tetracycline-inducible promoter and subsequent proteomic an",
+          "authors": [
+            "Timothy D. Cummins",
+            "Gopal P. Sapkota"
+          ],
+          "year": "2016",
+          "url": "https://arxiv.org/pdf/1606.04247v1",
+          "citation_key": "arXiv:1606.04247",
+          "pmid": "1606.04247"
+        },
+        {
+          "source": "arxiv",
+          "id": "1506.06845",
+          "title": "New class of compounds - variators - are reprogramming substrate specificity of H4K12Ac, H4K16Ac and H4K20Ac epigenetic marks reading bromodomain of BPTF protein",
+          "abstract": "Previously reported [http://arxiv.org/abs/1506.06433] reprogramming of substrate specificity of H3K4Me3 epigenetic marks reading PHD domain of BPTF protein illustrates therapeutic potential of a new class of non-inhibitor small organic compounds - variators. Here we address the question about reproducibility of rational design of variators by reprogramming of the second epigenetic marks reading domain of BPTF protein - bromodomain. Bromodomain of BPTF binds to epigenetic marks in form of acetyla",
+          "authors": [
+            "Oleksandr Ya Yakovenko",
+            "Sreeja Leelakumari",
+            "Ganna Vashchenko",
+            "Albert Badiong",
+            "Steven J. M. Jones"
+          ],
+          "year": "2015",
+          "url": "https://arxiv.org/pdf/1506.06845v1",
+          "citation_key": "arXiv:1506.06845",
+          "pmid": "1506.06845"
+        },
+        {
+          "source": "arxiv",
+          "id": "1402.2581",
+          "title": "Hydration of Clays at the Molecular Scale: The Promising Perspective of Classical Density Functional Theory",
+          "abstract": "We report here how the hydration of complex surfaces can be efficiently studied thanks to recent advances in classical molecular density functional theory. This is illustrated on the example of the pyrophylite clay. After presenting the most recent advances, we show that the strength of this implicit method is that (i) it is in quantitative or semi-quantitative agreement with reference all-atoms simulations (molecular dynamics here) for both the solvation structure and energetics, and that (ii) ",
+          "authors": [
+            "Guillaume Jeanmairet",
+            "Virginie Marry",
+            "Maximilien Levesque",
+            "Benjamin Rotenberg",
+            "Daniel Borgis"
+          ],
+          "year": "2014",
+          "url": "https://arxiv.org/pdf/1402.2581v2",
+          "citation_key": "arXiv:1402.2581",
+          "pmid": "1402.2581"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1071/bt12225",
+          "title": "New handbook for standardised measurement of plant functional traits worldwide",
+          "abstract": "",
+          "authors": [],
+          "year": "2013",
+          "url": "https://doi.org/10.1071/bt12225",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 4142,
+          "open_access": true,
+          "concepts": [
+            "Trait",
+            "Biology",
+            "Ecology",
+            "Biodiversity",
+            "Plant ecology"
+          ],
+          "pmid": "https://doi.org/10.1071/bt12225"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1038/emboj.2011.286",
+          "title": "Endosome maturation",
+          "abstract": "",
+          "authors": [],
+          "year": "2011",
+          "url": "https://doi.org/10.1038/emboj.2011.286",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 2257,
+          "open_access": true,
+          "concepts": [
+            "Biology",
+            "Endosome",
+            "Cell biology",
+            "Computational biology",
+            "Intracellular"
+          ],
+          "pmid": "https://doi.org/10.1038/emboj.2011.286"
+        },
+        {
+          "source": "arxiv",
+          "id": "1007.4527",
+          "title": "Optimal Design of a Molecular Recognizer: Molecular Recognition as a Bayesian Signal Detection Problem",
+          "abstract": "Numerous biological functions-such as enzymatic catalysis, the immune response system, and the DNA-protein regulatory network-rely on the ability of molecules to specifically recognize target molecules within a large pool of similar competitors in a noisy biochemical environment. Using the basic framework of signal detection theory, we treat the molecular recognition process as a signal detection problem and examine its overall performance. Thus, we evaluate the optimal properties of a molecular",
+          "authors": [
+            "Yonatan Savir",
+            "Tsvi Tlusty"
+          ],
+          "year": "2010",
+          "url": "https://arxiv.org/pdf/1007.4527v1",
+          "citation_key": "arXiv:1007.4527",
+          "pmid": "1007.4527"
+        },
+        {
+          "title": "Transglutaminase in the life and death of the pancreatic β-cell",
+          "abstract": "Tissue transglutaminase (TG2) is a ubiquitous enzyme that catalyses both the Ca2+-dependent formation of protein cross-links via intermolecular isopeptide bonds, and the Ca2+-independent hydrolysis of GTP. The multifunctional nature of the TG2 protein has been reported in numerous intracellular mechanisms, cell-surface associations, and extracellular matrix (ECM) interactions. In the pancreas, the expression of TG may be fundamental to the insulin-secretion function of β-cells, and associated diabetic disorders. The functional roles of TG2 in the pancreas were investigated in the present study",
+          "authors": [
+            "Dookie, S"
+          ],
+          "year": "2010",
+          "doi": null,
+          "source": "core",
+          "pmid": "Transglutaminase in the life a"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1007/s00401-009-0619-8",
+          "title": "Astrocytes: biology and pathology",
+          "abstract": "",
+          "authors": [],
+          "year": "2009",
+          "url": "https://doi.org/10.1007/s00401-009-0619-8",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 5146,
+          "open_access": true,
+          "concepts": [
+            "Astrogliosis",
+            "Astrocyte",
+            "Glial scar",
+            "Biology",
+            "Gliosis"
+          ],
+          "pmid": "https://doi.org/10.1007/s00401-009-0619-8"
+        },
+        {
+          "source": "arxiv",
+          "id": "0609027",
+          "title": "A U-band survey of brown dwarfs in the Taurus Molecular Cloud with the XMM-Newton Optical/UV Monitor",
+          "abstract": "We aim to characterize the U-band variability of young brown dwarfs in the Taurus Molecular Cloud and discuss its origin. We used the XMM-Newton Extended Survey of the Taurus Molecular Cloud, where a sample of 11 young bona fide brown dwarfs (spectral type later than M6) were observed simultaneously in X-rays with XMM-Newton and in the U-band with the XMM-Newton Optical/UV Monitor (OM). We obtained upper limits to the U-band emission of 10 brown dwarfs (U>19.6-20.6 mag), whereas 2MASSJ04141188+2",
+          "authors": [
+            "Nicolas Grosso",
+            "Marc Audard",
+            "Jérôme Bouvier",
+            "Kevin R. Briggs",
+            "Manuel Güdel"
+          ],
+          "year": "2006",
+          "url": "https://arxiv.org/pdf/astro-ph/0609027v1",
+          "citation_key": "arXiv:0609027",
+          "pmid": "0609027"
+        },
+        {
+          "source": "crossref",
+          "id": "10.2210/pdb1orf/pdb",
+          "title": "The Oligomeric Structure of Human Granzyme A Reveals the Molecular Determinants of Substrate Specificity",
+          "abstract": "",
+          "authors": [
+            "J.K. Bell",
+            "D.H. Goetz",
+            "S. Mahrus",
+            "J.L. Harris",
+            "R.J. Fletterick"
+          ],
+          "year": "2003",
+          "url": "https://doi.org/10.2210/pdb1orf/pdb",
+          "citation_key": "DOI:10.2210/pdb1orf/pdb",
+          "citation_count": 0,
+          "pmid": "10.2210/pdb1orf/pdb"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1210/edrv.23.3.0465",
+          "title": "Sex Steroids and the Construction and Conservation of the Adult Skeleton",
+          "abstract": "",
+          "authors": [],
+          "year": "2002",
+          "url": "https://doi.org/10.1210/edrv.23.3.0465",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 1752,
+          "open_access": true,
+          "concepts": [
+            "Endocrinology",
+            "Internal medicine",
+            "Cancellous bone",
+            "Osteoporosis",
+            "Peak bone mass"
+          ],
+          "pmid": "https://doi.org/10.1210/edrv.23.3.0465"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1385/mb:22:1:051",
+          "title": "Molecular Determinants of Metalloproteinase Substrate Specificity: Matrix Metalloproteinase Substrate Binding Domains, Modules, and Exosites",
+          "abstract": "",
+          "authors": [
+            "Christopher M Overall"
+          ],
+          "year": "2002",
+          "url": "https://doi.org/10.1385/mb:22:1:051",
+          "citation_key": "DOI:10.1385/mb:22:1:051",
+          "citation_count": 403,
+          "pmid": "10.1385/mb:22:1:051"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1093/glycob/3.2.97",
+          "title": "Biological roles of oligosaccharides: all of the theories are correct",
+          "abstract": "",
+          "authors": [],
+          "year": "1993",
+          "url": "https://doi.org/10.1093/glycob/3.2.97",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 5186,
+          "open_access": true,
+          "concepts": [
+            "Organism",
+            "Oligosaccharide",
+            "Glycoconjugate",
+            "Biology",
+            "Function (biology)"
+          ],
+          "pmid": "https://doi.org/10.1093/glycob/3.2.97"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1021/acs.biochem.2c00245.s001",
+          "title": "Molecular Glues: The Adhesive Connecting Targeted Protein Degradation to the Clinic",
+          "abstract": "",
+          "authors": [],
+          "year": "",
+          "url": "https://doi.org/10.1021/acs.biochem.2c00245.s001",
+          "citation_key": "DOI:10.1021/acs.biochem.",
+          "citation_count": 0,
+          "pmid": "10.1021/acs.biochem.2c00245.s001"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1021/jacs.6c03429.s001",
+          "title": "Molecular Glues Recruiting RNF213 As an E3 Ligase for Targeted Protein Degradation: A Minimal Dibromoacetamide Warhead As a Recruitment Ligand",
+          "abstract": "",
+          "authors": [],
+          "year": "",
+          "url": "https://doi.org/10.1021/jacs.6c03429.s001",
+          "citation_key": "DOI:10.1021/jacs.6c03429",
+          "citation_count": 0,
+          "pmid": "10.1021/jacs.6c03429.s001"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1021/acsnano.3c04457.s001",
+          "title": "Chemical Tailoring of Aptamer Glues with Significantly Enhanced Recognition Ability for Targeted Membrane Protein Degradation",
+          "abstract": "",
+          "authors": [],
+          "year": "",
+          "url": "https://doi.org/10.1021/acsnano.3c04457.s001",
+          "citation_key": "DOI:10.1021/acsnano.3c04",
+          "citation_count": 0,
+          "pmid": "10.1021/acsnano.3c04457.s001"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1021/acs.biochem.8b00474.s001",
+          "title": "Molecular Determinants of Substrate Specificity in Human Insulin-Degrading Enzyme",
+          "abstract": "",
+          "authors": [],
+          "year": "",
+          "url": "https://doi.org/10.1021/acs.biochem.8b00474.s001",
+          "citation_key": "DOI:10.1021/acs.biochem.",
+          "citation_count": 0,
+          "pmid": "10.1021/acs.biochem.8b00474.s001"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1021/acs.jmedchem.1c00901.s002",
+          "title": "Folate-Guided Protein Degradation by Immunomodulatory Imide Drug-Based Molecular Glues and Proteolysis Targeting Chimeras",
+          "abstract": "",
+          "authors": [],
+          "year": "",
+          "url": "https://doi.org/10.1021/acs.jmedchem.1c00901.s002",
+          "citation_key": "DOI:10.1021/acs.jmedchem",
+          "citation_count": 0,
+          "pmid": "10.1021/acs.jmedchem.1c00901.s002"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1021/acs.jafc.4c08560.s001",
+          "title": "Unraveling the Molecular Determinants of Catalytic Efficiency and Substrate Specificity in lAmino Acid Decarboxylases",
+          "abstract": "",
+          "authors": [],
+          "year": "",
+          "url": "https://doi.org/10.1021/acs.jafc.4c08560.s001",
+          "citation_key": "DOI:10.1021/acs.jafc.4c0",
+          "citation_count": 0,
+          "pmid": "10.1021/acs.jafc.4c08560.s001"
+        },
+        {
+          "source": "arxiv",
+          "id": "2606.19097",
+          "title": "DVANet: Degradation-aware Visual-prior Alignment Network for Image Restoration",
+          "abstract": "All-in-One image restoration aims to develop a unified restoration framework for handling diverse degradation types. Existing end-to-end methods usually regard the restoration process as a black-box mapping, lacking an explicit optimization interpretation. Although deep unfolding provides an interpretable iterative modeling paradigm for image restoration, existing methods mostly rely on fixed degradation assumptions or predefined degradation information, making them difficult to adapt to unified",
+          "authors": [
+            "Yanjie Tu",
+            "Qingsen Yan",
+            "Axi Niu",
+            "Tao Hu",
+            "Haokui Zhang"
+          ],
+          "year": "2026",
+          "url": "https://arxiv.org/pdf/2606.19097v1",
+          "citation_key": "arXiv:2606.19097",
+          "pmid": "2606.19097"
+        },
+        {
+          "source": "pubmed",
+          "id": "42363283",
+          "title": "The DAPK3-DCAF1 pathway regulates ZBP1 protein stability to orchestrate PANoptosis for ovarian cancer therapy.",
+          "abstract": "Ovarian cancer is characterized by an immunosuppressive \"cold\" tumor microenvironment, which poses a major challenge to effective therapy. Inducing immunogenic cell death through PANoptosis represents a promising strategy for remodeling the tumor microenvironment. Z-DNA binding protein 1 (ZBP1), an interferon (IFN)-stimulated gene, is a key sensor of Z-conformation nucleic acids (Z-NA) driving PANoptosis. While ZBP1 upregulation is traditionally attributed to transcriptional induction, its early non-transcriptional regulatory mechanisms remain elusive. ZBP1 expression and its prognostic value ",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42363283/",
+          "citation_key": "PMID:42363283",
+          "pmid": "42363283"
+        },
+        {
+          "source": "pubmed",
+          "id": "42353339",
+          "title": "Deubiquitinating Enzymes as Therapeutic Candidates in Hepatocellular Carcinoma and Other Liver Disease.",
+          "abstract": "Hepatocellular carcinoma is challenging to detect at an early stage, and its severity increases over time. Recently, the incidence of hepatocellular carcinoma has increased, partly due to lifestyle-related factors such as excessive alcohol intake, sedentary behavior, and diets high in fat, which contribute to the growing prevalence of fatty liver and hepatitis. Various therapeutic strategies are being explored for hepatocellular carcinoma, among which therapies targeting deubiquitinating enzymes (DUBs) have attracted growing attention. Ubiquitination acts as a crucial modulator in the regulati",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42353339/",
+          "citation_key": "PMID:42353339",
+          "pmid": "42353339"
+        },
+        {
+          "source": "pubmed",
+          "id": "42346399",
+          "title": "Identification and Transcriptomic Analysis of Mitochondria-Related Gene Signatures in Obesity.",
+          "abstract": "Objectives: This study aimed to identify core genes associated with mitochondria-related transcriptomic signatures and evaluate their potential as computational biomarkers, immune characteristics, regulatory mechanisms, and potential therapeutic relevance. Methods: Obesity-related transcriptome datasets were obtained from the GEO database. Differentially expressed genes (DEGs) were intersected with mitochondria-related genes (MRGs) to identify obesity-related MRGs. Functional enrichment, protein-protein interaction (PPI) analysis, CytoHubba, LASSO and random forest algorithms were used to scre",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42346399/",
+          "citation_key": "PMID:42346399",
+          "pmid": "42346399"
+        },
+        {
+          "source": "pubmed",
+          "id": "42337054",
+          "title": "Development of XYD113 as a potent and highly selective GSPT1 degrader for cancer therapy.",
+          "abstract": "G1 to S phase transition 1 (GSPT1) represents a promising yet historically challenging therapeutic target for MYC-driven malignancies. Herein, we identified XYD113, a potent and highly selective GSPT1-targeting molecular glue degrader. XYD113 exhibits significant antiproliferative activity (IC50 < 100 nM) against multiple MYC-overexpressing cancer cell lines (22Rv1, MV4-11, MOLM-16, Calu-1, HS-SY-II), and induces GSPT1 degradation in a dose- and time-dependent manner, with potency comparable to that of the clinical candidate MRT-2359. It also exhibits excellent selectivity without degrading co",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42337054/",
+          "citation_key": "PMID:42337054",
+          "pmid": "42337054"
+        },
+        {
+          "source": "pubmed",
+          "id": "42336284",
+          "title": "From mechanism to substratome: unraveling mysteries of γ-secretase.",
+          "abstract": "γ-Secretase is a pivotal membrane-embedded protease, which cleaves more than 150 single-span membrane proteins within their transmembrane domains. While γ-secretase is involved in a wide range of physiological processes, it is best known for its critical role in Alzheimer´s disease, where it cleaves a C-terminal fragment of the amyloid precursor protein into small aggregation-prone and neurotoxic peptides. However, how γ-secretase recognizes and recruits its substrates, how it binds and unfolds them, where drug-binding sites are located, and what the full range of its substrates and functions ",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42336284/",
+          "citation_key": "PMID:42336284",
+          "pmid": "42336284"
+        },
+        {
+          "source": "pubmed",
+          "id": "42328460",
+          "title": "Deciphering the Neuroautophagic Interactome: Molecular Circuits Linking Selective Autophagy to Neuropathological Cascades in Neurological Disorders.",
+          "abstract": "Selective autophagy, a lysosome-dependent degradation pathway targeting specific substrates (e.g., mitochondria, protein aggregates), plays a pivotal role in maintaining neuronal homeostasis. Its dysregulation is intricately linked to neurodegenerative diseases, acute brain injuries, and neuroinflammatory disorders. This review elucidates the crosstalk between selective autophagy and key neuropathophysiological processes, including apoptosis, neuroinflammation, oxidative stress, and blood-brain barrier disruption. We delineate the dual roles of selective autophagy through the framework of the ",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42328460/",
+          "citation_key": "PMID:42328460",
+          "pmid": "42328460"
+        },
+        {
+          "source": "pubmed",
+          "id": "42327091",
+          "title": "Potential for the Terminal SKP1 Glycosyltransferase to Exert Non-Enzymatic Control of SKP1 in Toxoplasma gondii.",
+          "abstract": "The SKP1/Cul1/F-Box (SCF) complex is an E3 ubiquitin ligase responsible for targeting a range of proteins for degradation by the 26S proteosome. Within this complex, a variety of F-box proteins (FBPs) link to the SCF complex via the SKP1 adaptor protein allowing for differential substrate recognition. In the intracellular parasite Toxoplasma gondii, SKP1 is subject to oxygen dependent regulation. Under normoxic conditions, the prolyl hydroxylase PHYa hydroxylates SKP1 priming it for modification by five SKP1-specific glycosyltransferase activities. Glycosylation plays an important role in cont",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42327091/",
+          "citation_key": "PMID:42327091",
+          "pmid": "42327091"
+        },
+        {
+          "source": "pubmed",
+          "id": "42321978",
+          "title": "Achieving protease substrate-specific inhibition by mAb dual functional selections.",
+          "abstract": "Proteases are promiscuous enzymes acting on multiple substrates. Inhibiting pathogenic proteolysis while sparing physiological ones is essential for the development of effective and safe inhibitors. By engineering β-lactamase and levansucrase as selection and counterselection markers in E. coli periplasm, this study established functional positive and negative selections for the facile discovery of protease inhibitory mAbs rendering substrate specificity. Isolated anti-matrix metalloproteinase (MMP)-14 inhibitory mAbs exhibited nanomolar binding affinities and inhibitory potencies, exclusive s",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42321978/",
+          "citation_key": "PMID:42321978",
+          "pmid": "42321978"
+        },
+        {
+          "source": "pubmed",
+          "id": "42320481",
+          "title": "LRRC58 defines an E3 ubiquitin ligase complex sensitive to cysteine abundance.",
+          "abstract": "Adaptation to fluctuating nutrient supply is essential for organismal survival, but how human cells monitor the abundance of many critical nutrients remains undefined. Characterizing the conditional degradation of CDO1, the critical enzyme responsible for cysteine catabolism, here we identify a Cullin-RING E3 ligase complex defined by the substrate adaptor LRRC58 that is sensitive to cysteine abundance. When cysteine is replete, LRRC58 activity is restrained through ubiquitination and proteasomal degradation. Upon cysteine deprivation, LRRC58 is stabilized to permit CDO1 degradation. Through s",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42320481/",
+          "citation_key": "PMID:42320481",
+          "pmid": "42320481"
+        },
+        {
+          "source": "pubmed",
+          "id": "42319778",
+          "title": "The RNA exosome co-factor CTEXT exists as an independent multiprotein complex in Saccharomyces cerevisiae.",
+          "abstract": "In Saccharomyces cerevisiae, the CTEXT (CBC-Tif4631-dependent Exosomal Targeting) complex, consisting of Cbc1/2, Tif4631, Upf3, and Dbp2, defines a novel cofactor of the nuclear RNA exosome promoting the degradation of two distinct classes of faulty transcripts, aberrantly long 3'-extended and export-defective messages.  Interestingly, CTEXT/nuclear RNA exosome also determines the cellular abundance of a group of normal ('special') mRNAs via their preferential decay, thereby exerting regulatory control over a few key cellular processes, including Unfolded Protein Response and the cell's adapta",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42319778/",
+          "citation_key": "PMID:42319778",
+          "pmid": "42319778"
+        },
+        {
+          "source": "pubmed",
+          "id": "42307825",
+          "title": "Single-cell Transcriptomics Reveals that the SORBS1/FBXO22/BAG3 Axis Drives Astrocyte Senescence via Calcium Signaling and Affects Alzheimer's Disease-Related Neuronal Damage.",
+          "abstract": "In Alzheimer's disease (AD), senescent astrocytes fuel neuroinflammation and neuronal damage via the senescence-associated secretory phenotype (SASP). Calcium signaling plays a crucial role in this process, but the underlying molecular mechanisms remain elusive. We retrieved scRNA-seq data from the Gene Expression Omnibus (GEO) for AD and control brains. After cell-type annotation, we resolved astrocyte sub-clusters. Pseudotime trajectory and differential-expression analyses identified SORBS1 as a key senescence-related gene, which we followed with gene-set enrichment analysis. Next, we establ",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42307825/",
+          "citation_key": "PMID:42307825",
+          "pmid": "42307825"
+        },
+        {
+          "source": "pubmed",
+          "id": "42304961",
+          "title": "On the Scope of DCAF1-Recruiting PROTACs Degrading Protein Kinases.",
+          "abstract": "Proteolysis-targeting chimeras (PROTACs) have emerged as a novel drug modality, but their development currently relies on a limited number of E3 ligase ligands, primarily targeting CRBN and VHL. Conversely, current validation studies on novel E3 ligase ligands are typically limited to a few highly degradable targets, like BRD4. Here, we used our previously established workflow for E3 ligase ligand validation, employing promiscuous kinase PROTACs, to evaluate the potential of recruiting DCAF1 for PROTAC development. Our study revealed the DCAF1-dependent degradation of a diverse set of kinases,",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42304961/",
+          "citation_key": "PMID:42304961",
+          "pmid": "42304961"
+        },
+        {
+          "source": "pubmed",
+          "id": "42303066",
+          "title": "Structural mechanism of 26S proteasome regulation and its pharmacological modulation.",
+          "abstract": "The proteasome is a conserved proteolytic machinery that maintains protein quality control and regulates nearly every aspect of cellular activities. It is a clinically validated therapeutic target in cancer and holds great potential in therapeutic discovery for protein aggregation-associated disorders. Advances in structural biology have elucidated the architecture and conformational dynamics of the 26S proteasome, providing mechanistic insights into substrate recognition, unfolding, translocation and proteolysis by the proteasome and pharmacological intervention. This review article summarize",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42303066/",
+          "citation_key": "PMID:42303066",
+          "pmid": "42303066"
+        },
+        {
+          "source": "pubmed",
+          "id": "42297194",
+          "title": "CAND1 drives intestinal ischemia/reperfusion injury via SCFFBXO6-PKM2-mediated mitochondrial fission and apoptosis.",
+          "abstract": "Intestinal ischemia/reperfusion (I/R) injury is a critical clinical condition associated with high mortality, in which the ubiquitin‒proteasome system (UPS) plays a pivotal pathogenic role. Cullin-associated and neddylation-dissociated 1 (CAND1), a critical regulator of cellular protein homeostasis, governs the ubiquitination and degradation of abnormal protein substrates by regulating the assembly of SKP1‒Cullin1‒F-box (SCF) E3 ubiquitin ligase complexes. However, the mechanisms by which CAND1 regulates SCF complex assembly and its potential therapeutic role in intestinal I/R injury remain un",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42297194/",
+          "citation_key": "PMID:42297194",
+          "pmid": "42297194"
+        },
+        {
+          "source": "pubmed",
+          "id": "42292664",
+          "title": "Molecular dynamics simulations for understanding dual ubiquitination mechanisms to consider S-phase kinase-associated protein 2 (SKP2) as a potential drug target in breast cancer.",
+          "abstract": "Dual ubiquitination mediated by S-phase kinase-associated protein 2 (SKP2) plays a critical role in breast cancer progression by directing substrates toward either proteasomal degradation or signaling activation. However, the structural determinants governing SKP2 recognition of different ubiquitin-linked substrates, particularly p27 and Akt1, remain poorly understood. To investigate this mechanism, integrative computational approaches including protein-protein docking, molecular dynamics simulations, hydrogen-bond analysis, radius of gyration (Rg), root mean square deviation (RMSD), and MM/PB",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42292664/",
+          "citation_key": "PMID:42292664",
+          "pmid": "42292664"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1016/b978-0-443-21816-3.00013-0",
+          "title": "Overview of targeted protein degradation",
+          "abstract": "",
+          "authors": [
+            "Yulong Li",
+            "Jinyun Dong",
+            "Jiang-Jiang Qin"
+          ],
+          "year": "2025",
+          "url": "https://doi.org/10.1016/b978-0-443-21816-3.00013-0",
+          "citation_key": "DOI:10.1016/b978-0-443-2",
+          "citation_count": 0,
+          "pmid": "10.1016/b978-0-443-21816-3.00013-0"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1016/c2022-0-02752-5",
+          "title": "Targeted Protein Degradation Technologies",
+          "abstract": "",
+          "authors": [],
+          "year": "2025",
+          "url": "https://doi.org/10.1016/c2022-0-02752-5",
+          "citation_key": "DOI:10.1016/c2022-0-0275",
+          "citation_count": 0,
+          "pmid": "10.1016/c2022-0-02752-5"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1016/b978-0-443-21816-3.00011-7",
+          "title": "Harnessing the power of traditional Chinese medicine for targeted protein degradation",
+          "abstract": "",
+          "authors": [
+            "Zheng Wu",
+            "Bo Zhu",
+            "Yiwen Shou",
+            "Hongwei Guo"
+          ],
+          "year": "2025",
+          "url": "https://doi.org/10.1016/b978-0-443-21816-3.00011-7",
+          "citation_key": "DOI:10.1016/b978-0-443-2",
+          "citation_count": 0,
+          "pmid": "10.1016/b978-0-443-21816-3.00011-7"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1016/b978-0-443-21816-3.00009-9",
+          "title": "Lysosome-mediated degradation",
+          "abstract": "",
+          "authors": [
+            "Wenhai Huang"
+          ],
+          "year": "2025",
+          "url": "https://doi.org/10.1016/b978-0-443-21816-3.00009-9",
+          "citation_key": "DOI:10.1016/b978-0-443-2",
+          "citation_count": 0,
+          "pmid": "10.1016/b978-0-443-21816-3.00009-9"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1016/b978-0-443-21816-3.12001-9",
+          "title": "Copyright",
+          "abstract": "",
+          "authors": [],
+          "year": "2025",
+          "url": "https://doi.org/10.1016/b978-0-443-21816-3.12001-9",
+          "citation_key": "DOI:10.1016/b978-0-443-2",
+          "citation_count": 0,
+          "pmid": "10.1016/b978-0-443-21816-3.12001-9"
+        },
+        {
+          "source": "crossref",
+          "id": "10.7554/elife.101127.2.sa4",
+          "title": "eLife Assessment: PROTAC-induced Protein Structural Dynamics in Targeted Protein Degradation",
+          "abstract": "",
+          "authors": [
+            "Donald Hamelberg"
+          ],
+          "year": "2025",
+          "url": "https://doi.org/10.7554/elife.101127.2.sa4",
+          "citation_key": "DOI:10.7554/elife.101127",
+          "citation_count": 0,
+          "pmid": "10.7554/elife.101127.2.sa4"
+        },
+        {
+          "source": "crossref",
+          "id": "10.7554/elife.101127.2.sa1",
+          "title": "Reviewer #3 (Public review): PROTAC-induced Protein Structural Dynamics in Targeted Protein Degradation",
+          "abstract": "",
+          "authors": [],
+          "year": "2025",
+          "url": "https://doi.org/10.7554/elife.101127.2.sa1",
+          "citation_key": "DOI:10.7554/elife.101127",
+          "citation_count": 0,
+          "pmid": "10.7554/elife.101127.2.sa1"
+        },
+        {
+          "source": "arxiv",
+          "id": "2407.16375",
+          "title": "Ranking protein-protein models with large language models and graph neural networks",
+          "abstract": "Protein-protein interactions (PPIs) are associated with various diseases, including cancer, infections, and neurodegenerative disorders. Obtaining three-dimensional structural information on these PPIs serves as a foundation to interfere with those or to guide drug design. Various strategies can be followed to model those complexes, all typically resulting in a large number of models. A challenging step in this process is the identification of good models (near-native PPI conformations) from the",
+          "authors": [
+            "Xiaotong Xu",
+            "Alexandre M. J. J. Bonvin"
+          ],
+          "year": "2024",
+          "url": "https://arxiv.org/pdf/2407.16375v1",
+          "citation_key": "arXiv:2407.16375",
+          "pmid": "2407.16375"
+        },
+        {
+          "source": "crossref",
+          "id": "10.7554/elife.101127.1.sa2",
+          "title": "Reviewer #2 (Public review): PROTAC-induced Protein Functional Dynamics in Targeted Protein Degradation",
+          "abstract": "",
+          "authors": [],
+          "year": "2024",
+          "url": "https://doi.org/10.7554/elife.101127.1.sa2",
+          "citation_key": "DOI:10.7554/elife.101127",
+          "citation_count": 0,
+          "pmid": "10.7554/elife.101127.1.sa2"
+        },
+        {
+          "source": "crossref",
+          "id": "10.7554/elife.101127.1.sa4",
+          "title": "eLife Assessment: PROTAC-induced Protein Functional Dynamics in Targeted Protein Degradation",
+          "abstract": "",
+          "authors": [
+            "Donald Hamelberg"
+          ],
+          "year": "2024",
+          "url": "https://doi.org/10.7554/elife.101127.1.sa4",
+          "citation_key": "DOI:10.7554/elife.101127",
+          "citation_count": 0,
+          "pmid": "10.7554/elife.101127.1.sa4"
+        },
+        {
+          "source": "crossref",
+          "id": "10.7554/elife.101127.1.sa1",
+          "title": "Reviewer #3 (Public review): PROTAC-induced Protein Functional Dynamics in Targeted Protein Degradation",
+          "abstract": "",
+          "authors": [],
+          "year": "2024",
+          "url": "https://doi.org/10.7554/elife.101127.1.sa1",
+          "citation_key": "DOI:10.7554/elife.101127",
+          "citation_count": 0,
+          "pmid": "10.7554/elife.101127.1.sa1"
+        },
+        {
+          "source": "crossref",
+          "id": "10.7554/elife.101127.1.sa3",
+          "title": "Reviewer #1 (Public review): PROTAC-induced Protein Functional Dynamics in Targeted Protein Degradation",
+          "abstract": "",
+          "authors": [],
+          "year": "2024",
+          "url": "https://doi.org/10.7554/elife.101127.1.sa3",
+          "citation_key": "DOI:10.7554/elife.101127",
+          "citation_count": 0,
+          "pmid": "10.7554/elife.101127.1.sa3"
+        },
+        {
+          "title": "Exploiting the\nCullin E3 Ligase Adaptor Protein SKP1\nfor Targeted Protein Degradation",
+          "abstract": "Targeted\nprotein degradation with proteolysis targeting chimeras\n(PROTACs) is a powerful therapeutic modality for eliminating disease-causing\nproteins through targeted ubiquitination and proteasome-mediated degradation.\nMost PROTACs have exploited substrate receptors of Cullin-RING E3\nubiquitin ligases such as cereblon and VHL. Whether core, shared,\nand essential components of the Cullin-RING E3 ubiquitin ligase complex\ncan be used for PROTAC applications remains less explored. Here, we\ndiscovered a cysteine-reactive covalent recruiter EN884 against the\nSKP1 adapter protein of the SKP1-CUL1-F-",
+          "authors": [
+            "Ingrid E. Wertz (11113409)",
+            "Daniel K. Nomura (198023)",
+            "Anand Divakaran (2041456)",
+            "Oscar W. Huang (2372083)",
+            "Seong\nHo Hong (17895813)"
+          ],
+          "year": "2024",
+          "doi": "10.1021/acschembio.3c00642.s002",
+          "source": "core",
+          "pmid": "Exploiting the\nCullin E3 Ligas"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1016/bs.mie.2022.10.006",
+          "title": "The importance of controls in targeted protein degradation: Determining mechanism",
+          "abstract": "",
+          "authors": [],
+          "year": "2023",
+          "url": "https://doi.org/10.1016/bs.mie.2022.10.006",
+          "citation_key": "DOI:10.1016/bs.mie.2022.",
+          "citation_count": 2,
+          "pmid": "10.1016/bs.mie.2022.10.006"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1016/bs.mie.2022.10.001",
+          "title": "Targeted protein degradation through light-activated E3 ligase recruitment",
+          "abstract": "",
+          "authors": [],
+          "year": "2023",
+          "url": "https://doi.org/10.1016/bs.mie.2022.10.001",
+          "citation_key": "DOI:10.1016/bs.mie.2022.",
+          "citation_count": 0,
+          "pmid": "10.1016/bs.mie.2022.10.001"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1002/9783527836208.ch2",
+          "title": "Cellular Principles of Targeted Protein Degradation",
+          "abstract": "",
+          "authors": [
+            "João Diamantino",
+            "Doris Hellerschmied"
+          ],
+          "year": "2023",
+          "url": "https://doi.org/10.1002/9783527836208.ch2",
+          "citation_key": "DOI:10.1002/978352783620",
+          "citation_count": 1,
+          "pmid": "10.1002/9783527836208.ch2"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1038/s41572-020-00240-3",
+          "title": "Hepatocellular carcinoma",
+          "abstract": "",
+          "authors": [],
+          "year": "2021",
+          "url": "https://doi.org/10.1038/s41572-020-00240-3",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 6472,
+          "open_access": true,
+          "concepts": [
+            "Medicine",
+            "Lenvatinib",
+            "Hepatocellular carcinoma",
+            "Sorafenib",
+            "Regorafenib"
+          ],
+          "pmid": "https://doi.org/10.1038/s41572-020-00240-3"
+        },
+        {
+          "source": "arxiv",
+          "id": "2001.01161",
+          "title": "Using physical features of protein core packing to distinguish real proteins from decoys",
+          "abstract": "The ability to consistently distinguish real protein structures from computationally generated model decoys is not yet a solved problem. One route to distinguish real protein structures from decoys is to delineate the important physical features that specify a real protein. For example, it has long been appreciated that the hydrophobic cores of proteins contribute significantly to their stability. As a dataset of decoys to compare with real protein structures, we studied submissions to the bi-an",
+          "authors": [
+            "Alex T. Grigas",
+            "Zhe Mei",
+            "John D. Treado",
+            "Zachary A. Levine",
+            "Lynne Regan"
+          ],
+          "year": "2020",
+          "url": "https://arxiv.org/pdf/2001.01161v1",
+          "citation_key": "arXiv:2001.01161",
+          "pmid": "2001.01161"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1038/s41573-020-0090-8",
+          "title": "Engineering precision nanoparticles for drug delivery",
+          "abstract": "",
+          "authors": [],
+          "year": "2020",
+          "url": "https://doi.org/10.1038/s41573-020-0090-8",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 7382,
+          "open_access": true,
+          "concepts": [
+            "Precision medicine",
+            "Drug delivery",
+            "Personalized medicine",
+            "Nanotechnology",
+            "Computer science"
+          ],
+          "pmid": "https://doi.org/10.1038/s41573-020-0090-8"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1038/s41418-017-0012-4",
+          "title": "Molecular mechanisms of cell death: recommendations of the Nomenclature Committee on Cell Death 2018",
+          "abstract": "",
+          "authors": [],
+          "year": "2018",
+          "url": "https://doi.org/10.1038/s41418-017-0012-4",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 6503,
+          "open_access": true,
+          "concepts": [
+            "Programmed cell death",
+            "Necroptosis",
+            "Pyroptosis",
+            "Autophagy",
+            "Biology"
+          ],
+          "pmid": "https://doi.org/10.1038/s41418-017-0012-4"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1038/s41467-016-0009-6",
+          "title": "In situ click chemistry generation of cyclooxygenase-2 inhibitors",
+          "abstract": "",
+          "authors": [],
+          "year": "2017",
+          "url": "https://doi.org/10.1038/s41467-016-0009-6",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 7552,
+          "open_access": true,
+          "concepts": [
+            "Cyclooxygenase",
+            "Isozyme",
+            "In vivo",
+            "Chemistry",
+            "Click chemistry"
+          ],
+          "pmid": "https://doi.org/10.1038/s41467-016-0009-6"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1016/j.cell.2017.09.021",
+          "title": "Ferroptosis: A Regulated Cell Death Nexus Linking Metabolism, Redox Biology, and Disease",
+          "abstract": "",
+          "authors": [],
+          "year": "2017",
+          "url": "https://doi.org/10.1016/j.cell.2017.09.021",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 7467,
+          "open_access": true,
+          "concepts": [
+            "Biology",
+            "Nexus (standard)",
+            "Programmed cell death",
+            "Disease",
+            "Cell biology"
+          ],
+          "pmid": "https://doi.org/10.1016/j.cell.2017.09.021"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1093/eurheartj/ehw128",
+          "title": "2016 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure",
+          "abstract": "",
+          "authors": [],
+          "year": "2016",
+          "url": "https://doi.org/10.1093/eurheartj/ehw128",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 11509,
+          "open_access": true,
+          "concepts": [
+            "Medicine",
+            "Heart failure",
+            "Intensive care medicine",
+            "Cardiology",
+            "Internal medicine"
+          ],
+          "pmid": "https://doi.org/10.1093/eurheartj/ehw128"
+        },
+        {
+          "title": "Prion degradation pathways: Potential for therapeutic intervention",
+          "abstract": "Prion diseases are fatal neurodegenerative disorders. Pathology is closely linked to the misfolding of native cellular PrP(C) into the disease-associated form PrP(Sc) that accumulates in the brain as disease progresses. Although treatments have yet to be developed, strategies aimed at stimulating the degradation of PrP(Sc) have shown efficacy in experimental models of prion disease. Here, we describe the cellular pathways that mediate PrP(Sc) degradation and review possible targets for therapeutic intervention. This article is part of a Special Issue entitled 'Neuronal Protein'",
+          "authors": [
+            "McKinnon, C",
+            "Tabrizi, SJ",
+            "Goold, R"
+          ],
+          "year": "2015",
+          "doi": null,
+          "source": "core",
+          "pmid": "Prion degradation pathways: Po"
+        },
+        {
+          "title": "The degradation of p53 and its major E3 ligase Mdm2 is differentially dependent on the proteasomal ubiquitin receptor S5a.",
+          "abstract": "p53 and its major E3 ligase Mdm2 are both ubiquitinated and targeted to the proteasome for degradation. Despite the importance of this in regulating the p53 pathway, little is known about the mechanisms of proteasomal recognition of ubiquitinated p53 and Mdm2. In this study, we show that knockdown of the proteasomal ubiquitin receptor S5a/PSMD4/Rpn10 inhibits p53 protein degradation and results in the accumulation of ubiquitinated p53. Overexpression of a dominant-negative deletion of S5a lacking its ubiquitin-interacting motifs (UIM)s, but which can be incorporated into the proteasome, also c",
+          "authors": [
+            "J Das",
+            "S Menendez",
+            "Menendez, S.",
+            "Saville, M. K.",
+            "S Dayal"
+          ],
+          "year": "2014",
+          "doi": "10.1038/onc.2013.413",
+          "source": "core",
+          "pmid": "The degradation of p53 and its"
+        },
+        {
+          "title": "Ubiquitin-proteasome dependent mitochondrial protein quality control",
+          "abstract": "Dysfunctional mitochondria cause many neurodegenerative disorders and with aging in general, mechanisms of mitochondrial quality control are essential for cellular function. Keeping mitochondria in a healthy state is a complex process, which is tightly regulated by several mitochondrial quality control systems. An ubiquitin-mediated proteasome-dependent protein degradation pathway, termed outer mitochondrial-associated degradation (OMMAD), was recently described. OMMAD provides mitochondrial protein quality control to prevent mitochondrial damage. Up until now, four outer mitochondrial membran",
+          "authors": [
+            "Benischke, Anne-Sophie"
+          ],
+          "year": "2014",
+          "doi": "10.5451/unibas-006246362",
+          "source": "core",
+          "pmid": "Ubiquitin-proteasome dependent"
+        },
+        {
+          "title": "EGF regulates tyrosine phosphorylation and membrane-translocation of the scaffold protein Tks5",
+          "abstract": "Background: Tks5/FISH is a scaffold protein comprising of five SH3 domains and one PX domain. Tks5 is a substrate of the tyrosine kinase Src and is required for the organization of podosomes/invadopodia implicated in invasion of tumor cells. Recent data have suggested that a close homologue of Tks5, Tks4, is implicated in the EGF signaling.Results: Here, we report that Tks5 is a component of the EGF signaling pathway. In EGF-treated cells, Tks5 is tyrosine phosphorylated within minutes and the level of phosphorylation is sustained for at least 2 hours. Using specific kinase inhibitors, we demo",
+          "authors": [
+            "Geiszt, Miklós",
+            "Fekete, Anna",
+            "Bőgel, Gábor",
+            "Pesti, Szabolcs",
+            "Buday, László"
+          ],
+          "year": "2013",
+          "doi": "10.1186/1750-2187-8-8",
+          "source": "core",
+          "pmid": "EGF regulates tyrosine phospho"
+        },
+        {
+          "source": "arxiv",
+          "id": "1206.3509",
+          "title": "A Novel Approach for Protein Structure Prediction",
+          "abstract": "The idea of this project is to study the protein structure and sequence relationship using the hidden markov model and artificial neural network. In this context we have assumed two hidden markov models. In first model we have taken protein secondary structures as hidden and protein sequences as observed. In second model we have taken protein sequences as hidden and protein structures as observed. The efficiencies for both the hidden markov models have been calculated. The results show that the ",
+          "authors": [
+            "Saurabh Sarkar",
+            "Prateek Malhotra",
+            "Virender Guman"
+          ],
+          "year": "2012",
+          "url": "https://arxiv.org/pdf/1206.3509v1",
+          "citation_key": "arXiv:1206.3509",
+          "pmid": "1206.3509"
+        },
+        {
+          "source": "arxiv",
+          "id": "1212.0587",
+          "title": "System Wide Analyses have Underestimated Protein Abundances and the Importance of Transcription in Mammals",
+          "abstract": "Large scale surveys in mammalian tissue culture cells suggest that the protein expressed at the median abundance is present at 8,000 - 16,000 molecules per cell and that differences in mRNA expression between genes explain only 10-40% of the differences in protein levels. We find, however, that these surveys have significantly underestimated protein abundances and the relative importance of transcription. Using individual measurements for 61 housekeeping proteins to rescale whole proteome data f",
+          "authors": [
+            "Jingyi Jessica Li",
+            "Peter J. Bickel",
+            "Mark D. Biggin"
+          ],
+          "year": "2012",
+          "url": "https://arxiv.org/pdf/1212.0587v7",
+          "citation_key": "arXiv:1212.0587",
+          "pmid": "1212.0587"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1093/nar/gks808",
+          "title": "Evaluation of general 16S ribosomal RNA gene PCR primers for classical and next-generation sequencing-based diversity studies",
+          "abstract": "",
+          "authors": [],
+          "year": "2012",
+          "url": "https://doi.org/10.1093/nar/gks808",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 9018,
+          "open_access": true,
+          "concepts": [
+            "Biology",
+            "Amplicon",
+            "16S ribosomal RNA",
+            "Primer (cosmetics)",
+            "Genetics"
+          ],
+          "pmid": "https://doi.org/10.1093/nar/gks808"
+        },
+        {
+          "title": "A viral ubiquitin ligase has substrate preferential SUMO targeted ubiquitin ligase activity that counteracts intrinsic antiviral defence",
+          "abstract": "Intrinsic antiviral resistance represents the first line of intracellular defence against virus infection. During herpes simplex virus type-1 (HSV-1) infection this response can lead to the repression of viral gene expression but is counteracted by the viral ubiquitin ligase ICP0. Here we address the mechanisms by which ICP0 overcomes this antiviral response. We report that ICP0 induces the widespread proteasome-dependent degradation of SUMO-conjugated proteins during infection and has properties related to those of cellular SUMO-targeted ubiquitin ligases (STUbLs). Mutation of putative SUMO i",
+          "authors": [
+            "Delphine Cuchet-Lourenço",
+            "Roger D Everett",
+            "Roger D. Everett",
+            "Boutell Chris",
+            "McFarlane Steven"
+          ],
+          "year": "2011",
+          "doi": "10.1371/journal.ppat.1002245",
+          "source": "core",
+          "pmid": "A viral ubiquitin ligase has s"
+        },
+        {
+          "source": "arxiv",
+          "id": "1012.5916",
+          "title": "Amino acid composition and thermal stability of protein structures: the free energy geography of the Protein Data Bank",
+          "abstract": "We study the combined influence of amino acid composition and chain length on the thermal stability of protein structures. A new parameterization of the internal free energy is considered, as the sum of hydrophobic effect, hydrogen-bond and de-hydration energy terms. We divided a non-redundant selection of protein structures from the Protein Data Bank into three groups: i) rich in order-promoting residues (OPR proteins); ii) rich in disorder-promoting residues (DPR proteins); iii) belonging to a",
+          "authors": [
+            "Antonio Deiana",
+            "Kana Shimizu",
+            "Andrea Giansanti"
+          ],
+          "year": "2010",
+          "url": "https://arxiv.org/pdf/1012.5916v2",
+          "citation_key": "arXiv:1012.5916",
+          "pmid": "1012.5916"
+        },
+        {
+          "title": "Maltose-binding protein enhances secretion of recombinant human granzyme B accompanied by in vivo processing of a precursor MBP fusion protein",
+          "abstract": "Background: The apoptosis-inducing serine protease granzyme B (GrB) is an important factor contributing to lysis of target cells by cytotoxic lymphocytes. Expression of enzymatically active GrB in recombinant form is a prerequisite for functional analysis and application of GrB for therapeutic purposes. Methods and Findings: We investigated the influence of bacterial maltose-binding protein (MBP) fused to GrB via a synthetic furin recognition motif on the expression of the MBP fusion protein also containing an N-terminal alpha-factor signal peptide in the yeast Pichia pastoris. MBP markedly en",
+          "authors": [
+            "Wels, Winfried",
+            "Pranav Oberoi",
+            "Jabulowsky, Robert Alexander",
+            "Benhar, Itai",
+            "Benjamin Dälken"
+          ],
+          "year": "2010",
+          "doi": "10.1371/journal.pone.0014404",
+          "source": "core",
+          "pmid": "Maltose-binding protein enhanc"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1042/bj20081386",
+          "title": "How mitochondria produce reactive oxygen species",
+          "abstract": "",
+          "authors": [],
+          "year": "2008",
+          "url": "https://doi.org/10.1042/bj20081386",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 8034,
+          "open_access": true,
+          "concepts": [
+            "Mitochondrion",
+            "NAD+ kinase",
+            "Mitochondrial matrix",
+            "Superoxide",
+            "Reactive oxygen species"
+          ],
+          "pmid": "https://doi.org/10.1042/bj20081386"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1038/nature06639",
+          "title": "Autophagy fights disease through cellular self-digestion",
+          "abstract": "",
+          "authors": [],
+          "year": "2008",
+          "url": "https://doi.org/10.1038/nature06639",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 6430,
+          "open_access": true,
+          "concepts": [
+            "Autophagy",
+            "Neurodegeneration",
+            "Cell biology",
+            "Programmed cell death",
+            "Biology"
+          ],
+          "pmid": "https://doi.org/10.1038/nature06639"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1038/31159",
+          "title": "Deciphering the biology of Mycobacterium tuberculosis from the complete genome sequence",
+          "abstract": "",
+          "authors": [],
+          "year": "1998",
+          "url": "https://doi.org/10.1038/31159",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 7873,
+          "open_access": true,
+          "concepts": [
+            "Mycobacterium tuberculosis",
+            "Biology",
+            "Whole genome sequencing",
+            "Genome",
+            "Tuberculosis"
+          ],
+          "pmid": "https://doi.org/10.1038/31159"
+        }
+      ]
+    },
+    "citation_network": {
+      "total_papers": 7,
+      "citation_hop1": 0,
+      "citation_hop2": 0
+    },
+    "knowledge_graph": {
+      "entities": 402,
+      "relationships": 5410,
+      "papers": 1502,
+      "predicted_links": 10,
+      "predicted_links_added": 10,
+      "enriched": 1
+    },
+    "gap_detection": {
+      "total_gaps": 23,
+      "structural_holes": 5,
+      "orphan_observations": 8,
+      "weak_bridges": 6,
+      "missing_mechanisms": 6,
+      "explanation_deficits": 0,
+      "avg_gap_score": 0.6334782608695654,
+      "graph_density": 0.0672,
+      "top_gaps": [
+        {
+          "entity": "Acceleration",
+          "entity_type": "phenomenon",
+          "papers": 10,
+          "confidence": 0.9,
+          "reason": "'Acceleration' is a phenomenon mentioned in 10 paper(s) but has no causal/explanatory mechanism in the graph. It is observed but not explained.",
+          "type": "orphan_observation",
+          "source": "algorithmic",
+          "gap_score": 0.938
+        },
+        {
+          "entity": "fluctuation",
+          "entity_type": "phenomenon",
+          "papers": 8,
+          "confidence": 0.9,
+          "reason": "'fluctuation' is a phenomenon mentioned in 8 paper(s) but has no causal/explanatory mechanism in the graph. It is observed but not explained.",
+          "type": "orphan_observation",
+          "source": "algorithmic",
+          "gap_score": 0.923
+        },
+        {
+          "entity": "Carcinoma",
+          "entity_type": "disease",
+          "papers": 6,
+          "confidence": 0.9,
+          "reason": "'Carcinoma' is a disease mentioned in 6 paper(s) but has no causal/explanatory mechanism in the graph. It is observed but not explained.",
+          "type": "orphan_observation",
+          "source": "algorithmic",
+          "gap_score": 0.905
+        },
+        {
+          "entity": "puzzle",
+          "entity_type": "phenomenon",
+          "papers": 5,
+          "confidence": 0.9,
+          "reason": "'puzzle' is a phenomenon mentioned in 5 paper(s) but has no causal/explanatory mechanism in the graph. It is observed but not explained.",
+          "type": "orphan_observation",
+          "source": "algorithmic",
+          "gap_score": 0.894
+        },
+        {
+          "entity": "anomaly",
+          "entity_type": "phenomenon",
+          "papers": 5,
+          "confidence": 0.9,
+          "reason": "'anomaly' is a phenomenon mentioned in 5 paper(s) but has no causal/explanatory mechanism in the graph. It is observed but not explained.",
+          "type": "orphan_observation",
+          "source": "algorithmic",
+          "gap_score": 0.894
+        },
+        {
+          "entity": "resonance",
+          "entity_type": "phenomenon",
+          "papers": 5,
+          "confidence": 0.9,
+          "reason": "'resonance' is a phenomenon mentioned in 5 paper(s) but has no causal/explanatory mechanism in the graph. It is observed but not explained.",
+          "type": "orphan_observation",
+          "source": "algorithmic",
+          "gap_score": 0.894
+        },
+        {
+          "description": "Disconnected clusters share types: unknown, concept",
+          "cluster_a": [
+            "concept_systematizing_assumptions",
+            "concept_abstract\n________________we",
+            "protein_sting_pathway",
+            "concept_stellar_cooling_anomaly",
+            "concept_pd-1/pd-l1_pathway"
+          ],
+          "cluster_b": [
+            "Physical Mechanism",
+            "South Branch Trough",
+            "Multiphoton Absorption",
+            "Stimulated Scattering",
+            "Western Pacific Subtropical High"
+          ],
+          "shared_types": [
+            "unknown",
+            "concept"
+          ],
+          "confidence": 0.7999999999999999,
+          "reason": "These 2030 and 8 entities share type(s) unknown, concept but have no connecting relationships. This may indicate an unexplored cross-domain connection.",
+          "type": "structural_hole",
+          "source": "algorithmic",
+          "gap_score": 0.66
+        },
+        {
+          "description": "Disconnected clusters share types: concept",
+          "cluster_a": [
+            "concept_systematizing_assumptions",
+            "concept_abstract\n________________we",
+            "protein_sting_pathway",
+            "concept_stellar_cooling_anomaly",
+            "concept_pd-1/pd-l1_pathway"
+          ],
+          "cluster_b": [
+            "HSV",
+            "Herpes Simplex Virus",
+            "Human Herpes Virus",
+            "HHV"
+          ],
+          "shared_types": [
+            "concept"
+          ],
+          "confidence": 0.75,
+          "reason": "These 2030 and 4 entities share type(s) concept but have no connecting relationships. This may indicate an unexplored cross-domain connection.",
+          "type": "structural_hole",
+          "source": "algorithmic",
+          "gap_score": 0.648
+        },
+        {
+          "description": "Disconnected clusters share types: concept",
+          "cluster_a": [
+            "concept_systematizing_assumptions",
+            "concept_abstract\n________________we",
+            "protein_sting_pathway",
+            "concept_stellar_cooling_anomaly",
+            "concept_pd-1/pd-l1_pathway"
+          ],
+          "cluster_b": [
+            "Anomoly Detection",
+            "Inspired Algorithm",
+            "Introducing Dendritic Cells",
+            "Novel Immune"
+          ],
+          "shared_types": [
+            "concept"
+          ],
+          "confidence": 0.75,
+          "reason": "These 2030 and 4 entities share type(s) concept but have no connecting relationships. This may indicate an unexplored cross-domain connection.",
+          "type": "structural_hole",
+          "source": "algorithmic",
+          "gap_score": 0.648
+        },
+        {
+          "description": "Disconnected clusters share types: concept",
+          "cluster_a": [
+            "concept_systematizing_assumptions",
+            "concept_abstract\n________________we",
+            "protein_sting_pathway",
+            "concept_stellar_cooling_anomaly",
+            "concept_pd-1/pd-l1_pathway"
+          ],
+          "cluster_b": [
+            "Hubble Space Telescope"
+          ],
+          "shared_types": [
+            "concept"
+          ],
+          "confidence": 0.75,
+          "reason": "These 2030 and 1 entities share type(s) concept but have no connecting relationships. This may indicate an unexplored cross-domain connection.",
+          "type": "structural_hole",
+          "source": "algorithmic",
+          "gap_score": 0.648
+        }
+      ]
+    },
+    "anomaly_detection": {
+      "total_anomalies": 10,
+      "conflicting_evidence": 0,
+      "outlier_entities": 6,
+      "prediction_violations": 5,
+      "category_anomalies": 0,
+      "semantic_anomalies": 0,
+      "avg_anomaly_score": 0.7474999999999998,
+      "top_anomalies": [
+        {
+          "entity": "quantum",
+          "entity_type": "theory",
+          "degree": 125,
+          "papers": 34,
+          "z_score": 9.51,
+          "anomaly_direction": "hub",
+          "confidence": 0.9,
+          "reason": "'quantum' has degree 125 (z=9.5), much higher than average (5.8). It's a hub — either a genuine driver or an over-studied entity.",
+          "type": "outlier_entity",
+          "anomaly_score": 0.895
+        },
+        {
+          "entity": "act",
+          "entity_type": "organization",
+          "degree": 87,
+          "papers": 7,
+          "z_score": 6.48,
+          "anomaly_direction": "hub",
+          "confidence": 0.9,
+          "reason": "'act' has degree 87 (z=6.5), much higher than average (5.8). It's a hub — either a genuine driver or an over-studied entity.",
+          "type": "outlier_entity",
+          "anomaly_score": 0.895
+        },
+        {
+          "entity": "dark matter",
+          "entity_type": "entity",
+          "degree": 83,
+          "papers": 17,
+          "z_score": 6.16,
+          "anomaly_direction": "hub",
+          "confidence": 0.9,
+          "reason": "'dark matter' has degree 83 (z=6.2), much higher than average (5.8). It's a hub — either a genuine driver or an over-studied entity.",
+          "type": "outlier_entity",
+          "anomaly_score": 0.895
+        },
+        {
+          "entity": "cancer",
+          "entity_type": "disease",
+          "degree": 79,
+          "papers": 17,
+          "z_score": 5.84,
+          "anomaly_direction": "hub",
+          "confidence": 0.9,
+          "reason": "'cancer' has degree 79 (z=5.8), much higher than average (5.8). It's a hub — either a genuine driver or an over-studied entity.",
+          "type": "outlier_entity",
+          "anomaly_score": 0.895
+        },
+        {
+          "entity": "black hole",
+          "entity_type": "entity",
+          "degree": 57,
+          "papers": 16,
+          "z_score": 4.08,
+          "anomaly_direction": "hub",
+          "confidence": 0.9,
+          "reason": "'black hole' has degree 57 (z=4.1), much higher than average (5.8). It's a hub — either a genuine driver or an over-studied entity.",
+          "type": "outlier_entity",
+          "anomaly_score": 0.895
+        },
+        {
+          "entity_a": "Cosmological Constant",
+          "entity_b": "Big Bang",
+          "entity_c": "concept_big_fizz",
+          "path": "Cosmological Constant --?--> Big Bang --associated_with--> concept_big_fizz",
+          "missing_direct": "Cosmological Constant → concept_big_fizz",
+          "confidence": 0.5,
+          "reason": "There's a path Cosmological Constant→Big Bang→concept_big_fizz but no direct connection. Either the direct link doesn't exist (novel finding) or it hasn't been studied yet.",
+          "type": "prediction_violation",
+          "anomaly_score": 0.6
+        },
+        {
+          "entity_a": "Cosmological Constant",
+          "entity_b": "Big Bang",
+          "entity_c": "concept_initial_conditions",
+          "path": "Cosmological Constant --?--> Big Bang --associated_with--> concept_initial_conditions",
+          "missing_direct": "Cosmological Constant → concept_initial_conditions",
+          "confidence": 0.5,
+          "reason": "There's a path Cosmological Constant→Big Bang→concept_initial_conditions but no direct connection. Either the direct link doesn't exist (novel finding) or it hasn't been studied yet.",
+          "type": "prediction_violation",
+          "anomaly_score": 0.6
+        },
+        {
+          "entity_a": "Cosmological Constant",
+          "entity_b": "Big Bang",
+          "entity_c": "Cosmic Microwave Background",
+          "path": "Cosmological Constant --?--> Big Bang --associated_with--> Cosmic Microwave Background",
+          "missing_direct": "Cosmological Constant → Cosmic Microwave Background",
+          "confidence": 0.5,
+          "reason": "There's a path Cosmological Constant→Big Bang→Cosmic Microwave Background but no direct connection. Either the direct link doesn't exist (novel finding) or it hasn't been studied yet.",
+          "type": "prediction_violation",
+          "anomaly_score": 0.6
+        },
+        {
+          "entity_a": "Cosmological Constant",
+          "entity_b": "Big Bang",
+          "entity_c": "concept_walker",
+          "path": "Cosmological Constant --?--> Big Bang --associated_with--> concept_walker",
+          "missing_direct": "Cosmological Constant → concept_walker",
+          "confidence": 0.5,
+          "reason": "There's a path Cosmological Constant→Big Bang→concept_walker but no direct connection. Either the direct link doesn't exist (novel finding) or it hasn't been studied yet.",
+          "type": "prediction_violation",
+          "anomaly_score": 0.6
+        },
+        {
+          "entity_a": "Cosmological Constant",
+          "entity_b": "Big Bang",
+          "entity_c": "Big Bang Universe",
+          "path": "Cosmological Constant --?--> Big Bang --associated_with--> Big Bang Universe",
+          "missing_direct": "Cosmological Constant → Big Bang Universe",
+          "confidence": 0.5,
+          "reason": "There's a path Cosmological Constant→Big Bang→Big Bang Universe but no direct connection. Either the direct link doesn't exist (novel finding) or it hasn't been studied yet.",
+          "type": "prediction_violation",
+          "anomaly_score": 0.6
+        }
+      ]
+    },
+    "missing_variables": {
+      "proposed": 13,
+      "variables": [
+        "Unnamed Variable",
+        "Unnamed Variable",
+        "Unnamed Variable",
+        "Unnamed Variable",
+        "Unnamed Variable",
+        "Unnamed Variable",
+        "Ternary Interface Frustration Index (TIFI)",
+        "Degron Crypticity Coefficient (DCC)",
+        "E3 Ligase Surface Electrostatic Anisotropy (LESA)",
+        "Context‑Dependent Interaction Network for Theory_Quantum",
+        "Model‑Specificity Switch Driven by Post‑Translational Modifications",
+        "DCAF16‑Dependent Covalent Glue versus Cullin‑Recruitment Paradigm",
+        "Ligand‑Induced Conformational Plasticity Governing Dual Ubiquitination"
+      ],
+      "variable_details": [
+        {
+          "id": 1,
+          "description": "'Acceleration' observed in multiple papers on targeted protein degradation but no mechanistic link identified.",
+          "name": "Unnamed Variable",
+          "type": "unknown",
+          "confidence": 0.5,
+          "predictions": [],
+          "explains_gaps": [],
+          "explains_anomalies": [],
+          "reasoning_type": "abductive",
+          "novelty_score": 0.5,
+          "novelty_verdict": "refinement",
+          "is_novel_vs_known": "refinement",
+          "novelty_checked": true
+        },
+        {
+          "id": 2,
+          "description": "'Fluctuation' of degradation rates reported without explanatory model.",
+          "name": "Unnamed Variable",
+          "type": "unknown",
+          "confidence": 0.5,
+          "predictions": [],
+          "explains_gaps": [],
+          "explains_anomalies": [],
+          "reasoning_type": "abductive",
+          "novelty_score": 0.5,
+          "novelty_verdict": "refinement",
+          "is_novel_vs_known": "refinement",
+          "novelty_checked": true
+        },
+        {
+          "id": 3,
+          "description": "'Carcinoma' as a disease context appears without causal pathway to substrate specificity.",
+          "name": "Unnamed Variable",
+          "type": "unknown",
+          "confidence": 0.5,
+          "predictions": [],
+          "explains_gaps": [],
+          "explains_anomalies": [],
+          "reasoning_type": "abductive",
+          "novelty_score": 0.5,
+          "novelty_verdict": "refinement",
+          "is_novel_vs_known": "refinement",
+          "novelty_checked": true
+        },
+        {
+          "id": 4,
+          "description": "'Puzzle' and 'anomaly' terms used to describe unexplained patterns in degradation efficiency.",
+          "name": "Unnamed Variable",
+          "type": "unknown",
+          "confidence": 0.5,
+          "predictions": [],
+          "explains_gaps": [],
+          "explains_anomalies": [],
+          "reasoning_type": "abductive",
+          "novelty_score": 0.5,
+          "novelty_verdict": "refinement",
+          "is_novel_vs_known": "refinement",
+          "novelty_checked": true
+        },
+        {
+          "id": 5,
+          "description": "'Resonance' mentioned in relation to E3 ligase–substrate interactions without a physical basis.",
+          "name": "Unnamed Variable",
+          "type": "unknown",
+          "confidence": 0.5,
+          "predictions": [],
+          "explains_gaps": [],
+          "explains_anomalies": [],
+          "reasoning_type": "abductive",
+          "novelty_score": 0.5,
+          "novelty_verdict": "refinement",
+          "is_novel_vs_known": "refinement",
+          "novelty_checked": true
+        },
+        {
+          "id": 6,
+          "description": "Outlier hub entities (cancer, quantum, act, dark matter) suggest hidden high‑dimensional factors influencing the network.",
+          "name": "Unnamed Variable",
+          "type": "unknown",
+          "confidence": 0.5,
+          "predictions": [],
+          "explains_gaps": [],
+          "explains_anomalies": [],
+          "reasoning_type": "abductive",
+          "novelty_score": 0.5,
+          "novelty_verdict": "refinement",
+          "is_novel_vs_known": "refinement",
+          "novelty_checked": true
+        },
+        {
+          "name": "Ternary Interface Frustration Index (TIFI)",
+          "description": "A dimensionless parameter quantifying the geometric and energetic frustration at the PROTAC/molecular glue-induced ternary complex interface. TIFI = (ΔS_interface × ΔH_buried) / (k_B × T × N_rotatable), where ΔS_interface is the conformational entropy loss upon ternary complex formation, ΔH_buried is the enthalpy of buried non-polar surface area, and N_rotatable is the number of rotatable bonds in the linker (PROTACs) or the induced proximity surface (molecular glues). The key insight is that molecular glues achieve specificity through 'frustration-matching'—they stabilize pre-existing frustrated interfaces in E3 ligases that are geometrically complementary to specific substrate surfaces, whereas PROTACs create new interfaces through linker-mediated sampling. TIFI predicts that molecular glue substrates will have intrinsically higher local frustration in their unbound states compared to PROTAC substrates, which rely on linker entropy to overcome interfacial mismatches.",
+          "type": "counterfactual",
+          "novelty": "high",
+          "confidence": 0.35,
+          "testable_prediction": "For any given E3 ligase, molecular glue substrates will exhibit higher local frustration indices (measured by Frustrometer or similar algorithms) in their degron-adjacent regions compared to PROTAC substrates, with a TIFI threshold of >2.3 distinguishing molecular glue-compatible vs PROTAC-compatible substrates. CRISPR screens with frustration-altering mutations in substrate degrons will shift degradation from glue-dependent to PROTAC-dependent modalities.",
+          "why_novel": "Current models treat molecular glues and PROTACs as mechanistically distinct modalities without a unified physical framework. The frustration literature in protein evolution has never been connected to targeted degradation; the field focuses on binding affinity and proximity, not interfacial thermodynamics. TIFI requires measuring properties of the unbound substrate that predict degradation modality—nobody has proposed that the 'degradability' of a substrate is encoded in its intrinsic frustration landscape before any ligand engagement.",
+          "source": "counterfactual_engine",
+          "novelty_score": 0.74,
+          "novelty_verdict": "novel",
+          "is_novel_vs_known": "novel",
+          "novelty_checked": true
+        },
+        {
+          "name": "Degron Crypticity Coefficient (DCC)",
+          "description": "A time-resolved measure of degron exposure dynamics, defined as DCC = τ_cryptic / τ_exposed × (1 - P_bound), where τ_cryptic and τ_exposed are the residence times of the degron in cryptic vs solvent-exposed conformations, and P_bound is the probability of chaperone or binding partner occlusion. The novel claim is that molecular glues and PROTACs target different 'crypticity classes' of degrons: molecular glues require degrons that flicker into exposure on millisecond timescales (allowing small-molecule capture of transient states), while PROTACs can target degrons with longer cryptic residence times because the bivalent architecture provides effective molarity that compensates for low encounter frequency. The DCC unifies the orphan observations of 'acceleration' and 'fluctuation'—these are phenomenological descriptions of the same underlying degron crypticity dynamics that determine modality selection.",
+          "type": "counterfactual",
+          "novelty": "high",
+          "confidence": 0.4,
+          "testable_prediction": "Hydrogen-deuterium exchange mass spectrometry (HDX-MS) with microsecond-to-millisecond time resolution will reveal that validated molecular glue substrates (e.g., IKZF1/2 with lenalidomide) have degrons with characteristic exposure times of 0.1-10 ms, while PROTAC substrates (e.g., BRD4 with MZ1) have degrons with exposure times >100 ms or require induced exposure by the PROTAC itself. Small molecules that accelerate degron exposure (the 'acceleration' orphan) will function as molecular glue precursors, while fluctuation-enhancing mutations will expand molecular glue substrate scope.",
+          "why_novel": "The field treats degrons as static structural features rather than dynamic ensembles. While protein dynamics in drug discovery is a growing area, nobody has proposed a quantitative crypticity parameter that predicts whether a degron is 'glueable' vs 'PROTACable.' The connection between 'acceleration' and 'fluctuation' as dual manifestations of degron crypticity has not been made—papers mention these phenomena in isolation without recognizing they describe the same underlying variable. The DCC requires time-resolved measurements that are technically demanding and not yet standard in the degradation field.",
+          "source": "counterfactual_engine",
+          "novelty_score": 0.74,
+          "novelty_verdict": "novel",
+          "is_novel_vs_known": "novel",
+          "novelty_checked": true
+        },
+        {
+          "name": "E3 Ligase Surface Electrostatic Anisotropy (LESA)",
+          "description": "A vector field describing the spatial variation of electrostatic potential across the E3 ligase surface that engages substrates, quantified by LESA = ∇Φ · n̂ × (1 + κλ_D), where Φ is the surface electrostatic potential, n̂ is the surface normal, and κλ_D accounts for ionic strength-dependent Debye screening. The contrarian claim is that molecular glues exploit 'electrostatic anisotropy hotspots'—localized regions where the electrostatic potential gradient is steep and directional—while PROTACs function in electrostatically isotropic or weakly anisotropic regions where linker flexibility can sample multiple orientations. This explains the 'cancer' and 'act' hub anomalies: cancer-associated E3 ligases (CRBN, VHL) have evolved hyper-anisotropic surfaces to accommodate diverse oncogenic substrates, and 'act' (actin cytoskeleton regulation) involves E3s with mechanically coupled electrostatic landscapes that are particularly glue-susceptible.",
+          "type": "counterfactual",
+          "novelty": "high",
+          "confidence": 0.3,
+          "testable_prediction": "Poisson-Boltzmann electrostatic calculations will reveal that CRBN's substrate-recruiting surface has LESA values 3-5 standard deviations higher than average E3 surfaces, with specific anisotropy vectors aligning with molecular glue binding sites. Mutations that flatten LESA (reduce anisotropy) will abolish molecular glue activity while preserving or enhancing PROTAC activity. In 'act'-related pathways, E3 ligases like HUWE1 will show LESA modulation upon mechanical strain, explaining mechano-dependent degradation patterns. The 'dark matter' hub reflects uncharacterized E3s with extreme LESA values that await molecular glue discovery.",
+          "why_novel": "Electrostatics in protein-protein interactions is typically treated as a scalar property (net charge, isoelectric point) rather than a spatially resolved vector field. The anisotropy concept exists in materials science and catalysis but has never been applied to E3 ligase substrate selection. The connection between electrostatic anisotropy and the observed hub phenomena (cancer, act, dark matter) requires interdisciplinary translation that the degradation field has not attempted. LESA demands computational infrastructure (detailed electrostatic mapping) and experimental validation (anisotropy-disrupting mutations) that are not yet part of standard degradation biology workflows.",
+          "source": "counterfactual_engine",
+          "novelty_score": 0.74,
+          "novelty_verdict": "novel",
+          "is_novel_vs_known": "novel",
+          "novelty_checked": true
+        },
+        {
+          "name": "Context‑Dependent Interaction Network for Theory_Quantum",
+          "description": "Theory_Quantum acts as a multifunctional scaffold whose downstream effects depend on the cellular context (e.g., tissue type, metabolic state, or stress level). In one context it primarily regulates pathway A, while in another it couples to pathway B, giving the appearance of contradictory roles.",
+          "type": "contradiction_explanation",
+          "resolves": "[scientific_tension] 'theory_quantum' is a hub entity connecting 113 other entities. This suggests competing explanations may exist for its r",
+          "hidden_variable": "Cellular context (cell type, signaling state, or metabolic condition) that determines which set of interacting partners are engaged.",
+          "testable_prediction": "If Theory_Quantum is knocked down in a high‑glucose, proliferative cancer cell line, transcriptomic analysis will show loss of pathway A signatures; the same knock‑down in a low‑glucose, stress‑adapted cell line will preferentially affect pathway B signatures.",
+          "source": "contradiction_driven",
+          "novelty_score": 0.5,
+          "novelty_verdict": "refinement",
+          "is_novel_vs_known": "refinement",
+          "novelty_checked": true
+        },
+        {
+          "name": "Model‑Specificity Switch Driven by Post‑Translational Modifications",
+          "description": "Theory_Model can adopt distinct conformations or interaction surfaces depending on its phosphorylation or ubiquitination status. Different studies captured different modification states, leading to apparently opposing functional interpretations.",
+          "type": "contradiction_explanation",
+          "resolves": "[scientific_tension] 'theory_model' is a hub entity connecting 83 other entities. This suggests competing explanations may exist for its role",
+          "hidden_variable": "The pattern of post‑translational modifications (PTMs) on Theory_Model at the time of analysis.",
+          "testable_prediction": "Mass‑spectrometry profiling will reveal that phosphorylated Theory_Model preferentially binds partners X and Y, whereas de‑phosphorylated Theory_Model preferentially engages partners Z and W; recreating each PTM state in vitro will recapitulate the respective interaction networks reported in the conflicting papers.",
+          "source": "contradiction_driven",
+          "novelty_score": 0.5,
+          "novelty_verdict": "refinement",
+          "is_novel_vs_known": "refinement",
+          "novelty_checked": true
+        },
+        {
+          "name": "DCAF16‑Dependent Covalent Glue versus Cullin‑Recruitment Paradigm",
+          "description": "Covalent molecular glues that engage DCAF16 and the Cullin‑based recruitment strategy are not mutually exclusive; their efficacy is dictated by the relative abundance and reactivity of DCAF16 in the target cell. When DCAF16 is abundant and its catalytic cysteine is exposed, covalent glues dominate; when DCAF16 is scarce or masked, the system relies on conventional Cullin recruitment.",
+          "type": "contradiction_explanation",
+          "resolves": "[deep_contradiction] CONTRADICTION: DCAF16‐Based Covalent Molecular Glues for Targeted Protein Degradation of Histon vs Exploiting the Cullin",
+          "hidden_variable": "Expression level and cysteine accessibility of DCAF16 in the specific cancer cell line.",
+          "testable_prediction": "Quantitative proteomics will show high DCAF16 levels in cell line A, where covalent DCAF16‑based glues achieve >80 % degradation of histone‑targeted proteins; in cell line B with low DCAF16, the same glues will be ineffective unless a Cullin‑recruiting PROTAC is added, restoring degradation efficiency.",
+          "source": "contradiction_driven",
+          "novelty_score": 0.74,
+          "novelty_verdict": "novel",
+          "is_novel_vs_known": "novel",
+          "novelty_checked": true
+        },
+        {
+          "name": "Ligand‑Induced Conformational Plasticity Governing Dual Ubiquitination",
+          "description": "Molecular dynamics (MD) simulations and Cullin‑exploitation experiments appear contradictory because they probe different conformational states of the E3 ligase complex. MD captures transient ligand‑stabilized conformations that enable simultaneous ubiquitination of two lysines, whereas static Cullin‑based assays only observe a single‑site outcome unless the ligand promotes the dual‑site conformation.",
+          "type": "contradiction_explanation",
+          "resolves": "[deep_contradiction] CONTRADICTION: Molecular dynamics simulations for understanding dual ubiquitination mechanisms  vs Exploiting the Cullin",
+          "hidden_variable": "Ligand‑driven conformational state of the E3 ligase (single‑site vs dual‑site geometry).",
+          "testable_prediction": "Introducing a ligand predicted by MD to stabilize the dual‑site conformation will result in detectable dual‑lysine ubiquitination in vitro (e.g., by mass‑spec), whereas a ligand that does not induce this conformation will only show single‑site ubiquitination, matching the Cullin‑only observations.",
+          "source": "contradiction_driven",
+          "novelty_score": 0.52,
+          "novelty_verdict": "refinement",
+          "is_novel_vs_known": "refinement",
+          "novelty_checked": true
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "curious_questioning": {
+    "observations": [],
+    "questions": [
+      {
+        "category": "assumption_attack",
+        "question": "What assumption does everyone accept about Targeted protein degradation - substrate specifici? What if it's wrong?",
+        "from_observation": false
+      },
+      {
+        "category": "scale_transfer",
+        "question": "Does a mechanism at one scale (quantum/molecular) also drive Targeted protein degradation - substrate specifici at another scale (macroscopic/cosmic)?",
+        "from_observation": false
+      },
+      {
+        "category": "assumption_attack",
+        "question": "What if the standard model of targeted protein degradation substrate s is fundamentally incomplete?",
+        "from_observation": false
+      },
+      {
+        "category": "assumption_attack",
+        "question": "The field assumes molecular glues act through 'gain-of-function' neo-substrate recruitment while PROTACs operate through simple proximity-induced ubiquitination—what if both mechanisms require induced allosteric conformational changes in the E3 ligase, and the distinction is merely a matter of which binding event (E3 or substrate) provides the dominant conformational trigger?"
+      },
+      {
+        "category": "missing_variable",
+        "question": "What is the local effective concentration of the target protein at the E3 ligase surface in the ternary complex, and how does this compare to the Kd-derived affinity—could a 'residence time' or 'encounter frequency' metric better predict degradation efficiency than traditional binding parameters?"
+      },
+      {
+        "category": "scale_transfer",
+        "question": "Does the substrate specificity logic of the SCF^β-TRCP E3 ligase for phosphodegrons—a short linear motif recognition paradigm—translate to the substrate receptor subunits (VHL, CRBN) commonly hijacked by degraders, and could we engineer degron-like recognition into any protein by understanding the physics of fuzzy complex formation?"
+      },
+      {
+        "category": "cross_domain",
+        "question": "How does the immune system's use of induced proximity (e.g., T-cell immunological synapse formation via Lck/ZAP-70 scaffolding, or CBL-b E3 ligase regulation of TCR signaling) solve the specificity problem for multi-protein complex assembly, and can we borrow their 'proofreading' mechanisms—sequential binding with kinetic discrimination—to design degraders with higher therapeutic indices?"
+      },
+      {
+        "category": "anomaly",
+        "question": "Why do some high-affinity PROTACs fail to induce degradation despite robust ternary complex formation, while certain weak-affinity molecular glues efficiently degrade targets—could 'non-productive' ternary complexes that occlude the E2~ubiquitin binding site explain this disconnect, and what structural features distinguish productive versus non-productive geometries?"
+      }
+    ],
+    "core_question": "Why do molecular challenges in targeted protein degradation require fundamentally different molecular glue versus PROTAC architectures, and what if the distinction between induced proximity and induced co-complementation is less binary than assumed?",
+    "question_hypothesis": "Molecular glues and PROTACs represent endpoints of a continuous spectrum of induced proximity mechanisms, where the critical variable is not linker presence/absence but the entropic cost of ternary complex formation; intermediate architectures with constrained, semi-rigid linkers could capture the best of both modalities by pre-organizing the E3-substrate geometry while maintaining cell permeability.",
+    "why_it_matters": "If we understood the true continuum between molecular glue and PROTAC mechanisms, we could rationally design degraders that combine the tissue permeability advantages of small molecular glues with the programmable specificity of PROTACs, potentially unlocking the ~80% of 'undruggable' proteome that current modalities fail to address.",
+    "generalizations": [],
+    "constraint": {
+      "core_question": "Why do molecular challenges in targeted protein degradation require fundamentally different molecular glue versus PROTAC architectures, and what if the distinction between induced proximity and induced co-complementation is less binary than assumed?",
+      "forbidden_theories": [
+        "Induced proximity model (PROTACs as simple bivalent recruiters)",
+        "Induced co-complementation model (molecular glues as allosteric remodelers)",
+        "Linker length optimization as the sole determinant of PROTAC efficacy",
+        "Binary classification of degraders into molecular glue vs PROTAC based on molecular weight cutoff",
+        "Ternary complex stability as the primary predictor of degradation efficiency"
+      ],
+      "required_properties": [
+        "Accounts for entropic contributions to ternary complex formation beyond simple linker flexibility",
+        "Predicts how semi-rigid, constrained architectures could bridge molecular glue and PROTAC mechanisms",
+        "Provides testable predictions for intermediate degraders with novel pharmacokinetic profiles",
+        "Integrates cell permeability constraints with ternary complex geometry requirements"
+      ],
+      "novelty_direction": "Explore degraders as a continuous conformational landscape where linker entropy, pre-organization, and induced fit dynamics create a spectrum of mechanisms rather than two discrete classes; investigate how nature's own proximity-inducing domains (e.g., DDI, PB1, or WD40 repeat interfaces) could inspire hybrid architectures that violate traditional molecular glue/PROTAC classification",
+      "constraint_prompt": "You are developing theoretical frameworks for targeted protein degradation mechanisms. CONTEXT: The field currently recognizes several established models: (1) the induced proximity model where PROTACs act as bivalent recruiters with flexible linkers, (2) the induced co-complementation model where molecular glues allosterically remodel E3 ligases to create cryptic substrate binding sites, (3) linker length optimization as the dominant design paradigm for PROTACs, (4) binary classification schemes based on molecular weight or linker presence, and (5) ternary complex thermodynamic stability as the key efficacy predictor. These models have been productive but may artificially constrain our understanding.\n\nYour task is to develop NOVEL theoretical frameworks that GO BEYOND these established models. You may reference, extend, or recontextualize the above theories if you introduce fundamentally new elements. Consider: What if the critical variable is not linker presence/absence but the entropic cost of pre-organizing the E3-substrate geometry? What if intermediate architectures—with constrained, semi-rigid linkers or non-peptidic scaffolds—access mechanistic regimes that are neither classical molecular glue nor classical PROTAC? What if we borrowed from nature's evolved proximity mechanisms (protein-protein interaction domains, phase separation, or allosteric networks) to inspire entirely new degrader classes? What if cell permeability and ternary complex formation are coupled through currently unappreciated biophysical constraints?\n\nBe bold in proposing frameworks that challenge the binary classification of degraders. Your novel theory should ideally account for the continuous spectrum of mechanisms, predict how hybrid architectures could capture advantages of both molecular glues and PROTACs, and suggest experimental approaches to test these predictions. It is perfectly acceptable to build upon existing theories if your extension introduces non-obvious implications or unifies previously separate phenomena.",
+      "cross_domain_connections": []
+    }
+  },
+  "duration_seconds": 2240.0,
+  "completed_at": "2026-06-28T19:21:58.042825",
+  "summary_text": "======================================================================\n  DISCOVERY REPORT\n======================================================================\n  Topic: Targeted protein degradation - substrate specificity determinants for molecular glues vs PROTACs in cancer therapy\n  Domain: drug_discovery\n  Mode: standard\n  Duration: 2240.0s\n\n──────────────────────────────────────────────────────────────────────\n  PAPERS (103)\n──────────────────────────────────────────────────────────────────────\n  [crossref] DCAF16‐Based Covalent Molecular Glues for Targeted Protein Degradation of Histon\n    Authors: Tao Sun, Shiyang Zhai, Stephan Lepper\n    Year: 2025\n  [pubmed] Driving E3 Ligase Substrate Specificity for Targeted Protein Degradation: Lesson\n    Year: 2022\n  [pubmed] Molecular dynamics simulations for understanding dual ubiquitination mechanisms \n    Year: 2026\n  [core] Exploiting the\nCullin E3 Ligase Adaptor Protein SKP1\nfor Targeted Protein Degrad\n    Authors: Ingrid E. Wertz (11113409), Daniel K. Nomura (198023), Anand Divakaran (2041456)\n    Year: 2024\n  [pubmed] The DAPK3-DCAF1 pathway regulates ZBP1 protein stability to orchestrate PANoptos\n    Year: 2026\n  [arxiv] New class of compounds - variators - are reprogramming substrate specificity of \n    Authors: Oleksandr Ya Yakovenko, Sreeja Leelakumari, Ganna Vashchenko\n    Year: 2015\n  [arxiv] Beyond Manual Curation: Augmenting Targeted Protein Degradation Databases via Ag\n    Authors: Yaochen Rao, Farzaneh Jalalypour, N. M. Anoop Krishnan\n    Year: 2026\n  [core] A structural VAR (SVAR) approach to cost channel of monetary policy\n    Authors: Wasim, shahid malik, Faiz ur, rehman\n    Year: None\n  [core] 49BC-b8-f1-0001-0009\n    Authors: practice\n    Year: None\n  [core] Small Firms in a Small Country: Managerial Factors, Internationalization and Per\n    Authors: Franjo Mlinaric, Mariola Ciszewska-Mlinaric\n    Year: None\n  ... and 93 more papers\n\n──────────────────────────────────────────────────────────────────────\n  KNOWLEDGE GRAPH\n──────────────────────────────────────────────────────────────────────\n  Entities: 498\n  Relationships: 5420\n\n──────────────────────────────────────────────────────────────────────\n  KNOWLEDGE GAPS (10)\n──────────────────────────────────────────────────────────────────────\n  [orphan_observation] (6 gaps)\n    - 'Acceleration' is a phenomenon mentioned in 10 paper(s) but has no causal/explanatory mechanism in the graph. It is obse\n    - 'fluctuation' is a phenomenon mentioned in 8 paper(s) but has no causal/explanatory mechanism in the graph. It is observ\n    - 'Carcinoma' is a disease mentioned in 6 paper(s) but has no causal/explanatory mechanism in the graph. It is observed bu\n  [structural_hole] (4 gaps)\n    - These 2030 and 8 entities share type(s) unknown, concept but have no connecting relationships. This may indicate an unex\n    - These 2030 and 4 entities share type(s) concept but have no connecting relationships. This may indicate an unexplored cr\n    - These 2030 and 4 entities share type(s) concept but have no connecting relationships. This may indicate an unexplored cr\n\n──────────────────────────────────────────────────────────────────────\n  ANOMALIES (4)\n──────────────────────────────────────────────────────────────────────\n  [outlier_entity] 'cancer' has degree 79 (z=5.8), much higher than average (5.8). It's a hub — either a genuine driver or an over-studied \n  [outlier_entity] 'quantum' has degree 125 (z=9.5), much higher than average (5.8). It's a hub — either a genuine driver or an over-studie\n  [outlier_entity] 'act' has degree 87 (z=6.5), much higher than average (5.8). It's a hub — either a genuine driver or an over-studied ent\n  [outlier_entity] 'dark matter' has degree 83 (z=6.2), much higher than average (5.8). It's a hub — either a genuine driver or an over-stu\n\n──────────────────────────────────────────────────────────────────────\n  HIDDEN VARIABLES (13)\n──────────────────────────────────────────────────────────────────────\n  1. [unknown] Unnamed Variable\n     Description: 'Acceleration' observed in multiple papers on targeted protein degradation but no mechanistic link identified.\n\n  2. [unknown] Unnamed Variable\n     Description: 'Fluctuation' of degradation rates reported without explanatory model.\n\n  3. [unknown] Unnamed Variable\n     Description: 'Carcinoma' as a disease context appears without causal pathway to substrate specificity.\n\n  4. [unknown] Unnamed Variable\n     Description: 'Puzzle' and 'anomaly' terms used to describe unexplained patterns in degradation efficiency.\n\n  5. [unknown] Unnamed Variable\n     Description: 'Resonance' mentioned in relation to E3 ligase–substrate interactions without a physical basis.\n\n  6. [unknown] Unnamed Variable\n     Description: Outlier hub entities (cancer, quantum, act, dark matter) suggest hidden high‑dimensional factors influencing the network.\n\n  7. [counterfactual] Ternary Interface Frustration Index (TIFI)\n     Description: A dimensionless parameter quantifying the geometric and energetic frustration at the PROTAC/molecular glue-induced ternary complex interface. TIFI = (ΔS_interface × ΔH_buried) / (k_B × T × N_rotatable\n\n  8. [counterfactual] Degron Crypticity Coefficient (DCC)\n     Description: A time-resolved measure of degron exposure dynamics, defined as DCC = τ_cryptic / τ_exposed × (1 - P_bound), where τ_cryptic and τ_exposed are the residence times of the degron in cryptic vs solvent-e\n\n  9. [counterfactual] E3 Ligase Surface Electrostatic Anisotropy (LESA)\n     Description: A vector field describing the spatial variation of electrostatic potential across the E3 ligase surface that engages substrates, quantified by LESA = ∇Φ · n̂ × (1 + κλ_D), where Φ is the surface elect\n\n  10. [contradiction_explanation] Context‑Dependent Interaction Network for Theory_Quantum\n     Description: Theory_Quantum acts as a multifunctional scaffold whose downstream effects depend on the cellular context (e.g., tissue type, metabolic state, or stress level). In one context it primarily regulates p\n\n  11. [contradiction_explanation] Model‑Specificity Switch Driven by Post‑Translational Modifications\n     Description: Theory_Model can adopt distinct conformations or interaction surfaces depending on its phosphorylation or ubiquitination status. Different studies captured different modification states, leading to ap\n\n  12. [contradiction_explanation] DCAF16‑Dependent Covalent Glue versus Cullin‑Recruitment Paradigm\n     Description: Covalent molecular glues that engage DCAF16 and the Cullin‑based recruitment strategy are not mutually exclusive; their efficacy is dictated by the relative abundance and reactivity of DCAF16 in the t\n\n  13. [contradiction_explanation] Ligand‑Induced Conformational Plasticity Governing Dual Ubiquitination\n     Description: Molecular dynamics (MD) simulations and Cullin‑exploitation experiments appear contradictory because they probe different conformational states of the E3 ligase complex. MD captures transient ligand‑s\n\n\n----------------------------------------------------------------------\n  CURIOUS QUESTIONING - The Newton Step\n----------------------------------------------------------------------\n  Core Question: Why do molecular challenges in targeted protein degradation require fundamentally different molecular glue versus PROTAC architectures, and what if the distinction between induced proximity and induced co-complementation is less binary than assumed?\n  Question Hypothesis: Molecular glues and PROTACs represent endpoints of a continuous spectrum of induced proximity mechanisms, where the critical variable is not linker presence/absence but the entropic cost of ternary complex formation; intermediate architectures with constrained, semi-rigid linkers could capture the b\n  Why It Matters: If we understood the true continuum between molecular glue and PROTAC mechanisms, we could rationally design degraders that combine the tissue permeability advantages of small molecular glues with the\n  Questions Generated: 8\n    [assumption_attack] What assumption does everyone accept about Targeted protein degradation - substr\n    [scale_transfer] Does a mechanism at one scale (quantum/molecular) also drive Targeted protein de\n    [assumption_attack] What if the standard model of targeted protein degradation substrate s is fundam\n    [assumption_attack] The field assumes molecular glues act through 'gain-of-function' neo-substrate r\n    [missing_variable] What is the local effective concentration of the target protein at the E3 ligase\n  Curiosity Constraint (Track B):\n    Forbidden Theories: Induced proximity model (PROTACs as simple bivalent recruiters), Induced co-complementation model (molecular glues as allosteric remodelers), Linker length optimization as the sole determinant of PROTAC efficacy, Binary classification of degraders into molecular glue vs PROTAC based on molecular weight cutoff, Ternary complex stability as the primary predictor of degradation efficiency\n    Required Properties:\n      + Accounts for entropic contributions to ternary complex formation beyond simple linker flexibility\n      + Predicts how semi-rigid, constrained architectures could bridge molecular glue and PROTAC mechanisms\n      + Provides testable predictions for intermediate degraders with novel pharmacokinetic profiles\n    Novelty Direction: Explore degraders as a continuous conformational landscape where linker entropy, pre-organization, and induced fit dynamics create a spectrum of mechanisms rather than two discrete classes; investigate how nature's own proximity-inducing domains (e.g., DDI, PB1, or WD40 repeat interfaces) could inspire hybrid architectures that violate traditional molecular glue/PROTAC classification\n\n======================================================================"
+}

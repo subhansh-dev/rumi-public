@@ -1,0 +1,204 @@
+============================================================================
+  RUMI STRUCTURED DISCOVERY REPORT
+  Autonomous AI-Driven Scientific Discovery
+============================================================================
+  Generated: 2026-06-19T08:24:02
+  Pipeline: RUMI v2 (full mode) | Duration: 13.3h
+
+----------------------------------------------------------------------------
+  1. ABSTRACT
+----------------------------------------------------------------------------
+
+  Topic: What microscopic electronic or structural feature distinguishes
+  topological superconductors that host non‑abelian anyons from structurally
+  similar materials that do not, and how can this feature be deliberately
+  engineered?
+  Lead hypothesis: Central role of quantum in What microscopic electronic or
+  structural feature distinguishes topological superconductors that host
+  non‑abelian anyons from structurally similar materials that do not, and
+  how can this feature be deliberately engineered?
+  'quantum' is a hub entity (z=8.9) connecting: chemical_axion,
+  concept_classical_field, theory, concept_quantum_teleportation,
+  concept_topological_insulator. This unusually high connectivity suggests
+  quantum plays a mechanistic role that current models may underestimate.
+  Propose that quantum has a...
+  Based on 0 papers, 0 hidden variables, 0 mechanisms, 5 predictions.
+  Score: 55/100 (Grade: C) | Confidence: 12%
+
+----------------------------------------------------------------------------
+  2. CONTEXT & LITERATURE
+----------------------------------------------------------------------------
+
+  Domain: materials_science | Papers: 0
+  Key Literature:
+  Knowledge Graph: 398 entities, 5182 relationships
+
+----------------------------------------------------------------------------
+  3. HYPOTHESIS
+----------------------------------------------------------------------------
+
+  Name: Central role of quantum in What microscopic electronic or structural feature distinguishes topological superconductors that host non‑abelian anyons from structurally similar materials that do not, and how can this feature be deliberately engineered?
+  Type: proposed | Classification: extension
+
+  Statement:
+    'quantum' is a hub entity (z=8.9) connecting: chemical_axion,
+    concept_classical_field, theory, concept_quantum_teleportation,
+    concept_topological_insulator. This unusually high connectivity suggests
+    quantum plays a mechanistic role that current models may underestimate.
+    Propose that quantum has a regulatory or mediating function in the
+    system described by What microscopic electronic or structural feature
+    distinguishes topological superconductors that host non‑abelian anyons
+    from structurally similar materials that do not, and how can this
+    feature be deliberately engineered?.
+
+----------------------------------------------------------------------------
+  4. PROPOSED MECHANISM(S) (0)
+----------------------------------------------------------------------------
+
+  Mechanism Completeness: 0.35/1.0 (0/5 complete)
+
+----------------------------------------------------------------------------
+  6. TESTABLE PREDICTIONS (5)
+----------------------------------------------------------------------------
+
+  1. [CORRELATIONAL]
+     If a hidden mechanism connects 'Acceleration' to framework,
+     monte_carlo, kinetic_monte_carlo_framework, then targeted experiments
+     should reveal correlations between them.
+     Falsification: Observe the opposite of: If a hidden mechanism connects 'Acceleration' to framework, monte_carlo, kinetic_monte_carlo_framewo
+
+  2. [CORRELATIONAL]
+     If a hidden mechanism connects 'fluctuation' to
+     liquid–liquid_phase_separation, planck_satellite, planck_npipe_dataset,
+     then targeted experiments should reveal correlations between them.
+     Falsification: Observe the opposite of: If a hidden mechanism connects 'fluctuation' to liquid–liquid_phase_separation, planck_satellite, pl
+
+  3. [CORRELATIONAL]
+     If a hidden mechanism connects 'Carcinoma' to kras, cancer,
+     proteasome_system, then targeted experiments should reveal correlations
+     between them.
+     Falsification: Observe the opposite of: If a hidden mechanism connects 'Carcinoma' to kras, cancer, proteasome_system, then targeted experim
+
+  4. [CORRELATIONAL]
+     If a hidden mechanism connects 'resonance' to bound, kras, ras, then
+     targeted experiments should reveal correlations between them.
+     Falsification: Observe the opposite of: If a hidden mechanism connects 'resonance' to bound, kras, ras, then targeted experiments should rev
+
+  5. [CORRELATIONAL]
+     If a hidden mechanism connects 'puzzle' to biological_homochirality,
+     electron, then targeted experiments should reveal correlations between
+     them.
+     Falsification: Observe the opposite of: If a hidden mechanism connects 'puzzle' to biological_homochirality, electron, then targeted experim
+
+----------------------------------------------------------------------------
+  7. SYNTHESIS AND CHARACTERIZATION PLAN
+----------------------------------------------------------------------------
+
+  Domain: materials_science
+    - Material synthesis under predicted conditions
+    - Structural characterization (XRD, TEM, SEM, AFM)
+    - Property measurement (mechanical, thermal, electrical)
+    - Computational validation (DFT, MD simulation)
+
+  Pipeline-Generated Plans:
+    Plan 1: Experimental planning unavailable
+    Plan 2: Experimental planning unavailable
+
+----------------------------------------------------------------------------
+  8. EVIDENCE ASSESSMENT
+----------------------------------------------------------------------------
+
+  Scoring Breakdown:
+    Novelty                   [##############......]  70.0/100 (w=25%)
+    Explanatory Power         [##################..]  91.0/100 (w=20%)
+    Predictive Power          [###################.]  98.0/100 (w=15%)
+    Falsifiability            [####################] 100.0/100 (w=12%)
+    Simplicity                [################....]  80.0/100 (w=8%)
+    Evidence Strength         [########............]  40.0/100 (w=12%)
+    Math Rigor                [####................]  20.0/100 (w=8%)
+
+  Final Score: 55/100 (Grade: C)
+    - Skeptic confidence 0% -> capped at 65
+    - Critical eval 5.0/10 (-3)
+    - Critical eval: major_revision -> capped at B (64)
+    - Very low confidence (0.12) -> capped at C (55)
+
+  Strengths:
+    + novelty: 70/100
+    + explanatory_power: 91/100
+    + predictive_power: 98/100
+    + falsifiability: 100/100
+    + simplicity: 80/100
+
+  Weaknesses:
+    - mathematical_rigor: 20/100
+
+  Peer Review: 5.0/10 (recommendation: major_revision)
+    Critical evaluation could not be completed.
+    Major Issues:
+      ! Review failed — could not evaluate
+
+  Skeptic Review: unknown (confidence: 0%)
+
+  Confidence: 12%
+    WARNING: Very low confidence - treat as preliminary hypothesis
+
+----------------------------------------------------------------------------
+  9. ALTERNATIVE EXPLANATIONS (3 runners-up)
+----------------------------------------------------------------------------
+
+  2. Hidden mechanism connecting Acceleration to framework, monte_carlo, kinetic_monte_carlo_framework (score: 0.52)
+     The observation 'Acceleration' appears in the literature but lacks a
+     causal explanation. Based on the knowledge graph, it may be connected
+     to framework, monte_carlo, kinetic_mon...
+
+  3. Hidden mechanism connecting fluctuation to liquid–liquid_phase_separation, planck_satellite, planck_npipe_dataset (score: 0.52)
+     The observation 'fluctuation' appears in the literature but lacks a
+     causal explanation. Based on the knowledge graph, it may be connected
+     to liquid–liquid_phase_separation, plan...
+
+  4. Hidden mechanism connecting Carcinoma to kras, cancer, proteasome_system (score: 0.52)
+     The observation 'Carcinoma' appears in the literature but lacks a
+     causal explanation. Based on the knowledge graph, it may be connected
+     to kras, cancer, proteasome_system. Propo...
+
+----------------------------------------------------------------------------
+  11. EPISTEMIC LIMITATIONS
+----------------------------------------------------------------------------
+
+  - Literature: 0 papers analyzed. Field likely has hundreds more.
+  - Predictions: 5 untested. Score reflects potential, not validation.
+  - Mechanism completeness: 0.35/1.0. Treat as working hypotheses.
+  - Confidence: 12%. Insufficient to distinguish from noise.
+  - Peer review: major_revision. Significant issues identified.
+
+----------------------------------------------------------------------------
+  12. WHAT WOULD STRENGTHEN OR REFUTE THIS
+----------------------------------------------------------------------------
+
+  To STRENGTHEN:
+    + Complete mechanism derivations with explicit equations
+    + Experimental confirmation of at least one prediction
+    + Cross-validation against holdout literature
+    + Independent replication by another group
+
+  To REFUTE:
+    - Observe the opposite of: If a hidden mechanism connects 'Acceleration' to framework, monte_carlo, kinetic_monte_carlo_framewo
+    - Observe the opposite of: If a hidden mechanism connects 'fluctuation' to liquid–liquid_phase_separation, planck_satellite, pl
+    - Observe the opposite of: If a hidden mechanism connects 'Carcinoma' to kras, cancer, proteasome_system, then targeted experim
+
+----------------------------------------------------------------------------
+  13. PIPELINE METADATA
+----------------------------------------------------------------------------
+
+  Domain: materials_science | Mode: full | Duration: 13.3h
+  Papers: 0 | Entities: 398 | Relations: 5182
+  Hidden Variables: 0 | Mechanisms: 0
+  Predictions: 5 | Theories: 4
+  Recurrent Loops: 1
+    Loop 1: score=0.556, winner="Central role of quantum in What microsco", strategy=exploratory
+
+============================================================================
+  END OF STRUCTURED REPORT
+  Generated by RUMI - Autonomous AI-Driven Scientific Discovery
+============================================================================

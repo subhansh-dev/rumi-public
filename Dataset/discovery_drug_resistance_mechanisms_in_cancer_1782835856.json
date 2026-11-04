@@ -1,0 +1,2377 @@
+{
+  "topic": "drug resistance mechanisms in cancer",
+  "domain": "drug_discovery",
+  "mode": "quick",
+  "pipeline_version": "v2_discovery",
+  "started_at": "2026-06-30T21:24:36.579700",
+  "phases": {
+    "literature": {
+      "papers_found": 135,
+      "sources": [
+        "pubmed",
+        "semantic_scholar",
+        "core",
+        "inspire_hep",
+        "crossref",
+        "arxiv",
+        "openalex"
+      ],
+      "papers": [
+        {
+          "source": "pubmed",
+          "id": "42376075",
+          "title": "Anticancer power of Artemisia annua: A preclinical systematic review.",
+          "abstract": "Cancer remains a leading global health challenge, and treatment efficacy is often limited by resistance to conventional therapies and their associated toxicities. These limitations have intensified the exploration of alternative strategies, particularly natural compounds with antitumor potential such as Artemisia annua (AA). This review aimed to systematically evaluate the antitumor efficacy and mechanisms of action of AA extracts and derivatives in preclinical animal models. A structured literature search was conducted in PubMed, Scopus, and Web of Science for studies published between 2019 a",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42376075/",
+          "citation_key": "PMID:42376075",
+          "pmid": "42376075"
+        },
+        {
+          "source": "pubmed",
+          "id": "42375608",
+          "title": "Lysosome-dependent cell death in hepatocellular carcinoma: unlocking the therapeutic potential of natural products.",
+          "abstract": "Hepatocellular carcinoma (HCC) is one of the deadliest malignant tumors in the world, and the available targeted therapies (e.g., sorafenib, lenvatinib) have limited options and frequent drug resistance. Lysosome-dependent cell death (LDCD), characterized by increased lysosomal membrane permeabilization (LMP) and the release of proteases, has attracted considerable attention as a non-apoptotic mechanism that can circumvent drug resistance. In recent years, researchers have used natural compounds in the treatment of HCC, which effectively induce LDCD through a variety of mechanisms, such as aci",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42375608/",
+          "citation_key": "PMID:42375608",
+          "pmid": "42375608"
+        },
+        {
+          "source": "pubmed",
+          "id": "42375378",
+          "title": "Autophagy modulation in gynaecologic oncology: insights into immune regulation and therapeutic potential.",
+          "abstract": "As a fundamental cellular process, autophagy maintains homeostasis and viability through the regulation of proteostasis, organelle quality control, and functional preservation. It represents the central pathway for transporting diverse cytoplasmic components to lysosomes for degradation and recycling. Accumulating evidence reveals the paradoxical role of autophagy in oncogenesis, where it can either suppress tumour development or facilitate cancer progression depending on context and stage. This conclusion is particularly evident during gynaecological tumour progression. Contemporary research ",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42375378/",
+          "citation_key": "PMID:42375378",
+          "pmid": "42375378"
+        },
+        {
+          "source": "pubmed",
+          "id": "42375360",
+          "title": "Molecular studies on the impact of microbiome on anticancer drug resistance.",
+          "abstract": "Cancer remains a leading global health challenge, with drug resistance posing a critical barrier to the durable efficacy of anticancer therapies, including chemotherapy, immunotherapy, and targeted treatments. Growing evidence highlights the gut microbiome as a key modulator in this resistance process. The gut microbiome-a dynamic and diverse microbial ecosystem-can influence drug efficacy through multiple mechanisms, including the biotransformation of chemotherapeutics, modulation of immune responses, alteration of host drug-metabolizing enzymes, and reshaping of the tumor microenvironment. N",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42375360/",
+          "citation_key": "PMID:42375360",
+          "pmid": "42375360"
+        },
+        {
+          "source": "pubmed",
+          "id": "42375351",
+          "title": "Antibody-drug conjugates in gynecologic malignancies: breakthroughs, challenges, and future directions.",
+          "abstract": "Gynecologic malignancies - principally cervical cancer (CC), endometrial carcinoma (EC), and ovarian cancer (OC) - have been managed with conventional modalities including surgery, radiotherapy, chemotherapy, targeted therapy, and immunotherapy, yielding modest overall outcomes. The scarcity of effective later-line options has fueled rapid advances in antibody-drug conjugate (ADC) research. Precision-targeted, highly potent ADCs hold the promise of improving outcomes for patients with gynecologic tumors. To date, multiple ADCs directed against antigens such as tissue factor (TF), human epiderm",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42375351/",
+          "citation_key": "PMID:42375351",
+          "pmid": "42375351"
+        },
+        {
+          "source": "pubmed",
+          "id": "42375141",
+          "title": "Recent advances in HER2-targeted inhibitors for cancer therapy.",
+          "abstract": "HER2 (ErbB2), a ligand-independent HER family member, regulates cell growth, differentiation, and survival. Its overexpression, gene amplification, and activating mutations are oncogenic drivers in multiple malignancies. The past two decades have witnessed transformative advances in HER2-targeted therapeutics, exemplified by tyrosine kinase inhibitors (TKIs), including first-generation reversible pan-HER (e.g., lapatinib), second-generation covalent pan-HER (neratinib, pyrotinib), and novel selective HER2 inhibitors (tucatinib, sevabertinib, zongertinib). Nonetheless, the extensive molecular h",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42375141/",
+          "citation_key": "PMID:42375141",
+          "pmid": "42375141"
+        },
+        {
+          "source": "pubmed",
+          "id": "42375082",
+          "title": "Chronic Inflammation and Cancer Therapy: Molecular Mechanisms and Clinical Advances in Resolution Pharmacology.",
+          "abstract": "Chronic inflammation is a pivotal pathophysiological process driving carcinogenesis, tumor progression, metastasis, and therapeutic resistance. While the termination of inflammation was historically viewed as a passive dissipation event, recent research has established it as an active biochemical program governed by Specialized Pro-resolving Mediators (SPMs). Based on cutting-edge research from 2022 to 2025 and clinical data, this review provides an in-depth analysis of the failure of lipid class switching, receptor signal transduction networks, the role of resolution-phase macrophages (M-res)",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42375082/",
+          "citation_key": "PMID:42375082",
+          "pmid": "42375082"
+        },
+        {
+          "source": "pubmed",
+          "id": "42374476",
+          "title": "Targeting AIF to trigger RIPKs/MLKL necroptosis: a disulfiram-based strategy to reverse paclitaxel resistance in ovarian cancer.",
+          "abstract": "Paclitaxel is a cornerstone first-line therapy for ovarian cancer, but its efficacy is limited by chemoresistance. Disulfiram (DSF), an FDA-approved alcohol-aversion drug, shows promising antitumor activity. However, its impact on paclitaxel sensitivity in ovarian cancer and the underlying mechanism remain unclear. This study identified DSF as a reversal agent of paclitaxel resistance. In vitro, DSF's chemosensitizing effect was tested on paclitaxel-resistant and parent ovarian cancer cells. Mechanistic investigations involved examining the triggering of RIPK1/RIPK3/MLKL-regulated necroptosis ",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42374476/",
+          "citation_key": "PMID:42374476",
+          "pmid": "42374476"
+        },
+        {
+          "source": "pubmed",
+          "id": "42374135",
+          "title": "sFRP-4 regulated by n6\u2011methyladenosine writer ZC3H13 attenuates sunitinib resistance of renal cell carcinoma via inactivating Wnt/\u03b2-catenin pathway.",
+          "abstract": "Sunitinib, a first-line tyrosine kinase inhibitor, is widely used for renal cell carcinoma (RCC) therapy; however, sunitinib resistance compromises clinical efficacy. N6-methyladenosine (m6A), the most prevalent internal RNA modification, plays a crucial role in cancer progression and drug response. This study aimed to investigate the regulatory mechanism of an m6A writer ZC3H13 on secreted frizzled-related protein 4 (sFRP-4) and reveal their roles in sunitinib resistance of RCC. The levels of sFRP-4 and ZC3H13 were evaluated by qRT-PCR and western blotting. Cell functional assays and in vivo ",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42374135/",
+          "citation_key": "PMID:42374135",
+          "pmid": "42374135"
+        },
+        {
+          "source": "pubmed",
+          "id": "42373923",
+          "title": "The power of phytochemicals in cancer chemoprevention through multi-target modulation of oncogenic signaling pathways.",
+          "abstract": "The conventional cancer therapies like synthetic drug treatment, radiotherapy, and surgery are often associated with serious side effects including cancer recurrence and drug resistance. In contrast, plant-derived compounds offer a multitargeted and potentially less toxic approach that may complement traditional cancer therapies. Ethnopharmacological evidence, together with preclinical and clinical studies, has demonstrated substantial cytotoxic potential of plant extracts and isolated compounds against different human cancer cell lines. Medicinal plants are a rich source of bioactive compound",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42373923/",
+          "citation_key": "PMID:42373923",
+          "pmid": "42373923"
+        },
+        {
+          "source": "pubmed",
+          "id": "42373604",
+          "title": "EGFR-dependent delivery of phosphorylated IGFBP3 by cancer stem cells drives chemotherapy resistance in colorectal cancer.",
+          "abstract": "The primary systemic treatment for advanced colorectal cancer (CRC) is chemotherapy, but inevitable drug resistance leads to poor prognosis. Cancer stem cells (CSCs) are recognized as significant contributors to chemotherapy resistance, yet the mechanisms underlying their ability to induce widespread resistance across tumor cell populations remain poorly understood. In this study, we demonstrate a novel mechanism by which colorectal CSC-like spheroid cells (CCSCs) drive chemotherapy resistance through the release of small extracellular vesicles (sEVs) enriched with highly phosphorylated insuli",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42373604/",
+          "citation_key": "PMID:42373604",
+          "pmid": "42373604"
+        },
+        {
+          "source": "pubmed",
+          "id": "42373595",
+          "title": "TRMT1-mediated tRNA m22G modification drives Osimertinib resistance via the ATXN3/USP25 axis in lung adenocarcinoma.",
+          "abstract": "Acquired resistance to Osimertinib, a third-generation EGFR tyrosine kinase inhibitor (TKI), remains a critical challenge in lung adenocarcinoma. Here, we identify ATXN3, a deubiquitinating enzyme, as a driver of Osimertinib resistance and a predictor of poor patient survival. Osimertinib treatment dynamically upregulates ATXN3 transcription, which stabilizes USP25 through deubiquitination, activating an ATXN3-USP25-TRMT1 signaling cascade. This axis enhances TRMT1-mediated tRNA m\u00b22G modifications, enabling selective translation of redox-regulating enzymes (e.g., GPX4, SOD2) that scavenge reac",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42373595/",
+          "citation_key": "PMID:42373595",
+          "pmid": "42373595"
+        },
+        {
+          "source": "pubmed",
+          "id": "42373282",
+          "title": "Targeting the LRIG2-PI3K/AKT/mTOR Axis to Induce Apoptosis: A Novel Antitumor Mechanism of Verbascoside in Endometrial Cancer Cells.",
+          "abstract": "Endometrial cancer (EC) is a prevalent gynecological malignancy with increasing incidence worldwide. Despite advances in therapy, drug resistance remains a major challenge. Verbascoside, a natural phenylethanoid glycoside, possesses various pharmacological activities, including antitumor effects. However, its specific mechanism against EC, particularly the role of leucine-rich repeats and immunoglobulin-like domains 2 (LRIG2) in modulating apoptosis, remains poorly understood. We used in vitro and in vivo models to evaluate the antitumor efficacy of verbascoside. In vitro, the Ishikawa cell li",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42373282/",
+          "citation_key": "PMID:42373282",
+          "pmid": "42373282"
+        },
+        {
+          "source": "pubmed",
+          "id": "42373273",
+          "title": "Dacarbazine Resistance in Melanoma Is Driven by Cell Cycle Dysregulation Stemming from Altered Cyclin D1, GSK-3\u03b2, and p21 Expression.",
+          "abstract": "The overall response rate of patients with advanced metastatic melanoma treated with anticancer agents remains poor, and their prognosis is extremely unfavorable. Combination therapy has become a prevalent treatment strategy, but resistance to the key drug dacarbazine (DTIC) contributes significantly to poor outcomes. We focused on programmed cell death 4 (Pdcd4), a tumor suppressor gene, as a potential target for overcoming drug resistance. Recent studies indicate that Pdcd4 expression impacts cell cycle regulation, with its specific function varying with cancer type. To date, detailed mechan",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42373273/",
+          "citation_key": "PMID:42373273",
+          "pmid": "42373273"
+        },
+        {
+          "source": "pubmed",
+          "id": "42373267",
+          "title": "Metabolic Reprogramming and Chemoresistance in Pancreatic Ductal Adenocarcinoma: Mechanisms and Therapeutic Strategies.",
+          "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains one of the most lethal malignancies, with morbidity and mortality driven by late diagnosis, a dense desmoplastic stroma, and resistance to conventional therapies. Over sequential therapeutic eras, treatment has progressed from early cytotoxic agents to metabolism-directed strategies. A central feature of PDAC biology is extensive metabolic reprogramming, largely controlled by the Kirsten rat sarcoma viral oncogene homologue (KRAS) protein, which promotes aerobic glycolysis, glutamine utilization, and mitochondrial oxidative phosphorylation to sus",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42373267/",
+          "citation_key": "PMID:42373267",
+          "pmid": "42373267"
+        },
+        {
+          "source": "pubmed",
+          "id": "42373245",
+          "title": "Determinants of Resistance to Immune Checkpoint Inhibitors in Merkel Cell Carcinoma: A Narrative Review.",
+          "abstract": "Merkel cell carcinoma (MCC) is an aggressive neuroendocrine skin malignancy frequently associated with Merkel cell polyomavirus (MCPyV) or ultraviolet (UV) mutagenesis. While immune checkpoint inhibitors (ICIs) targeting the PD-1/PD-L1 axis achieve response rates of 50-60%, primary and acquired resistance remain significant challenges. This review aims to synthesize current evidence on the determinants of ICI resistance in MCC to improve patient stratification and therapeutic strategies. A comprehensive narrative review of scholarly literature was performed using SciSpace, Google Scholar, and ",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42373245/",
+          "citation_key": "PMID:42373245",
+          "pmid": "42373245"
+        },
+        {
+          "source": "pubmed",
+          "id": "42373223",
+          "title": "GGT6 as a Prognostic Biomarker and Therapeutic Target in Melanoma Using an Information-theoretical Method.",
+          "abstract": "Melanoma is an aggressive malignancy with rising global incidence. While early surgical intervention improves survival in localized cases, treatment resistance and recurrence remain a challenge. This underscores the critical need to identify prognostic biomarkers for early diagnosis, personalized treatment, and novel therapeutic development. The GSE126076 and melanoma dataset (Skin Cutaneous Melanoma, TCGA, PanCancer Atlas) were analyzed using an information-theoretical method to identify prognostic factors. Survival analysis was performed via Kaplan-Meier curves and log-rank tests to compare ",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42373223/",
+          "citation_key": "PMID:42373223",
+          "pmid": "42373223"
+        },
+        {
+          "source": "pubmed",
+          "id": "42372837",
+          "title": "Post-transcriptional regulation in cancer chemoresistance.",
+          "abstract": "Cancer remains the second leading cause of death worldwide, surpassed only by cardiovascular diseases. Although cancer-specific mortality rates have declined due to advances in early detection and therapeutic strategies, the absolute number of cancer-related deaths continues to rise, driven by increasing disease incidence associated with population aging and lifestyle factors. A substantial proportion of cancer mortality is attributable to the development of resistance to anticancer therapies, making drug resistance a critical barrier to durable treatment efficacy and a major focus for clinica",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42372837/",
+          "citation_key": "PMID:42372837",
+          "pmid": "42372837"
+        },
+        {
+          "source": "pubmed",
+          "id": "42372494",
+          "title": "Mechanisms and clinical challenges of ICB-mediated remodeling of the tumor microenvironment in nasopharyngeal carcinoma.",
+          "abstract": "Nasopharyngeal carcinoma (NPC) is an Epstein-Barr virus (EBV)-driven malignancy characterized by a profoundly immunosuppressive tumor microenvironment (TME) that severely limits the efficacy of immune checkpoint blockade (ICB). In the modern comprehensive treatment era, the 5\u2011year overall survival rate for non\u2011metastatic NPC has reached 80-90%, and the prognosis of newly diagnosed non\u2011metastatic patients is substantially better than that of more prevalent cancers such as lung and colorectal cancer. Although ICB has improved survival in recurrent/metastatic NPC, clinical benefits are restricted",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42372494/",
+          "citation_key": "PMID:42372494",
+          "pmid": "42372494"
+        },
+        {
+          "source": "pubmed",
+          "id": "42372204",
+          "title": "Metabolic Modulation in Cancer Care: The Potential Role of Glucagon-Like Peptide-1 Receptor Agonists.",
+          "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have revolutionized the management of type 2 diabetes and obesity by providing sustained improvements in glycemic control, weight loss, and cardiovascular outcomes. These benefits have led to increasing interest in their potential role in cancer treatment. Obesity and metabolic dysfunction are well-known factors that promote the development, progression, and resistance to therapy in various cancers, suggesting that drugs targeting these pathways may have anticancer effects. Emerging epidemiologic and clinical evidence shows that GLP-1RA ther",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42372204/",
+          "citation_key": "PMID:42372204",
+          "pmid": "42372204"
+        },
+        {
+          "source": "arxiv",
+          "id": "2510.05920",
+          "title": "Deciphering the Role of Acetate in Metabolic Adaptation and Osimertinib Resistance in Non-Small Cell Lung Cancer",
+          "abstract": "Aims. Resistance to targeted therapies remains a major challenge in EGFR-mutant non-small cell lung cancer (NSCLC). Here, we describe a novel metabolic adaptation in osimertinib-resistant cells characterized by elevated acetate levels and activation of an unconventional pyruvate-acetaldehyde-acetate (PAA) shunt. Methods. Integrated transcriptomic, exometabolomic, and functional analyses reveal suppression of canonical metabolic pathways and upregulation of ALDH2 and ALDH7A1, that mediate the NAD",
+          "authors": [
+            "Giorgia Maroni",
+            "Eva Cabrera San Millan",
+            "Beatrice Campanella",
+            "Massimo Onor",
+            "Giovanni Cercignani"
+          ],
+          "year": "2025",
+          "url": "https://arxiv.org/pdf/2510.05920v1",
+          "citation_key": "arXiv:2510.05920",
+          "pmid": "2510.05920"
+        },
+        {
+          "source": "arxiv",
+          "id": "2502.17506",
+          "title": "RAG-Enhanced Collaborative LLM Agents for Drug Discovery",
+          "abstract": "Recent advances in large language models (LLMs) have shown great potential to accelerate drug discovery. However, the specialized nature of biochemical data often necessitates costly domain-specific fine-tuning, posing major challenges. First, it hinders the application of more flexible general-purpose LLMs for cutting-edge drug discovery tasks. More importantly, it limits the rapid integration of the vast amounts of scientific data continuously generated through experiments and research. Compou",
+          "authors": [
+            "Namkyeong Lee",
+            "Edward De Brouwer",
+            "Ehsan Hajiramezanali",
+            "Tommaso Biancalani",
+            "Chanyoung Park"
+          ],
+          "year": "2025",
+          "url": "https://arxiv.org/pdf/2502.17506v3",
+          "citation_key": "arXiv:2502.17506",
+          "pmid": "2502.17506"
+        },
+        {
+          "source": "arxiv",
+          "id": "2503.08927",
+          "title": "Ensemble optimal control for managing drug resistance in cancer therapies",
+          "abstract": "In this paper, we explore the application of ensemble optimal control to derive enhanced strategies for pharmacological cancer treatment, and we tackle the problem of the long-term management of the disease, i.e., when the complete eradication of the tumor is not achievable. In particular, we focus on moving beyond the classical clinical approach of giving the patient the maximal tolerated drug dose (MTD), which does not properly exploit the fight among sensitive and resistant cells for the avai",
+          "authors": [
+            "Alessandro Scagliotti",
+            "Federico Scagliotti",
+            "Laura Deborah Locati",
+            "Federico Sottotetti"
+          ],
+          "year": "2025",
+          "url": "https://arxiv.org/pdf/2503.08927v3",
+          "citation_key": "arXiv:2503.08927",
+          "pmid": "2503.08927"
+        },
+        {
+          "source": "crossref",
+          "id": "10.20517/cdr.2025.148",
+          "title": "Mechanisms of resistance to antibody-drug conjugates in cancer therapy: molecular basis and therapeutic strategies",
+          "abstract": "Antibody-drug conjugates (ADCs) have emerged as a transformative class in oncology, integrating the target specificity of monoclonal antibodies with the potent cytotoxicity of small-molecule payloads. By harnessing tumor-specific antigen recognition, ADCs enable the selective delivery of chemotherapeutic agents, thereby enhancing therapeutic efficacy while reducing systemic toxicity. Their clinical success across both hematologic malignancies and solid tumors underscores their potential ",
+          "authors": [
+            "Yue Hao",
+            "Zhengbo Song"
+          ],
+          "year": "2025",
+          "url": "https://doi.org/10.20517/cdr.2025.148",
+          "citation_key": "DOI:10.20517/cdr.2025.14",
+          "citation_count": 3,
+          "pmid": "10.20517/cdr.2025.148"
+        },
+        {
+          "source": "crossref",
+          "id": "10.20517/cdr.2024.216",
+          "title": "Mechanisms of resistance to NAMPT inhibitors in cancer",
+          "abstract": "A common barrier to the development of effective anticancer agents is the development of drug resistance. This obstacle remains a challenge to successful clinical translation, particularly for targeted agents. Nicotinamide phosphoribosyltransferase (NAMPT) inhibitors represent a clinically applicable drug class that exploits the increased dependence of cancer cells on nicotinamide adenine dinucleotide (NAD+), a coenzyme essential to metabolism and other cellular functions. NAMPT catalyze",
+          "authors": [
+            "Jansen Redler",
+            "Ariana E. Nelson",
+            "Christine M. Heske"
+          ],
+          "year": "2025",
+          "url": "https://doi.org/10.20517/cdr.2024.216",
+          "citation_key": "DOI:10.20517/cdr.2024.21",
+          "citation_count": 7,
+          "pmid": "10.20517/cdr.2024.216"
+        },
+        {
+          "source": "semantic_scholar",
+          "id": "5f0190dfc671312c21a6e2fa1ac0dcb0cf54adc6",
+          "title": "Mechanisms and Strategies to Overcome Drug Resistance in Colorectal Cancer",
+          "abstract": "Colorectal cancer (CRC) is a major cause of cancer-related mortality worldwide, with a significant impact on public health. Current treatment options include surgery, chemotherapy, radiotherapy, molecular-targeted therapy, and immunotherapy. Despite advancements in these therapeutic modalities, resistance remains a significant challenge, often leading to treatment failure, poor progression-free survival, and cancer recurrence. Mechanisms of resistance in CRC are multifaceted, involving genetic mutations, epigenetic alterations, tumor heterogeneity, and the tumor microenvironment. Understanding",
+          "authors": [
+            "Jennifer Haynes",
+            "Prasath Manogaran"
+          ],
+          "year": "2025",
+          "link": "https://www.semanticscholar.org/paper/5f0190dfc671312c21a6e2fa1ac0dcb0cf54adc6",
+          "citation_key": "S2:5f0190df",
+          "citation_count": 0,
+          "influential_citations": 0,
+          "pmid": "5f0190dfc671312c21a6e2fa1ac0dcb0cf54adc6"
+        },
+        {
+          "source": "semantic_scholar",
+          "id": "738f42b88303f919a1111f0bb3965a9352b45745",
+          "title": "Molecular mechanisms and therapeutic strategies in overcoming chemotherapy resistance in cancer",
+          "abstract": "Cancer remains a leading cause of mortality globally and a major health burden, with chemotherapy often serving as the primary therapeutic option for patients with advanced-stage disease, partially compensating for the limitations of non-curative treatments. However, the emergence of chemotherapy resistance significantly limits its efficacy, posing a major clinical challenge. Moreover, heterogeneity of resistance mechanisms across cancer types complicates the development of universally effective diagnostic and therapeutic approaches. Understanding the molecular mechanisms of chemoresistance an",
+          "authors": [
+            "Yixiang Gu",
+            "Rui-Feng Yang",
+            "Yang Zhang",
+            "Miaomiao Guo",
+            "Kyle Takehiro"
+          ],
+          "year": "2025",
+          "link": "https://www.semanticscholar.org/paper/738f42b88303f919a1111f0bb3965a9352b45745",
+          "citation_key": "S2:738f42b8",
+          "citation_count": 0,
+          "influential_citations": 0,
+          "pmid": "738f42b88303f919a1111f0bb3965a9352b45745"
+        },
+        {
+          "source": "arxiv",
+          "id": "2402.09476",
+          "title": "AI-Enabled Lung Cancer Prognosis",
+          "abstract": "Lung cancer is the primary cause of cancer-related mortality, claiming approximately 1.79 million lives globally in 2020, with an estimated 2.21 million new cases diagnosed within the same period. Among these, Non-Small Cell Lung Cancer (NSCLC) is the predominant subtype, characterized by a notably bleak prognosis and low overall survival rate of approximately 25% over five years across all disease stages. However, survival outcomes vary considerably based on the stage at diagnosis and the thera",
+          "authors": [
+            "Mahtab Darvish",
+            "Ryan Trask",
+            "Patrick Tallon",
+            "M\u00e9lina Khansari",
+            "Lei Ren"
+          ],
+          "year": "2024",
+          "url": "https://arxiv.org/pdf/2402.09476v1",
+          "citation_key": "arXiv:2402.09476",
+          "pmid": "2402.09476"
+        },
+        {
+          "source": "arxiv",
+          "id": "2401.11192",
+          "title": "Smart Drug-Delivery Systems for Cancer Nanotherapy",
+          "abstract": "Despite all the advances achieved in the field of tumor-biology research, in most cases conventional therapies including chemotherapy are still the leading choices. The main disadvantage of these treatments, in addition to the low solubility of many antitumor drugs, is their lack of specificity, which explains the frequent occurrence of serious side effects due to nonspecific drug uptake by healthy cells. Progress in nanotechnology and its application in medicine have provided new opportunities ",
+          "authors": [
+            "Paola Sanchez-Moreno",
+            "Juan Luis Ortega-Vinuesa",
+            "Jose Manuel Peula-Garcia",
+            "Juan Antonio Marchal",
+            "Houria Boulaiz"
+          ],
+          "year": "2024",
+          "url": "https://arxiv.org/pdf/2401.11192v1",
+          "citation_key": "arXiv:2401.11192",
+          "pmid": "2401.11192"
+        },
+        {
+          "source": "crossref",
+          "id": "10.20517/cdr.2024.154",
+          "title": "Mechanisms of immunotherapy resistance in small cell lung cancer",
+          "abstract": "Small-cell lung cancer (SCLC) is an aggressive neuroendocrine tumor with a poor prognosis. Although the addition of immunotherapy to chemotherapy has modestly improved outcomes, most patients rapidly develop resistance. Resistance to immunotherapy can be broadly categorized into primary resistance and acquired resistance, as proposed by the Society for Immunotherapy of Cancer (SITC) consensus definition. Primary resistance occurs in the setting of failure to respond to immune checkpoint ",
+          "authors": [
+            "Yunan Nie",
+            "Kurt A. Schalper",
+            "Anne Chiang"
+          ],
+          "year": "2024",
+          "url": "https://doi.org/10.20517/cdr.2024.154",
+          "citation_key": "DOI:10.20517/cdr.2024.15",
+          "citation_count": 4,
+          "pmid": "10.20517/cdr.2024.154"
+        },
+        {
+          "source": "crossref",
+          "id": "10.20517/cdr.2024.103",
+          "title": "HDAC-driven mechanisms in anticancer resistance: epigenetics and beyond",
+          "abstract": "The emergence of drug resistance leading to cancer recurrence is one of the challenges in the treatment of cancer patients. Several mechanisms can lead to drug resistance, including epigenetic changes. Histone deacetylases (HDACs) play a key role in chromatin regulation through epigenetic mechanisms and are also involved in drug resistance. The control of histone acetylation and the accessibility of regulatory DNA sequences such as promoters, enhancers, and super-enhancers are known mech",
+          "authors": [
+            "Martina Minisini",
+            "Martina Mascaro",
+            "Claudio Brancolini"
+          ],
+          "year": "2024",
+          "url": "https://doi.org/10.20517/cdr.2024.103",
+          "citation_key": "DOI:10.20517/cdr.2024.10",
+          "citation_count": 3,
+          "pmid": "10.20517/cdr.2024.103"
+        },
+        {
+          "source": "semantic_scholar",
+          "id": "283adfea1c339baa9c83422d2be902f9691baefe",
+          "title": "Drug resistance mechanisms and treatment strategies mediated by Ubiquitin-Specific Proteases (USPs) in cancers: new directions and therapeutic options",
+          "abstract": "Drug resistance represents a significant obstacle in cancer treatment, underscoring the need for the discovery of novel therapeutic targets. Ubiquitin-specific proteases (USPs), a subclass of deubiquitinating enzymes, play a pivotal role in protein deubiquitination. As scientific research advances, USPs have been recognized as key regulators of drug resistance across a spectrum of treatment modalities, including chemotherapy, targeted therapy, immunotherapy, and radiotherapy. This comprehensive review examines the complex relationship between USPs and drug resistance mechanisms, focusing on sp",
+          "authors": [
+            "Hongli Gao",
+            "Zhuo Xi",
+            "Jingwei Dai",
+            "Jinqi Xue",
+            "Xin Guan"
+          ],
+          "year": "2024",
+          "link": "https://www.semanticscholar.org/paper/283adfea1c339baa9c83422d2be902f9691baefe",
+          "citation_key": "S2:283adfea",
+          "citation_count": 0,
+          "influential_citations": 0,
+          "pmid": "283adfea1c339baa9c83422d2be902f9691baefe"
+        },
+        {
+          "source": "semantic_scholar",
+          "id": "8c261f131fbdcb97ba9380fc4b9729b29e8a62fa",
+          "title": "Cancer cell plasticity: from cellular, molecular, and genetic mechanisms to tumor heterogeneity and drug resistance",
+          "abstract": "Cancer is a complex disease displaying a variety of cell states and phenotypes. This diversity, known as cancer cell plasticity, confers cancer cells the ability to change in response to their environment, leading to increased tumor diversity and drug resistance. This review explores the intricate landscape of cancer cell plasticity, offering a deep dive into the cellular, molecular, and genetic mechanisms that underlie this phenomenon. Cancer cell plasticity is intertwined with processes such as epithelial-mesenchymal transition and the acquisition of stem cell\u2013like features. These processes ",
+          "authors": [
+            "G. Bhat",
+            "Itty Sethi",
+            "Hana Q. Sadida",
+            "Bilal Rah",
+            "Rashid Mir"
+          ],
+          "year": "2024",
+          "link": "https://www.semanticscholar.org/paper/8c261f131fbdcb97ba9380fc4b9729b29e8a62fa",
+          "citation_key": "S2:8c261f13",
+          "citation_count": 0,
+          "influential_citations": 0,
+          "pmid": "8c261f131fbdcb97ba9380fc4b9729b29e8a62fa"
+        },
+        {
+          "source": "semantic_scholar",
+          "id": "15ce8b1b83303fd805ac7cc0adacfb60294bc687",
+          "title": "Unveiling the mechanisms and challenges of cancer drug resistance",
+          "abstract": "Cancer treatment faces many hurdles and resistance is one among them. Anti-cancer treatment strategies are evolving due to innate and acquired resistance capacity, governed by genetic, epigenetic, proteomic, metabolic, or microenvironmental cues that ultimately enable selected cancer cells to survive and progress under unfavorable conditions. Although the mechanism of drug resistance is being widely studied to generate new target-based drugs with better potency than existing ones. However, due to the broader flexibility in acquired drug resistance, advanced therapeutic options with better effi",
+          "authors": [
+            "S. Khan",
+            "Kaneez Fatima",
+            "Shariqa Aisha",
+            "F. Malik"
+          ],
+          "year": "2024",
+          "link": "https://www.semanticscholar.org/paper/15ce8b1b83303fd805ac7cc0adacfb60294bc687",
+          "citation_key": "S2:15ce8b1b",
+          "citation_count": 0,
+          "influential_citations": 0,
+          "pmid": "15ce8b1b83303fd805ac7cc0adacfb60294bc687"
+        },
+        {
+          "source": "semantic_scholar",
+          "id": "0eb5a1fa9e954c7b89b618fe738e35ce70c7e10a",
+          "title": "Emerging Therapeutic Strategies to Overcome Drug Resistance in Cancer Cells",
+          "abstract": "Simple Summary This review explores the challenges of drug resistance in cancer treatment and discusses innovative strategies to overcome them. Researchers aim to understand how cancer cells develop resistance to therapies and explore new ways to improve treatment outcomes. They investigate advanced genomic technologies, immunotherapies like CAR-T cells, and targeted therapies that specifically attack cancer cells. By identifying these mechanisms and developing novel approaches, this research aims to enhance the effectiveness of cancer treatments and improve patient survival rates. Insights ga",
+          "authors": [
+            "Pankaj Garg",
+            "Jyoti Malhotra",
+            "Prakash Kulkarni",
+            "David Horne",
+            "Ravi Salgia"
+          ],
+          "year": "2024",
+          "link": "https://www.semanticscholar.org/paper/0eb5a1fa9e954c7b89b618fe738e35ce70c7e10a",
+          "citation_key": "S2:0eb5a1fa",
+          "citation_count": 0,
+          "influential_citations": 0,
+          "pmid": "0eb5a1fa9e954c7b89b618fe738e35ce70c7e10a"
+        },
+        {
+          "source": "semantic_scholar",
+          "id": "f8af4bbc2cd75fabd2703360ca8fa17888c4c0fc",
+          "title": "Drug resistance in ovarian cancer: from mechanism to clinical trial",
+          "abstract": "Ovarian cancer is the leading cause of gynecological cancer-related death. Drug resistance is the bottleneck in ovarian cancer treatment. The increasing use of novel drugs in clinical practice poses challenges for the treatment of drug-resistant ovarian cancer. Continuing to classify drug resistance according to drug type without understanding the underlying mechanisms is unsuitable for current clinical practice. We reviewed the literature regarding various drug resistance mechanisms in ovarian cancer and found that the main resistance mechanisms are as follows: abnormalities in transmembrane ",
+          "authors": [
+            "Ling Wang",
+            "Xin Wang",
+            "Xueping Zhu",
+            "Lin Zhong",
+            "Qingxiu Jiang"
+          ],
+          "year": "2024",
+          "link": "https://www.semanticscholar.org/paper/f8af4bbc2cd75fabd2703360ca8fa17888c4c0fc",
+          "citation_key": "S2:f8af4bbc",
+          "citation_count": 0,
+          "influential_citations": 0,
+          "pmid": "f8af4bbc2cd75fabd2703360ca8fa17888c4c0fc"
+        },
+        {
+          "source": "semantic_scholar",
+          "id": "3de989ddfc8ac8fc5106d9659dba0afd71761b65",
+          "title": "Targeted activation of ferroptosis in colorectal cancer via LGR4 targeting overcomes acquired drug resistance",
+          "abstract": "",
+          "authors": [
+            "Hao Zheng",
+            "Jinming Liu",
+            "Qingyuan Cheng",
+            "Qianping Zhang",
+            "Yaoyao Zhang"
+          ],
+          "year": "2024",
+          "link": "https://www.semanticscholar.org/paper/3de989ddfc8ac8fc5106d9659dba0afd71761b65",
+          "citation_key": "S2:3de989dd",
+          "citation_count": 0,
+          "influential_citations": 0,
+          "pmid": "3de989ddfc8ac8fc5106d9659dba0afd71761b65"
+        },
+        {
+          "source": "arxiv",
+          "id": "2312.01527",
+          "title": "NovoMol: Recurrent Neural Network for Orally Bioavailable Drug Design and Validation on PDGFR\u03b1 Receptor",
+          "abstract": "Longer timelines and lower success rates of drug candidates limit the productivity of clinical trials in the pharmaceutical industry. Promising de novo drug design techniques help solve this by exploring a broader chemical space, efficiently generating new molecules, and providing improved therapies. However, optimizing for molecular characteristics found in approved oral drugs remains a challenge, limiting de novo usage. In this work, we propose NovoMol, a novel de novo method using recurrent n",
+          "authors": [
+            "Ishir Rao"
+          ],
+          "year": "2023",
+          "url": "https://arxiv.org/pdf/2312.01527v1",
+          "citation_key": "arXiv:2312.01527",
+          "pmid": "2312.01527"
+        },
+        {
+          "source": "crossref",
+          "id": "10.20517/cdr.2023.86",
+          "title": "New mechanisms of multidrug resistance: an introduction to the Cancer Drug Resistance special collection",
+          "abstract": "Cancer Drug Resistance publishes contributions to understanding the biology and consequences of mechanisms that interfere with successful treatment of cancer. Since virtually all patients who die of metastatic cancer have multidrug-resistant tumors, improved treatment will require an understanding of the mechanisms of resistance to design therapies that circumvent these mechanisms, exploit these mechanisms, or inactivate these multidrug resistance mechanisms. One example of a resistance ",
+          "authors": [
+            "Michael M. Gottesman",
+            "Robert W. Robey",
+            "Suresh V. Ambudkar"
+          ],
+          "year": "2023",
+          "url": "https://doi.org/10.20517/cdr.2023.86",
+          "citation_key": "DOI:10.20517/cdr.2023.86",
+          "citation_count": 22,
+          "pmid": "10.20517/cdr.2023.86"
+        },
+        {
+          "source": "semantic_scholar",
+          "id": "c19355faa07b3e3d2cc815ed114ab79b2aff532c",
+          "title": "Treatment strategies and drug resistance mechanisms in adenocarcinoma of different organs.",
+          "abstract": "Adenocarcinoma is a common type of malignant tumor, originating from glandular epithelial cells in various organs, such as pancreas, breast, lung, stomach, colon, rectus, and prostate. For patients who lose the opportunity for radical surgery, medication is available to provide potential clinical benefits. However, drug resistance is a big obstacle to obtain desired clinical prognosis. In this review, we provide a summary of treatment strategies and drug resistance mechanisms in adenocarcinoma of different organs, including pancreatic cancer, gastric adenocarcinoma, colorectal adenocarcinoma, ",
+          "authors": [
+            "PengChao Xing",
+            "Shuo Wang",
+            "Yu Cao",
+            "Bo Liu",
+            "Feifei Zheng"
+          ],
+          "year": "2023",
+          "link": "https://www.semanticscholar.org/paper/c19355faa07b3e3d2cc815ed114ab79b2aff532c",
+          "citation_key": "S2:c19355fa",
+          "citation_count": 0,
+          "influential_citations": 0,
+          "pmid": "c19355faa07b3e3d2cc815ed114ab79b2aff532c"
+        },
+        {
+          "source": "semantic_scholar",
+          "id": "6c34e418c549dece05b8bf509eefd3302bcaab9a",
+          "title": "Overcoming Cancer Multi-drug Resistance (MDR): Reasons, mechanisms, nanotherapeutic solutions, and challenges.",
+          "abstract": "Multi-drug resistance (MDR) in cancer cells, either intrinsic or acquired through various mechanisms, significantly hinders the therapeutic efficacy of drugs. Typically, the reduced therapeutic performance of various drugs is predominantly due to the inherent over expression of ATP-binding cassette (ABC) transporter proteins on the cell membrane, resulting in the deprived uptake of drugs, augmenting drug detoxification, and DNA repair. In addition to various physiological abnormalities and extensive blood flow, MDR cancer phenotypes exhibit improved apoptotic threshold and drug efflux efficien",
+          "authors": [
+            "Chunyan Duan",
+            "Mingjia Yu",
+            "Jiyuan Xu",
+            "Bo-Yi Li",
+            "Ying Zhao"
+          ],
+          "year": "2023",
+          "link": "https://www.semanticscholar.org/paper/6c34e418c549dece05b8bf509eefd3302bcaab9a",
+          "citation_key": "S2:6c34e418",
+          "citation_count": 0,
+          "influential_citations": 0,
+          "pmid": "6c34e418c549dece05b8bf509eefd3302bcaab9a"
+        },
+        {
+          "source": "semantic_scholar",
+          "id": "cfcc4bd17d6153d47ceb823cab5b91798a9e932b",
+          "title": "Cancer chemotherapy resistance: Mechanisms and recent breakthrough in targeted drug delivery.",
+          "abstract": "Conventional chemotherapy, one of the most widely used cancer treatment methods, has serious side effects, and usually results in cancer treatment failure. Drug resistance is one of the primary reasons for this failure. The most significant drawbacks of systemic chemotherapy are rapid clearance from the circulation, the drug's low concentration in the tumor site, and considerable adverse effects outside the tumor. Several ways have been developed to boost neoplasm treatment efficacy and overcome medication resistance. In recent years, targeted drug delivery has become an essential therapeutic ",
+          "authors": [
+            "Fatemeh Davodabadi",
+            "S. F. Sajjadi",
+            "Mohammad Sarhadi",
+            "Shaghayegh Mirghasemi",
+            "Mahdieh Nadali Hezaveh"
+          ],
+          "year": "2023",
+          "link": "https://www.semanticscholar.org/paper/cfcc4bd17d6153d47ceb823cab5b91798a9e932b",
+          "citation_key": "S2:cfcc4bd1",
+          "citation_count": 0,
+          "influential_citations": 0,
+          "pmid": "cfcc4bd17d6153d47ceb823cab5b91798a9e932b"
+        },
+        {
+          "source": "semantic_scholar",
+          "id": "c70be9e671332821c4d123e2005652b03e7209e5",
+          "title": "Targeted Therapy and Mechanisms of Drug Resistance in Breast Cancer",
+          "abstract": "Simple Summary Internationally, in women, breast cancer (BC) is the most common cancer type and is the leading cause of cancer-related death. There are two main histological classifications of BC, carcinoma in situ and carcinoma invasive. BC is further histologically subclassified as ductal carcinomas and lobular carcinomas. Once diagnosed, BC is typically treated based on the molecular subtype of cancer. The subtypes are based on the presence or absence of hormone receptors progesterone receptor (PR), estrogen receptor (ER), and human epidermal growth factor receptor 2 (HER2). The main molecu",
+          "authors": [
+            "Briana Kinnel",
+            "S. Singh",
+            "G. Oprea-Ilies",
+            "Rajesh Singh"
+          ],
+          "year": "2023",
+          "link": "https://www.semanticscholar.org/paper/c70be9e671332821c4d123e2005652b03e7209e5",
+          "citation_key": "S2:c70be9e6",
+          "citation_count": 0,
+          "influential_citations": 0,
+          "pmid": "c70be9e671332821c4d123e2005652b03e7209e5"
+        },
+        {
+          "title": "Drug resistance in metastatic castration-resistant prostate cancer: an update on the status quo",
+          "abstract": "Prostate cancer (PCa) is a leading cause of cancer-related morbidity and mortality in men globally. Despite improvements in the diagnosis and treatment of PCa, a significant proportion of patients with high-risk localized disease and all patients with advanced disease at diagnosis will experience progression to metastatic castration-resistant prostate cancer (mCRPC). Multiple drugs are now approved as the standard of care treatments for patients with mCRPC that have been shown to prolong survival. Although the majority of patients will respond initially, primary and secondary resistance to the",
+          "authors": [
+            "Wakimian, Kevork",
+            "Zahwe, Amin",
+            "Mukherji, Deborah",
+            "Mukherji, Deborah M.",
+            "Yehya, Amani"
+          ],
+          "year": "2022",
+          "doi": "10.20517/cdr.2022.15",
+          "source": "core",
+          "pmid": "Drug resistance in metastatic "
+        },
+        {
+          "source": "crossref",
+          "id": "10.20517/cdr.2021.148",
+          "title": "DNA damage and metabolic mechanisms of cancer drug resistance",
+          "abstract": "Cancer drug resistance is one of the main barriers to overcome to ensure durable treatment responses. While many pivotal advances have been made in first combination therapies, then targeted therapies, and now broadening out to immunomodulatory drugs or metabolic targeting compounds, drug resistance is still ultimately universally fatal. In this brief review, we will discuss different strategies that have been used to fight drug resistance from synthetic lethality to tumor microenvironme",
+          "authors": [
+            "Deanna Tiek",
+            "Shi-Yuan Cheng"
+          ],
+          "year": "2022",
+          "url": "https://doi.org/10.20517/cdr.2021.148",
+          "citation_key": "DOI:10.20517/cdr.2021.14",
+          "citation_count": 32,
+          "pmid": "10.20517/cdr.2021.148"
+        },
+        {
+          "source": "crossref",
+          "id": "10.20517/cdr.2021.147",
+          "title": "Mechanisms of chemotherapy resistance in ovarian cancer",
+          "abstract": "Ovarian cancer is one of the most lethal gynecologic cancers. The standard therapy for ovarian cancer has been the same for the past two decades, a combination treatment of platinum with paclitaxel. Recently, the FDA approved three new therapeutic drugs, two poly (ADP-ribose) polymerase inhibitors (olaparib and niraparib) and one vascular endothelial growth factor inhibitor (bevacizumab) as maintenance therapies for ovarian cancer. In this review, we summarize the resistance mechanisms f",
+          "authors": [
+            "Mylena Ortiz",
+            "Emma Wabel",
+            "Kerry Mitchell",
+            "Sachi Horibata"
+          ],
+          "year": "2022",
+          "url": "https://doi.org/10.20517/cdr.2021.147",
+          "citation_key": "DOI:10.20517/cdr.2021.14",
+          "citation_count": 52,
+          "pmid": "10.20517/cdr.2021.147"
+        },
+        {
+          "source": "semantic_scholar",
+          "id": "37f8878ef79b7976b34ef6717a48cb57e6ebf7bd",
+          "title": "Drug resistance mechanisms and progress in the treatment of EGFR-mutated lung adenocarcinoma",
+          "abstract": "According to global cancer data, lung cancer was the leading cause of cancer-related death in 2020. With the diversification of treatment strategies, the survival outcomes of patients with advanced lung cancer have improved significantly, but the 5-year overall survival rate remains <20%. Epidermal growth factor receptor tyrosine kinase inhibitors (EGFR-TKIs) are the preferred treatment for lung adenocarcinoma patients with EGFR-sensitive mutations; however, acquired drug resistance is inevitable. Osimertinib (a third-generation EGFR inhibitor) is the most commonly used drug for cancers with a",
+          "authors": [
+            "Ruizhu Sun",
+            "Z. Hou",
+            "Yankui Zhang",
+            "B. Jiang"
+          ],
+          "year": "2022",
+          "link": "https://www.semanticscholar.org/paper/37f8878ef79b7976b34ef6717a48cb57e6ebf7bd",
+          "citation_key": "S2:37f8878e",
+          "citation_count": 0,
+          "influential_citations": 0,
+          "pmid": "37f8878ef79b7976b34ef6717a48cb57e6ebf7bd"
+        },
+        {
+          "source": "arxiv",
+          "id": "2101.11935",
+          "title": "A Machine Learning Challenge for Prognostic Modelling in Head and Neck Cancer Using Multi-modal Data",
+          "abstract": "Accurate prognosis for an individual patient is a key component of precision oncology. Recent advances in machine learning have enabled the development of models using a wider range of data, including imaging. Radiomics aims to extract quantitative predictive and prognostic biomarkers from routine medical imaging, but evidence for computed tomography radiomics for prognosis remains inconclusive. We have conducted an institutional machine learning challenge to develop an accurate model for overal",
+          "authors": [
+            "Michal Kazmierski",
+            "Mattea Welch",
+            "Sejin Kim",
+            "Chris McIntosh",
+            "Princess Margaret Head"
+          ],
+          "year": "2021",
+          "url": "https://arxiv.org/pdf/2101.11935v1",
+          "citation_key": "arXiv:2101.11935",
+          "pmid": "2101.11935"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1093/eurheartj/ehab368",
+          "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure",
+          "abstract": "",
+          "authors": [],
+          "year": "2021",
+          "url": "https://doi.org/10.1093/eurheartj/ehab368",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 13015,
+          "open_access": true,
+          "concepts": [
+            "Medicine",
+            "Heart failure",
+            "Intensive care medicine",
+            "Cardiology",
+            "Internal medicine"
+          ],
+          "pmid": "https://doi.org/10.1093/eurheartj/ehab368"
+        },
+        {
+          "source": "arxiv",
+          "id": "2001.07690",
+          "title": "Understanding the role of phenotypic switching in cancer drug resistance",
+          "abstract": "The emergence of acquired drug resistance in cancer represents a major barrier to treatment success. While research has traditionally focused on genetic sources of resistance, recent findings suggest that cancer cells can acquire transient resistant phenotypes via epigenetic modifications and other non-genetic mechanisms. Although these resistant phenotypes are eventually relinquished by individual cells, they can temporarily 'save' the tumor from extinction and enable the emergence of more perm",
+          "authors": [
+            "Einar Bjarki Gunnarsson",
+            "Subhajyoti De",
+            "Kevin Leder",
+            "Jasmine Foo"
+          ],
+          "year": "2020",
+          "url": "https://arxiv.org/pdf/2001.07690v1",
+          "citation_key": "arXiv:2001.07690",
+          "pmid": "2001.07690"
+        },
+        {
+          "source": "crossref",
+          "id": "10.20517/cdr.2020.37",
+          "title": "Molecular mechanisms of docetaxel resistance in prostate cancer",
+          "abstract": "",
+          "authors": [
+            "Yohei Sekino",
+            "Jun Teishima"
+          ],
+          "year": "2020",
+          "url": "https://doi.org/10.20517/cdr.2020.37",
+          "citation_key": "DOI:10.20517/cdr.2020.37",
+          "citation_count": 19,
+          "pmid": "10.20517/cdr.2020.37"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1016/b978-0-12-819937-4.00001-7",
+          "title": "Drug resistance in colorectal cancer: General aspects",
+          "abstract": "",
+          "authors": [
+            "Godefridus J. Peters"
+          ],
+          "year": "2020",
+          "url": "https://doi.org/10.1016/b978-0-12-819937-4.00001-7",
+          "citation_key": "DOI:10.1016/b978-0-12-81",
+          "citation_count": 9,
+          "pmid": "10.1016/b978-0-12-819937-4.00001-7"
+        },
+        {
+          "source": "crossref",
+          "id": "10.32388/6uf0bo",
+          "title": "Investigation of Mechanisms of Drug Resistance",
+          "abstract": "",
+          "authors": [],
+          "year": "2020",
+          "url": "https://doi.org/10.32388/6uf0bo",
+          "citation_key": "DOI:10.32388/6uf0bo",
+          "citation_count": 0,
+          "pmid": "10.32388/6uf0bo"
+        },
+        {
+          "source": "semantic_scholar",
+          "id": "f71e8b8cdf1f77882dca426e1a4eeafc0b86f926",
+          "title": "Targeting MAPK Signaling in Cancer: Mechanisms of Drug Resistance and Sensitivity",
+          "abstract": "Mitogen-activated protein kinase (MAPK) pathways represent ubiquitous signal transduction pathways that regulate all aspects of life and are frequently altered in disease. Here, we focus on the role of MAPK pathways in modulating drug sensitivity and resistance in cancer. We briefly discuss new findings in the extracellular signaling-regulated kinase (ERK) pathway, but mainly focus on the mechanisms how stress activated MAPK pathways, such as p38 MAPK and the Jun N-terminal kinases (JNK), impact the response of cancer cells to chemotherapies and targeted therapies. In this context, we also dis",
+          "authors": [
+            "Shannon Lee",
+            "Jens Rauch",
+            "W. Kolch"
+          ],
+          "year": "2020",
+          "link": "https://www.semanticscholar.org/paper/f71e8b8cdf1f77882dca426e1a4eeafc0b86f926",
+          "citation_key": "S2:f71e8b8c",
+          "citation_count": 0,
+          "influential_citations": 0,
+          "pmid": "f71e8b8cdf1f77882dca426e1a4eeafc0b86f926"
+        },
+        {
+          "source": "arxiv",
+          "id": "1908.10563",
+          "title": "Optical detection of structural properties of tumor tissues generated by xenografting of drug-sensitive and drug-resistant cancer cells using partial wave spectroscopy (PWS)",
+          "abstract": "The quantitative measurement of structural alterations at the nanoscale level is important for understanding the physical state of biological samples. Studies have shown that the progression of cancer is associated with the rearrangements of building blocks of cells/tissues such as DNA, RNA, lipids, etc. Partial wave spectroscopy is a recently developed mesoscopic physics-based spectroscopic imaging technique which can detect such nanoscale changes in cells/tissues. At present, chemotherapy drug",
+          "authors": [
+            "Prakash Adhikari",
+            "Prashanth K. B. Nagesh",
+            "Fatimah Alherthi",
+            "Subhash C. Chauhan",
+            "Meena Jaggi"
+          ],
+          "year": "2019",
+          "url": "https://arxiv.org/pdf/1908.10563v1",
+          "citation_key": "arXiv:1908.10563",
+          "pmid": "1908.10563"
+        },
+        {
+          "source": "crossref",
+          "id": "10.20517/cdr.2019.36",
+          "title": "Drug resistance mechanisms of cancer stem-like cells and their therapeutic potential as drug targets",
+          "abstract": "",
+          "authors": [
+            "Takahiko Murayama",
+            "Noriko Gotoh"
+          ],
+          "year": "2019",
+          "url": "https://doi.org/10.20517/cdr.2019.36",
+          "citation_key": "DOI:10.20517/cdr.2019.36",
+          "citation_count": 5,
+          "pmid": "10.20517/cdr.2019.36"
+        },
+        {
+          "source": "crossref",
+          "id": "10.20517/cdr.2019.66",
+          "title": "RET in breast cancer: pathogenic implications and mechanisms of drug resistance",
+          "abstract": "",
+          "authors": [
+            "Cristiana Lo Nigro",
+            "Marta Rusmini",
+            "Isabella Ceccherini"
+          ],
+          "year": "2019",
+          "url": "https://doi.org/10.20517/cdr.2019.66",
+          "citation_key": "DOI:10.20517/cdr.2019.66",
+          "citation_count": 9,
+          "pmid": "10.20517/cdr.2019.66"
+        },
+        {
+          "source": "crossref",
+          "id": "10.20517/cdr.2019.25",
+          "title": "Molecular mechanisms of enzalutamide resistance in prostate cancer",
+          "abstract": "",
+          "authors": [
+            "Eliot B. Blatt",
+            "Ganesh V. Raj"
+          ],
+          "year": "2019",
+          "url": "https://doi.org/10.20517/cdr.2019.25",
+          "citation_key": "DOI:10.20517/cdr.2019.25",
+          "citation_count": 6,
+          "pmid": "10.20517/cdr.2019.25"
+        },
+        {
+          "source": "semantic_scholar",
+          "id": "2a21a01e702d6943618e8aa17e4192536d8aa585",
+          "title": "Emerging insights of tumor heterogeneity and drug resistance mechanisms in lung cancer targeted therapy",
+          "abstract": "The biggest hurdle to targeted cancer therapy is the inevitable emergence of drug resistance. Tumor cells employ different mechanisms to resist the targeting agent. Most commonly in EGFR-mutant non-small cell lung cancer, secondary resistance mutations on the target kinase domain emerge to diminish the binding affinity of first- and second-generation inhibitors. Other alternative resistance mechanisms include activating complementary bypass pathways and phenotypic transformation. Sequential monotherapies promise to temporarily address the problem of acquired drug resistance, but evidently are ",
+          "authors": [
+            "Zuan-Fu Lim",
+            "P. Ma"
+          ],
+          "year": "2019",
+          "link": "https://www.semanticscholar.org/paper/2a21a01e702d6943618e8aa17e4192536d8aa585",
+          "citation_key": "S2:2a21a01e",
+          "citation_count": 0,
+          "influential_citations": 0,
+          "pmid": "2a21a01e702d6943618e8aa17e4192536d8aa585"
+        },
+        {
+          "source": "semantic_scholar",
+          "id": "55229c6b649b75f257f1f5d48eb5456cfd5930dc",
+          "title": "Exosomes: composition, biogenesis, and mechanisms in cancer metastasis and drug resistance",
+          "abstract": "Tumor-derived exosomes (TDEs) participate in formation and progression of different cancer processes, including tumor microenvironment (TME) remodeling, angiogenesis, invasion, metastasis and drug-resistance. Exosomes initiate or suppress various signaling pathways in the recipient cells via transmitting heterogeneous cargoes. In this review we discuss exosome biogenesis, exosome mediated metastasis and chemoresistance. Furthermore, tumor derived exosomes role in tumor microenvironment remodeling, and angiogenesis is reviewed. Also, exosome induction of epithelial mesenchymal transition (EMT) ",
+          "authors": [
+            "Ladan Mashouri",
+            "Hassan Yousefi",
+            "A. Aref",
+            "A. Ahadi",
+            "F. Molaei"
+          ],
+          "year": "2019",
+          "link": "https://www.semanticscholar.org/paper/55229c6b649b75f257f1f5d48eb5456cfd5930dc",
+          "citation_key": "S2:55229c6b",
+          "citation_count": 0,
+          "influential_citations": 0,
+          "pmid": "55229c6b649b75f257f1f5d48eb5456cfd5930dc"
+        },
+        {
+          "source": "arxiv",
+          "id": "1806.07477",
+          "title": "The Impact of Competition Between Cancer Cells and Healthy Cells on Optimal Drug Delivery",
+          "abstract": "Cell competition is recognized to be instrumental to the dynamics and structure of the tumor-host interface in invasive cancers. In mild competition scenarios, the healthy tissue and cancer cells can coexist. When the competition is aggressive, competitive cells, the so called super-competitors, expand by killing other cells. Novel cytotoxic drugs and molecularly targeted drugs are commonly administered as part of cancer therapy. Both types of drugs are susceptible to various mechanisms of drug ",
+          "authors": [
+            "Heyrim Cho",
+            "Doron Levy"
+          ],
+          "year": "2018",
+          "url": "https://arxiv.org/pdf/1806.07477v1",
+          "citation_key": "arXiv:1806.07477",
+          "pmid": "1806.07477"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1080/20013078.2018.1535750",
+          "title": "Minimal information for studies of extracellular vesicles 2018 (MISEV2018): a position statement of the International Society for Extracellular Vesicles and update of the MISEV2014 guidelines",
+          "abstract": "",
+          "authors": [],
+          "year": "2018",
+          "url": "https://doi.org/10.1080/20013078.2018.1535750",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 11166,
+          "open_access": true,
+          "concepts": [
+            "Extracellular vesicles",
+            "Vesicle",
+            "Microvesicles",
+            "Extracellular",
+            "Position (finance)"
+          ],
+          "pmid": "https://doi.org/10.1080/20013078.2018.1535750"
+        },
+        {
+          "source": "crossref",
+          "id": "10.20517/cdr.2018.04",
+          "title": "Drug targets and resistance mechanisms in multiple myeloma",
+          "abstract": "",
+          "authors": [
+            "Janine Nass",
+            "Thomas Efferth"
+          ],
+          "year": "2018",
+          "url": "https://doi.org/10.20517/cdr.2018.04",
+          "citation_key": "DOI:10.20517/cdr.2018.04",
+          "citation_count": 13,
+          "pmid": "10.20517/cdr.2018.04"
+        },
+        {
+          "source": "semantic_scholar",
+          "id": "39dcce595f2f66ea7684f020b25e0dca1b499732",
+          "title": "The Different Mechanisms of Cancer Drug Resistance: A Brief Review",
+          "abstract": "Anticancer drugs resistance is a complex process that arises from altering in the drug targets. Advances in the DNA microarray, proteomics technology and the development of targeted therapies provide the new strategies to overcome the drug resistance. Although a design of the new chemotherapy agents is growing quickly, effective chemotherapy agent has not been discovered against the advanced stage of cancer (such as invasion and metastasis). The cancer cell resistance against the anticancer agents can be due to many factors such as the individual\u2019s genetic differences, especially in tumoral so",
+          "authors": [
+            "B. Mansoori",
+            "A. Mohammadi",
+            "Sadaf Davudian",
+            "Solmaz Shirjang",
+            "B. Baradaran"
+          ],
+          "year": "2017",
+          "link": "https://www.semanticscholar.org/paper/39dcce595f2f66ea7684f020b25e0dca1b499732",
+          "citation_key": "S2:39dcce59",
+          "citation_count": 0,
+          "influential_citations": 0,
+          "pmid": "39dcce595f2f66ea7684f020b25e0dca1b499732"
+        },
+        {
+          "source": "arxiv",
+          "id": "1601.03412",
+          "title": "Limiting the Development of Anti-Cancer Drug Resistance in a Spatial Model of Micrometastases",
+          "abstract": "While chemoresistance in primary tumors is well-studied, much less is known about the influence of systemic chemotherapy on the development of drug resistance at metastatic sites. In this work, we use a hybrid spatial model of tumor response to a DNA damaging drug to study how the development of chemoresistance in micrometastases depends on the drug dosing schedule. We separately consider cell populations that harbor pre-existing resistance to the drug, and those that acquire resistance during t",
+          "authors": [
+            "Ami B. Shah",
+            "Katarzyna A. Rejniak",
+            "Jana L. Gevertz"
+          ],
+          "year": "2016",
+          "url": "https://arxiv.org/pdf/1601.03412v2",
+          "citation_key": "arXiv:1601.03412",
+          "pmid": "1601.03412"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1093/eurheartj/ehw128",
+          "title": "2016 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure",
+          "abstract": "",
+          "authors": [],
+          "year": "2016",
+          "url": "https://doi.org/10.1093/eurheartj/ehw128",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 11512,
+          "open_access": true,
+          "concepts": [
+            "Medicine",
+            "Heart failure",
+            "Intensive care medicine",
+            "Cardiology",
+            "Internal medicine"
+          ],
+          "pmid": "https://doi.org/10.1093/eurheartj/ehw128"
+        },
+        {
+          "source": "semantic_scholar",
+          "id": "607a75cba1a38c685415fe7018620bcbdf5ed65f",
+          "title": "Diverse drug-resistance mechanisms can emerge from drug-tolerant cancer persister cells",
+          "abstract": "Cancer therapy has traditionally focused on eliminating fast-growing populations of cells. Yet, an increasing body of evidence suggests that small subpopulations of cancer cells can evade strong selective drug pressure by entering a \u2018persister\u2019 state of negligible growth. This drug-tolerant state has been hypothesized to be part of an initial strategy towards eventual acquisition of bona fide drug-resistance mechanisms. However, the diversity of drug-resistance mechanisms that can expand from a persister bottleneck is unknown. Here we compare persister-derived, erlotinib-resistant colonies tha",
+          "authors": [
+            "Michael Ramirez",
+            "Satwik Rajaram",
+            "Robert J. Steininger",
+            "D. Osipchuk",
+            "Maike A. Roth"
+          ],
+          "year": "2016",
+          "link": "https://www.semanticscholar.org/paper/607a75cba1a38c685415fe7018620bcbdf5ed65f",
+          "citation_key": "S2:607a75cb",
+          "citation_count": 0,
+          "influential_citations": 0,
+          "pmid": "607a75cba1a38c685415fe7018620bcbdf5ed65f"
+        },
+        {
+          "source": "semantic_scholar",
+          "id": "7494e9697fd30f0d0c091b12bb9f390a35f68022",
+          "title": "Drug resistance in castration resistant prostate cancer: resistance mechanisms and emerging treatment strategies.",
+          "abstract": "",
+          "authors": [
+            "C. Armstrong",
+            "A. Gao"
+          ],
+          "year": "2015",
+          "link": "https://www.semanticscholar.org/paper/7494e9697fd30f0d0c091b12bb9f390a35f68022",
+          "citation_key": "S2:7494e969",
+          "citation_count": 0,
+          "influential_citations": 0,
+          "pmid": "7494e9697fd30f0d0c091b12bb9f390a35f68022"
+        },
+        {
+          "source": "arxiv",
+          "id": "1409.1974",
+          "title": "Cancer systems biology in the genome sequencing era: Part 2, evolutionary dynamics of tumor clonal networks and drug resistance",
+          "abstract": "A tumor often consists of multiple cell subpopulations (clones). Current chemo-treatments often target one clone of a tumor. Although the drug kills that clone, other clones overtake it and the tumor reoccurs. Genome sequencing and computational analysis allows to computational dissection of clones from tumors, while singe-cell genome sequencing including RNA-Seq allows to profiling of these clones. This opens a new window for treating a tumor as a system in which clones are evolving. Future can",
+          "authors": [
+            "Edwin Wang",
+            "Jinfeng Zou",
+            "Naif Zaman",
+            "Lenore K. Beitel",
+            "Mark Trifiro"
+          ],
+          "year": "2014",
+          "url": "https://arxiv.org/pdf/1409.1974v1",
+          "citation_key": "arXiv:1409.1974",
+          "pmid": "1409.1974"
+        },
+        {
+          "source": "arxiv",
+          "id": "1411.6684",
+          "title": "Spatial heterogeneity in drug concentrations can facilitate the emergence of resistance to cancer therapy",
+          "abstract": "Acquired resistance is one of the major barriers to successful cancer therapy. The development of resistance is commonly attributed to genetic heterogeneity. However, heterogeneity of drug penetration of the tumor microenvironment both on the microscopic level within solid tumors as well as on the macroscopic level across metastases may also contribute to acquired drug resistance. Here we use mathematical models to investigate the effect of drug heterogeneity on the probability of escape from tr",
+          "authors": [
+            "Feng Fu",
+            "Martin A. Nowak",
+            "Sebastian Bonhoeffer"
+          ],
+          "year": "2014",
+          "url": "https://arxiv.org/pdf/1411.6684v1",
+          "citation_key": "arXiv:1411.6684",
+          "pmid": "1411.6684"
+        },
+        {
+          "source": "arxiv",
+          "id": "1412.0780",
+          "title": "Emergence of Anti-Cancer Drug Resistance: Exploring the Importance of the Microenvironmental Niche via a Spatial Model",
+          "abstract": "Practically, all chemotherapeutic agents lead to drug resistance. Clinically, it is a challenge to determine whether resistance arises prior to, or as a result of, cancer therapy. Further, a number of different intracellular and microenvironmental factors have been correlated with the emergence of drug resistance. With the goal of better understanding drug resistance and its connection with the tumor microenvironment, we have developed a hybrid discrete-continuous mathematical model. In this mod",
+          "authors": [
+            "Jana L. Gevertz",
+            "Zahra Aminzare",
+            "Kerri-Ann Norton",
+            "Judith Perez-Velazquez",
+            "Alexandria Volkening"
+          ],
+          "year": "2014",
+          "url": "https://arxiv.org/pdf/1412.0780v1",
+          "citation_key": "arXiv:1412.0780",
+          "pmid": "1412.0780"
+        },
+        {
+          "source": "arxiv",
+          "id": "1407.0865",
+          "title": "Investigating the development of chemotherapeutic drug resistance in cancer: A multiscale computational study",
+          "abstract": "Chemotherapy is one of the most important therapeutic options used to treat human cancers, either alone or in combination with radiation therapy and surgery. Recent studies have indicated that intra-tumoural heterogeneity has a significant role in driving resistance to chemotherapy in many human malignancies. Multiple factors including the internal cell-cycle dynamics and the external microenvironement contribute to the intra-tumoural heterogeneity. In this paper we present a hybrid, multiscale,",
+          "authors": [
+            "Gibin G Powathil",
+            "Mark AJ Chaplain",
+            "Maciej Swat"
+          ],
+          "year": "2014",
+          "url": "https://arxiv.org/pdf/1407.0865v1",
+          "citation_key": "arXiv:1407.0865",
+          "pmid": "1407.0865"
+        },
+        {
+          "source": "arxiv",
+          "id": "1408.2009",
+          "title": "Predictive genomics: A cancer hallmark network framework for predicting tumor clinical phenotypes using genome sequencing data",
+          "abstract": "We discuss a cancer hallmark network framework for modelling genome-sequencing data to predict cancer clonal evolution and associated clinical phenotypes. Strategies of using this framework in conjunction with genome sequencing data in an attempt to predict personalized drug targets, drug resistance, and metastasis for a cancer patient, as well as cancer risks for a healthy individual are discussed. Accurate prediction of cancer clonal evolution and clinical phenotypes will have substantial impa",
+          "authors": [
+            "Edwin Wang",
+            "Naif Zaman",
+            "Shauna Mcgee",
+            "Jean-S\u00e9bastien Milanese",
+            "Ali Masoudi-Nejad"
+          ],
+          "year": "2014",
+          "url": "https://arxiv.org/pdf/1408.2009v1",
+          "citation_key": "arXiv:1408.2009",
+          "pmid": "1408.2009"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1136/bmj.g1687",
+          "title": "Better reporting of interventions: template for intervention description and replication (TIDieR) checklist and guide",
+          "abstract": "",
+          "authors": [],
+          "year": "2014",
+          "url": "https://doi.org/10.1136/bmj.g1687",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 10523,
+          "open_access": true,
+          "concepts": [
+            "Checklist",
+            "Psychological intervention",
+            "Computer science",
+            "Replicate",
+            "Delphi method"
+          ],
+          "pmid": "https://doi.org/10.1136/bmj.g1687"
+        },
+        {
+          "source": "arxiv",
+          "id": "1306.2584",
+          "title": "Multi-cancer molecular signatures and their interrelationships",
+          "abstract": "Although cancer is known to be characterized by several unifying biological hallmarks, systems biology has had limited success in identifying molecular signatures present in in all types of cancer. The current availability of rich data sets from many different cancer types provides an opportunity for thorough computational data mining in search of such common patterns. Here we report the identification of 18 \"pan-cancer\" molecular signatures resulting from analysis of data sets containing values",
+          "authors": [
+            "Wei-Yi Cheng",
+            "Tai-Hsien Ou Yang",
+            "Hui Shen",
+            "Peter W. Laird",
+            "Dimitris Anastassiou"
+          ],
+          "year": "2013",
+          "url": "https://arxiv.org/pdf/1306.2584v2",
+          "citation_key": "arXiv:1306.2584",
+          "pmid": "1306.2584"
+        },
+        {
+          "source": "arxiv",
+          "id": "1308.1087",
+          "title": "Designing the statistically optimal drug for cancer therapy",
+          "abstract": "Cancer and healthy cells have distinct distributions of molecular properties and thus respond differently to drugs. Cancer drugs ideally kill cancer cells while limiting harm to healthy cells. However, the inherent variance among cells in both cancer and healthy cell populations increases the difficulty of selective drug action. Here we propose a classification framework based on the idea that an ideal cancer drug should maximally discriminate between cancer and healthy cells. We first explore h",
+          "authors": [
+            "Patrick N. Lawlor",
+            "Tomer Kalisky",
+            "Stephen Quake",
+            "Robert Rosner",
+            "Marsha Rich Rosner"
+          ],
+          "year": "2013",
+          "url": "https://arxiv.org/pdf/1308.1087v1",
+          "citation_key": "arXiv:1308.1087",
+          "pmid": "1308.1087"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1093/eurheartj/eht151",
+          "title": "2013 ESH/ESC Guidelines for the management of arterial hypertension",
+          "abstract": "",
+          "authors": [],
+          "year": "2013",
+          "url": "https://doi.org/10.1093/eurheartj/eht151",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 13677,
+          "open_access": true,
+          "concepts": [
+            "Medicine",
+            "Guardian",
+            "Health professionals",
+            "Judgement",
+            "Clinical judgement"
+          ],
+          "pmid": "https://doi.org/10.1093/eurheartj/eht151"
+        },
+        {
+          "source": "semantic_scholar",
+          "id": "cdfdf9722428afa34f8b5d31f5be51b25b787695",
+          "title": "Cancer drug resistance: an evolving paradigm",
+          "abstract": "",
+          "authors": [
+            "C. Holohan",
+            "S. V. Schaeybroeck",
+            "D. Longley",
+            "P. Johnston"
+          ],
+          "year": "2013",
+          "link": "https://www.semanticscholar.org/paper/cdfdf9722428afa34f8b5d31f5be51b25b787695",
+          "citation_key": "S2:cdfdf972",
+          "citation_count": 0,
+          "influential_citations": 0,
+          "pmid": "cdfdf9722428afa34f8b5d31f5be51b25b787695"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1164/rccm.201204-0596pp",
+          "title": "Global Strategy for the Diagnosis, Management, and Prevention of Chronic Obstructive Pulmonary Disease",
+          "abstract": "",
+          "authors": [],
+          "year": "2012",
+          "url": "https://doi.org/10.1164/rccm.201204-0596pp",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 16097,
+          "open_access": true,
+          "concepts": [
+            "Medicine",
+            "Pulmonary disease",
+            "COPD",
+            "Intensive care medicine",
+            "Disease management"
+          ],
+          "pmid": "https://doi.org/10.1164/rccm.201204-0596pp"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1038/nrc3239",
+          "title": "The blockade of immune checkpoints in cancer immunotherapy",
+          "abstract": "",
+          "authors": [],
+          "year": "2012",
+          "url": "https://doi.org/10.1038/nrc3239",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 13747,
+          "open_access": true,
+          "concepts": [
+            "Immune system",
+            "Immunotherapy",
+            "Immune checkpoint",
+            "Immunology",
+            "Antigen"
+          ],
+          "pmid": "https://doi.org/10.1038/nrc3239"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1056/nejmoa1200690",
+          "title": "Safety, Activity, and Immune Correlates of Anti\u2013PD-1 Antibody in Cancer",
+          "abstract": "",
+          "authors": [],
+          "year": "2012",
+          "url": "https://doi.org/10.1056/nejmoa1200690",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 12654,
+          "open_access": true,
+          "concepts": [
+            "Medicine",
+            "Adverse effect",
+            "Melanoma",
+            "Cancer",
+            "Internal medicine"
+          ],
+          "pmid": "https://doi.org/10.1056/nejmoa1200690"
+        },
+        {
+          "source": "arxiv",
+          "id": "1110.5865",
+          "title": "Cancer Networks: A general theoretical and computational framework for understanding cancer",
+          "abstract": "We present a general computational theory of cancer and its developmental dynamics. The theory is based on a theory of the architecture and function of developmental control networks which guide the formation of multicellular organisms. Cancer networks are special cases of developmental control networks. Cancer results from transformations of normal developmental networks. Our theory generates a natural classification of all possible cancers based on their network architecture. Each cancer netwo",
+          "authors": [
+            "Eric Werner"
+          ],
+          "year": "2011",
+          "url": "https://arxiv.org/pdf/1110.5865v1",
+          "citation_key": "arXiv:1110.5865",
+          "pmid": "1110.5865"
+        },
+        {
+          "title": "Development and application of novel analytical methods for molecularly targeted cancer therapeutics",
+          "abstract": "A detailed understanding of correlations of drug levels with drug action is an important aspect of the pre-clinical, clinical development and routine use of anti-cancer drugs.  \n\nIn furtherance of this important aim, the research in this thesis sought to develop and apply novel, highly sensitive, analytical methods to examine and understand correlations of drug levels with drug resistance mechanisms, therapeutic efficacy and side effects.\n\nLC-MS/MS is a state of the art analytical technique used to characterise and quantify both bio-molecules and pharmaceutical agents.  Based on LC-MS/MS techn",
+          "authors": [
+            "Roche, Sandra"
+          ],
+          "year": "2011",
+          "doi": null,
+          "source": "core",
+          "pmid": "Development and application of"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.2337/dc11-s062",
+          "title": "Diagnosis and Classification of Diabetes Mellitus",
+          "abstract": "",
+          "authors": [],
+          "year": "2010",
+          "url": "https://doi.org/10.2337/dc11-s062",
+          "citation_key": "OA:https://doi.org/10.2",
+          "citation_count": 14017,
+          "open_access": true,
+          "concepts": [
+            "Medicine",
+            "Diabetes mellitus",
+            "Internal medicine",
+            "MEDLINE",
+            "Endocrinology"
+          ],
+          "pmid": "https://doi.org/10.2337/dc11-s062"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1093/ageing/afq034",
+          "title": "Sarcopenia: European consensus on definition and diagnosis",
+          "abstract": "",
+          "authors": [],
+          "year": "2010",
+          "url": "https://doi.org/10.1093/ageing/afq034",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 11732,
+          "open_access": true,
+          "concepts": [
+            "Sarcopenia",
+            "Medicine",
+            "Geriatrics",
+            "Sarcopenic obesity",
+            "Gerontology"
+          ],
+          "pmid": "https://doi.org/10.1093/ageing/afq034"
+        },
+        {
+          "title": "Challenges of drug resistance in the management of pancreatic cancer",
+          "abstract": "The current treatment of choice for metastatic pancreatic cancer involves single agent gemcitabine or combination of gemcitabine with capecitabine and erlotinib (tyrosine kinase inhibitor). Only 25-30% of patients respond to this treatment and patients who do respond initially ultimately exhibit disease progression. Median survival for pancreatic cancer patients has reached a plateau due to inherent and acquired resistance to these agents. Key molecular factors implicated in this resistance include: deficiencies in drug uptake, alteration of drug targets, activations of DNA repair pathways, re",
+          "authors": [
+            "Naomi Walsh",
+            "Martin Clynes",
+            "Rizwan Sheikh",
+            "Sheikh, Rizwan",
+            "O'Connor, Robert A."
+          ],
+          "year": "2010",
+          "doi": "10.1586/era.10.148",
+          "source": "core",
+          "pmid": "Challenges of drug resistance "
+        },
+        {
+          "title": "Characterisation and modulation of drug resistance in lung cancer cell lines",
+          "abstract": "Chemotherapy drug resistance is a major obstacle in the treatment of cancer. It can result from an increase in levels of cellular drug efflux pumps such as P-glycoprotein (P-gp). Using cellular models, this thesis aimed to investigate resistance in lung cancer cells while developing siRNA and membrane proteomic techniques and to increase our knowledge of the effect of lapatinib, a newly developed targeted therapy, in these resistant cells. \n\nLapatinib, a growth factor receptor tyrosine kinase inhibitor synergised with P-gp substrate cytotoxics in P-gp over-expressing resistant cells. However, ",
+          "authors": [
+            "Dunne, Gr\u00e1inne"
+          ],
+          "year": "2010",
+          "doi": null,
+          "source": "core",
+          "pmid": "Characterisation and modulatio"
+        },
+        {
+          "title": "Differential expression of mTOR signalling components in drug resistance in ovarian cancer",
+          "abstract": "This article has been made available through the Brunel Open Access Publishing Fund and is available from the specified link - Copyright @ 2010 The International Institute of Anticancer Research.Background/Aim: A limitation to successful cancer chemotherapy treatments is the acquisition of drug resistance. In advanced-stage ovarian cancer, the mammalian target of rapamycin (mTOR) pathway is upregulated, and inhibition of this pathway increases chemosensitivity in ovarian carcinoma cell lines. In this study, the expression of DEPTOR, mTOR, RICTOR, RAPTOR and S6 kinases were investigated in SKOV",
+          "authors": [
+            "Karteris, E",
+            "Foster, H",
+            "Goumenou, A",
+            "Pados, G",
+            "Harvey, AJ"
+          ],
+          "year": "2010",
+          "doi": null,
+          "source": "core",
+          "pmid": "Differential expression of mTO"
+        },
+        {
+          "title": "Pharmacological modulation and manipulation of cancer drug resistance",
+          "abstract": "The aim of this project was to investigate pharmacological methods of overcoming resistance in cancer. Novel compounds, targeted therapies and non-steroidal anti-inflammatory drugs (NSAIDs) were examined for their potential to modulate and manipulate specific forms of drug resistance. \n\nSixty one novel compounds were tested in combination with chemotherapeutic drugs in proliferation assays for their ability to overcome MRP1 and P-gp-mediated drug resistance. Two compounds were successful P-gp modulators in the DLKP-A cell line; the ditrifluoroacetyl resveratrol derivative, RBM15, and the macro",
+          "authors": [
+            "Devery, Aoife"
+          ],
+          "year": "2010",
+          "doi": null,
+          "source": "core",
+          "pmid": "Pharmacological modulation and"
+        },
+        {
+          "source": "arxiv",
+          "id": "0808.2070",
+          "title": "Drug delivery with carbon nanotubes for in vivo cancer treatment",
+          "abstract": "Chemically functionalized single-walled carbon nanotubes (SWNTs) have shown promise in tumor targeted accumulation in mice and exhibit biocompatibility, excretion and little toxicity. Here, we demonstrate in-vivo SWNT drug delivery for tumor suppression in mice. We conjugate paclitaxel (PTX), a widely used cancer chemotherapy drug to branched polyethylene-glycol (PEG) chains on SWNTs via a cleavable ester bond to obtain a water soluble SWNT-paclitaxel conjugate (SWNT-PTX). SWNT-PTX affords highe",
+          "authors": [
+            "Zhuang Liu",
+            "Kai Chen",
+            "Corrine Davis",
+            "Sarah Sherlock",
+            "Qizhen Cao"
+          ],
+          "year": "2008",
+          "url": "https://arxiv.org/pdf/0808.2070v1",
+          "citation_key": "arXiv:0808.2070",
+          "pmid": "0808.2070"
+        },
+        {
+          "title": "Development of taxane resistance in a panel of human lung cancer cell lines",
+          "abstract": "Using a selection process designed to reflect clinically relevant conditions, a panel of taxane-selected variants were developed to study further the mechanisms of resistance in lung cancer. Unlike continuous or pulse exposure to high concentrations of chemotherapeutic drugs which yield high resistance and often cross resistance, most variants developed here displayed low level resistance to the selecting drug with slight cross-resistance. Pulsing with taxol resulted in more highly resistant clones (up to 51.4-fold). Analysis of taxol and taxotere in the four major lung cancer cell types showe",
+          "authors": [
+            "Keenan, Joanne",
+            "Breen, Laura",
+            "Murphy, Lisa",
+            "Clynes, Martin"
+          ],
+          "year": "2008",
+          "doi": "10.1016/j.tiv.2008.04.005",
+          "source": "core",
+          "pmid": "Development of taxane resistan"
+        },
+        {
+          "title": "Molecular mechanisms of drug resistance, invasion and metastasis in pancreatic carcinoma",
+          "abstract": "The research outlined in this thesis aims to further our knowledge of the biological characteristics underlying the aggressive behaviour by which pancreatic cancer invades and metastasises at an early stage and is refractory to most chemotherapeutic drugs. Investigation into drug resistance in pancreatic cancer involved pulse-selection of three cell lines with epirubicin, taxotere and gemcitabine. The drug-selected cell lines, in general, displayed low changes in sensitivity to their respective selecting drugs and no obvious cross-resistance profile. However, drug treatment modulated the invas",
+          "authors": [
+            "Walsh, Naomi"
+          ],
+          "year": "2008",
+          "doi": null,
+          "source": "core",
+          "pmid": "Molecular mechanisms of drug r"
+        },
+        {
+          "title": "Mechanisms of multidrug resistance in bladder cancer:\nthe role of the nuclear membrane",
+          "abstract": "Multidrug resistance (MDR) describes the phenomenon whereby cancer cellsexposed to a single cytotoxic drug develop cross resistance to numerous otherstructurally unrelated chemotherapeutics. The development of MDR is a majorcause of cancer chemotherapy treatment failure in all types of cancer.Numerous mechanisms of MDR have been elucidated which include ATPbindingcassette (ABC) transporter proteins, cytoplasmic vaults, alterations intopoisomerase II and increased expression of glutathione-S-transferases, all ofwhich result in reduced chemotherapeutic efficacy.Superficial bladder cancer is comm",
+          "authors": [
+            "Featherstone, Jonathan Mark"
+          ],
+          "year": "2007",
+          "doi": null,
+          "source": "core",
+          "pmid": "Mechanisms of multidrug resist"
+        },
+        {
+          "title": "Understanding cisplatin resistance using cellular models",
+          "abstract": "Many mechanisms of cisplatin resistance have been proposed from studies of cellular models of resistance including changes in cellular drug accumulation, detoxification of the drug, inhibition of apoptosis and repair of the DNA adducts. A series of resistant models were developed from CCRF-CEM leukaemia cells with increasing doses of cisplatin from 100 ng/ml. This produced increasing resistance up to 7-fold with a treatment dose of 1.6 \u03bcg/ml. Cisplatin resistance in these cells correlated with increases in the antioxidant glutathione, yet treatment with buthionine sulphoximine, an inhibitor of",
+          "authors": [
+            "Davey, M",
+            "Davey, Mary W.",
+            "Davey, Mary W",
+            "Stordal, B",
+            "Britta Stordal"
+          ],
+          "year": "2007",
+          "doi": "10.1080/15216540701636287",
+          "source": "core",
+          "pmid": "Understanding cisplatin resist"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1017/cbo9780511666544.005",
+          "title": "Molecular aspects of drug resistance",
+          "abstract": "",
+          "authors": [],
+          "year": "1998",
+          "url": "https://doi.org/10.1017/cbo9780511666544.005",
+          "citation_key": "DOI:10.1017/cbo978051166",
+          "citation_count": 1,
+          "pmid": "10.1017/cbo9780511666544.005"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1017/cbo9780511666544.003",
+          "title": "The biological basis of cancer and the problem of drug resistance",
+          "abstract": "",
+          "authors": [],
+          "year": "1998",
+          "url": "https://doi.org/10.1017/cbo9780511666544.003",
+          "citation_key": "DOI:10.1017/cbo978051166",
+          "citation_count": 0,
+          "pmid": "10.1017/cbo9780511666544.003"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1017/cbo9780511666544.006",
+          "title": "Quantitative descriptions of the origins of drug resistance",
+          "abstract": "",
+          "authors": [],
+          "year": "1998",
+          "url": "https://doi.org/10.1017/cbo9780511666544.006",
+          "citation_key": "DOI:10.1017/cbo978051166",
+          "citation_count": 0,
+          "pmid": "10.1017/cbo9780511666544.006"
+        },
+        {
+          "source": "crossref",
+          "id": "10.32469/10355/96247",
+          "title": "Cancer drug resistance mechanisms",
+          "abstract": "Significant advances have been made toward developing potent agents that selectively target and kill cancer cells. However, achieving durable clinical benefits remains a significant challenge in the management of cancer patients. Some patients either fail to respond or quickly relapse due to intrinsic or acquired drug resistance, respectively. Elucidation of the molecular mechanisms of intrinsic and acquired cancer drug resistance will not only improve our understanding of ",
+          "authors": [
+            "Nadia Rhedonna Patterson"
+          ],
+          "year": "",
+          "url": "https://doi.org/10.32469/10355/96247",
+          "citation_key": "DOI:10.32469/10355/96247",
+          "citation_count": 0,
+          "pmid": "10.32469/10355/96247"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1007/978-1-59745-035-5_23",
+          "title": "Mechanisms of Glucocorticoid Actions and Resistance in Multiple Myeloma",
+          "abstract": "",
+          "authors": [
+            "Varsha Gandhi",
+            "Beatriz Sanchez-Vega"
+          ],
+          "year": "",
+          "url": "https://doi.org/10.1007/978-1-59745-035-5_23",
+          "citation_key": "DOI:10.1007/978-1-59745-",
+          "citation_count": 2,
+          "pmid": "10.1007/978-1-59745-035-5_23"
+        },
+        {
+          "source": "crossref",
+          "id": "10.53846/goediss-5138",
+          "title": "Unravelling Drug Resistance Mechanisms in Breast Cancer",
+          "abstract": "",
+          "authors": [
+            "Silvia von der Heyde"
+          ],
+          "year": "",
+          "url": "https://doi.org/10.53846/goediss-5138",
+          "citation_key": "DOI:10.53846/goediss-513",
+          "citation_count": 0,
+          "pmid": "10.53846/goediss-5138"
+        },
+        {
+          "source": "arxiv",
+          "id": "2605.19789",
+          "title": "Charting an embryological path to cancer cure: A discussion of disease hallmarks",
+          "abstract": "Embryology has long played a foundational role in shaping our scientific understanding of animal evolution. In recent decades, growing evidence has also highlighted its role in cancer. Despite the indisputable similarities between embryonic development and cancer, there has been limited discussion on the profound embryological implications for the disease. This article explores the understanding of cancer as an embryological and evolutionary phenomenon, offering a fresh perspective on the diseas",
+          "authors": [
+            "Jaime Cofre"
+          ],
+          "year": "2026",
+          "url": "https://arxiv.org/pdf/2605.19789v1",
+          "citation_key": "arXiv:2605.19789",
+          "pmid": "2605.19789"
+        },
+        {
+          "source": "pubmed",
+          "id": "42376702",
+          "title": "NRF2-Mediated immune evasion and ferroptosis resistance in hepatocellular carcinoma: implications for immune checkpoint inhibitor response.",
+          "abstract": "Hepatocellular carcinoma (HCC) remains a major cause of cancer-related mortality, and immune checkpoint inhibitors have become central to systemic treatment for advanced disease. However, durable responses are limited to a subset of patients, indicating the need to clarify tumor-intrinsic mechanisms that shape immune resistance. Nuclear factor erythroid 2-related factor 2 (NRF2), encoded by Nuclear Factor Erythroid 2-Related Factor 2 Like 2 (NFE2L2), is a stress-responsive transcription factor that regulates antioxidant defense, detoxification, metabolism, and redox adaptation. Although transi",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42376702/",
+          "citation_key": "PMID:42376702",
+          "pmid": "42376702"
+        },
+        {
+          "source": "pubmed",
+          "id": "42376674",
+          "title": "DNA damage response inhibitors in pancreatic cancer: progress and challenges.",
+          "abstract": "Pancreatic cancer is one of the most lethal malignancies, with very limited treatment options beyond standard chemotherapy. The discovery of homologous recombination repair (HRR) deficiencies-such as BRCA1/2 and PALB2 mutations-has revealed a targetable vulnerability through the DNA damage response (DDR) pathway. This review systematically summarizes the application and current clinical landscape of DDR-targeted therapies in pancreatic cancer. We first discuss how DDR inhibitors have successfully translated from research into clinical practice as a targeted treatment option for pancreatic canc",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42376674/",
+          "citation_key": "PMID:42376674",
+          "pmid": "42376674"
+        },
+        {
+          "source": "pubmed",
+          "id": "42376658",
+          "title": "HOX gene dysregulation in head and neck squamous cell carcinoma: mechanisms, clinical relevance, and future perspectives.",
+          "abstract": "Accumulated genomic and transcriptomic evidence in head and neck squamous cell carcinoma (HNSCC) has revealed widespread molecular alterations associated with tumor initiation, progression, and therapeutic resistance. Among these, deregulation of HOX genes has emerged as a prominent feature of cancer biology. HOX genes encode a highly-conserved family of transcription factors that regulate essential cellular processes, including proliferation, differentiation, migration, and survival, all of which are directly relevant to tumor development. However, their clinical exploitation as reliable biom",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42376658/",
+          "citation_key": "PMID:42376658",
+          "pmid": "42376658"
+        },
+        {
+          "source": "pubmed",
+          "id": "42375602",
+          "title": "Mechanism of zedoary turmeric oil multi-components targeting S100A14 to reprogram astrocytes against tumor brain metastasis.",
+          "abstract": "Zedoary Turmeric Oil (ZTO) is an active extract derived from the traditional Chinese medicine Ezhu, which is conventionally used to promote blood circulation, remove blood stasis, and relieve pain. Nevertheless, the therapeutic potential and underlying molecular mechanism of ZTO against tumor brain metastasis (BrM) remain poorly elucidated. The anti-BrM efficacy of ZTO was firstly assessed through S100A14-overexpress tuomor cells intracarotid injection BrM mice model. Concurrently, GC-MS analysis, computer simulation, along with in vitro experiments were employed to comprehensively investigate",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42375602/",
+          "citation_key": "PMID:42375602",
+          "pmid": "42375602"
+        },
+        {
+          "source": "pubmed",
+          "id": "42375093",
+          "title": "A Novel DRD2 Antagonist, SD2-2305, Exerts Anticancer Effects in Colorectal Cancer Cells through G1 Arrest and Caspase-Dependent Apoptosis.",
+          "abstract": "Colorectal cancer (CRC) remains difficult to treat due to challenges in early detection and the development of therapeutic resistance. Dopamine receptor D2 (DRD2) plays a critical role in regulating cell proliferation and apoptosis in various solid tumors. Given the relatively high levels of dopamine in the gastrointestinal tract, colorectal tumors may be particularly susceptible to DRD2-mediated signaling. In this study, we evaluated the anticancer activity of a newly synthesized DRD2 antagonist, SD2-2305, and investigated its underlying mechanisms in human CRC cell lines HCT116 and HT-29. SD",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42375093/",
+          "citation_key": "PMID:42375093",
+          "pmid": "42375093"
+        },
+        {
+          "source": "pubmed",
+          "id": "42374871",
+          "title": "FOXO3/HMOX1 axis promotes melanoma progression by regulating ferroptosis and immune escape.",
+          "abstract": "Melanoma represents a highly aggressive form of skin cancer characterized by significant invasiveness and immune evasion capabilities. Although heme oxygenase-1 (HMOX1) participates in cellular stress responses and ferroptosis, its precise functional roles in melanoma pathogenesis remain incompletely defined. HMOX1 expression levels in melanoma tissues and cell lines were evaluated using immunohistochemistry (IHC), quantitative real-time PCR (qRT-PCR), and western blotting. HMOX1 function was investigated through short hairpin RNA (shRNA)-mediated knockdown, followed by assessment of cellular ",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42374871/",
+          "citation_key": "PMID:42374871",
+          "pmid": "42374871"
+        },
+        {
+          "source": "pubmed",
+          "id": "42374456",
+          "title": "Acidosis-associated gene signature defines novel subtypes and dual-target therapeutic candidates in breast cancer.",
+          "abstract": "Breast cancer remains the most common malignancy in women, and substantial heterogeneity in treatment response and prognosis persists despite multimodal therapies. The acidic tumor microenvironment (TME), driven by metabolic reprogramming and lactate accumulation, is recognized as a key driver of tumor adaptation, immune evasion, and therapeutic resistance. However, the genomic and transcriptomic patterns of acidosis tolerance in human breast cancer, and their implications for subtype stratification and targeted therapy, remain poorly understood. We integrated GEO datasets, sgRNA-seq data and ",
+          "authors": [],
+          "year": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42374456/",
+          "citation_key": "PMID:42374456",
+          "pmid": "42374456"
+        },
+        {
+          "title": "Quantum machine learning framework for longitudinal biomedical studies",
+          "abstract": "Longitudinal biomedical studies play a vital role in tracking disease progression, treatment response, and the emergence of resistance mechanisms, particularly in complex disorders such as cancer and neurodegenerative diseases. However, the high dimensionality of biological data, combined with the limited size of longitudinal cohorts, presents significant challenges for traditional machine learning approaches. In this work, we explore the potential of quantum machine learning (QML) for longitudinal biomarker discovery. We propose a novel modification to the instantaneous quantum polynomial tim",
+          "authors": [
+            "Demidik, Maria",
+            "Utro, Filippo",
+            "Galda, Alexey",
+            "Jansen, Karl",
+            "Blankenberg, Daniel"
+          ],
+          "year": "2025",
+          "source": "inspire_hep",
+          "id": "2915590",
+          "pmid": "2915590"
+        },
+        {
+          "source": "crossref",
+          "id": "10.18413/2658-6533-2025-11-1-0-1",
+          "title": "Pathway directed mechanisms of anti-EGFR resistance in colorectal cancer (review)  [\u0421\u0441\u044b\u043b\u043a\u0430 \u043d\u0430 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a: Lebedeva AA, Kavun AI, Belova EV, et al. Pathway directed mechanisms of anti EGFR resistance in colorectal cancer (review)",
+          "abstract": "",
+          "authors": [],
+          "year": "2025",
+          "url": "https://doi.org/10.18413/2658-6533-2025-11-1-0-1",
+          "citation_key": "DOI:10.18413/2658-6533-2",
+          "citation_count": 0,
+          "pmid": "10.18413/2658-6533-2025-11-1-0-1"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1016/b978-0-443-33475-7.00014-7",
+          "title": "Mechanisms of treatment resistance in colorectal cancer",
+          "abstract": "",
+          "authors": [
+            "Benny Mosoane",
+            "Georgios Lolas",
+            "Zodwa Dlamini"
+          ],
+          "year": "2025",
+          "url": "https://doi.org/10.1016/b978-0-443-33475-7.00014-7",
+          "citation_key": "DOI:10.1016/b978-0-443-3",
+          "citation_count": 2,
+          "pmid": "10.1016/b978-0-443-33475-7.00014-7"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1007/978-981-97-1666-1_2",
+          "title": "Mechanisms of Cancer Resistance to Various Therapies",
+          "abstract": "",
+          "authors": [
+            "Asiya Batool",
+            "Waseem Rashid",
+            "Kaneez Fatima",
+            "Sameer Ullah Khan"
+          ],
+          "year": "2024",
+          "url": "https://doi.org/10.1007/978-981-97-1666-1_2",
+          "citation_key": "DOI:10.1007/978-981-97-1",
+          "citation_count": 8,
+          "pmid": "10.1007/978-981-97-1666-1_2"
+        },
+        {
+          "source": "arxiv",
+          "id": "2307.11274",
+          "title": "Screening Mammography Breast Cancer Detection",
+          "abstract": "Breast cancer is a leading cause of cancer-related deaths, but current programs are expensive and prone to false positives, leading to unnecessary follow-up and patient anxiety. This paper proposes a solution to automated breast cancer detection, to improve the efficiency and accuracy of screening programs. Different methodologies were tested against the RSNA dataset of radiographic breast images of roughly 20,000 female patients and yielded an average validation case pF1 score of 0.56 across me",
+          "authors": [
+            "Debajyoti Chakraborty"
+          ],
+          "year": "2023",
+          "url": "https://arxiv.org/pdf/2307.11274v1",
+          "citation_key": "arXiv:2307.11274",
+          "pmid": "2307.11274"
+        },
+        {
+          "source": "crossref",
+          "id": "10.5220/0012021000003633",
+          "title": "Mechanisms of Resistance to Cancer Immunotherapy",
+          "abstract": "",
+          "authors": [
+            "Sitong Zhao"
+          ],
+          "year": "2022",
+          "url": "https://doi.org/10.5220/0012021000003633",
+          "citation_key": "DOI:10.5220/001202100000",
+          "citation_count": 0,
+          "pmid": "10.5220/0012021000003633"
+        },
+        {
+          "source": "crossref",
+          "id": "10.3390/books978-3-0365-2856-4",
+          "title": "Targeted Cancer Therapy and Mechanisms of Resistance",
+          "abstract": "",
+          "authors": [],
+          "year": "2022",
+          "url": "https://doi.org/10.3390/books978-3-0365-2856-4",
+          "citation_key": "DOI:10.3390/books978-3-0",
+          "citation_count": 0,
+          "pmid": "10.3390/books978-3-0365-2856-4"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1016/b978-0-12-821310-0.00010-3",
+          "title": "Luminal A breast cancer resistance mechanisms and emerging treatments",
+          "abstract": "",
+          "authors": [
+            "Deborah H. Anderson"
+          ],
+          "year": "2021",
+          "url": "https://doi.org/10.1016/b978-0-12-821310-0.00010-3",
+          "citation_key": "DOI:10.1016/b978-0-12-82",
+          "citation_count": 8,
+          "pmid": "10.1016/b978-0-12-821310-0.00010-3"
+        },
+        {
+          "source": "arxiv",
+          "id": "2005.13924",
+          "title": "CNN-based Approach for Cervical Cancer Classification in Whole-Slide Histopathology Images",
+          "abstract": "Cervical cancer will cause 460 000 deaths per year by 2040, approximately 90% are Sub-Saharan African women. A constantly increasing incidence in Africa making cervical cancer a priority by the World Health Organization (WHO) in terms of screening, diagnosis, and treatment. Conventionally, cancer diagnosis relies primarily on histopathological assessment, a deeply error-prone procedure requiring intelligent computer-aided systems as low-cost patient safety mechanisms but lack of labeled data in ",
+          "authors": [
+            "Ferdaous Idlahcen",
+            "Mohammed Majid Himmi",
+            "Abdelhak Mahmoudi"
+          ],
+          "year": "2020",
+          "url": "https://arxiv.org/pdf/2005.13924v1",
+          "citation_key": "arXiv:2005.13924",
+          "pmid": "2005.13924"
+        },
+        {
+          "source": "arxiv",
+          "id": "1906.07794",
+          "title": "Convolutional neural network models for cancer type prediction based on gene expression",
+          "abstract": "Background Precise prediction of cancer types is vital for cancer diagnosis and therapy. Important cancer marker genes can be inferred through predictive model. Several studies have attempted to build machine learning models for this task however none has taken into consideration the effects of tissue of origin that can potentially bias the identification of cancer markers. Results In this paper, we introduced several Convolutional Neural Network (CNN) models that take unstructured gene expressi",
+          "authors": [
+            "Milad Mostavi",
+            "Yu-Chiao Chiu",
+            "Yufei Huang",
+            "Yidong Chen"
+          ],
+          "year": "2019",
+          "url": "https://arxiv.org/pdf/1906.07794v1",
+          "citation_key": "arXiv:1906.07794",
+          "pmid": "1906.07794"
+        },
+        {
+          "source": "arxiv",
+          "id": "1911.11872",
+          "title": "Artificial Intelligence-Based Image Classification for Diagnosis of Skin Cancer: Challenges and Opportunities",
+          "abstract": "Recently, there has been great interest in developing Artificial Intelligence (AI) enabled computer-aided diagnostics solutions for the diagnosis of skin cancer. With the increasing incidence of skin cancers, low awareness among a growing population, and a lack of adequate clinical expertise and services, there is an immediate need for AI systems to assist clinicians in this domain. A large number of skin lesion datasets are available publicly, and researchers have developed AI-based image class",
+          "authors": [
+            "Manu Goyal",
+            "Thomas Knackstedt",
+            "Shaofeng Yan",
+            "Saeed Hassanpour"
+          ],
+          "year": "2019",
+          "url": "https://arxiv.org/pdf/1911.11872v3",
+          "citation_key": "arXiv:1911.11872",
+          "pmid": "1911.11872"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1186/s40537-019-0197-0",
+          "title": "A survey on Image Data Augmentation for Deep Learning",
+          "abstract": "",
+          "authors": [],
+          "year": "2019",
+          "url": "https://doi.org/10.1186/s40537-019-0197-0",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 12441,
+          "open_access": true,
+          "concepts": [
+            "Computer science",
+            "Overfitting",
+            "Deep learning",
+            "Artificial intelligence",
+            "Machine learning"
+          ],
+          "pmid": "https://doi.org/10.1186/s40537-019-0197-0"
+        },
+        {
+          "source": "crossref",
+          "id": "10.20517/cdr.2019.29",
+          "title": "Molecular mechanisms contributing to glucocorticoid resistance in lymphoid malignancies",
+          "abstract": "",
+          "authors": [
+            "Blanca Scheijen"
+          ],
+          "year": "2019",
+          "url": "https://doi.org/10.20517/cdr.2019.29",
+          "citation_key": "DOI:10.20517/cdr.2019.29",
+          "citation_count": 7,
+          "pmid": "10.20517/cdr.2019.29"
+        },
+        {
+          "source": "arxiv",
+          "id": "1705.05025",
+          "title": "Complexity in cancer stem cells and tumor evolution: towards precision medicine",
+          "abstract": "In this review, we discuss recent advances on the plasticity of cancer stem cells and highlight their relevance to understand the metastatic process and to guide therapeutic interventions. Recent results suggest that the strict hierarchical structure of cancer cell populations advocated by the cancer stem cell model must be reconsidered since the depletion of cancer stem cells leads the other tumor cells to switch back into the cancer stem cell phenotype. This plasticity has important implicatio",
+          "authors": [
+            "Caterina A. M. La Porta",
+            "Stefano Zapperi"
+          ],
+          "year": "2017",
+          "url": "https://arxiv.org/pdf/1705.05025v1",
+          "citation_key": "arXiv:1705.05025",
+          "pmid": "1705.05025"
+        },
+        {
+          "title": "Molecular mechanisms of cisplatin resistance in cervical cancer",
+          "abstract": "Haiyan Zhu, Hui Luo, Wenwen Zhang, Zhaojun Shen, Xiaoli Hu, Xueqiong Zhu  Department of Obstetrics and Gynecology, The Second Affiliated Hospital of Wenzhou Medical University, Wenzhou, People&rsquo;s Republic of China  Abstract: Patients with advanced or recurrent cervical cancer have poor prognosis, and their 1-year survival is only 10%&ndash;20%. Chemotherapy is considered as the standard treatment for patients with advanced or recurrent cervical cancer, and cisplatin appears to treat the disease effectively. However, resistance to cisplatin may develop, thus substantially compromising the ",
+          "authors": [
+            "Zhang W",
+            "Shen Z",
+            "Hu X",
+            "Zhu H",
+            "Zhu X"
+          ],
+          "year": "2016",
+          "doi": null,
+          "source": "core",
+          "pmid": "Molecular mechanisms of cispla"
+        },
+        {
+          "source": "arxiv",
+          "id": "1505.04271",
+          "title": "Focus on the Physics of Cancer",
+          "abstract": "Despite the spectacular achievements of molecular biology in the second half of the twentieth century and the crucial advances it permitted in cancer research, the fight against cancer has brought some disillusions. It is nowadays more and more apparent that getting a global picture of the very diverse and interlinked aspects of cancer development necessitates, in synergy with these achievements, other perspectives and investigating tools. In this undertaking, multidisciplinary approaches that i",
+          "authors": [
+            "Thomas Risler"
+          ],
+          "year": "2015",
+          "url": "https://arxiv.org/pdf/1505.04271v1",
+          "citation_key": "arXiv:1505.04271",
+          "pmid": "1505.04271"
+        },
+        {
+          "source": "arxiv",
+          "id": "1409.3263",
+          "title": "Understanding genomic alterations in cancer genomes using an integrative network approach",
+          "abstract": "In recent years, cancer genome sequencing and other high-throughput studies of cancer genomes have generated many notable discoveries. In this review, Novel genomic alteration mechanisms, such as chromothripsis (chromosomal crisis) and kataegis (mutation storms), and their implications for cancer are discussed. Genomic alterations spur cancer genome evolution. Thus, the relationship between cancer clonal evolution and cancer stems cells is commented. The key question in cancer biology concerns h",
+          "authors": [
+            "Edwin Wang"
+          ],
+          "year": "2014",
+          "url": "https://arxiv.org/pdf/1409.3263v1",
+          "citation_key": "arXiv:1409.3263",
+          "pmid": "1409.3263"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1007/978-3-319-06752-0_1",
+          "title": "Proteasome Inhibitors and Lessons Learned from Their Mechanisms of Action and Resistance in Human Cancer",
+          "abstract": "",
+          "authors": [
+            "Sara M. Schmitt",
+            "Rahul R. Deshmukh",
+            "Q. Ping Dou"
+          ],
+          "year": "2014",
+          "url": "https://doi.org/10.1007/978-3-319-06752-0_1",
+          "citation_key": "DOI:10.1007/978-3-319-06",
+          "citation_count": 4,
+          "pmid": "10.1007/978-3-319-06752-0_1"
+        },
+        {
+          "title": "Mechanisms of resistance to lapatinib in HER2 positive breast cancer",
+          "abstract": "Lapatinib is a tyrosine kinase inhibitor of HER2 which blocks downstream signaling pathways in HER2 positive breast cancer cell lines, tumor xenografts and HER2 positive breast cancer patients. However, pre-clinical and clinical studies have shown that HER2 positive patients can exhibit either innate or acquired lapatinib resistance. Previous work in our laboratory resulted in the generation of lapatinib-resistant SKBR3 cells which exhibit decreased phosphorylation of eEF2 compared to parental cells. The aims of this study were to develop additional models of lapatinib resistance, characterise",
+          "authors": [
+            "McDermott, Martina"
+          ],
+          "year": "2012",
+          "doi": null,
+          "source": "core",
+          "pmid": "Mechanisms of resistance to la"
+        },
+        {
+          "title": "Development of resistance towards artesunate in MDA-MB-231 human breast cancer cells.",
+          "abstract": "Breast cancer is the most common cancer and the second leading cause of cancer death in industrialized countries. Systemic treatment of breast cancer is effective at the beginning of therapy. However, after a variable period of time, progression occurs due to therapy resistance. Artesunate, clinically used as anti-malarial agent, has recently revealed remarkable anti-tumor activity offering a role as novel candidate for cancer chemotherapy. We analyzed the anti-tumor effects of artesunate in metastasizing breast carcinoma in vitro and in vivo. Unlike as expected, artesunate induced resistance ",
+          "authors": [
+            "Ulrich Pfeffer",
+            "Killian, Peter H.",
+            "Fichtner Iduna",
+            "Efferth, Thomas",
+            "Iduna Fichtner"
+          ],
+          "year": "2011",
+          "doi": "10.5282/ubm/epub.15335",
+          "source": "core",
+          "pmid": "Development of resistance towa"
+        },
+        {
+          "title": "Clinical resistance to platinum chemotherapy in ovarian cancer",
+          "abstract": "Platinum drugs are the most active agents in ovarian cancer. Their cytotoxicty results from DNA crosslinking. High tumour response rates are seen, but 80 % of patients\n\nrelapse. Major mechanisms of platinum resistance in patients remain to be established. We have studied DNA interstrand crosslinking and its repair in response to ex vivo treatment with cisplatin in forty patients with ovarian cancer using the single cell gel electrophoresis (comet) assay. Tumour cells from resected tumours or tumour and mesothelial cells from ascites were obtained from chemona\u00efve patients and those relapsing af",
+          "authors": [
+            "Newton, C.",
+            "Newton, C"
+          ],
+          "year": "2009",
+          "doi": null,
+          "source": "core",
+          "pmid": "Clinical resistance to platinu"
+        },
+        {
+          "title": "Microarray analysis of tamoxifen resistance in breast cancer.",
+          "abstract": "PhDTamoxifen remains a widely used hormone therapy for pre and postmenopausal\r\nwomen with hormone receptor positive breast cancer in both\r\nadjuvant and metastatic disease settings. Resistance to this well tolerated\r\nand cost-effective drug limits its use. Only an improved understanding of the\r\nmechanisms of tamoxifen resistance will provide the basis for overcoming this\r\nphenomenon.\r\nExpression profiles from tamoxifen-resistant and sensitive MCF7\r\nderived breast cancer cell lines were prepared, using Affymetrix HG_U133A\r\ncDNA microarrays. The data generated was analysed to identify novel\r\npath",
+          "authors": [
+            "Moss, Charlotte"
+          ],
+          "year": "2009",
+          "doi": null,
+          "source": "core",
+          "pmid": "Microarray analysis of tamoxif"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1093/bioinformatics/bti610",
+          "title": "Blast2GO: a universal tool for annotation, visualization and analysis in functional genomics research",
+          "abstract": "",
+          "authors": [],
+          "year": "2005",
+          "url": "https://doi.org/10.1093/bioinformatics/bti610",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 12062,
+          "open_access": true,
+          "concepts": [
+            "Annotation",
+            "Computer science",
+            "Visualization",
+            "Java",
+            "Process (computing)"
+          ],
+          "pmid": "https://doi.org/10.1093/bioinformatics/bti610"
+        },
+        {
+          "source": "openalex",
+          "id": "https://doi.org/10.1016/s0092-8674(00)81683-9",
+          "title": "The Hallmarks of Cancer",
+          "abstract": "",
+          "authors": [],
+          "year": "2000",
+          "url": "https://doi.org/10.1016/s0092-8674(00)81683-9",
+          "citation_key": "OA:https://doi.org/10.1",
+          "citation_count": 28542,
+          "open_access": true,
+          "concepts": [
+            "Biology",
+            "Cancer",
+            "Computational biology",
+            "Genetics"
+          ],
+          "pmid": "https://doi.org/10.1016/s0092-8674(00)81683-9"
+        },
+        {
+          "source": "crossref",
+          "id": "10.1007/978-1-4615-9852-7_1",
+          "title": "Mechanisms of Multidrug Resistance",
+          "abstract": "",
+          "authors": [
+            "John A. Kellen"
+          ],
+          "year": "1995",
+          "url": "https://doi.org/10.1007/978-1-4615-9852-7_1",
+          "citation_key": "DOI:10.1007/978-1-4615-9",
+          "citation_count": 3,
+          "pmid": "10.1007/978-1-4615-9852-7_1"
+        },
+        {
+          "source": "crossref",
+          "id": "10.7717/peerj.19535/table-1",
+          "title": "Table 1: Resistance profiles and resistance mechanisms of four colorectal cancer-associated enteric bacteria.",
+          "abstract": "",
+          "authors": [],
+          "year": "",
+          "url": "https://doi.org/10.7717/peerj.19535/table-1",
+          "citation_key": "DOI:10.7717/peerj.19535/",
+          "citation_count": 0,
+          "pmid": "10.7717/peerj.19535/table-1"
+        },
+        {
+          "source": "crossref",
+          "id": "10.58445/rars.499",
+          "title": "Mechanisms of Cancer Resistance Across Mammals",
+          "abstract": "",
+          "authors": [
+            "Amari Anderson"
+          ],
+          "year": "",
+          "url": "https://doi.org/10.58445/rars.499",
+          "citation_key": "DOI:10.58445/rars.499",
+          "citation_count": 0,
+          "pmid": "10.58445/rars.499"
+        }
+      ]
+    },
+    "citation_network": {
+      "total_papers": 21,
+      "citation_hop1": 0,
+      "citation_hop2": 0
+    },
+    "knowledge_graph": {
+      "entities": 456,
+      "relationships": 5795,
+      "papers": 1577,
+      "predicted_links": 10,
+      "predicted_links_added": 10,
+      "enriched": 26
+    },
+    "gap_detection": {
+      "total_gaps": 24,
+      "structural_holes": 5,
+      "orphan_observations": 8,
+      "weak_bridges": 6,
+      "missing_mechanisms": 6,
+      "explanation_deficits": 0,
+      "avg_gap_score": 0.6398750000000001,
+      "graph_density": 0.056,
+      "top_gaps": [
+        {
+          "entity": "Acceleration",
+          "entity_type": "phenomenon",
+          "papers": 10,
+          "confidence": 0.9,
+          "reason": "'Acceleration' is a phenomenon mentioned in 10 paper(s) but has no causal/explanatory mechanism in the graph. It is observed but not explained.",
+          "type": "orphan_observation",
+          "source": "algorithmic",
+          "gap_score": 0.938
+        },
+        {
+          "entity": "Carcinoma",
+          "entity_type": "disease",
+          "papers": 8,
+          "confidence": 0.9,
+          "reason": "'Carcinoma' is a disease mentioned in 8 paper(s) but has no causal/explanatory mechanism in the graph. It is observed but not explained.",
+          "type": "orphan_observation",
+          "source": "algorithmic",
+          "gap_score": 0.923
+        },
+        {
+          "entity": "fluctuation",
+          "entity_type": "phenomenon",
+          "papers": 8,
+          "confidence": 0.9,
+          "reason": "'fluctuation' is a phenomenon mentioned in 8 paper(s) but has no causal/explanatory mechanism in the graph. It is observed but not explained.",
+          "type": "orphan_observation",
+          "source": "algorithmic",
+          "gap_score": 0.923
+        },
+        {
+          "entity": "resonance",
+          "entity_type": "phenomenon",
+          "papers": 5,
+          "confidence": 0.9,
+          "reason": "'resonance' is a phenomenon mentioned in 5 paper(s) but has no causal/explanatory mechanism in the graph. It is observed but not explained.",
+          "type": "orphan_observation",
+          "source": "algorithmic",
+          "gap_score": 0.894
+        },
+        {
+          "entity": "puzzle",
+          "entity_type": "phenomenon",
+          "papers": 5,
+          "confidence": 0.9,
+          "reason": "'puzzle' is a phenomenon mentioned in 5 paper(s) but has no causal/explanatory mechanism in the graph. It is observed but not explained.",
+          "type": "orphan_observation",
+          "source": "algorithmic",
+          "gap_score": 0.894
+        },
+        {
+          "entity": "anomaly",
+          "entity_type": "phenomenon",
+          "papers": 5,
+          "confidence": 0.9,
+          "reason": "'anomaly' is a phenomenon mentioned in 5 paper(s) but has no causal/explanatory mechanism in the graph. It is observed but not explained.",
+          "type": "orphan_observation",
+          "source": "algorithmic",
+          "gap_score": 0.894
+        },
+        {
+          "entity": "3 K",
+          "entity_type": "parameter",
+          "papers": 5,
+          "confidence": 0.9,
+          "reason": "'3 K' appears in 5 paper(s) but has zero relationships in the knowledge graph. It may represent an isolated finding that needs causal integration.",
+          "type": "orphan_observation",
+          "source": "algorithmic",
+          "gap_score": 0.744
+        },
+        {
+          "description": "Disconnected clusters share types: gene, technology, disease",
+          "cluster_a": [
+            "concept_floquet_regime",
+            "concept_transcription_activator",
+            "concept_observable_spectral_features",
+            "concept_magnetar",
+            "method_biased_tracers"
+          ],
+          "cluster_b": [
+            "Tyrosine kinase inhibitor",
+            "Anaplastic lymphoma kinase",
+            "Non\u2011small cell lung cancer"
+          ],
+          "shared_types": [
+            "gene",
+            "technology",
+            "disease"
+          ],
+          "confidence": 0.85,
+          "reason": "These 2184 and 3 entities share type(s) gene, technology, disease but have no connecting relationships. This may indicate an unexplored cross-domain connection.",
+          "type": "structural_hole",
+          "source": "algorithmic",
+          "gap_score": 0.673
+        },
+        {
+          "description": "Disconnected clusters share types: unknown, method",
+          "cluster_a": [
+            "concept_floquet_regime",
+            "concept_transcription_activator",
+            "concept_observable_spectral_features",
+            "concept_magnetar",
+            "method_biased_tracers"
+          ],
+          "cluster_b": [
+            "concept_cost_reduction",
+            "Alternative dosing regimen",
+            "concept_maintained_weight_loss_efficacy"
+          ],
+          "shared_types": [
+            "unknown",
+            "method"
+          ],
+          "confidence": 0.7999999999999999,
+          "reason": "These 2184 and 3 entities share type(s) unknown, method but have no connecting relationships. This may indicate an unexplored cross-domain connection.",
+          "type": "structural_hole",
+          "source": "algorithmic",
+          "gap_score": 0.66
+        },
+        {
+          "description": "Disconnected clusters share types: drug",
+          "cluster_a": [
+            "concept_floquet_regime",
+            "concept_transcription_activator",
+            "concept_observable_spectral_features",
+            "concept_magnetar",
+            "method_biased_tracers"
+          ],
+          "cluster_b": [
+            "lapatinib"
+          ],
+          "shared_types": [
+            "drug"
+          ],
+          "confidence": 0.75,
+          "reason": "These 2184 and 1 entities share type(s) drug but have no connecting relationships. This may indicate an unexplored cross-domain connection.",
+          "type": "structural_hole",
+          "source": "algorithmic",
+          "gap_score": 0.648
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "curious_questioning": {
+    "observations": [
+      {
+        "observation": "remains a leading global health challenge, and treatment efficacy is often limited by re",
+        "source": "Anticancer power of Artemisia annua: A preclinical systemati",
+        "type": "surprising"
+      },
+      {
+        "observation": "however, its impact on paclitaxel sensitivity in ovarian cancer and the underlying mechan",
+        "source": "Targeting AIF to trigger RIPKs/MLKL necroptosis: a disulfira",
+        "type": "surprising"
+      },
+      {
+        "observation": "however, sunitinib resistance compromises clinical efficacy. n6-methyladenosine (m6a), th",
+        "source": "sFRP-4 regulated by n6\u2011methyladenosine writer ZC3H13 attenua",
+        "type": "surprising"
+      },
+      {
+        "observation": "remains a major challenge in egfr-mutant non-small cell lung cancer (nsclc). here, we de",
+        "source": "Deciphering the Role of Acetate in Metabolic Adaptation and ",
+        "type": "surprising"
+      },
+      {
+        "observation": "despite all the advances achieved in the field of tumor-biology research, in most cases ",
+        "source": "Smart Drug-Delivery Systems for Cancer Nanotherapy",
+        "type": "surprising"
+      },
+      {
+        "observation": "despite improvements in the diagnosis and treatment of pca, a significant proportion of ",
+        "source": "Drug resistance in metastatic castration-resistant prostate ",
+        "type": "surprising"
+      },
+      {
+        "observation": "however, heterogeneity of drug penetration of the tumor microenvironment both on the micr",
+        "source": "Spatial heterogeneity in drug concentrations can facilitate ",
+        "type": "surprising"
+      },
+      {
+        "observation": "however, pre-clinical and clinical studies have shown that her2 positive patients can exh",
+        "source": "Mechanisms of resistance to lapatinib in HER2 positive breas",
+        "type": "surprising"
+      },
+      {
+        "observation": "unlike continuous or pulse exposure to high concentrations of chemotherapeutic drugs wh",
+        "source": "Development of taxane resistance in a panel of human lung ca",
+        "type": "surprising"
+      },
+      {
+        "observation": "however, drug treatment modulated the invas",
+        "source": "Molecular mechanisms of drug resistance, invasion and metast",
+        "type": "surprising"
+      }
+    ],
+    "questions": [
+      {
+        "category": "assumption_attack",
+        "question": "What assumption does everyone accept about drug resistance mechanisms in cancer? What if it's wrong?",
+        "from_observation": false
+      },
+      {
+        "category": "scale_transfer",
+        "question": "Does a mechanism at one scale (quantum/molecular) also drive drug resistance mechanisms in cancer at another scale (macroscopic/cosmic)?",
+        "from_observation": false
+      },
+      {
+        "category": "cross_domain",
+        "question": "What field solved an analogous problem to: however, its impact on paclitaxel sensitivity in ovarian cancer and the underlyi?",
+        "from_observation": true
+      },
+      {
+        "category": "assumption_attack",
+        "question": "What if the standard model of resistance mechanisms cancer is fundamentally incomplete?",
+        "from_observation": false
+      },
+      {
+        "category": "assumption_attack",
+        "question": "The field assumes that drug resistance is primarily driven by fixed genetic mutations; what if the dominant, clinically relevant resistance is instead mediated by reversible epigenetic reprogramming that is invisible to standard genomic sequencing?"
+      },
+      {
+        "category": "missing_variable",
+        "question": "What quantitative changes in the cellular m6A methylome and associated chromatin accessibility occur immediately after drug exposure, and how do these correlate with the onset of resistance phenotypes?"
+      },
+      {
+        "category": "scale_transfer",
+        "question": "Does the stress\u2011induced m6A\u2011mediated resistance observed in single cancer cells also manifest at the tumor\u2011microenvironment level, influencing immune evasion and metastatic niche formation?"
+      },
+      {
+        "category": "cross_domain",
+        "question": "How did the field of bacterial antibiotic resistance overcome transient phenotypic tolerance (e.g., persister cells) using metabolic inhibitors, and can analogous metabolic\u2011epigenetic interventions be applied to cancer drug resistance?"
+      },
+      {
+        "category": "anomaly",
+        "question": "Why do some EGFR\u2011mutant NSCLC patients exhibit rapid loss of response to EGFR inhibitors without detectable secondary mutations, a phenomenon not explained by current genetic resistance models?"
+      }
+    ],
+    "core_question": "What is the role of dynamic, reversible epigenetic modifications\u2014particularly RNA N6\u2011methyladenosine (m6A) and chromatin remodeling\u2014in mediating rapid, non\u2011genetic drug resistance across diverse cancer types, and can targeting these reversible marks overcome resistance to therapies such as paclitaxel, sunitinib, and EGFR inhibitors?",
+    "question_hypothesis": "Transient drug resistance in many cancers is orchestrated by stress\u2011induced, reversible m6A RNA methylation and associated chromatin remodeling that reprogram gene expression programs (e.g., drug efflux, survival pathways). Inhibiting the writers/readers/erasers of these marks will prevent the emergence of resistance and sensitize tumors to standard therapies.",
+    "why_it_matters": "If reversible epigenetic states drive transient drug resistance, then cancer cells could evade treatment without acquiring permanent mutations. Demonstrating this would reveal a universal, drug\u2011agnostic resistance layer that can be pharmacologically dismantled, turning temporary resistance into a therapeutic vulnerability and dramatically improving long\u2011term efficacy of existing anticancer drugs.",
+    "generalizations": [
+      {
+        "observation_a": "Rapid, reversible m6A methylation of mRNA and dynamic chromatin remodeling enable cancer cells to transiently switch to a drug\u2011resistant state without acquiring new DNA mutations.",
+        "domain_a": "drug_discovery",
+        "observation_b": "In the hippocampus, activity\u2011dependent phosphorylation of AMPA\u2011receptor subunits and remodeling of the actin cytoskeleton produce a short\u2011lived, reversible increase in synaptic strength (long\u2011term potentiation) that can be quickly erased by phosphatases.",
+        "domain_b": "neuroscience",
+        "connection": "Both systems use fast, reversible post\u2011translational (or post\u2011transcriptional) modifications to remodel a regulatory platform (chromatin vs. synapse) and thereby alter cellular output (gene expression vs. synaptic transmission) on a timescale of minutes to hours.",
+        "hypothesis": "If cancer cells and neurons share a common regulatory logic, then the enzymes that add/remove m6A (METTL3/ALKBH5) and the kinases/phosphatases that modify AMPA receptors will display analogous kinetic constraints and feedback loops; disrupting the feedback (e.g., by inhibiting the \u201ceraser\u201d enzyme) should lock the resistant state in cancer the way phosphatase inhibition locks LTP in neurons.",
+        "novelty": "no",
+        "testable_prediction": "Pharmacological inhibition of the m6A eraser ALKBH5 will prevent the reversal of paclitaxel resistance in ovarian cancer cells, and the same intervention will prolong LTP in hippocampal slices, whereas inhibition of the m6A writer METTL3 will accelerate resistance reversal and LTP decay\u2014predictions not made by current models of drug resistance that focus only on genetic mutations."
+      },
+      {
+        "observation_a": "Chromatin remodelers (e.g., SWI/SNF complexes) can rapidly reposition nucleosomes in response to drug exposure, creating a permissive transcriptional landscape that supports survival pathways.",
+        "domain_a": "drug_discovery",
+        "observation_b": "In materials science, shape\u2011memory alloys undergo a reversible martensitic phase transition: a small change in temperature or stress reorders the crystal lattice, instantly altering mechanical properties without changing chemical composition.",
+        "domain_b": "materials_science",
+        "connection": "Both involve a reversible reorganization of a structural lattice (nucleosomal vs. metallic) that switches the system between two functional states (drug\u2011tolerant vs. drug\u2011sensitive; stiff vs. pliable) without altering the underlying constituents.",
+        "hypothesis": "The energetics of nucleosome repositioning obey a bistable free\u2011energy landscape analogous to the martensite\u2013austenite transition; introducing a \u201cthermal\u201d analog (e.g., ATP\u2011dependent remodeling energy) can shift the equilibrium. Modulating cellular ATP levels should therefore bias the chromatin state in a predictable manner, just as temperature biases the alloy phase.",
+        "novelty": "unknown",
+        "testable_prediction": "Lowering intracellular ATP by 30% will bias SWI/SNF\u2011driven nucleosome positioning toward the drug\u2011sensitive configuration and sensitize sunitinib\u2011resistant renal carcinoma cells, mirroring how cooling a shape\u2011memory alloy locks it into the martensitic phase. This ATP\u2011dependence is not predicted by current epigenetic models that assume remodeler activity is solely enzyme\u2011concentration limited."
+      },
+      {
+        "observation_a": "Cancer cells can acquire a transient drug\u2011resistant phenotype through stochastic fluctuations in m6A writer/eraser expression, creating a subpopulation that survives therapy and later reverts to sensitivity.",
+        "domain_a": "drug_discovery",
+        "observation_b": "In ecology, certain bacterial populations exhibit \u201cbet\u2011hedging\u201d where random phenotypic switches (e.g., into a dormant persister state) allow a fraction of cells to survive antibiotic treatment, after which the population returns to the growth\u2011competent state.",
+        "domain_b": "microbial_ecology",
+        "connection": "Both phenomena rely on stochastic, reversible switches in a regulatory layer (epitranscriptomic marks vs. metabolic dormancy) that generate phenotypic heterogeneity without genetic change, enabling survival under acute stress.",
+        "hypothesis": "The probability distribution of m6A modification states across a tumor follows a Poisson\u2011like process analogous to bacterial persister formation; manipulating the variance (e.g., by overexpressing a noise\u2011dampening chaperone that stabilizes METTL3 mRNA) will reduce the fraction of drug\u2011resistant cells.",
+        "novelty": "no",
+        "testable_prediction": "Engineering cancer cells to express a synthetic microRNA that buffers METTL3 transcript fluctuations will decrease the proportion of m6A\u2011high, paclitaxel\u2011resistant cells by >50% compared with controls, a result that would not be anticipated by models that attribute resistance solely to deterministic signaling pathways."
+      }
+    ],
+    "constraint": {
+      "core_question": "What is the role of dynamic, reversible epigenetic modifications\u2014particularly RNA N6\u2011methyladenosine (m6A) and chromatin remodeling\u2014in mediating rapid, non\u2011genetic drug resistance across diverse cancer types, and can targeting these reversible marks overcome resistance to therapies such as paclitaxel, sunitinib, and EGFR inhibitors?",
+      "forbidden_theories": [],
+      "required_properties": [
+        "Provides Mechanistic Insights into Reversible Epigenetic Switching in Drug Resistance",
+        "Offers Testable, Quantifiable Predictions for Clinical Intervention Strategies",
+        "Integrates Multi-Omics Data (e.g., Epigenomic, Transcriptomic, Proteomic) for Comprehensive Understanding"
+      ],
+      "novelty_direction": "Exploring Non-Genetic, Epigenetically Driven Adaptive Resistance Mechanisms through Interdisciplinary Lenses (e.g., Incorporating Principles from Neuroscience, Biophysics, or Information Theory)",
+      "constraint_prompt": "Building Upon Established Foundations, Leap into the Unknown: \n\n**Context**: Current theories on drug resistance in cancer, such as the roles of **m6A RNA methylation** (e.g., influencing drug efflux and survival pathways), **chromatin remodeling** (enabling rapid gene expression changes), and other epigenetic modifications, have laid the groundwork. Notable examples include theories focusing on:\n1. **Stochastic Epigenetic Reprogramming**: Suggests random epigenetic changes drive resistance.\n2. **Adaptive Epigenetic Response Theory**: Proposes cells adapt to drugs through targeted epigenetic modifications.\n3. **Microenvironment-Driven Epigenetic Changes**: Highlights the role of the tumor microenvironment in inducing resistance.\n\n**The Challenge**: Go beyond these by proposing a **novel theory** that explains the dynamic interplay between m6A methylation, chromatin remodeling, and the emergence of rapid, reversible drug resistance across diverse cancer types. Consider interdisciplinary inspirations to elucidate how these mechanisms might be universally reversible or susceptible to targeted intervention, potentially enhancing the efficacy of therapies like paclitaxel, sunitinib, and EGFR inhibitors.\n\n**Your Novel Theory Should**:\n- Provide deep mechanistic insights into the reversible nature of these epigenetic modifications in the context of drug resistance.\n- Be grounded in a hypothesis that can be tested through innovative, multi-omics experimental designs or computational modeling.\n- Suggest clinically viable strategies to exploit these findings for overcoming resistance.\n\n**Example Starting Point (Feel Free to Ignore or Modify)**:\n\"What if the reversibility of m6A methylation and chromatin remodeling in cancer cells operates under a principles analogous to [INSERT INTERDISCIPLINARY CONCEPT HERE, e.g., 'neuronal synaptic plasticity' or 'phase transitions in physical systems'], allowing for the prediction and prevention of drug resistance through [PROPOSED NOVEL INTERVENTION STRATEGY]?\"",
+      "cross_domain_connections": [
+        {
+          "observation_a": "Rapid, reversible m6A methylation of mRNA and dynamic chromatin remodeling enable cancer cells to transiently switch to a drug\u2011resistant state without acquiring new DNA mutations.",
+          "domain_a": "drug_discovery",
+          "observation_b": "In the hippocampus, activity\u2011dependent phosphorylation of AMPA\u2011receptor subunits and remodeling of the actin cytoskeleton produce a short\u2011lived, reversible increase in synaptic strength (long\u2011term potentiation) that can be quickly erased by phosphatases.",
+          "domain_b": "neuroscience",
+          "connection": "Both systems use fast, reversible post\u2011translational (or post\u2011transcriptional) modifications to remodel a regulatory platform (chromatin vs. synapse) and thereby alter cellular output (gene expression vs. synaptic transmission) on a timescale of minutes to hours.",
+          "hypothesis": "If cancer cells and neurons share a common regulatory logic, then the enzymes that add/remove m6A (METTL3/ALKBH5) and the kinases/phosphatases that modify AMPA receptors will display analogous kinetic constraints and feedback loops; disrupting the feedback (e.g., by inhibiting the \u201ceraser\u201d enzyme) should lock the resistant state in cancer the way phosphatase inhibition locks LTP in neurons.",
+          "novelty": "no",
+          "testable_prediction": "Pharmacological inhibition of the m6A eraser ALKBH5 will prevent the reversal of paclitaxel resistance in ovarian cancer cells, and the same intervention will prolong LTP in hippocampal slices, whereas inhibition of the m6A writer METTL3 will accelerate resistance reversal and LTP decay\u2014predictions not made by current models of drug resistance that focus only on genetic mutations."
+        },
+        {
+          "observation_a": "Chromatin remodelers (e.g., SWI/SNF complexes) can rapidly reposition nucleosomes in response to drug exposure, creating a permissive transcriptional landscape that supports survival pathways.",
+          "domain_a": "drug_discovery",
+          "observation_b": "In materials science, shape\u2011memory alloys undergo a reversible martensitic phase transition: a small change in temperature or stress reorders the crystal lattice, instantly altering mechanical properties without changing chemical composition.",
+          "domain_b": "materials_science",
+          "connection": "Both involve a reversible reorganization of a structural lattice (nucleosomal vs. metallic) that switches the system between two functional states (drug\u2011tolerant vs. drug\u2011sensitive; stiff vs. pliable) without altering the underlying constituents.",
+          "hypothesis": "The energetics of nucleosome repositioning obey a bistable free\u2011energy landscape analogous to the martensite\u2013austenite transition; introducing a \u201cthermal\u201d analog (e.g., ATP\u2011dependent remodeling energy) can shift the equilibrium. Modulating cellular ATP levels should therefore bias the chromatin state in a predictable manner, just as temperature biases the alloy phase.",
+          "novelty": "unknown",
+          "testable_prediction": "Lowering intracellular ATP by 30% will bias SWI/SNF\u2011driven nucleosome positioning toward the drug\u2011sensitive configuration and sensitize sunitinib\u2011resistant renal carcinoma cells, mirroring how cooling a shape\u2011memory alloy locks it into the martensitic phase. This ATP\u2011dependence is not predicted by current epigenetic models that assume remodeler activity is solely enzyme\u2011concentration limited."
+        },
+        {
+          "observation_a": "Cancer cells can acquire a transient drug\u2011resistant phenotype through stochastic fluctuations in m6A writer/eraser expression, creating a subpopulation that survives therapy and later reverts to sensitivity.",
+          "domain_a": "drug_discovery",
+          "observation_b": "In ecology, certain bacterial populations exhibit \u201cbet\u2011hedging\u201d where random phenotypic switches (e.g., into a dormant persister state) allow a fraction of cells to survive antibiotic treatment, after which the population returns to the growth\u2011competent state.",
+          "domain_b": "microbial_ecology",
+          "connection": "Both phenomena rely on stochastic, reversible switches in a regulatory layer (epitranscriptomic marks vs. metabolic dormancy) that generate phenotypic heterogeneity without genetic change, enabling survival under acute stress.",
+          "hypothesis": "The probability distribution of m6A modification states across a tumor follows a Poisson\u2011like process analogous to bacterial persister formation; manipulating the variance (e.g., by overexpressing a noise\u2011dampening chaperone that stabilizes METTL3 mRNA) will reduce the fraction of drug\u2011resistant cells.",
+          "novelty": "no",
+          "testable_prediction": "Engineering cancer cells to express a synthetic microRNA that buffers METTL3 transcript fluctuations will decrease the proportion of m6A\u2011high, paclitaxel\u2011resistant cells by >50% compared with controls, a result that would not be anticipated by models that attribute resistance solely to deterministic signaling pathways."
+        }
+      ]
+    }
+  },
+  "duration_seconds": 979.5,
+  "completed_at": "2026-06-30T21:40:56.084575",
+  "summary_text": "======================================================================\n  DISCOVERY REPORT\n======================================================================\n  Topic: drug resistance mechanisms in cancer\n  Domain: drug_discovery\n  Mode: quick\n  Duration: 979.5s\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n  PAPERS (21)\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n  [crossref] Mechanisms of chemotherapy resistance in ovarian cancer\n    Authors: Mylena Ortiz, Emma Wabel, Kerry Mitchell\n    Year: 2022\n  [crossref] DNA damage and metabolic mechanisms of cancer drug resistance\n    Authors: Deanna Tiek, Shi-Yuan Cheng\n    Year: 2022\n  [crossref] New mechanisms of multidrug resistance: an introduction to the Cancer Drug Resis\n    Authors: Michael M. Gottesman, Robert W. Robey, Suresh V. Ambudkar\n    Year: 2023\n  [crossref] Mechanisms of resistance to NAMPT inhibitors in cancer\n    Authors: Jansen Redler, Ariana E. Nelson, Christine M. Heske\n    Year: 2025\n  [crossref] Mechanisms of immunotherapy resistance in small cell lung cancer\n    Authors: Yunan Nie, Kurt A. Schalper, Anne Chiang\n    Year: 2024\n  [crossref] Mechanisms of resistance to antibody-drug conjugates in cancer therapy: molecula\n    Authors: Yue Hao, Zhengbo Song\n    Year: 2025\n  [semantic_scholar] Mechanisms and Strategies to Overcome Drug Resistance in Colorectal Cancer\n    Authors: Jennifer Haynes, Prasath Manogaran\n    Year: 2025\n  [semantic_scholar] Cancer cell plasticity: from cellular, molecular, and genetic mechanisms to tumo\n    Authors: G. Bhat, Itty Sethi, Hana Q. Sadida\n    Year: 2024\n  [semantic_scholar] Unveiling the mechanisms and challenges of cancer drug resistance\n    Authors: S. Khan, Kaneez Fatima, Shariqa Aisha\n    Year: 2024\n  [semantic_scholar] Overcoming Cancer Multi-drug Resistance (MDR): Reasons, mechanisms, nanotherapeu\n    Authors: Chunyan Duan, Mingjia Yu, Jiyuan Xu\n    Year: 2023\n  ... and 11 more papers\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n  KNOWLEDGE GRAPH\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n  Entities: 456\n  Relationships: 5805\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n  KNOWLEDGE GAPS (5)\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n  [structural_hole] (1 gaps)\n    - These 2184 and 1 entities share type(s) drug but have no connecting relationships. This may indicate an unexplored cross\n  [orphan_observation] (4 gaps)\n    - 'Acceleration' is a phenomenon mentioned in 10 paper(s) but has no causal/explanatory mechanism in the graph. It is obse\n    - 'Carcinoma' is a disease mentioned in 8 paper(s) but has no causal/explanatory mechanism in the graph. It is observed bu\n    - 'fluctuation' is a phenomenon mentioned in 8 paper(s) but has no causal/explanatory mechanism in the graph. It is observ\n\n----------------------------------------------------------------------\n  CURIOUS QUESTIONING - The Newton Step\n----------------------------------------------------------------------\n  Core Question: What is the role of dynamic, reversible epigenetic modifications\u2014particularly RNA N6\u2011methyladenosine (m6A) and chromatin remodeling\u2014in mediating rapid, non\u2011genetic drug resistance across diverse cancer types, and can targeting these reversible marks overcome resistance to therapies such as paclitaxel, sunitinib, and EGFR inhibitors?\n  Question Hypothesis: Transient drug resistance in many cancers is orchestrated by stress\u2011induced, reversible m6A RNA methylation and associated chromatin remodeling that reprogram gene expression programs (e.g., drug efflux, survival pathways). Inhibiting the writers/readers/erasers of these marks will prevent the emerg\n  Why It Matters: If reversible epigenetic states drive transient drug resistance, then cancer cells could evade treatment without acquiring permanent mutations. Demonstrating this would reveal a universal, drug\u2011agnost\n  Surprising Observations: 10\n    - remains a leading global health challenge, and treatment efficacy is often limited by re\n    - however, its impact on paclitaxel sensitivity in ovarian cancer and the underlying mechan\n    - however, sunitinib resistance compromises clinical efficacy. n6-methyladenosine (m6a), th\n  Questions Generated: 9\n    [assumption_attack] What assumption does everyone accept about drug resistance mechanisms in cancer?\n    [scale_transfer] Does a mechanism at one scale (quantum/molecular) also drive drug resistance mec\n    [cross_domain] What field solved an analogous problem to: however, its impact on paclitaxel sen\n    [assumption_attack] What if the standard model of resistance mechanisms cancer is fundamentally inco\n    [assumption_attack] The field assumes that drug resistance is primarily driven by fixed genetic muta\n  Cross-Domain Connections (Newton's Move): 3\n    Domain A: drug_discovery: Rapid, reversible m6A methylation of mRNA and dynamic chromatin remodeling enabl\n    Domain B: neuroscience: In the hippocampus, activity\u2011dependent phosphorylation of AMPA\u2011receptor subunits\n    Connection: Both systems use fast, reversible post\u2011translational (or post\u2011transcriptional) modifications to remo\n    Hypothesis: If cancer cells and neurons share a common regulatory logic, then the enzymes that add/remove m6A (M\n    Prediction: Pharmacological inhibition of the m6A eraser ALKBH5 will prevent the reversal of paclitaxel resistan\n\n    Domain A: drug_discovery: Chromatin remodelers (e.g., SWI/SNF complexes) can rapidly reposition nucleosome\n    Domain B: materials_science: In materials science, shape\u2011memory alloys undergo a reversible martensitic phase\n    Connection: Both involve a reversible reorganization of a structural lattice (nucleosomal vs. metallic) that swi\n    Hypothesis: The energetics of nucleosome repositioning obey a bistable free\u2011energy landscape analogous to the ma\n    Prediction: Lowering intracellular ATP by 30% will bias SWI/SNF\u2011driven nucleosome positioning toward the drug\u2011se\n\n    Domain A: drug_discovery: Cancer cells can acquire a transient drug\u2011resistant phenotype through stochastic\n    Domain B: microbial_ecology: In ecology, certain bacterial populations exhibit \u201cbet\u2011hedging\u201d where random phe\n    Connection: Both phenomena rely on stochastic, reversible switches in a regulatory layer (epitranscriptomic mark\n    Hypothesis: The probability distribution of m6A modification states across a tumor follows a Poisson\u2011like proces\n    Prediction: Engineering cancer cells to express a synthetic microRNA that buffers METTL3 transcript fluctuations\n\n  Curiosity Constraint (Track B):\n    Required Properties:\n      + Provides Mechanistic Insights into Reversible Epigenetic Switching in Drug Resistance\n      + Offers Testable, Quantifiable Predictions for Clinical Intervention Strategies\n      + Integrates Multi-Omics Data (e.g., Epigenomic, Transcriptomic, Proteomic) for Comprehensive Understanding\n    Novelty Direction: Exploring Non-Genetic, Epigenetically Driven Adaptive Resistance Mechanisms through Interdisciplinary Lenses (e.g., Incorporating Principles from Neuroscience, Biophysics, or Information Theory)\n\n======================================================================",
+  "structured_report_path": "C:\\Users\\Admin\\Desktop\\rumi\\data\\discovery_v2_1782835856_structured.txt"
+}

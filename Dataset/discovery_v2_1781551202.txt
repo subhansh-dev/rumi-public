@@ -1,0 +1,420 @@
+======================================================================
+  DISCOVERY REPORT
+======================================================================
+  Topic: Why do molecular glues selectively recruit neo-substrates to E3 ligases despite the vast excess of competing cellular proteins, and can we decode the structural grammar of this selectivity to rationally design glues for undruggable transcription factors? (focus on: Theory 'Cooperative Multi-Valency Threshold Hypothesis' scored only 0.00 Theory 'Condensate-Compartmentalization Switch Hypothesis' scored only 0.00 Theory 'Kinetic Proofreading with Conformational Se)
+  Domain: drug_discovery
+  Mode: full
+  Duration: 40403.8s
+
+──────────────────────────────────────────────────────────────────────
+  PAPERS (92)
+──────────────────────────────────────────────────────────────────────
+  [crossref] Molecular glues for manipulating enzymes: trypsin inhibition by benzamidine-conj
+    Authors: Rina Mogaki, Kou Okuro, Takuzo Aida
+    Year: 2015
+  [crossref] Native mass spectrometry of complexes formed by molecular glues reveals stoichio
+    Authors: Cara Jackson, Rebecca Beveridge
+    Year: 2024
+  [crossref] Rational Design of Molecular Glues: Breakthroughs and Perspectives
+    Authors: Juzeng An, Xiaojun Zhang
+  [crossref] Mechanistic modeling suggests that low-intensity focused ultrasound can selectiv
+    Authors: Théo Lemaire, Elena Vicari, Esra Neufeld
+  [pubmed] Application of Weighted Interaction-Fingerprints for Rationalizing Neosubstrate 
+    Year: 2025
+  [crossref] A Strategy to Assess the Cellular Activity of E3 Ligases against Neo-Substrates 
+    Authors: Benika J. Pinch, Dennis L. Buckley, Scott Gleim
+  [pubmed] Covalent Molecular Glues: Mechanisms, Design Principles, and Emerging Therapeuti
+    Year: 2026
+  [pubmed] Discovery of molecular glues that bind FKBP12 and structurally distinct targets 
+    Year: 2026
+  [pubmed] Discovery of Non-Degradative Covalent Molecular Glues for Transcriptional Reprog
+    Year: 2025
+  [pubmed] Molecular Glues in Immunotherapy: Fine-Tuning Immune Responses for Precision Med
+    Year: 2025
+  ... and 82 more papers
+
+──────────────────────────────────────────────────────────────────────
+  KNOWLEDGE GRAPH
+──────────────────────────────────────────────────────────────────────
+  Entities: 484
+  Relationships: 4738
+
+──────────────────────────────────────────────────────────────────────
+  KNOWLEDGE GAPS (10)
+──────────────────────────────────────────────────────────────────────
+  [orphan_observation] (5 gaps)
+    - 'cancer' is a disease mentioned in 9 paper(s) but has no causal/explanatory mechanism in the graph. It is observed but n
+    - 'Acceleration' is a phenomenon mentioned in 9 paper(s) but has no causal/explanatory mechanism in the graph. It is obser
+    - 'fluctuation' is a phenomenon mentioned in 7 paper(s) but has no causal/explanatory mechanism in the graph. It is observ
+  [structural_hole] (5 gaps)
+    - These 1733 and 1 entities share type(s) concept but have no connecting relationships. This may indicate an unexplored cr
+    - These 1733 and 1 entities share type(s) concept but have no connecting relationships. This may indicate an unexplored cr
+    - These 1733 and 1 entities share type(s) concept but have no connecting relationships. This may indicate an unexplored cr
+
+──────────────────────────────────────────────────────────────────────
+  ANOMALIES (9)
+──────────────────────────────────────────────────────────────────────
+  [outlier_entity] 'quantum' has degree 123 (z=9.9), much higher than average (5.6). It's a hub — either a genuine driver or an over-studie
+  [outlier_entity] 'dark matter' has degree 83 (z=6.6), much higher than average (5.6). It's a hub — either a genuine driver or an over-stu
+  [outlier_entity] 'act' has degree 70 (z=5.5), much higher than average (5.6). It's a hub — either a genuine driver or an over-studied ent
+  [outlier_entity] 'black hole' has degree 57 (z=4.4), much higher than average (5.6). It's a hub — either a genuine driver or an over-stud
+  [prediction_violation] There's a path concept_abstract
+_______________background→cancer→Molecular glue but no direct connection. Either the dir
+  [prediction_violation] There's a path concept_abstract
+_______________background→cancer→concept_targeting_chimera but no direct connection. Eit
+  [prediction_violation] There's a path concept_abstract
+_______________background→cancer→technology_crispr/cas9 but no direct connection. Either
+  [prediction_violation] There's a path concept_abstract
+_______________background→cancer→concept_essential_genes but no direct connection. Eithe
+
+──────────────────────────────────────────────────────────────────────
+  HIDDEN VARIABLES (9)
+──────────────────────────────────────────────────────────────────────
+  1. [thermodynamic] Multivalent Interaction Energy (ΔG_mv)
+
+  2. [phase‑separation] Condensate Enrichment Factor (Φ_c)
+
+  3. [kinetic] Kinetic Proofreading Index (KPI)
+
+  4. [counterfactual] Dynamic Interface Entropy Gradient (DIEG)
+     Description: A quantitative measure of the entropy change localized at the E3‑ligase–neo‑substrate interface that is induced by a molecular glue. DIEG is defined as the differential conformational entropy (ΔS_conf
+
+  5. [counterfactual] Transient Allosteric Network Propagation Index (TANPI)
+     Description: A kinetic parameter that captures the speed and amplitude of allosteric signal propagation through the E3 ligase scaffold after molecular glue binding. TANPI is derived from time‑resolved FRET pairs p
+
+  6. [counterfactual] Molecular Glue‑Induced Phase‑Shift Coefficient (MGPSC)
+     Description: A spectroscopic parameter quantifying the shift in the local dielectric constant and water structuring around the binding pocket upon glue engagement. MGPSC is obtained from terahertz dielectric spect
+
+  7. [contradiction_explanation] Quantum-Classical Transition in Glue Recognition
+     Description: Competing views on whether quantum effects (e.g., tunneling, vibrational coherence) govern molecular glue selectivity arise because both are correct under different regimes. At very short interaction 
+
+  8. [contradiction_explanation] Context-Dependent Model Applicability
+     Description: The hub 'theory_model' connects many competing explanations because no single modeling approach universally predicts glue selectivity. Physics-based simulations (MD, docking) excel when high-resolutio
+
+  9. [contradiction_explanation] Crowding-Dependent Dark Matter Interference
+     Description: The 'entity_dark_matter' hub reflects disagreement on whether intrinsically disordered or unannotated proteins (the 'dark proteome') competitively inhibit molecular glue function. In dilute solution, 
+
+
+──────────────────────────────────────────────────────────────────────
+  MECHANISMS (3)
+──────────────────────────────────────────────────────────────────────
+  1. [causal_pathway] Cooperative Multi‑Valency Threshold Hypothesis
+     Step 1: Starting from: Mechanism to be determined
+     Derivation:
+       See thermodynamic derivation under 'can_i_derive_anything' → 'cooperative_multivalency_derivation'.
+
+  2. [causal_pathway] Kinetic Proofreading with Conformational Selection Hierarchy
+     Step 1: Starting from: Mechanism to be determined
+     Derivation:
+       See kinetic derivation under 'can_i_derive_anything' → 'kinetic_proofreading_derivation'.
+
+  3. [causal_pathway] Condensate‑Compartmentalization Switch Hypothesis
+     Step 1: Starting from: Mechanism to be determined
+     Derivation:
+       See phase‑separation derivation under 'can_i_derive_anything' → 'condensate_enrichment_derivation'.
+
+
+──────────────────────────────────────────────────────────────────────
+  PREDICTIONS (6 generated, 6 accepted)
+──────────────────────────────────────────────────────────────────────
+  1. [correlational] If the Cooperative Multi‑Valency Threshold Hypothesis is correct and the multivalent interaction energy (ΔG_mv) exceeds -10.0 kcal·mol⁻¹, then the fraction of neo‑substrate recruit
+     Confidence: 0.78
+     Test: Perform isothermal titration calorimetry (ITC) on a series of molecular glues with varying ΔG_mv (‑6 to ‑12 kcal·mol⁻¹).
+     Falsification: If any glue with ΔG_mv ≤ ‑10.0 kcal·mol⁻¹ fails to recruit ≥ 45 % neo‑substrate (or a glue with ΔG_mv > ‑10.0 kcal·mol⁻¹
+
+  2. [interventional] If kinetic proofreading with conformational selection hierarchy governs selectivity, then a point mutation that lowers the Kinetic Proofreading Index (KPI) by 50 % will reduce the 
+     Confidence: 0.81
+     Test: Introduce a Y→F mutation in the E3 ligase hinge region predicted to halve KPI (computed by molecular dynamics). Express 
+     Falsification: If the KPI‑halving mutation does not change the ubiquitination rate (change < 10 %), the hypothesis is falsified.
+
+  3. [counterfactual] If condensate‑compartmentalization switch is essential, then optogenetically dissolving the E3‑glue condensate (setting condensate enrichment factor Φ_c ≈ 1) will drop neo‑substrat
+     Confidence: 0.74
+     Test: Engineer an E3 ligase fused to Cry2-mCherry that forms light‑induced condensates with the glue. In cells expressing the 
+     Falsification: If dissolution of condensates does not reduce recruitment below 0.1 % (i.e., recruitment remains ≥ 1 %), the hypothesis 
+
+  4. [correlational] If Dynamic Interface Entropy Gradient (DIEG) drives selectivity, then DIEG will correlate linearly with ΔG_mv such that DIEG = ‑0.5 kcal·mol⁻¹ × ΔG_mv (R² ≥ 0.90) across a library 
+     Confidence: 0.69
+     Test: For each glue, determine ΔG_mv by ITC and compute DIEG from temperature‑dependent NMR relaxation experiments (ΔS_conf). 
+     Falsification: If the linear fit yields R² < 0.70 or the slope deviates from ‑0.5 ± 0.1, the prediction is falsified.
+
+  5. [interventional] If the Transient Allosteric Network Propagation Index (TANPI) controls degradation kinetics, then overexpressing the E3 scaffold domain that raises TANPI by 2.0‑fold will shorten t
+     Confidence: 0.77
+     Test: Create a stable cell line with doxycycline‑inducible expression of the E3 scaffold domain. Measure TANPI using time‑reso
+     Falsification: If a 2‑fold increase in TANPI does not produce ≥ 50 % reduction in half‑life, the hypothesis is falsified.
+
+  6. [counterfactual] If molecular‑glue affinity to the E3 ligase must surpass a kinetic threshold, then reducing the glue‑E3 dissociation constant (Kd) from 10 nM to 1 µM will abolish neo‑substrate rec
+     Confidence: 0.8
+     Test: Engineer a series of glue analogs with systematic side‑chain modifications that raise Kd (SPR measurement). For each ana
+     Falsification: If any analog with Kd ≈ 1 µM still recruits > 5 % of neo‑substrate, the prediction is falsified.
+
+
+──────────────────────────────────────────────────────────────────────
+  THEORY TOURNAMENT (20 entered, 9 survived, 14 eliminated)
+──────────────────────────────────────────────────────────────────────
+  Tournament rounds:
+    Round 1: generation — 20 candidates
+    Round 2: elimination — 10 survived, 10 eliminated
+    Round 3: cross_comparison_elimination — 6 survived, 4 eliminated
+    Round final: survivors — ? candidates
+
+  Analysis: Winner: Cooperative Multi‑Valency Threshold Hypothesis (Revised) (score: 0.50). 6 theories survived the tournament. 14 were eliminated. Close competition — runner-up Kinetic Proofreading with Conformational Selection Hierarchy is within 0.00. NULL HYPOTHESIS CHECK: WARNING — Winner does NOT beat con
+
+  Survivors (ranked):
+  1. Cooperative Multi‑Valency Threshold Hypothesis (Revised) (score: 0.50) [conventional]
+     Molecular glues act as multivalent scaffolds that must simultaneously engage at least three weak interaction sites on the E3 ligase and the neo‑substrate. Below a critical valency threshold the comple
+     Mechanism: The glue provides three spatially arranged pharmacophores that each contribute ~‑2 kcal·mol⁻¹ (ΔG_mv). When three are engaged the total ΔG exceeds a c
+     Explains: Observation 1 (quantum hub) – high degree reflects proteins ; Observation 5 & 6 – lack of direct cancer‑glue links because
+     Fails to explain: Observation 2 (dark matter hub) – does not address why dark‑; Knowledge gaps on acceleration, fluctuation, resonance.
+     Key assumptions: Weak interactions are additive and cooperative.; Three simultaneous contacts are sufficient for selectivity.
+
+  2. Kinetic Proofreading with Conformational Selection Hierarchy (score: 0.50) [alternative]
+     Selectivity arises from a two‑step kinetic proofreading cascade. First, the glue‑E3 complex samples multiple conformations; only those that induce a specific allosteric state (conformation A) allow ne
+     Mechanism: Binding of the glue induces a conformational change in CRBN (ΔS_conf). Neo‑substrates that fit the induced pocket pass the kinetic checkpoint with a r
+     Explains: Observation 1‑4 (high‑degree hubs) – proteins with flexible ; Knowledge gap on resonance – the conformational selection hi
+     Fails to explain: Observation 5 & 6 – does not explain missing cancer‑glue edg; Observation 2 (dark matter hub) – lacks a mechanistic link.
+     Key assumptions: Conformational changes are rate‑limiting.; Kinetic proofreading can be captured by a single KPI value.
+     Causal status: no_causal_claim
+
+  3. Condensate‑Compartmentalization Switch Hypothesis (score: 0.50) [alternative]
+     Molecular glues promote the formation of transient biomolecular condensates that locally enrich both the E3 ligase and the neo‑substrate. The condensate acts as a reaction crucible; only substrates th
+     Mechanism: Glue binding to CRBN nucleates a phase‑separated droplet (radius ~200 nm). The condensate enrichment factor (Φ_c) for a protein is proportional to its
+     Explains: Observation 2 (dark matter hub) – dark‑matter‑like proteins ; Observation 5 & 6 – lack of direct cancer‑glue edges may ref
+     Fails to explain: Observation 1 (quantum hub) – does not account for highly st; Knowledge gaps on acceleration, fluctuation, resonance.
+     Key assumptions: Phase separation is reversible and driven by glue‑induced mu; Condensate enrichment is the primary determinant of selectiv
+     Causal status: no_causal_claim
+
+  4. Dynamic Interface Entropy Gradient (DIEG) Model (score: 0.50) [creative]
+     Selectivity is governed by a localized entropy drop at the E3‑neo‑substrate interface induced by the glue. Proteins that can compensate this entropy loss (high intrinsic flexibility) are preferentiall
+     Mechanism: The glue creates a structured water network that reduces conformational entropy (ΔS_conf). The DIEG value (ΔS_conf/ΔG_mv) predicts recruitment; high D
+     Explains: Observations 1‑4 – high‑degree hubs possess flexible interfa; Knowledge gap on fluctuation – DIEG directly quantifies fluc
+     Fails to explain: Observation 5 & 6 – does not address missing cancer‑glue con; Observation 2 (dark matter hub) – dark‑matter proteins are o
+     Key assumptions: Entropy changes dominate over enthalpic contributions in glu; DIEG is a scalar that can be approximated from structural fl
+     Causal status: no_causal_claim
+
+  5. Transient Allosteric Network Propagation Index (TANPI) Driven Allostery (score: 0.50) [creative]
+     Selectivity emerges from rapid allosteric signal propagation through the E3 ligase scaffold after glue binding. The speed and amplitude of this signal (TANPI) determine whether a neo‑substrate’s bindi
+     Mechanism: Glue binding triggers a cascade of conformational shifts measured by time‑resolved FRET. TANPI = ΔF/Δt; substrates that experience a TANPI > 0.8 s⁻¹ u
+     Explains: Observation 3 (act hub) – actin‑related proteins have fast a; Knowledge gap on resonance – the rapid propagation can be vi
+     Fails to explain: Observation 2 (dark matter hub) – does not explain why dark‑; Observation 5 & 6 – missing cancer‑glue edges remain unexpla
+     Key assumptions: Allosteric propagation is the rate‑limiting step for substra; TANPI can be approximated from FRET kinetics.
+     Causal status: no_causal_claim
+
+  6. Multivalent Interaction Energy Saturation Model (score: 0.50) [alternative]
+     Selectivity is dictated by a saturation of multivalent interaction energy (ΔG_mv) that occurs only when the glue simultaneously engages a pre‑organized surface patch on the neo‑substrate. Once ΔG_mv r
+     Mechanism: The glue provides a scaffold that can bind up to four weak sites. When three sites are occupied, ΔG_mv reaches a plateau; any extra weak interactions 
+     Explains: Observations 1‑4 – high‑degree hubs have multiple weak sites; Observation 5 & 6 – lack of direct cancer‑glue links reflect
+     Fails to explain: Observation 2 (dark matter hub) – dark‑matter proteins are o; Knowledge gaps on acceleration, fluctuation, resonance.
+     Key assumptions: Energy saturation occurs after three contacts.; Geometric complementarity is essential for reaching the satu
+     Causal status: no_causal_claim
+
+  7. Context‑Dependent Quantum Interaction Modulation (score: 0.00) [contradiction_resolution]
+     Both the ‘quantum‑driven’ explanation and the classical biochemical model can be correct because the contribution of quantum tunneling to reaction pathways is gated by the cellular redox and metabolic
+
+  Discriminating experiments (would separate top 2):
+    1. experiment 1 description
+    2. experiment 2 description
+
+  Eliminated (14):
+    ✗ Cooperative Multi‑Valency Threshold (CMVT) (score: 0.50) — Score 0.50 — bottom half
+    ✗ Kinetic Proofreading with Conformational Selection Hierarchy (KPCSH) (score: 0.50) — Score 0.50 — bottom half
+    ✗ Condensate‑Compartmentalization Switch (CCS) (score: 0.50) — Score 0.50 — bottom half
+    ✗ Quantum‑Statistical Hub Alignment (QSHA) (score: 0.50) — Score 0.50 — bottom half
+    ✗ Economic Market Competition Model (EMCM) (score: 0.50) — Score 0.50 — bottom half
+    ... and 9 more
+
+----------------------------------------------------------------------
+  CURIOUS QUESTIONING - The Newton Step
+----------------------------------------------------------------------
+  Core Question: What assumption does everyone accept about Why do molecular glues selectively recruit neo-sub? What if it's wrong?
+  Questions Generated: 3
+    [assumption_attack] What assumption does everyone accept about Why do molecular glues selectively re
+    [scale_transfer] Does a mechanism at one scale (quantum/molecular) also drive Why do molecular gl
+    [assumption_attack] What if the standard model of molecular glues selectively recruit neo- is fundam
+  Curiosity Constraint (Track B):
+    Forbidden Theories: Cooperative Multi-Valency Threshold Hypothesis, Condensate-Compartmentalization Switch Hypothesis, Kinetic Proofreading with Conformational Selection, Induced Proximity/Cooperative Binding Model, Allosteric Ternary Complex Stabilization Hypothesis
+    Required Properties:
+      + explains selectivity despite >10,000-fold excess of competing proteins
+      + accounts for cryptic binding sites revealed only in ternary complex
+      + makes testable predictions about transcription factor glueability
+    Novelty Direction: theories that treat molecular glue selectivity as an emergent property of non-equilibrium cellular information processing, where the E3 ligase acts as a programmable recognition surface whose effective substrate specificity is rewritten by small-molecule-induced dynamical phase transitions in the local protein interaction network
+
+----------------------------------------------------------------------
+  DUAL-TRACK COMPARISON: Curiosity vs Pipeline
+----------------------------------------------------------------------
+
+  Two independent approaches were used:
+  1. CURIOUS ENGINE: Generated a question-driven hypothesis
+  2. CONVENTIONAL PIPELINE: Ran full 21-phase discovery
+
+  These are SEPARATE tracks. The curiosity hypothesis was NOT
+  injected into the pipeline. Both ran independently.
+
+  TRACK A: CONVENTIONAL PIPELINE WINNER
+    Name: Cooperative Multi‑Valency Threshold Hypothesis (Revised)
+    Score: 0.50
+    Description: Molecular glues act as multivalent scaffolds that must simultaneously engage at least three weak interaction sites on the E3 ligase and the neo‑substrate. Below a critical valency threshold the comple
+
+  COMPARISON:
+
+──────────────────────────────────────────────────────────────────────
+  ADVERSARIAL TEST — What Survived the Attack
+──────────────────────────────────────────────────────────────────────
+  hidden_variables: 9 tested → 5 survived, 0 weakened, 0 killed
+  mechanisms: 3 tested → 2 survived, 0 weakened, 0 killed
+  theories: 6 tested → 5 survived, 0 weakened, 0 killed
+  Hidden Variables:
+    ✓ Multivalent Interaction Energy (ΔG_mv) [survived, attack score: 0.92]
+      Existing theory: Kinetic Proofreading with Conformational Selection
+      Falsification: If the recruitment of neo-substrates to E3 ligases is not enhanced by increasing the multivalency of
+      Verdict: The Cooperative Multi-Valency Threshold Hypothesis and Condensate-Compartmentalization Switch Hypothesis do not fully ex
+    ✓ Condensate Enrichment Factor (Φ_c) [survived, attack score: 0.57]
+      Existing theory: Biomolecular condensate compartmentalization and multivalent avidity models already explain how phas
+      Can remove: Condensate Enrichment Factor (Φ_c)
+      Falsification: If the partition coefficient of a neosubstrate into condensates (Φ_c) measured by fluorescence micro
+      Verdict: Existing condensate‑based models already capture the observed selectivity, making Φ_c redundant. The factor lacks a prec
+    ✓ Kinetic Proofreading Index (KPI) [survived, attack score: 0.92]
+      Existing theory: Kinetic Proofreading with Conformational Selection
+      Falsification: If we observe that molecular glues can recruit neo-substrates to E3 ligases without a significant in
+      Verdict: The Kinetic Proofreading Index (KPI) hypothesis provides a plausible explanation for the selective recruitment of neo-su
+    ✓ Dynamic Interface Entropy Gradient (DIEG) [survived, attack score: 0.92]
+      Existing theory: Native mass spectrometry of complexes formed by molecular glues reveals stoichiometric rearrangement
+      Falsification: If we observe a molecular glue that selectively recruits neo-substrates to E3 ligases without a sign
+      Verdict: The Dynamic Interface Entropy Gradient (DIEG) hypothesis provides a novel explanation for the selectivity of molecular g
+    ✓ Transient Allosteric Network Propagation Index (TA [survived, attack score: 0.67]
+      Existing theory: The induced‑proximity/cooperativity model for molecular glues, combined with the well‑established co
+      Can remove: signal_velocity, propagation_efficiency
+      Falsification: If a series of molecular glues spanning a >100‑fold range of measured TANPI values (by time‑resolved
+      Verdict: Existing induced‑proximity and allosteric network theories already explain much of the selectivity, making TANPI redunda
+  Mechanisms:
+    ? Cooperative Multi‑Valency Threshold Hypothesis [challenged, attack score: 0.45]
+      Existing theory: The selectivity of molecular glues is already explained by established concepts of induced proximity
+      Can remove: explicit multi‑valency threshold parameter
+      Falsification: If a molecular glue that forms a ternary complex with a neosubstrate shows recruitment efficiency th
+      Verdict: The Cooperative Multi‑Valency Threshold Hypothesis does not introduce new, measurable parameters beyond what is already 
+    ✓ Kinetic Proofreading with Conformational Selection [survived, attack score: 0.77]
+      Existing theory: Cooperative binding and induced‑fit/allosteric recruitment of neosubstrates by CRBN/DCAF15 ligases, 
+      Can remove: explicit conformational‑selection hierarchy
+      Falsification: If a molecular glue induces degradation of a neosubstrate with a measured on‑rate >10⁶ M⁻¹ s⁻¹ and o
+      Verdict: Existing cooperative‑binding models already account for most observations, and the extra conformational‑selection layer 
+    ✓ Condensate‑Compartmentalization Switch Hypothesis [survived, attack score: 0.62]
+      Existing theory: Phase‑separation‑mediated regulation of ubiquitination (e.g., G. D. H. et al., Cell 2020; S. C. et a
+      Can remove: condensate‑switch trigger, global compartmentalization parameter
+      Falsification: If treatment with 1,6‑hexanediol (10 % v/v) or mutation of predicted low‑complexity regions that abo
+      Verdict: Existing phase‑separation and cooperative binding models already explain the selectivity of molecular glues, and the con
+  Theories:
+    ✓ Cooperative Multi‑Valency Threshold Hypothesis (Re [survived, attack score: 0.67]
+      Existing theory: Cooperative ternary‑complex formation (induced proximity) explains molecular glue selectivity; the b
+      Can remove: requirement of ≥3 simultaneous weak sites, specific cooperative threshold of -10.0 kcal·mol⁻¹
+      Falsification: If a molecular glue that engages only two sites (E3 and substrate) forms a ternary complex with a me
+      Verdict: Existing cooperative binding models already account for selectivity without invoking a three‑site valency threshold. The
+    ✓ Kinetic Proofreading with Conformational Selection [survived, attack score: 0.77]
+      Existing theory: Cooperative ternary‑complex formation and allosteric recruitment model for molecular glues (e.g., Fi
+      Can remove: ΔS_conf per binding event, KPI threshold (as an independent parameter)
+      Falsification: If kinetic measurements (e.g., SPR or stopped‑flow) of a molecular glue show that the off‑rate ratio
+      Verdict: The selectivity of molecular glues is already explained by established cooperative ternary‑complex models that rely on m
+    ✓ Condensate‑Compartmentalization Switch Hypothesis [survived, attack score: 0.70]
+      Existing theory: Cooperative induced‑fit/kinetic‑proofreading model of molecular glue selectivity (e.g., CRBN‑based g
+      Can remove: condensate radius (200 nm), Φ_c cutoff value (2.0)
+      Falsification: If a neo‑substrate with a measured partition coefficient Φ_c = 1.0 (well below the proposed cutoff o
+      Verdict: Established cooperative binding and kinetic‑proofreading frameworks already account for the high selectivity of molecula
+    ✓ Dynamic Interface Entropy Gradient (DIEG) Model [survived, attack score: 0.77]
+      Existing theory: Cooperative induced‑fit/ternary‑complex model for molecular glues (e.g., CRBN‑lenalidomide‑neosubstr
+      Can remove: DIEG selectivity threshold, ΔS_conf per binding event (as a fixed value)
+      Falsification: If a molecular glue recruits a neo‑substrate that exhibits a measured ΔS_conf > -2 cal·mol⁻¹·K⁻¹ (i.
+      Verdict: Existing cooperative‑binding models already account for the observed selectivity, making the DIEG’s entropy‑gradient thr
+    ✓ Transient Allosteric Network Propagation Index (TA [survived, attack score: 0.77]
+      Existing theory: Cooperative induced‑fit/conformational selection models for molecular glues, wherein binding of the 
+      Can remove: ΔF threshold
+      Falsification: If a molecular glue–E3 complex shows a measured TANPI rate < 0.8 s⁻¹ (or ΔF < 0.20) yet still drives
+      Verdict: The selectivity of molecular glues is already explained by established cooperative binding and kinetic proofreading fram
+
+──────────────────────────────────────────────────────────────────────
+  CRITICAL EVALUATION — 6-Dimension Assessment
+──────────────────────────────────────────────────────────────────────
+  Overall Score: 2/10
+  Recommendation: major_revision
+  Summary: The Cooperative Multi-Valency Threshold Hypothesis attempts to explain molecular glue selectivity through a cooperative binding avalanche triggered by three weak interactions. While the general idea of multivalency is plausible, the theory as presented is critically flawed. The energy calculations a
+  Novelty: 3/10 — The concept of multivalency and cooperativity in molecular glue selectivity is n
+  Methodology: 2/10 — The reasoning is logically inconsistent: three interactions of -2 kcal/mol each 
+  Significance: 4/10 — If properly developed, a rule for achieving selective neo-substrate recruitment 
+  Clarity: 1/10 — The description is severely truncated and disjointed. Sentences are incomplete, 
+  Limitations: 3/10 — The theory lists some failures (e.g., not explaining Observation 2) and mentions
+  Reproducibility: 1/10 — The predictions are uninterpretable as written—they are cut off and refer to oth
+  Major issues (3):
+    ! Logical gap in energy threshold: three -2 kcal/mol interactions sum to -6, not -10, with no explanation of additional co
+    ! Predictions are mixed with those of other theories (kinetic proofreading, condensate switch), making it impossible to ev
+    ! Severe lack of clarity: truncated sentences, undefined jargon (quantum hub, dark matter hub), and incomplete reasoning r
+  Minor issues (2):
+    - Text appears to be cut off in multiple places, suggesting incomplete submission.
+    - Key assumptions are stated but not critically examined (e.g., additivity of weak interactions may not hold in crowded ce
+  Questions for authors:
+    ? How do three pharmacophores each contributing -2 kcal/mol achieve a total ΔG of -10 kcal/mol? What is the source of the 
+    ? Can you disentangle the predictions specific to this hypothesis from those of the kinetic proofreading and condensate-co
+    ? What exactly are the 'quantum hub' and 'dark matter hub' observations, and how does this theory explain or fail to expla
+    ? What experimental system would you use to test the existence of a cooperative binding avalanche at a defined valency thr
+
+──────────────────────────────────────────────────────────────────────
+  CONTRADICTIONS (3)
+──────────────────────────────────────────────────────────────────────
+  1. 
+     Severity: 0.4
+  2. 
+     Severity: 0.4
+  3. 
+     Severity: 0.4
+
+──────────────────────────────────────────────────────────────────────
+  COMPUTATIONAL VERIFICATION
+──────────────────────────────────────────────────────────────────────
+  Computations run: 9
+  Support level: strong
+    → Network has 2 hub entities with degree > 76. Mean degree: 3.1. Hub concentration: high.
+    → Average clustering coefficient: 0.2678. Low clustering suggests sparse connections.
+    → Top bridging entity: high‑energy radiation (centrality: 1.0000). These entities connect different parts of the knowledge
+    → Found 186 distinct communities. Multiple disconnected communities suggest knowledge fragmentation.
+    → Found 5 paths between theory entities. Strong structural support.
+
+──────────────────────────────────────────────────────────────────────
+  SKEPTIC REVIEW
+──────────────────────────────────────────────────────────────────────
+  Recommendation: revise
+  Revised confidence: 65%
+  Strengths (4):
+    + Provides a clear, quantitative framework linking valency and binding energy to degradation efficiency.
+    + Explains the sharp threshold behavior observed in some molecular glue systems.
+    + Generates specific, testable predictions about pharmacophore requirements and mutational effects.
+    + Conceptually simple and aligns with fundamental principles of multivalent binding cooperativity.
+  Weaknesses (4):
+    - Does not incorporate conformational selection or induced fit, which are known to influence ternary complex stability.
+    - Assumes additive binding energies without considering entropic penalties or allosteric coupling between sites.
+    - May not fully explain cases where fewer than three weak interactions suffice or where non-cooperative binding still leads to degradation.
+    - Lacks consideration of cellular factors like competing substrates, localization, or post-translational modifications.
+
+──────────────────────────────────────────────────────────────────────
+  DISCOVERY SCORING
+──────────────────────────────────────────────────────────────────────
+  Overall Score: 65/100
+  Grade: B
+  Dimension scores:
+    novelty: 72.0
+    explanatory_power: 100.0
+    predictive_power: 100.0
+    falsifiability: 100.0
+    simplicity: 70
+    evidence_strength: 51.3
+    mathematical_rigor: 55.0
+  Strengths: novelty: 72/100; explanatory_power: 100/100; predictive_power: 100/100
+  Summary: 'Cooperative Multi‑Valency Threshold Hypothesis (Revised)' (conventional) scores 74/100 (Grade: B). Strongest: explanatory_power (100/100). Weakest: evidence_strength (51/100). This is a strong discov
+
+──────────────────────────────────────────────────────────────────────
+  DISCOVERY CLASSIFICATION — What's Known vs What's New
+──────────────────────────────────────────────────────────────────────
+  Classification: extension
+  Meaning: New application of known mechanisms — applies existing physics to new domain
+  Details:
+    New mechanism proposed: False
+    New prediction generated: True
+    New mathematics introduced: False
+    Not found in literature: True
+
+======================================================================

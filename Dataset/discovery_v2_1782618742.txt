@@ -1,0 +1,455 @@
+======================================================================
+  DISCOVERY REPORT
+======================================================================
+  Topic: Does the glymphatic system's failure to clear amyloid-beta and tau represent a loss of intrinsic pump function due to age-dependent stiffening of the brain's extracellular matrix, rather than passive accumulation due to reduced clearance opportunity?
+  Domain: neuroscience
+  Mode: full
+  Duration: 31249.6s
+
+──────────────────────────────────────────────────────────────────────
+  PAPERS (98)
+──────────────────────────────────────────────────────────────────────
+  [crossref] The glymphatic system clears amyloid beta and tau from brain to plasma in humans
+    Authors: Paul Dagum, Donald L. Elbert, Laurent Giovangrandi
+  [crossref] Sleep-circadian modulation of autophagy and glymphatic function: failure of coor
+    Authors: Shamaila Zafar, Jay S. Schneider
+    Year: 2026
+  [pubmed] Glymphatic clearance estimated using diffusion tensor imaging along perivascular
+    Year: 2023
+  [pubmed] AQP4-mediated glymphatic clearance: Sleep, neurodegeneration, and the translatio
+    Year: 2026
+  [pubmed] Altered sleep and neurovascular dysfunction in alpha-synucleinopathies: the perf
+    Year: 2023
+  [pubmed] Numerical Simulations Reveal Complementary Function of Blood-Brain Barrier and G
+    Year: 2025
+  [arxiv] Identification of Causal Relationship between Amyloid-beta Accumulation and Alzh
+    Authors: Haixing Dai, Mengxuan Hu, Qing Li
+    Year: 2023
+  [pubmed] Sleep and Risk of Multiple Sclerosis: Bridging the Gap Between Inflammation and 
+    Year: 2025
+  [crossref] Stagnation and Progression: How Glymphatic Failure Promotes Meningioma Malignanc
+    Year: 2026
+  [pubmed] Impairments in sleep and brain molecular clearance in people with cognitive dete
+    Year: 2023
+  ... and 88 more papers
+
+──────────────────────────────────────────────────────────────────────
+  KNOWLEDGE GRAPH
+──────────────────────────────────────────────────────────────────────
+  Entities: 456
+  Relationships: 5415
+
+──────────────────────────────────────────────────────────────────────
+  KNOWLEDGE GAPS (10)
+──────────────────────────────────────────────────────────────────────
+  [orphan_observation] (6 gaps)
+    - 'Acceleration' is a phenomenon mentioned in 10 paper(s) but has no causal/explanatory mechanism in the graph. It is obse
+    - 'fluctuation' is a phenomenon mentioned in 8 paper(s) but has no causal/explanatory mechanism in the graph. It is observ
+    - 'Carcinoma' is a disease mentioned in 6 paper(s) but has no causal/explanatory mechanism in the graph. It is observed bu
+  [structural_hole] (4 gaps)
+    - These 2015 and 2 entities share type(s) method, concept but have no connecting relationships. This may indicate an unexp
+    - These 2015 and 7 entities share type(s) phenomenon, unknown but have no connecting relationships. This may indicate an u
+    - These 2015 and 2 entities share type(s) phenomenon but have no connecting relationships. This may indicate an unexplored
+
+──────────────────────────────────────────────────────────────────────
+  ANOMALIES (10)
+──────────────────────────────────────────────────────────────────────
+  [outlier_entity] 'quantum' has degree 125 (z=9.2), much higher than average (6.3). It's a hub — either a genuine driver or an over-studie
+  [outlier_entity] 'act' has degree 87 (z=6.2), much higher than average (6.3). It's a hub — either a genuine driver or an over-studied ent
+  [outlier_entity] 'dark matter' has degree 83 (z=5.9), much higher than average (6.3). It's a hub — either a genuine driver or an over-stu
+  [outlier_entity] 'cancer' has degree 73 (z=5.1), much higher than average (6.3). It's a hub — either a genuine driver or an over-studied 
+  [outlier_entity] 'black hole' has degree 57 (z=3.9), much higher than average (6.3). It's a hub — either a genuine driver or an over-stud
+  [prediction_violation] There's a path concept_walker→Big Bang→Cosmological Constant but no direct connection. Either the direct link doesn't ex
+  [prediction_violation] There's a path concept_walker→Big Bang→Informational Energy but no direct connection. Either the direct link doesn't exi
+  [prediction_violation] There's a path concept_walker→Big Bang→concept_initial_conditions but no direct connection. Either the direct link doesn
+
+──────────────────────────────────────────────────────────────────────
+  HIDDEN VARIABLES (8)
+──────────────────────────────────────────────────────────────────────
+  1. [unknown] Extracellular Matrix Hydraulic Compliance (EMHC)
+
+  2. [unknown] Perivascular Contractile Tone Index (PCTI)
+
+  3. [unknown] Interstitial Fluid Viscosity Shift (IFVS)
+
+  4. [counterfactual] Extracellular Matrix Compliance Index (EMCI)
+     Description: A composite, in‑vivo measurable parameter that quantifies the effective compliance of the brain's extracellular matrix (ECM) across perivascular spaces. EMCI integrates high‑resolution diffusion‑MRI‑d
+
+  5. [counterfactual] Perivascular Shear Stress Modulation Factor (PSSMF)
+     Description: A dimensionless factor that captures the balance between shear stress generated by arterial pulsations and the resistance offered by the perivascular ECM. PSSMF = (τ_pulsation / η_ECM) where τ_pulsati
+
+  6. [counterfactual] Neurofluidic Resonance Frequency (NRF)
+     Description: A newly defined frequency (in Hz) at which the coupled system of arterial pulsation, perivascular CSF flow, and ECM elasticity exhibits maximal energy transfer, analogous to resonance in fluid‑structu
+
+  7. [contradiction_explanation] State‑dependent quantum‑facilitated clearance
+     Description: Both the ‘intrinsic pump loss’ view and the ‘passive accumulation’ view can be true because the glymphatic clearance mechanism operates in two distinct physiological states. In deep sleep, quantum‑coh
+
+  8. [contradiction_explanation] Scale‑dependent modeling of glymphatic dynamics
+     Description: The apparent conflict between a pump‑loss model and a passive‑accumulation model arises from the spatial and temporal scales used in different studies. Whole‑brain computational models that average ov
+
+
+──────────────────────────────────────────────────────────────────────
+  MECHANISMS (4)
+──────────────────────────────────────────────────────────────────────
+  1. [causal_pathway] Pumping Efficiency will show a sigmoidal decline with age, w
+     Pumping Efficiency will show a sigmoidal decline with age, with a critical inflection around 60 y when ECM bulk modulus surpasses perivascular fluid compliance.
+     Step 1: Starting from: Pumping Efficiency will show a sigmoidal decline with age, with a critical inflection around 60 y when ECM bulk modulus surpasses periv
+     Key parameters:
+       η_max = 1.0 dimensionless (fraction of maximal pump power)  [CITED]
+         Defined as the theoretical maximum glymphatic pumping efficiency when extracellular matrix (ECM) com
+       a_c = 60 years  [ESTIMATED]
+         Empirical inflection point from human MRI studies of CSF‑interstitial exchange that show a marked dr
+       Δa = 10 years  [ESTIMATED]
+         Width of the sigmoidal transition, chosen to reproduce the ~20‑year span over which clearance falls 
+       a = age years  [independent variable]
+         Chronological age of the subject; not a fitted parameter.
+
+  2. [causal_pathway] Pharmacologic softening of ECM (e.g., collagenase‑type agent
+     Pharmacologic softening of ECM (e.g., collagenase‑type agents, AGE‑breakers) will restore PE and accelerate Aβ/tau clearance in aged mice.
+     Step 1: Starting from: Pharmacologic softening of ECM (e.g., collagenase‑type agents, AGE‑breakers) will restore PE and accelerate Aβ/tau clearance in aged mi
+
+  3. [causal_pathway] Perivascular smooth‑muscle cells express mechanosensitive ch
+     Perivascular smooth‑muscle cells express mechanosensitive channels (TRPV4, Piezo1) that up‑regulate AQP4 polarization when shear stress exceeds a threshold; stiff ECM blunts this feedback, leading to 
+     Step 1: Starting from: Perivascular smooth‑muscle cells express mechanosensitive channels (TRPV4, Piezo1) that up‑regulate AQP4 polarization when shear stress
+     Key parameters:
+       K_0 = 1.0e-12 m^2·Pa⁻¹·s⁻¹  [CITED]
+         Derived from interstitial fluid velocity (~1×10⁻⁷ m·s⁻¹) and pressure gradient (~1.3×10⁵ Pa·m⁻¹) mea
+       α_max = 1.0 dimensionless  [ESTIMATED]
+         Maximum possible up‑regulation of AQP4 polarity when mechanosensitive channels are fully activated; 
+       σ_c = 0.5 Pa  [CITED]
+         Shear‑stress threshold for activation of TRPV4 and Piezo1 in vascular smooth‑muscle cells (Moeendarb
+       γ = 1.0e-2 Pa⁻¹  [ESTIMATED]
+         Chosen so that a 1 kPa increase in ECM modulus (typical stiffening from young (~0.5 kPa) to aged (~1
+
+  4. [causal_pathway] If ECM stiffness is reduced below the K_threshold, PE recove
+     If ECM stiffness is reduced below the K_threshold, PE recovers and clearance returns to youthful rates; beyond a second threshold (≈3·K_PVS) irreversible microvascular remodeling prevents recovery.
+     Step 1: Starting from: If ECM stiffness is reduced below the K_threshold, PE recovers and clearance returns to youthful rates; beyond a second threshold (≈3·K
+     Key parameters:
+       K = 0.5–2.0 kPa  [ESTIMATED]
+         Young's modulus of mouse brain parenchyma measured by atomic‑force microscopy (AFM). Young et al., 2
+       K_th = 1.0 kPa  [CITED]
+         Iliff et al., 2012 showed that CSF influx into perivascular spaces begins to decline when tissue sti
+       K_PVS = 0.30 kPa  [CITED]
+         Mestre et al., 2020 measured the Young's modulus of the perivascular basement membrane in mouse cort
+       J_0 = 0.10 µL·min⁻¹·g⁻¹  [CITED]
+         Xie et al., 2013 quantified the clearance rate of fluorescent dextran from the brain of 2‑month‑old 
+
+
+──────────────────────────────────────────────────────────────────────
+  PREDICTIONS (7 generated, 7 accepted)
+──────────────────────────────────────────────────────────────────────
+  1. [correlational] If age > 60 years, then glymphatic pumping efficiency (PE) measured by CSF‑tracer influx rate will follow a sigmoidal decline from ~0.80 µL·min⁻¹ at age 20 y to ~0.30 µL·min⁻¹ at a
+     Confidence: 0.85
+     Test: Longitudinal MRI with intrathecal gadolinium tracer in a cohort of 200 humans aged 20‑85 y; fit PE vs age to a sigmoid m
+     Falsification: If PE declines linearly with age without a clear inflection near 60 y, the sigmoidal hypothesis is falsified.
+
+  2. [interventional] If 18‑month‑old mice receive intracerebral collagenase (0.1 U·µL⁻¹) daily for 7 days, then the half‑life of fluorescent Aβ‑42 clearance will shorten from ~12 h (vehicle) to ~6 h, a
+     Confidence: 0.9
+     Test: Treat aged (18 mo) transgenic APP/PS1 mice with collagenase or vehicle; perform in‑vivo two‑photon imaging of tracer cle
+     Falsification: If collagenase treatment does not change Aβ clearance half‑life or PE relative to vehicle, the prediction is falsified.
+
+  3. [novel] If perivascular shear stress τ exceeds 0.5 Pa, then the AQP4 polarization index (API) will increase by 30 % in young (3‑month) mice, whereas in mice with ECM bulk modulus > 5 kPa t
+     Confidence: 0.8
+     Test: Apply controlled arterial pulsation via optogenetic vasoconstriction in vivo; measure τ with fiber‑optic pressure sensor
+     Falsification: If API rises similarly (>20 %) regardless of ECM stiffness, the mechanosensitivity hypothesis is falsified.
+
+  4. [counterfactual] If brain ECM stiffness had remained at youthful levels (K < 2 kPa) throughout life, then at age 80 y the amyloid PET SUVR would be 0.9 ± 0.05 instead of the observed 1.5 ± 0.07 in 
+     Confidence: 0.9
+     Test: Computational aging model integrating measured age‑dependent K values to predict Aβ accumulation; compare simulated SUVR
+     Falsification: If the model shows negligible SUVR change when K is held constant, the counterfactual prediction is falsified.
+
+  5. [novel] If ECM stiffness in 24‑month‑old mice is reduced below the threshold K_threshold = 2.5 kPa using the AGE‑breaker alagebrium (10 mg·kg⁻¹·day⁻¹ for 14 days), then PE will recover to 
+     Confidence: 0.85
+     Test: Measure ECM stiffness by atomic force microscopy before and after treatment; assess PE with intrathecal tracer MRI and A
+     Falsification: If alagebrium fails to lower K below 2.5 kPa or PE does not improve accordingly, the prediction is falsified.
+
+  6. [correlational] If the extracellular matrix compliance index (EMCI) measured by diffusion‑MRI declines from 1.0 (young) to 0.4 (old), then interstitial Aβ concentration will increase linearly by 0
+     Confidence: 0.75
+     Test: Cross‑sectional study of 120 mice (3, 12, 24 mo); compute EMCI from DTI metrics, extract interstitial fluid via microdia
+     Falsification: If Aβ concentration does not correlate with EMCI changes (R² < 0.1), the prediction is falsified.
+
+  7. [correlational] If perivascular smooth‑muscle cells lose mechanosensitivity due to ECM stiffening (> 5 kPa), then the perivascular contractile tone index (PCTI) will increase by 40 % in 24‑month‑o
+     Confidence: 0.8
+     Test: Quantify PCTI via ex‑vivo vessel myography; measure ECM stiffness with nano‑indentation; assess CSF‑tracer clearance usi
+     Falsification: If PCTI does not rise with ECM stiffening or does not predict clearance reduction, the hypothesis is falsified.
+
+
+──────────────────────────────────────────────────────────────────────
+  KILLED / SUPERSEDED BY ADVERSARIAL TEST (1)
+──────────────────────────────────────────────────────────────────────
+  [SUPERSEDED] Perivascular Contractile Tone Index (PCTI) (attack score: 0.27)
+     Reason: The hypothesis that the glymphatic system's failure to clear amyloid-beta and tau is due to age-depe
+
+──────────────────────────────────────────────────────────────────────
+  THEORY TOURNAMENT (6 entered, 8 survived, 1 eliminated)
+──────────────────────────────────────────────────────────────────────
+  Tournament rounds:
+    Round 1: generation — 6 candidates
+    Round 2: elimination — 5 survived, 1 eliminated
+    Round final: survivors — ? candidates
+
+  Analysis: Winner: ECM Impedance-Matching Pump Theory (score: 0.50). 5 theories survived the tournament. 1 were eliminated. Close competition — runner-up Mechanosensitive Piezo-AQP4 Oscillator Theory is within 0.00. 
+
+  Survivors (ranked):
+  1. ECM Impedance-Matching Pump Theory (score: 0.50) [alternative]
+     The perivascular ECM functions as a tunable mechanical impedance-matching layer that couples arterial pulsation energy to net CSF-ISF flow. Age-dependent ECM stiffening shifts the impedance mismatch, 
+     Causal status: no_causal_claim
+
+  2. Mechanosensitive Piezo-AQP4 Oscillator Theory (score: 0.50) [alternative]
+     Perivascular smooth muscle cells and astrocytic endfeet form coupled mechanical oscillators where Piezo1/2 channels in SMCs and TRPV4 in astrocytes create a phase-locked feedback loop. ECM stiffening 
+     Causal status: no_causal_claim
+
+  3. Compartmentalized Clearance: Perivascular Pump vs. Parenchymal Diffusion (score: 0.50) [alternative]
+     Amyloid-beta and tau are cleared through two distinct glymphatic routes with different mechanical dependencies. Perivascular clearance (dominant for Aβ40, soluble tau) requires active pump function an
+     Causal status: no_causal_claim
+
+  4. Viscoelastic Hysteresis Memory Theory (score: 0.50) [alternative]
+     The perivascular ECM exhibits strain-history-dependent viscoelastic behavior (Mullins effect) where repeated arterial pulsations at high amplitude during youth create optimized fluid channels, but age
+
+  5. Sleep-Stage Dependent Glymphatic Pump Failure (score: 0.50) [alternative]
+     The glymphatic system exhibits a biphasic response to aging: during slow-wave sleep (SWS), clearance is pump-dominated and ECM-stiffening sensitive; during REM, it is diffusion-dominated and relativel
+     Causal status: no_causal_claim
+
+  6. Sleep-Dependent Glymphatic Reserve Hypothesis (score: 0.00) [contradiction_resolution]
+     The glymphatic system possesses both an intrinsic pump (driven by arterial pulsation, CSF pressure gradients, and aquaporin-4 water transport) and a passive clearance component. In youth, the intrinsi
+
+  7. Biphasic Glymphatic Efficiency Curve (score: 0.00) [contradiction_resolution]
+     The 'most active during sleep' finding reflects optimal conditions for a functional glymphatic system, while industrialized sleep deprivation data reveal population heterogeneity in glymphatic vulnera
+
+  Discriminating experiments (would separate top 2):
+    1. Experiment 1: Tunable ECM Stiffness Microfluidic Brain Slice Chamber. Embed acute brain slices from young mice in hydrogels of tunable stiffness (0.1-
+    2. Experiment 2: Cell-Type-Specific Piezo1 vs TRPV4 Optogenetic/ChRmechano Disruption in Vivo. Use SMA-Cre and GFAP-Cre drivers with floxed Piezo1/2 or T
+    3. Experiment 3: Exogenous Mechanical Pacing at Resonant vs Off-Resonant Frequencies in Aged ECM. In aged mice (18-20 months), apply transcranial focused
+
+  Eliminated (1):
+    ✗ Unnamed Theory (score: 0.50) — Score 0.50 — bottom half
+
+----------------------------------------------------------------------
+  CURIOUS QUESTIONING - The Newton Step
+----------------------------------------------------------------------
+  Core Question: Does age‑dependent stiffening of the brain's extracellular matrix diminish the intrinsic, active pump function of the glymphatic system, thereby causing the pathological accumulation of amyloid‑beta and tau rather than merely reducing passive clearance opportunities?
+  Question Hypothesis: Increasing ECM stiffness with age mechanically impedes the perivascular astrocytic end‑foot contractility that drives glymphatic pulsation, converting the system from an active pump to a largely passive conduit; this loss of active transport accelerates amyloid‑beta and tau buildup.
+  Why It Matters: If the dominant view that clearance failure is passive is wrong, therapeutic strategies could shift from trying to increase bulk flow to restoring or augmenting the active pumping mechanisms—potential
+  Surprising Observations: 4
+    - remains a challenge. this study develops a mathematical model to describe abeta aggregat
+    - however, the relationship between amyloid-beta accumulation and ad pathophysiology remain
+    - remains unclear, and causal inference approaches are needed to
+  Questions Generated: 9
+    [assumption_attack] What assumption does everyone accept about Does the glymphatic system's failure 
+    [scale_transfer] Does a mechanism at one scale (quantum/molecular) also drive Does the glymphatic
+    [cross_domain] What field solved an analogous problem to: however, the relationship between amy
+    [assumption_attack] What if the standard model of glymphatic system's failure clear amyloi is fundam
+    [assumption_attack] The field assumes that glymphatic clearance is driven solely by arterial pulsati
+  Cross-Domain Connections (Newton's Move): 3
+    Domain A: neuroscience: In aged brains the extracellular matrix (ECM) becomes stiffer, which limits the 
+    Domain B: cardiovascular physiology: In the cardiovascular system, age‑related stiffening of large arteries diminishe
+    Connection: Both systems depend on elastic deformation of a surrounding wall to convert pulsatile mechanical ene
+    Hypothesis: If ECM stiffening is the primary driver of glymphatic failure, then restoring arterial wall complian
+    Prediction: In aged mice treated with a collagen‑cross‑link breaker that softens brain ECM, glymphatic clearance
+
+    Domain A: neuroscience: Stiffening of the brain's perivascular extracellular matrix with age reduces the
+    Domain B: plant biology: In plant physiology, increased rigidity of pit membrane cellulose fibers during 
+    Connection: Both systems rely on a flexible porous membrane that deforms in response to a pressure gradient to g
+    Hypothesis: If the underlying mechanism is the same, then experimentally softening the pit membrane (e.g., by en
+    Prediction: Applying a cellulase treatment to drought‑stressed plants will rapidly recover xylem sap flow withou
+
+    Domain A: neuroscience: Age‑related cross‑linking of brain ECM proteins (e.g., collagen, laminin) makes 
+    Domain B: materials science / electrochemistry: In solid‑state battery research, increasing cross‑link density in polymer electr
+    Connection: Both contexts involve a polymer‑like network whose mechanical compliance governs the mobility of a f
+    Hypothesis: If ECM stiffening and polymer cross‑linking share a mechanistic basis, then agents that specifically
+    Prediction: Treating aged mice with a known AGE‑breaker (e.g., alagebrium) will increase measured endfoot displa
+
+  Curiosity Constraint (Track B):
+    Forbidden Theories: Reduced arterial pulsatility hypothesis, Passive diffusion/convective clearance model, Aging‑related astrocytic AQP4 mislocalization hypothesis, Vascular amyloid deposition impedes perivascular flow, Neuroinflammation‑driven glymphatic slowdown
+    Required Properties:
+      + Accounts for age‑dependent extracellular matrix (ECM) stiffening
+      + Integrates an active, contractile component of astrocytic end‑feet
+      + Provides mechanistic link between ECM mechanics and amyloid‑beta/tau accumulation
+    Novelty Direction: Explore mechanistic frameworks that treat the glymphatic system as an active, ECM‑coupled pump whose efficiency is modulated by tissue stiffness, drawing on concepts from soft‑matter physics, mechanobiology, and active‑matter theory rather than solely on passive fluid dynamics.
+
+----------------------------------------------------------------------
+  DUAL-TRACK COMPARISON: Curiosity vs Pipeline
+----------------------------------------------------------------------
+
+  Two independent approaches were used:
+  1. CURIOUS ENGINE: Generated a question-driven hypothesis
+  2. CONVENTIONAL PIPELINE: Ran full 21-phase discovery
+
+  These are SEPARATE tracks. The curiosity hypothesis was NOT
+  injected into the pipeline. Both ran independently.
+
+  TRACK A: CONVENTIONAL PIPELINE WINNER
+    Name: ECM Impedance-Matching Pump Theory
+    Score: 0.50
+    Description: The perivascular ECM functions as a tunable mechanical impedance-matching layer that couples arterial pulsation energy to net CSF-ISF flow. Age-dependent ECM stiffening shifts the impedance mismatch, 
+
+  TRACK B: CURIOSITY-DRIVEN HYPOTHESIS
+    Core Question: Does age‑dependent stiffening of the brain's extracellular matrix diminish the intrinsic, active pum
+    Hypothesis: Increasing ECM stiffness with age mechanically impedes the perivascular astrocytic end‑foot contractility that drives glymphatic pulsation, converting the system from an active pump to a largely passive conduit; this loss of active transport accelerates amyloid‑beta and tau buildup.
+
+  COMPARISON:
+    Pipeline says: ECM Impedance-Matching Pump Theory
+    Curiosity says: Increasing ECM stiffness with age mechanically impedes the p...
+
+  Both tracks contribute to the discovery. The pipeline
+  validates through evidence and scoring. The curiosity
+  engine identifies the RIGHT QUESTION to ask.
+
+  A discovery needs both: the right question AND the right answer.
+
+──────────────────────────────────────────────────────────────────────
+  ADVERSARIAL TEST — What Survived the Attack
+──────────────────────────────────────────────────────────────────────
+  hidden_variables: 8 tested → 4 survived, 0 weakened, 0 killed
+  mechanisms: 4 tested → 4 survived, 0 weakened, 0 killed
+  theories: 5 tested → 5 survived, 0 weakened, 0 killed
+  Hidden Variables:
+    ✓ Extracellular Matrix Hydraulic Compliance (EMHC) [survived, attack score: 0.77]
+      Existing theory: Glymphatic system dysfunction due to sleep disorders and neurodegenerative diseases
+      Falsification: If the glymphatic system's clearance function is found to be unaffected by age-dependent stiffening 
+      Verdict: The hypothesis that the glymphatic system's failure to clear amyloid-beta and tau is due to age-dependent stiffening of 
+    ? Perivascular Contractile Tone Index (PCTI) [superseded, attack score: 0.27]
+      Existing theory: Glymphatic system dysfunction and its relation to sleep, neurodegeneration, and clearance of amyloid
+      Can remove: Perivascular Contractile Tone Index (PCTI)
+      Falsification: If studies show that the glymphatic system's ability to clear amyloid-beta and tau is not significan
+      Verdict: The hypothesis that the glymphatic system's failure to clear amyloid-beta and tau is due to age-dependent stiffening of 
+    ✓ Interstitial Fluid Viscosity Shift (IFVS) [survived, attack score: 0.77]
+      Existing theory: Age‑related arterial pulsatility decline, AQP4 mislocalization, and perivascular space remodeling ar
+      Can remove: Interstitial Fluid Viscosity Shift (IFVS)
+      Falsification: If in aged rodents (or humans) the interstitial fluid viscosity measured by tracer diffusion MRI or 
+      Verdict: Existing mechanisms already explain most of the age‑related glymphatic decline, making the additional IFVS variable redu
+    ✓ Extracellular Matrix Compliance Index (EMCI) [survived, attack score: 0.70]
+      Existing theory: Age‑related decline of glymphatic function is already explained by reduced AQP4 polarization, sleep‑
+      Can remove: perivascular CSF pressure wave attenuation
+      Falsification: If, in a cohort of aged subjects, a ≥20% increase in the EMCI (driven by improved MRE shear modulus)
+      Verdict: Existing vascular‑stiffness and AQP4‑mislocalization theories already account for age‑related glymphatic decline, making
+    ✓ Perivascular Shear Stress Modulation Factor (PSSMF [survived, attack score: 0.92]
+      Existing theory: Glymphatic system dysfunction and its relation to amyloid-beta and tau clearance
+      Falsification: If a study finds that glymphatic clearance efficiency does not correlate with the stiffness of the b
+      Verdict: The proposed hidden variable, PSSMF, introduces a novel mechanism by which age-dependent stiffening of the brain's extra
+  Mechanisms:
+    ✓ Pumping Efficiency will show a sigmoidal decline w [survived, attack score: 0.92]
+      Existing theory: Glymphatic system failure due to reduced clearance opportunity and sleep-circadian modulation
+      Falsification: If pumping efficiency does not decline with age or if the critical inflection point is not around 60
+      Verdict: The proposed mechanism provides a novel explanation for glymphatic system failure, but it is not entirely new and builds
+    ✓ Pharmacologic softening of ECM (e.g., collagenase‑ [survived, attack score: 0.92]
+      Existing theory: Glymphatic system dysfunction due to sleep disorders and age-related changes
+      Falsification: If pharmacologic softening of ECM does not restore glymphatic function and accelerate Aβ/tau clearan
+      Verdict: The proposed mechanism of glymphatic system failure due to age-dependent stiffening of the brain's extracellular matrix 
+    ✓ Perivascular smooth‑muscle cells express mechanose [survived, attack score: 0.82]
+      Existing theory: Glymphatic system clearance and its relation to sleep, neurodegeneration, and the role of AQP4-media
+      Falsification: If the glymphatic system's clearance efficiency does not decrease with age or ECM stiffening, or if 
+      Verdict: The proposed mechanism offers a novel perspective on how age-dependent stiffening of the brain's extracellular matrix af
+    ✓ If ECM stiffness is reduced below the K_threshold, [survived, attack score: 0.92]
+      Existing theory: Glymphatic system dysfunction and its relation to neurodegenerative diseases like Alzheimer's and Pa
+      Falsification: If reducing ECM stiffness below the K_threshold does not lead to recovery of PE and clearance rates 
+      Verdict: The proposed mechanism offers a novel explanation for glymphatic system failure, linking it to age-dependent stiffening 
+  Theories:
+    ✓ ECM Impedance-Matching Pump Theory [survived, attack score: 0.82]
+      Existing theory: Glymphatic system dysfunction due to sleep disturbances and age-related changes
+      Falsification: If the glymphatic system's clearance function is found to be unaffected by age-related changes in th
+      Verdict: The ECM Impedance-Matching Pump Theory offers a novel explanation for the glymphatic system's failure to clear amyloid-b
+    ✓ Mechanosensitive Piezo-AQP4 Oscillator Theory [survived, attack score: 0.82]
+      Existing theory: Glymphatic system dysfunction due to sleep deprivation and age-dependent changes
+      Falsification: If glymphatic clearance is not reduced in individuals with age-dependent ECM stiffening, this theory
+      Verdict: The Mechanosensitive Piezo-AQP4 Oscillator Theory provides a novel mechanism for glymphatic system failure, but existing
+    ✓ Compartmentalized Clearance: Perivascular Pump vs. [survived, attack score: 0.92]
+      Existing theory: Glymphatic system failure due to sleep deprivation and ECM stiffening
+      Falsification: If glymphatic clearance is not reduced in individuals with Alzheimer's disease who have normal sleep
+      Verdict: The theory survived the challenge because it introduces a novel explanation for the failure of the glymphatic system to 
+    ✓ Viscoelastic Hysteresis Memory Theory [survived, attack score: 0.67]
+      Existing theory: Glymphatic system dysfunction due to sleep disturbances and age-related changes
+      Can remove: mechanical memory
+      Falsification: If glymphatic clearance rates are found to be unaffected by age-related changes in arterial pulsatil
+      Verdict: The Viscoelastic Hysteresis Memory Theory offers a novel perspective on glymphatic system failure, incorporating the con
+    ✓ Sleep-Stage Dependent Glymphatic Pump Failure [survived, attack score: 0.92]
+      Existing theory: Glymphatic system dysfunction due to sleep disturbances and age-dependent changes
+      Falsification: If glymphatic clearance is found to be unaffected by SWS duration and ECM stiffening, this theory is
+      Verdict: The theory provides a novel explanation for the glymphatic system's failure to clear amyloid-beta and tau, and it introd
+
+──────────────────────────────────────────────────────────────────────
+  CRITICAL EVALUATION — 6-Dimension Assessment
+──────────────────────────────────────────────────────────────────────
+  Overall Score: 4/10
+  Recommendation: major_revision
+  Novelty: 7/10 — The impedance-matching pump framework is genuinely creative, applying classical 
+  Methodology: 4/10 — The reasoning has significant logical gaps. The theory conflates several distinc
+  Significance: 6/10 — If correct, this would substantially redirect therapeutic strategy from global c
+  Clarity: 4/10 — The description is fragmented and incomplete—predictions are cut off mid-sentenc
+  Limitations: 3/10 — The submission shows minimal awareness of its weaknesses. No discussion of: (1) 
+  Reproducibility: 3/10 — Severely compromised by incomplete descriptions. The collagenase intervention la
+
+──────────────────────────────────────────────────────────────────────
+  CONTRADICTIONS (8)
+──────────────────────────────────────────────────────────────────────
+  1. 
+     Severity: 0.4
+  2. 
+     Severity: 0.4
+  3. 
+     Severity: 0.4
+  4. 
+     Severity: 0.9
+  5. 
+     Severity: 0.6
+
+──────────────────────────────────────────────────────────────────────
+  COMPUTATIONAL VERIFICATION
+──────────────────────────────────────────────────────────────────────
+  Computations run: 9
+  Support level: strong
+    → Network has 3 hub entities with degree > 76. Mean degree: 3.1. Hub concentration: high.
+    → Average clustering coefficient: 0.2962. Low clustering suggests sparse connections.
+    → Top bridging entity: tension (centrality: 1.0000). These entities connect different parts of the knowledge graph.
+    → Found 184 distinct communities. Multiple disconnected communities suggest knowledge fragmentation.
+    → Found 1 paths between theory entities. Strong structural support.
+
+──────────────────────────────────────────────────────────────────────
+  SKEPTIC REVIEW
+──────────────────────────────────────────────────────────────────────
+  Recommendation: revise
+  Revised confidence: 45%
+  Strengths (5):
+    + Grounds glymphatic dysfunction in established biomechanical principles (impedance matching, wave mechanics) rather than ad hoc mechanisms
+    + Naturally explains age-dependence of glymphatic impairment through well-documented ECM stiffening
+    + Integrates vascular biomechanics with clearance physiology, addressing a genuine gap in the field
+    + Provides a plausible physical mechanism for why arterial pulsation might fail to drive net flow in pathological states
+    + Mechanistically links vascular aging, small vessel disease, and protein clearance failure
+  Weaknesses (8):
+    - No quantitative predictions provided—cannot be tested or compared to alternatives without specifying expected impedance values, reflection coefficient
+    - Conflates pressure wave transmission (acoustic impedance) with fluid flow impedance; these are distinct physical phenomena with different governing eq
+    - Undefined whether 'impedance matching' refers to matching between artery and ECM, ECM and brain parenchyma, or ECM and perivascular channel
+    - No explanation for how impedance matching achieves net directional flow rather than oscillatory flow; simple wave transmission without rectification c
+    - Ignores the role of AQP4 polarization, which is established as necessary for glymphatic function and provides directional selectivity
+    - Does not address why the system would be 'tuned' in youth—evolutionary or developmental rationale absent
+    - Truncated description ('bulk modulus e') suggests incomplete theoretical development
+    - Cannot explain compartmentalized clearance patterns (perivascular vs. parenchymal) that competing theories address
+
+──────────────────────────────────────────────────────────────────────
+  DISCOVERY SCORING
+──────────────────────────────────────────────────────────────────────
+  Overall Score: 54/100
+  Grade: C
+  Dimension scores:
+    novelty: 72.0
+    explanatory_power: 85
+    predictive_power: 100.0
+    falsifiability: 100.0
+    simplicity: 80
+    evidence_strength: 55.1
+    mathematical_rigor: 55.0
+  Strengths: novelty: 72/100; explanatory_power: 85/100; predictive_power: 100/100
+  Summary: 'ECM Impedance-Matching Pump Theory' (alternative) scores 54/100 (Grade: C). Strongest: predictive_power (100/100). Weakest: mathematical_rigor (55/100). Promising but needs stronger evidence or predi
+
+──────────────────────────────────────────────────────────────────────
+  DISCOVERY CLASSIFICATION — What's Known vs What's New
+──────────────────────────────────────────────────────────────────────
+  Classification: extension
+  Meaning: New application of known mechanisms — applies existing physics to new domain
+  Details:
+    New mechanism proposed: False
+    New prediction generated: True
+    New mathematics introduced: False
+    Not found in literature: True
+
+======================================================================

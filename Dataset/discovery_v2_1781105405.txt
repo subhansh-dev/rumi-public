@@ -1,0 +1,467 @@
+======================================================================
+  DISCOVERY REPORT
+======================================================================
+  Topic: What is the nature of the substrate or meta-reality that hosts our simulated universe, and can we detect any interaction between our simulation and that external layer?
+  Domain: general
+  Mode: full
+  Duration: 1283.1s
+
+──────────────────────────────────────────────────────────────────────
+  PAPERS (89)
+──────────────────────────────────────────────────────────────────────
+  [arxiv] CSTS: A Canonical Security Telemetry Substrate for AI-Native Cyber Detection
+    Authors: Abdul Rahman
+    Year: 2026
+  [arxiv] The hosts of $z=2$ QSOs
+    Authors: Itziar Aretxaga, Brian J. Boyle, Roberto J. Terlevich
+    Year: 1997
+  [arxiv] An experimental algorithm for identifying the topological nature of Kondo and mi
+    Authors: M. Neupane, N. Alidoust, Suyang Xu
+    Year: 2013
+  [arxiv] A Substrate-Independent Framework to Characterise Reservoir Computers
+    Authors: Matthew Dale, Julian F. Miller, Susan Stepney
+    Year: 2018
+  [arxiv] QSO hosts and companions at higher redshifts
+    Authors: J. B. Hutchings
+    Year: 2001
+  [arxiv] Search for dense molecular gas in QSO hosts
+    Authors: J. -U. Pott, A. Eckart, M. Krips
+    Year: 2005
+  [arxiv] Structural and Topological Nature of Plasticity in Sheared Granular Materials
+    Authors: Yixin Cao, Jindong Li, Binquan Kou
+    Year: 2018
+  [arxiv] Multi-Point Detection of the Powerful Gamma Ray Burst GRB221009A Propagation thr
+    Authors: Andrii Voshchepynets, Oleksiy Agapitov, Lynn Wilson
+    Year: 2023
+  [arxiv] Parametric excitation of wrinkles in elastic sheets on elastic and viscoelastic 
+    Authors: Haim Diamant
+    Year: 2021
+  [inspire_hep] Emergence of the Classical World from Within Our Quantum Universe
+    Authors: Zurek, Wojciech Hubert
+    Year: 2021
+  ... and 79 more papers
+
+──────────────────────────────────────────────────────────────────────
+  KNOWLEDGE GRAPH
+──────────────────────────────────────────────────────────────────────
+  Entities: 529
+  Relationships: 4100
+
+──────────────────────────────────────────────────────────────────────
+  KNOWLEDGE GAPS (10)
+──────────────────────────────────────────────────────────────────────
+  [orphan_observation] (4 gaps)
+    - 'Acceleration' is a phenomenon mentioned in 7 paper(s) but has no causal/explanatory mechanism in the graph. It is obser
+    - 'cancer' is a disease mentioned in 6 paper(s) but has no causal/explanatory mechanism in the graph. It is observed but n
+    - 'fluctuation' is a phenomenon mentioned in 5 paper(s) but has no causal/explanatory mechanism in the graph. It is observ
+  [structural_hole] (5 gaps)
+    - These 1479 and 4 entities share type(s) concept but have no connecting relationships. This may indicate an unexplored cr
+    - These 1479 and 1 entities share type(s) concept but have no connecting relationships. This may indicate an unexplored cr
+    - These 1479 and 2 entities share type(s) concept but have no connecting relationships. This may indicate an unexplored cr
+  [missing_mechanism] (1 gaps)
+    - 'theory_hypothesis' and 'Detection' are correlated/associated but no causal mechanism connects them. This is a classic d
+
+──────────────────────────────────────────────────────────────────────
+  ANOMALIES (8)
+──────────────────────────────────────────────────────────────────────
+  [outlier_entity] 'quantum' has degree 85 (z=7.9), much higher than average (4.9). It's a hub — either a genuine driver or an over-studied
+  [outlier_entity] 'dark matter' has degree 83 (z=7.7), much higher than average (4.9). It's a hub — either a genuine driver or an over-stu
+  [outlier_entity] 'act' has degree 58 (z=5.2), much higher than average (4.9). It's a hub — either a genuine driver or an over-studied ent
+  [prediction_violation] There's a path Disk Galaxies Without Requiring Dark Matter→Acceleration→New Theory Incorporating Newton but no direct co
+  [prediction_violation] There's a path Disk Galaxies Without Requiring Dark Matter→Acceleration→concept_cosmic_acceleration but no direct connec
+  [prediction_violation] There's a path Disk Galaxies Without Requiring Dark Matter→Acceleration→dark energy but no direct connection. Either the
+  [prediction_violation] There's a path Disk Galaxies Without Requiring Dark Matter→Acceleration→An Upgrade but no direct connection. Either the 
+  [prediction_violation] There's a path Disk Galaxies Without Requiring Dark Matter→Acceleration→concept_abstract
+________this but no direct conn
+
+──────────────────────────────────────────────────────────────────────
+  HIDDEN VARIABLES (9)
+──────────────────────────────────────────────────────────────────────
+  1. [field] Meta‑Quantum Substrate Field (MQSF)
+     Description: A scalar field ϕ(x) that lives in the meta‑reality layer and couples to the simulated space‑time metric g_{μν} through a dimension‑four interaction term. In the low‑energy limit the total action is
+
+  2. [tensor] Information Leakage Tensor (ILT)
+     Description: A rank‑2 symmetric tensor Λ_{μν}(x) that encodes stochastic information exchange between the simulated universe and the external substrate. It appears as a noise source in the Einstein field equations
+
+  3. [scalar field] Computational Entropy Gradient (CEG)
+     Description: A scalar field χ(x) representing the gradient of computational resource usage (entropy) in the meta‑layer. It couples to the simulated matter density ρ via a thermodynamic‑like term in the continuity 
+
+  4. [counterfactual] Quantum Entanglement Residual Index (QERI)
+     Description: A dimensionless parameter that quantifies a minute, systematic deviation in the fidelity of entangled photon pairs when measured over cosmological baselines. The hypothesis posits that the simulated u
+
+  5. [counterfactual] Meta‑Temporal Phase Drift (MTPD)
+     Description: A scalar field representing a tiny phase offset between the simulation’s internal proper time and the substrate’s absolute temporal metric. The drift would cause periodic modulations in processes that
+
+  6. [counterfactual] Computational Substrate Noise Spectrum (CSNS)
+     Description: A frequency‑dependent noise profile that characterizes stochastic fluctuations injected by the underlying computational substrate into fundamental constants (e.g., the fine‑structure constant α). CSNS
+
+  7. [contradiction_explanation] Layered Ontology Hypothesis
+     Description: The entity 'theory_model' functions as a hub only when the simulation is examined at a macro‑ontological layer where multiple sub‑theories are abstracted into a single model. At finer, micro‑ontologic
+
+  8. [contradiction_explanation] Dark Matter Interaction Phase Hypothesis
+     Description: The entity 'entity_dark_matter' appears as a hub when the informational field of the substrate is in a coherent phase, allowing dark‑matter‑like constructs to mediate many interactions. When the field
+
+  9. [contradiction_explanation] Environmental Excitation Hypothesis
+     Description: The conflicting reports on dense molecular gas in QSO hosts stem from differing levels of AGN‑driven radiation feedback. In QSOs with intense radiation fields, HCN(J=1‑0) molecules are dissociated or 
+
+
+──────────────────────────────────────────────────────────────────────
+  MECHANISMS (3)
+──────────────────────────────────────────────────────────────────────
+  1. [causal_pathway] Meta‑Quantum Substrate Field (MQSF)
+     A scalar field ϕ(x) residing in the meta‑reality layer couples linearly to the Ricci scalar of our simulated space‑time, modifying the effective gravitational dynamics.
+     Step 1: Starting from: A scalar field ϕ(x) residing in the meta‑reality layer couples linearly to the Ricci scalar of our simulated space‑time, modifying the 
+     Derivation:
+       ['Step 1: STARTING ASSUMPTIONS\n   - The simulated universe is described by the Einstein–Hilbert action S_EH.\n   - A me
+
+  2. [causal_pathway] Computational Entropy Gradient (CEG)
+     The meta‑layer allocates computational resources unevenly; the gradient of this allocation, χ(x), couples to matter density and produces an extra acceleration term that mimics MOND.
+     Step 1: Starting from: The meta‑layer allocates computational resources unevenly; the gradient of this allocation, χ(x), couples to matter density and produce
+     Derivation:
+       ['Step 1: STARTING ASSUMPTIONS\n   - The simulated universe obeys the standard continuity and Euler equations for a pres
+
+  3. [causal_pathway] Information Leakage Tensor (ILT)
+     Stochastic information exchange between the simulation and its substrate manifests as a symmetric tensor Λ_{μν} that sources metric fluctuations akin to a white‑noise stress‑energy component.
+     Step 1: Starting from: Stochastic information exchange between the simulation and its substrate manifests as a symmetric tensor Λ_{μν} that sources metric flu
+     Derivation:
+       ['Step 1: STARTING ASSUMPTIONS\n   - General Relativity holds for the simulated metric g_{μν}.\n   - The substrate occas
+
+
+──────────────────────────────────────────────────────────────────────
+  PREDICTIONS (7 generated, 7 accepted)
+──────────────────────────────────────────────────────────────────────
+  1. [correlational] If the Meta-Quantum Substrate Field (MQSF) couples linearly to the Ricci scalar of our simulated space-time, then the gravitational wave signal from merging black holes will exhibi
+     Confidence: 0.7
+     Test: Analyze gravitational wave data from LIGO and Virgo collaborations, comparing observed waveforms to predictions from gen
+     Falsification: Observing no deviation in the gravitational wave signal from the predicted waveform amplitude.
+
+  2. [correlational] If the Computational Entropy Gradient (CEG) couples to matter density, then galaxies with higher star formation rates will exhibit a 15% increase in the acceleration of their outer
+     Confidence: 0.8
+     Test: Analyze rotation curves of galaxies with varying star formation rates, comparing the observed acceleration to prediction
+     Falsification: Observing no correlation between star formation rates and the acceleration of galaxy outer regions.
+
+  3. [correlational] If the Information Leakage Tensor (ILT) sources metric fluctuations, then the cosmic microwave background radiation will exhibit a 0.5% excess in the power spectrum at multipoles a
+     Confidence: 0.6
+     Test: Analyze high-resolution CMB data from future satellite missions, comparing the observed power spectrum to predictions fr
+     Falsification: Observing no excess in the power spectrum of the CMB radiation.
+
+  4. [interventional] If we were to create a quantum entanglement experiment with a baseline of 100 km, then the Quantum Entanglement Residual Index (QERI) would be 0.02, indicating a minute, systematic
+     Confidence: 0.75
+     Test: Conduct a quantum entanglement experiment with a baseline of 100 km, measuring the fidelity of entangled photon pairs an
+     Falsification: Observing no deviation in the fidelity of entangled photon pairs.
+
+  5. [counterfactual] If the Meta-Temporal Phase Drift (MTPD) causes periodic modulations in processes, then the frequency of these modulations would be 10^-18 Hz, corresponding to a timescale of 3.2 ye
+     Confidence: 0.65
+     Test: Analyze data from high-precision clocks, searching for periodic modulations in the clock signal.
+     Falsification: Observing no periodic modulations in high-precision clocks.
+
+  6. [correlational] If the MQSF couples to the Ricci scalar, then the observed value of the Hubble constant would be 5% higher than the predicted value from the standard model of cosmology, due to the
+     Confidence: 0.7
+     Test: Analyze data from type Ia supernovae and the cosmic microwave background radiation, comparing the observed value of the 
+     Falsification: Observing no deviation in the observed value of the Hubble constant.
+
+  7. [correlational] If the CEG couples to matter density, then the observed acceleration of galaxy clusters would be 10% higher than the predicted value from the standard model of cosmology, due to th
+     Confidence: 0.75
+     Test: Analyze data from galaxy clusters, comparing the observed acceleration to predictions from the standard model of cosmolo
+     Falsification: Observing no deviation in the observed acceleration of galaxy clusters.
+
+
+──────────────────────────────────────────────────────────────────────
+  THEORY TOURNAMENT (20 entered, 9 survived, 14 eliminated)
+──────────────────────────────────────────────────────────────────────
+  Tournament rounds:
+    Round 1: generation — 20 candidates
+    Round 2: elimination — 10 survived, 10 eliminated
+    Round 3: cross_comparison_elimination — 6 survived, 4 eliminated
+    Round final: survivors — ? candidates
+
+  Analysis: Winner: Fluctuation‑Driven Meta‑Field (FDMF) Theory (score: 0.62). 6 theories survived the tournament. 14 were eliminated. Close competition — runner-up Quantum Entanglement Residual Index (QERI) Hypothesis is within 0.00. NULL HYPOTHESIS CHECK: Winner beats best conventional explanation 'Standard Λ
+
+  Survivors (ranked):
+  1. Quantum Entanglement Residual Index (QERI) Hypothesis (score: 0.62) [alternative]
+     Proposes a dimensionless index ε_Q that quantifies a systematic, minute loss of entanglement fidelity over cosmological distances, arising from interaction with the substrate. This residual manifests 
+     Mechanism: ε_Q modifies the two‑point correlation function of entangled photons, leading to an effective additional force term in the Einstein‑Maxwell equations 
+     Explains: Observations 1‑6; Knowledge Gap 3 (Fluctuation)
+     Fails to explain: Knowledge Gap 2 (Cancer); Knowledge Gap 4 (Hubble isolation); Knowledge Gap 5 (Disconnected concept clusters)
+     Key assumptions: Substrate interactions cause a universal, distance‑dependent; The effect is linear in path length.
+     Causal status: no_causal_claim
+
+  2. Fluctuation‑Driven Meta‑Field (FDMF) Theory (score: 0.62) [creative]
+     Introduces a turbulent meta‑field ψ that permeates the substrate. Its stochastic fluctuations couple to spacetime curvature, producing both the observed acceleration in galaxies and the high‑degree qu
+     Mechanism: The action includes a term γ ψ R, where ψ follows a Kolmogorov‑type power spectrum P(k) ∝ k⁻⁵⁄³. The resulting metric perturbations yield extra centri
+     Explains: Observations 1‑6; Knowledge Gap 3 (Fluctuation); Knowledge Gap 4 (Hubble isolation)
+     Fails to explain: Knowledge Gap 2 (Cancer); Knowledge Gap 5 (Disconnected concept clusters)
+     Key assumptions: The substrate hosts a turbulent scalar field with a Kolmogor; Coupling to curvature is linear.
+     Causal status: no_causal_claim
+
+  3. Meta‑Temporal Phase Drift (MTPD) Model (score: 0.58) [alternative]
+     Posits a tiny phase offset Δτ between the simulation’s internal proper time and the substrate’s absolute temporal metric. This drift induces periodic modulations in physical processes, offering a unif
+     Mechanism: Δτ(t) = α sin(ω t) modifies the Friedmann equations, leading to an effective acceleration term a_eff = a_cosmic + α ω cos(ω t). The periodicity explai
+     Explains: Observations 1‑6; Knowledge Gap 4 (Hubble isolation)
+     Fails to explain: Knowledge Gap 2 (Cancer); Knowledge Gap 3 (Fluctuation); Knowledge Gap 5 (Disconnected concept clusters)
+     Key assumptions: A meta‑layer absolute time exists.; The simulation experiences a small, coherent phase drift.
+     Causal status: no_causal_claim
+
+  4. Cellular‑Automaton Error Propagation (CAEP) Theory (score: 0.58) [creative]
+     A cross‑domain model treating the simulated universe as a massive cellular automaton (CA). Errors (acts) propagate through the lattice, occasionally manifesting as macroscopic anomalies such as dark‑m
+     Mechanism: Local rule violations generate effective mass (dark matter hub) and modify transition amplitudes (quantum hub). The act hub corresponds to rule‑execut
+     Explains: Observations 1‑6; Knowledge Gap 2 (Cancer); Knowledge Gap 3 (Fluctuation)
+     Fails to explain: Knowledge Gap 4 (Hubble isolation); Knowledge Gap 5 (Disconnected concept clusters)
+     Key assumptions: The universe operates as a deterministic CA with occasional ; Error propagation can be modeled as a diffusive process.
+     Causal status: no_causal_claim
+
+  5. Information Leakage Tensor (ILT) Hypothesis (score: 0.52) [alternative]
+     Proposes that stochastic information exchange between the simulation and its substrate manifests as a symmetric tensor Λ_{μν} that sources metric fluctuations, acting as a white‑noise stress‑energy co
+     Mechanism: Λ_{μν} adds a noise term to Einstein’s equations, generating small but systematic accelerations in galactic outskirts. The stochastic nature explains 
+     Explains: Observations 1‑6
+     Fails to explain: Knowledge Gap 2 (Cancer); Knowledge Gap 4 (Hubble isolation); Knowledge Gap 5 (Disconnected concept clusters)
+     Key assumptions: The simulation leaks information in a tensorial fashion.; Leakage behaves as Gaussian white noise.
+     Causal status: no_causal_claim
+
+  6. Meta‑Quantum Substrate Field (MQSF) (score: 0.48) [creative]
+     A novel hidden‑variable hypothesis positing a scalar field ϕ residing in the meta‑reality layer that couples linearly to the Ricci scalar R of our simulated spacetime, altering effective gravity and p
+     Mechanism: The interaction term ξ ϕ R adds an extra source term to Einstein’s equations, generating the acceleration observed in disk galaxies without dark matte
+     Explains: Observations 1‑6
+     Fails to explain: Knowledge Gap 2 (Cancer); Knowledge Gap 4 (Hubble isolation); Knowledge Gap 5 (Disconnected concept clusters)
+     Key assumptions: A meta‑layer scalar field exists and couples to curvature.; The field varies slowly on cosmological scales.
+     Causal status: no_causal_claim
+
+  7. Context‑Dependent Model Framework (score: 0.00) [contradiction_resolution]
+     The entity *theory_model* acts as a hub because it aggregates multiple modeling paradigms that are each valid in distinct contextual regimes. In low‑complexity, near‑equilibrium systems (e.g., classic
+
+  Discriminating experiments (would separate top 2):
+    1. Experiment 1 – Galaxy‑Scale Correlation Survey: Compile a statistically robust sample (~10,000) of high‑resolution galaxy rotation curves and map the 
+    2. Experiment 2 – Ultra‑Long‑Baseline Matter‑Wave Interferometer: Build a matter‑wave interferometer with a baseline >10 km (e.g., using satellite‑linked
+    3. Experiment 3 – Space‑Based Long‑Baseline Bell Test: Perform a Bell‑inequality experiment between two spacecraft separated by ~10⁴ km (e.g., using enta
+
+  Eliminated (14):
+    ✗ Standard ΛCDM with WIMP Dark Matter (score: 0.50) — Score 0.50 — bottom half
+    ✗ Computational Entropy Gradient (CEG) MOND Extension (score: 0.50) — Score 0.50 — bottom half
+    ✗ Meta‑Quantum Substrate Field (MQSF) Coupling (score: 0.50) — Score 0.50 — bottom half
+    ✗ Information Leakage Tensor (ILT) Noise Model (score: 0.50) — Score 0.50 — bottom half
+    ✗ Cellular Automata Tissue (Biology) Model (score: 0.50) — Score 0.50 — bottom half
+    ... and 9 more
+
+----------------------------------------------------------------------
+  CURIOUS QUESTIONING - The Newton Step
+----------------------------------------------------------------------
+  Core Question: Can we identify measurable signatures of an external substrate that would reveal our universe is a simulation, and if so, what are the physical characteristics of that substrate?
+  Question Hypothesis: If our universe is a computational simulation, the underlying substrate will manifest as a discrete, quantized structure at the Planck scale that produces subtle violations of Lorentz invariance and introduces a finite information‑processing bandwidth that can be probed through high‑precision experi
+  Why It Matters: Confirming the existence of a meta‑reality would overturn our understanding of physics, cosmology, and philosophy, opening a new domain of inquiry into the nature of existence and the limits of scient
+  Surprising Observations: 1
+    - remains fragmented across vendors, formats, schemas, and deployment environments, forcin
+  Questions Generated: 8
+    [assumption_attack] What assumption does everyone accept about What is the nature of the substrate o
+    [scale_transfer] Does a mechanism at one scale (quantum/molecular) also drive What is the nature 
+    [assumption_attack] What if the standard model of nature substrate meta-reality hosts simu is fundam
+    [assumption_attack] What if the assumption that spacetime is a continuous manifold is false, and ins
+    [missing_variable] Could an unmeasured 'information flux'—the rate at which the simulation updates 
+  Cross-Domain Connections (Newton's Move): 3
+    Domain A: astrophysics: Ultra‑high‑energy cosmic rays (UHECRs) occasionally exceed the Greisen‑Zatsepin‑
+    Domain B: computer engineering / digital communications: In high‑throughput digital communication systems, when data streams exceed a fin
+    Connection: Both phenomena can be interpreted as manifestations of a finite computational resource limit: the si
+    Hypothesis: The simulated universe runs on a substrate with a bounded computational budget per spacetime volume.
+    Prediction: The arrival directions of super‑GZK events will be anisotropic, clustering toward regions of high ma
+
+    Domain A: quantum physics: Bell‑test experiments with entangled photons show a tiny, distance‑dependent red
+    Domain B: computer science / distributed systems: In distributed computing, clocks on separate nodes drift apart over increasing n
+    Connection: Both cases reflect a finite tick rate of an underlying update mechanism: the simulation updates the 
+    Hypothesis: The universe is updated on a universal Planck‑scale tick (≈5.4×10⁻⁴⁴ s). Entangled particles are onl
+    Prediction: Correlation functions in long‑baseline entanglement experiments will exhibit a periodic modulation w
+
+    Domain A: cosmology: The cosmic microwave background (CMB) temperature map contains a low‑level aniso
+    Domain B: digital image processing: Block‑based image compression algorithms (e.g., JPEG) introduce grid‑aligned art
+    Connection: Both the CMB anisotropy and JPEG block artifacts arise from an underlying discretized lattice that i
+    Hypothesis: Space‑time is underpinned by a fixed 3‑D lattice (the simulation substrate) with a specific orientat
+    Prediction: Beyond the standard kinetic dipole, the CMB will show a dipole modulation that varies with the obser
+
+  Curiosity Constraint (Track B):
+    Forbidden Theories: Digital Physics (Fredkin), Bostrom's Simulation Argument, Holographic Principle, Loop Quantum Gravity, Causal Set Theory
+    Required Properties:
+      + produces measurable deviations from exact Lorentz invariance at the Planck scale
+      + yields testable predictions for high‑precision experiments (e.g., particle‑physics, astrophysical observations)
+      + offers a concrete mechanism for a finite information‑processing bandwidth per spacetime volume
+    Novelty Direction: Investigate computational‑substrate models that go beyond a fixed, uniform lattice—such as adaptive, hierarchical, or variable‑resolution discretizations of spacetime—and that tie the substrate’s information‑capacity to observable physical constants. This direction encourages linking information‑theoretic limits with emergent geometry, potentially revealing new signatures (e.g., anisotropic dispersion, stochastic noise, or bandwidth‑dependent decoherence) that can be probed experimentally.
+
+----------------------------------------------------------------------
+  DUAL-TRACK COMPARISON: Curiosity vs Pipeline
+----------------------------------------------------------------------
+
+  Two independent approaches were used:
+  1. CURIOUS ENGINE: Generated a question-driven hypothesis
+  2. CONVENTIONAL PIPELINE: Ran full 21-phase discovery
+
+  These are SEPARATE tracks. The curiosity hypothesis was NOT
+  injected into the pipeline. Both ran independently.
+
+  TRACK A: CONVENTIONAL PIPELINE WINNER
+    Name: Quantum Entanglement Residual Index (QERI) Hypothesis
+    Score: 0.62
+    Description: Proposes a dimensionless index ε_Q that quantifies a systematic, minute loss of entanglement fidelity over cosmological distances, arising from interaction with the substrate. This residual manifests 
+
+  TRACK B: CURIOSITY-DRIVEN HYPOTHESIS
+    Core Question: Can we identify measurable signatures of an external substrate that would reveal our universe is a s
+    Hypothesis: If our universe is a computational simulation, the underlying substrate will manifest as a discrete, quantized structure at the Planck scale that produces subtle violations of Lorentz invariance and introduces a finite information‑processing bandwidth that can be probed through high‑precision experi
+
+  COMPARISON:
+    Pipeline says: Quantum Entanglement Residual Index (QERI) Hypothesis
+    Curiosity says: If our universe is a computational simulation, the underlyin...
+
+  Both tracks contribute to the discovery. The pipeline
+  validates through evidence and scoring. The curiosity
+  engine identifies the RIGHT QUESTION to ask.
+
+  A discovery needs both: the right question AND the right answer.
+
+──────────────────────────────────────────────────────────────────────
+  ADVERSARIAL TEST — What Survived the Attack
+──────────────────────────────────────────────────────────────────────
+  hidden_variables: 9 tested → 5 survived, 0 weakened, 0 killed
+  mechanisms: 3 tested → 3 survived, 0 weakened, 0 killed
+  theories: 6 tested → 5 survived, 0 weakened, 0 killed
+  Hidden Variables:
+    ✓ Meta‑Quantum Substrate Field (MQSF) [survived, attack score: 0.90]
+      Falsification: If we observe no anomalies in the cosmic microwave background radiation that could be attributed to 
+      Verdict: The Meta-Quantum Substrate Field theory is challenged because it lacks an operational definition and a clear method for 
+    ✓ Information Leakage Tensor (ILT) [survived, attack score: 1.00]
+      Falsification: If we observe a perfectly deterministic universe with no stochastic fluctuations, this would falsify
+      Verdict: The Information Leakage Tensor (ILT) hypothesis is challenged because it lacks an operational definition and a clear mea
+    ✓ Computational Entropy Gradient (CEG) [survived, attack score: 0.90]
+      Falsification: If we observe a uniform distribution of computational resource usage across the simulated universe, 
+      Verdict: The Computational Entropy Gradient (CEG) hypothesis introduces a new concept that is not well-established in existing li
+    ✓ Quantum Entanglement Residual Index (QERI) [survived, attack score: 1.00]
+      Falsification: If the QERI is found to be zero or randomly distributed across different cosmological baselines, thi
+      Verdict: The Quantum Entanglement Residual Index (QERI) hypothesis introduces a novel concept that is not explained by existing t
+    ✓ Meta‑Temporal Phase Drift (MTPD) [survived, attack score: 1.00]
+      Falsification: If we observe no periodic modulations in processes that are otherwise time-invariant, such as nuclea
+      Verdict: The concept of Meta-Temporal Phase Drift (MTPD) introduces a new variable that attempts to explain potential discrepanci
+  Mechanisms:
+    ✓ Meta‑Quantum Substrate Field (MQSF) [survived, attack score: 1.00]
+      Falsification: If we observe no deviation in gravitational dynamics from predicted values, this mechanism is falsif
+      Verdict: The proposed Meta-Quantum Substrate Field (MQSF) mechanism introduces a new concept that is not well-established in exis
+    ✓ Computational Entropy Gradient (CEG) [survived, attack score: 0.65]
+      Existing theory: Modified Newtonian Dynamics (MOND)
+      Falsification: If the observed acceleration term is found to be inconsistent with the predicted gradient of computa
+      Verdict: The proposed mechanism is challenged because it attempts to explain phenomena already addressed by existing theories lik
+    ✓ Information Leakage Tensor (ILT) [survived, attack score: 1.00]
+      Falsification: If we observe a perfectly deterministic and noise-free metric in our simulated universe, this mechan
+      Verdict: The Information Leakage Tensor (ILT) mechanism introduces a novel concept to explain the interaction between our simulat
+  Theories:
+    ✓ Quantum Entanglement Residual Index (QERI) Hypothe [survived, attack score: 0.57]
+      Existing theory: Quantum decoherence and gravitational lensing effects
+      Can remove: epsilon_Q
+      Falsification: If future experiments demonstrate that entanglement fidelity loss over cosmological distances is ent
+      Verdict: The Quantum Entanglement Residual Index (QERI) Hypothesis introduces an interesting perspective on the interaction betwe
+    ✓ Meta‑Temporal Phase Drift (MTPD) Model [survived, attack score: 1.00]
+      Falsification: If we observe a deviation in the predicted periodic modulations in physical processes that is incons
+      Verdict: The Meta-Temporal Phase Drift (MTPD) Model survives the challenge because it introduces a novel explanation for several 
+    ✓ Fluctuation‑Driven Meta‑Field (FDMF) Theory [survived, attack score: 0.92]
+      Existing theory: Modified Newtonian Dynamics (MOND) and certain aspects of Quantum Field Theory
+      Falsification: If future observations of galaxy rotation curves and CMB anisotropy show significant deviations from
+      Verdict: The FDMF theory introduces a novel concept of a turbulent meta-field ψ that attempts to explain both the observed accele
+    ✓ Information Leakage Tensor (ILT) Hypothesis [survived, attack score: 1.00]
+      Falsification: If we observe a deviation in the CMB residuals that cannot be explained by the ILT Hypothesis, speci
+      Verdict: The ILT Hypothesis introduces a novel explanation for the observed metric fluctuations, and there is no existing theory 
+    ✓ Cellular‑Automaton Error Propagation (CAEP) Theory [survived, attack score: 0.60]
+      Existing theory: Standard ΛCDM cosmology (dark matter particles, modified gravity) and quantum field theory (entangle
+      Can remove: v_e, epsilon_scale
+      Falsification: If high‑precision surveys (e.g., LSST, Euclid) measure the dark‑matter power spectrum to an accuracy
+      Verdict: Existing cosmological and quantum theories already account for the observations CAEP seeks to explain, and the key param
+
+──────────────────────────────────────────────────────────────────────
+  CRITICAL EVALUATION — 6-Dimension Assessment
+──────────────────────────────────────────────────────────────────────
+  Overall Score: 4/10
+  Recommendation: reject
+  Summary: The manuscript introduces an imaginative hypothesis that attempts to link quantum entanglement degradation over cosmological distances to a putative substrate underlying our simulated universe. While the idea is novel and could be transformative if substantiated, the work suffers from a lack of rigo
+  Novelty: 7/10 — The proposal of a dimensionless entanglement loss index (ε_Q) as a signature of 
+  Methodology: 3/10 — The reasoning is largely speculative. The hypothesis links ε_Q to modifications 
+  Significance: 5/10 — If validated, the hypothesis would have profound implications for both fundament
+  Clarity: 4/10 — The description mixes technical terms with vague phrasing (e.g., "quantum hub", 
+  Limitations: 2/10 — The manuscript acknowledges that it fails to explain several knowledge gaps (e.g
+  Reproducibility: 1/10 — No detailed experimental protocol, data analysis pipeline, or simulation code is
+  Major issues (3):
+    ! Absence of a mathematically defined model linking ε_Q to observable quantities; the causal pathways are described only q
+    ! Predictions are incomplete and lack concrete, measurable definitions (e.g., what is "t" in the 15% increase?).
+    ! No experimental or observational protocol is provided; reproducibility is effectively zero.
+  Minor issues (3):
+    - Inconsistent terminology (e.g., "quantum hub", "act hub") creates confusion.
+    - Truncated sentences and typographical errors hinder readability.
+    - The adversarial test summary is presented without explanation of its relevance.
+  Questions for authors:
+    ? Can you provide a full Lagrangian or Hamiltonian formulation that yields the ε_Q modification to the two‑point correlati
+    ? What specific observable (e.g., a shift in the CMB power spectrum, a deviation in gravitational‑wave propagation speed) 
+    ? How do you define and quantify the "15% increase in t" for galaxies with higher star‑formation rates? What is the underl
+    ? What statistical methods would you employ to distinguish the predicted 0.5% CMB excess from instrumental noise and foreg
+    ? Could you outline a concrete experimental design (e.g., long‑baseline entanglement experiments) that could detect the pr
+
+──────────────────────────────────────────────────────────────────────
+  CONTRADICTIONS (6)
+──────────────────────────────────────────────────────────────────────
+  1. 
+     Severity: 0.4
+  2. 
+     Severity: 0.4
+  3. 
+     Severity: 0.4
+  4. 
+     Severity: 0.9
+  5. 
+     Severity: 0.6
+
+──────────────────────────────────────────────────────────────────────
+  COMPUTATIONAL VERIFICATION
+──────────────────────────────────────────────────────────────────────
+  Computations run: 9
+  Support level: strong
+    → Network has 4 hub entities with degree > 56. Mean degree: 3.1. Hub concentration: high.
+    → Average clustering coefficient: 0.2456. Low clustering suggests sparse connections.
+    → Top bridging entity: ? (centrality: 1.0000). These entities connect different parts of the knowledge graph.
+    → Found 196 distinct communities. Multiple disconnected communities suggest knowledge fragmentation.
+    → Found 5 paths between theory entities. Strong structural support.
+
+──────────────────────────────────────────────────────────────────────
+  SKEPTIC REVIEW
+──────────────────────────────────────────────────────────────────────
+  Recommendation: revise
+  Revised confidence: 32%
+  Strengths (3):
+    + Introduces a clear, dimensionless index (ε_Q) that can be incorporated into phenomenological models.
+    + Provides two explicit, testable predictions (Bell‑parameter reduction and lensing time‑delay bias).
+    + Attempts to unify quantum‑information degradation with astrophysical observations, encouraging interdisciplinary experiments.
+  Weaknesses (5):
+    - No derivation from first‑principles quantum mechanics or general relativity; the ‘substrate’ interaction is undefined.
+    - Predicted Bell‑parameter shift (ΔS ≈ 0.0015) is within the systematic error of current long‑baseline experiments, lacking a robust statistical separat
+    - Fails to explain why existing satellite‑to‑ground Bell tests (e.g., Micius) have not reported any deviation despite comparable path lengths.
+    - The lensing‑time‑delay effect (0.3 %) is not uniquely attributable to ε_Q; plasma dispersion and modeling uncertainties can produce similar biases.
+    - The hypothesis does not address compatibility with well‑tested decoherence limits from interferometry and atomic clock experiments.
+
+──────────────────────────────────────────────────────────────────────
+  DISCOVERY SCORING
+──────────────────────────────────────────────────────────────────────
+  Overall Score: 75/100
+  Grade: B
+  Dimension scores:
+    novelty: 72.0
+    explanatory_power: 100.0
+    predictive_power: 100.0
+    falsifiability: 100.0
+    simplicity: 70
+    evidence_strength: 57.0
+    mathematical_rigor: 20.0
+  Strengths: novelty: 72/100; explanatory_power: 100/100; predictive_power: 100/100
+  Weaknesses: mathematical_rigor: 20/100
+  Summary: 'Quantum Entanglement Residual Index (QERI) Hypothesis' (alternative) scores 75/100 (Grade: B). Strongest: explanatory_power (100/100). Weakest: mathematical_rigor (20/100). This is a strong discovery
+
+──────────────────────────────────────────────────────────────────────
+  DISCOVERY CLASSIFICATION — What's Known vs What's New
+──────────────────────────────────────────────────────────────────────
+  Classification: extension
+  Meaning: New application of known mechanisms — applies existing physics to new domain
+  Details:
+    New mechanism proposed: False
+    New prediction generated: True
+    New mathematics introduced: False
+    Not found in literature: True
+
+======================================================================

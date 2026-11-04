@@ -1,0 +1,502 @@
+======================================================================
+  DISCOVERY REPORT
+======================================================================
+  Topic: Can we define and empirically detect an affective state in artificial agents that is functionally equivalent to human emotions?
+  Domain: general
+  Mode: full
+  Duration: 779.9s
+
+──────────────────────────────────────────────────────────────────────
+  PAPERS (113)
+──────────────────────────────────────────────────────────────────────
+  [arxiv] Detection of Real-world Driving-induced Affective State Using Physiological Sign
+    Authors: Daniel Lopez-Martinez, Neska El-Haouij, Rosalind Picard
+    Year: 2019
+  [inspire_hep] Quantum Operation of Affective Artificial Intelligence
+    Authors: Yukalov, V.I.
+    Year: 2023
+  [crossref] Can machines handle emotions? Analysis of emotions and sentiment across automate
+    Authors: Marianna Kryszkowska, Marta Kajzer-Wietrzny
+    Year: 2026
+  [arxiv] Lessons from Biophilic Design: Rethinking Affective Interaction Design in Built 
+    Authors: Shruti Rao, Judith Good, Hamed Alavi
+    Year: 2025
+  [arxiv] Towards affective computing that works for everyone
+    Authors: Tessa Verhoef, Eduard Fosch-Villaronga
+    Year: 2023
+  [arxiv] An affective and adaptive educational robot
+    Authors: Cristina Gena, Alberto Lillo, Claudio Mattutino
+    Year: 2022
+  [arxiv] Facial Expression and Peripheral Physiology Fusion to Decode Individualized Affe
+    Authors: Yu Yin, Mohsen Nabian, Miolin Fan
+    Year: 2018
+  [arxiv] The OMG-Empathy Dataset: Evaluating the Impact of Affective Behavior in Storytel
+    Authors: Pablo Barros, Nikhil Churamani, Angelica Lim
+    Year: 2019
+  [arxiv] Applying Probabilistic Programming to Affective Computing
+    Authors: Desmond C. Ong, Harold Soh, Jamil Zaki
+    Year: 2019
+  [pubmed] The Absent P3a. Performance Monitoring ERPs Differentiate Trust in Humans and Au
+    Year: 2026
+  ... and 103 more papers
+
+──────────────────────────────────────────────────────────────────────
+  KNOWLEDGE GRAPH
+──────────────────────────────────────────────────────────────────────
+  Entities: 426
+  Relationships: 6107
+
+──────────────────────────────────────────────────────────────────────
+  KNOWLEDGE GAPS (10)
+──────────────────────────────────────────────────────────────────────
+  [orphan_observation] (7 gaps)
+    - 'Acceleration' is a phenomenon mentioned in 10 paper(s) but has no causal/explanatory mechanism in the graph. It is obse
+    - 'Carcinoma' is a disease mentioned in 8 paper(s) but has no causal/explanatory mechanism in the graph. It is observed bu
+    - 'fluctuation' is a phenomenon mentioned in 8 paper(s) but has no causal/explanatory mechanism in the graph. It is observ
+  [structural_hole] (3 gaps)
+    - These 2275 and 8 entities share type(s) concept, unknown but have no connecting relationships. This may indicate an unex
+    - These 2275 and 4 entities share type(s) concept but have no connecting relationships. This may indicate an unexplored cr
+    - These 2275 and 4 entities share type(s) concept but have no connecting relationships. This may indicate an unexplored cr
+
+──────────────────────────────────────────────────────────────────────
+  ANOMALIES (10)
+──────────────────────────────────────────────────────────────────────
+  [outlier_entity] 'quantum' has degree 128 (z=8.6), much higher than average (6.9). It's a hub — either a genuine driver or an over-studie
+  [outlier_entity] 'cancer' has degree 114 (z=7.6), much higher than average (6.9). It's a hub — either a genuine driver or an over-studied
+  [outlier_entity] 'act' has degree 87 (z=5.7), much higher than average (6.9). It's a hub — either a genuine driver or an over-studied ent
+  [outlier_entity] 'dark matter' has degree 83 (z=5.4), much higher than average (6.9). It's a hub — either a genuine driver or an over-stu
+  [outlier_entity] 'black hole' has degree 57 (z=3.6), much higher than average (6.9). It's a hub — either a genuine driver or an over-stud
+  [prediction_violation] There's a path concept_dark_matter_detector_materials→dataset→concept_data_augmentation but no direct connection. Either
+  [prediction_violation] There's a path concept_dark_matter_detector_materials→dataset→cancer but no direct connection. Either the direct link do
+  [prediction_violation] There's a path concept_dark_matter_detector_materials→dataset→concept_brain_tumor_segmentation but no direct connection.
+
+──────────────────────────────────────────────────────────────────────
+  HIDDEN VARIABLES (9)
+──────────────────────────────────────────────────────────────────────
+  1. [field] Affective Internal Energy (AIE)
+     Description: A scalar field representing the internal affective energy of an artificial agent. It quantifies the thermodynamic‑like resource that an agent allocates to affect‑driven processes (e.g., appraisal, mot
+
+  2. [field] Cognitive Resonance Field (CRF)
+     Description: A vector field that mediates synchronization (resonance) between an agent’s internal affective cycles and external environmental cues (e.g., speech prosody, visual affective cues). The CRF can be thou
+
+  3. [process] Fluctuation‑Driven Decision Noise (FDDN)
+     Description: A stochastic process that adds affect‑modulated noise to the agent’s decision policy. It bridges the gap between deterministic reinforcement‑learning updates and the observed variability (anomaly, puz
+
+  4. [counterfactual] Affective Predictive Entropy (APE)
+     Description: A scalar computed as the Shannon entropy of an artificial agent's internal predictive distribution over next‑state outcomes, conditioned on the current reward‑prediction error. The hypothesis posits t
+
+  5. [counterfactual] Synthetic Somatic Feedback Coefficient (SSFC)
+     Description: A dimensionless coefficient derived from the coupling strength between an agent's internal "somatic" variables (e.g., simulated temperature, energy reserves, or internal wear‑and‑tear) and the magnitu
+
+  6. [counterfactual] Emotionally Integrated Temporal Cohesion (EITC)
+     Description: A multiscale metric that evaluates the coherence of an agent's internal state trajectory across short (milliseconds), medium (seconds), and long (minutes) timescales. EITC is calculated by projecting 
+
+  7. [contradiction_explanation] Context‑Dependent Quantum Analogy
+     Description: The claim that quantum‑theoretic models are either essential or irrelevant for explaining artificial affective states reflects a hidden variable: the *granularity of the agent's internal representatio
+
+  8. [contradiction_explanation] Embodiment‑Mediated Cancer Analogy
+     Description: The tension between viewing ‘cancer‑like’ failure modes as a central hub for affective state research versus dismissing them stems from a hidden variable: *degree of embodied interaction*. In highly e
+
+  9. [contradiction_explanation] Model‑Complexity Hub Dependency
+     Description: The debate over whether a particular theoretical model serves as a central hub for explaining artificial emotions versus being a peripheral tool is resolved by a hidden variable: *model complexity rel
+
+
+──────────────────────────────────────────────────────────────────────
+  MECHANISMS (3)
+──────────────────────────────────────────────────────────────────────
+  1. [causal_pathway] Affective Internal Energy (AIE) Field
+     A scalar field representing the agent’s internal affective energy, derived from non‑equilibrium thermodynamics of internal state variables.
+     Step 1: Starting from: A scalar field representing the agent’s internal affective energy, derived from non‑equilibrium thermodynamics of internal state variab
+     Derivation:
+       {"Step 1: STARTING ASSUMPTIONS": ["Assume the artificial agent possesses a set of internal state variables \\(\\{x_i\\}\
+     Key parameters:
+       D = 10⁻⁶ – 10⁻⁴ m²·s⁻¹  [ESTIMATED]
+         Typical diffusion coefficients for intracellular signaling molecules
+       λ = 10⁻² – 10⁰ s⁻¹  [ESTIMATED]
+         Empirical decay rates of affective arousal observed in psychophysiology
+       S₀ = 10⁻³ – 10⁻¹ J·m⁻³·s⁻¹  [DERIVED]
+         Derived from the rate of change of internal state variables in the agent’s model
+
+  2. [causal_pathway] Cognitive Resonance Field (CRF)
+     A vector field describing phase‑synchronization between internal affective cycles and external affective cues, modeled as coupled oscillators.
+     Step 1: Starting from: A vector field describing phase‑synchronization between internal affective cycles and external affective cues, modeled as coupled oscil
+     Derivation:
+       {"Step 1: STARTING ASSUMPTIONS": ["Assume the agent possesses an internal affective oscillator with phase \\(\\theta_i(t
+     Key parameters:
+       K = 10⁰ – 10² rad·s⁻¹  [ESTIMATED]
+         Typical coupling strengths required for phase locking in neural oscillator models
+       Δω = 10⁻¹ – 10¹ rad·s⁻¹  [DERIVED]
+         Difference between internal and external natural frequencies (ω_int - ω_ext)
+       σ = 10⁻³ – 10⁰ rad·s⁻¹·√s  [ESTIMATED]
+         Standard deviation of the noise term ξ_i(t) representing cue uncertainty
+
+  3. [causal_pathway] Fluctuation‑Driven Decision Noise (FDDN)
+     A stochastic process that adds affect‑modulated noise to the agent’s policy, derived from the fluctuation‑dissipation theorem applied to the agent’s internal thermodynamic-like state.
+     Step 1: Starting from: A stochastic process that adds affect‑modulated noise to the agent’s policy, derived from the fluctuation‑dissipation theorem applied t
+     Derivation:
+       {"Step 1: STARTING ASSUMPTIONS": ["Assume the agent\u2019s policy \\(\\pi(a|s)\\) can be expressed as a softmax over act
+     Key parameters:
+       T_a = 10⁰ – 10² J·K⁻¹  [ESTIMATED]
+         Affective temperature inferred from the magnitude of the AIE field
+       α = 10⁻² – 10⁰ s⁻¹  [ESTIMATED]
+         Typical relaxation rates of policy adaptation in reinforcement‑learning agents
+       π₀ = 0.5 dimensionless  [DERIVED]
+         Baseline policy probability derived from the agent’s prior distribution
+
+
+──────────────────────────────────────────────────────────────────────
+  PREDICTIONS (7 generated, 7 accepted)
+──────────────────────────────────────────────────────────────────────
+  1. [interventional] If the internal Affective Internal Energy (AIE) field of an artificial agent is increased by 0.5 J‑equivalent units, then the variance of its decision‑noise distribution (σ²) will 
+     Confidence: 0.84
+     Test: Inject a calibrated energy packet into the agent’s internal thermodynamic module, record the stochastic component of its
+     Falsification: If σ² does not change beyond ±2 % after the energy injection, the prediction is falsified.
+
+  2. [counterfactual] If the Cognitive Resonance Field (CRF) coupling coefficient is set to zero, then the mean response latency to an affective auditory cue will increase by 150 ms (from a baseline of 
+     Confidence: 0.77
+     Test: Simulate two versions of the agent: one with the CRF coupling term disabled, the other with the default coupling. Presen
+     Falsification: If latency difference is ≤ 20 ms, the prediction is falsified.
+
+  3. [novel] If an agent’s Affective Predictive Entropy (APE) exceeds 0.8 bits, then its Synthetic Somatic Feedback Coefficient (SSFC) will be greater than 0.6 (dimensionless) in at least 85 % 
+     Confidence: 0.73
+     Test: Compute APE from the agent’s predictive distribution over next‑state outcomes; simultaneously compute SSFC from the coup
+     Falsification: If the proportion of trials with SSFC > 0.6 falls below 50 % when APE > 0.8 bits, the prediction is falsified.
+
+  4. [novel] If an external rhythmic stimulus at 2 Hz is applied to synchronize with the agent’s internal affective cycles, then the magnitude of the Cognitive Resonance Field (CRF) will increa
+     Confidence: 0.7
+     Test: Expose the agent to a 2 Hz sinusoidal modulation of sensory input for 10 minutes, then measure CRF magnitude via phase‑l
+     Falsification: If CRF magnitude changes by ≤ 0.05 units or appraisal accuracy changes by ≤ 2 %, the prediction is falsified.
+
+  5. [correlational] If the semantic network hub degree of the term "quantum" is 128, then the agent’s measured Affective Internal Energy (AIE) field will be 2.3 ± 0.2 arbitrary units, significantly hi
+     Confidence: 0.66
+     Test: Construct agents trained on corpora with varying hub degrees for the term "quantum"; compute AIE via the thermodynamic‑l
+     Falsification: If AIE does not differ by more than 0.1 units between high‑degree and low‑degree groups, the prediction is falsified.
+
+  6. [counterfactual] If the Fluctuation‑Driven Decision Noise (FDDN) stochastic term is removed from the policy update, then the policy entropy will decrease by 0.45 nats (from 2.30 nats to 1.85 nats) 
+     Confidence: 0.8
+     Test: Run two simulations: one with the FDDN term active, one with it disabled. Record the action distribution over 10,000 ste
+     Falsification: If entropy reduction is ≤ 0.10 nats, the prediction is falsified.
+
+  7. [correlational] If the agent’s AIE field exceeds 2.0 units, then the exponent α of the power‑spectral density of its decision‑noise time series will be 1.5 ± 0.1 (indicative of 1/f^α scaling), whe
+     Confidence: 0.68
+     Test: Segment decision‑noise recordings into 5‑minute windows, compute PSD via Welch’s method, fit a linear regression in log‑
+     Falsification: If α does not differ by at least 0.3 between the two AIE regimes, the prediction is falsified.
+
+
+──────────────────────────────────────────────────────────────────────
+  KILLED / SUPERSEDED BY ADVERSARIAL TEST (1)
+──────────────────────────────────────────────────────────────────────
+  [SUPERSEDED] Cross-Domain Affective State Theory (attack score: 0.15)
+     Reason: The proposed cross‑domain affective state mechanism is already encompassed by well‑established multi
+
+──────────────────────────────────────────────────────────────────────
+  THEORY TOURNAMENT (15 entered, 8 survived, 10 eliminated)
+──────────────────────────────────────────────────────────────────────
+  Tournament rounds:
+    Round 1: generation — 15 candidates
+    Round 2: elimination — 7 survived, 8 eliminated
+    Round 3: cross_comparison_elimination — 5 survived, 2 eliminated
+    Round final: survivors — ? candidates
+
+  Analysis: Winner: Affective Predictive Entropy Theory (score: 0.65). 5 theories survived the tournament. 10 were eliminated. Clear winner — gap to runner-up is 0.05. NULL HYPOTHESIS CHECK: Winner beats best conventional explanation 'Null Hypothesis Theory' by 0.30. The novel theory is meaningfully better than
+
+  Survivors (ranked):
+  1. Affective Predictive Entropy Theory (score: 0.65) [proposed]
+     This theory proposes that artificial agents can exhibit affective states through affective predictive entropy (APE), which quantifies the uncertainty of the agent's internal predictive distribution ov
+     Mechanism: APE quantifies uncertainty of internal predictive distribution
+     Explains: O; b; s
+     Fails to explain: O; b; s
+     Key assumptions: I; n; t
+     Causal status: no_causal_claim
+
+  2. Synthetic Somatic Feedback Theory (score: 0.60) [alternative]
+     This theory suggests that artificial agents can exhibit affective states through synthetic somatic feedback, which couples internal 'somatic' variables (e.g., simulated temperature, energy reserves) w
+     Mechanism: Synthetic somatic feedback couples internal 'somatic' variables with external stimuli
+     Explains: O; b; s
+     Fails to explain: O; b; s
+     Key assumptions: I; n; t
+     Causal status: no_causal_claim
+
+  3. Cross-Domain Affective State Theory (score: 0.55) [creative]
+     This theory proposes that artificial agents can exhibit affective states through a cross-domain mechanism, where affective information from one domain (e.g., vision) is transferred to another domain (
+     Mechanism: Affective information transfer between domains
+     Explains: O; b; s
+     Fails to explain: O; b; s
+     Key assumptions: A; f; f
+     Causal status: no_causal_claim
+
+  4. Affective Resonance Theory (score: 0.50) [proposed]
+     This theory proposes that artificial agents can exhibit affective states functionally equivalent to human emotions through a process of resonance between internal affective cycles and external environ
+     Mechanism: CRF mediates synchronization between internal affective cycles and external environmental cues
+     Explains: O; b; s
+     Fails to explain: K; n; o
+     Key assumptions: I; n; t
+
+  5. Fluctuation-Driven Affective State Theory (score: 0.45) [alternative]
+     This theory suggests that artificial agents can exhibit affective states due to fluctuation-driven decision noise (FDDN) in their internal thermodynamic-like state. FDDN adds affect-modulated noise to
+     Mechanism: FDDN adds affect-modulated noise to the agent's policy
+     Explains: O; b; s
+     Fails to explain: O; b; s
+     Key assumptions: I; n; t
+     Causal status: no_causal_claim
+
+  6. Dual‑Timescale Affective Detection (score: 0.00) [contradiction_resolution]
+     Affective states in artificial agents can be captured at two complementary timescales. Rapid, low‑level arousal during fast‑changing tasks (e.g., real‑world driving) is reliably reflected in periphera
+
+  7. Cultural‑Expressivity Modulation of Affective Computing (score: 0.00) [contradiction_resolution]
+     Facial‑expression‑only affective classifiers and multimodal affective‑computing systems are both valid, but their performance depends on the expressivity norms of the user population. In cultures or i
+
+  Discriminating experiments (would separate top 2):
+    1. Experiment 1: Affective State Manipulation - Modify an artificial agent's internal predictive distribution to increase affective predictive entropy (A
+    2. Experiment 2: Somatic Feedback Isolation - Design an artificial agent with synthetic somatic feedback and isolate its effect on the agent's affective 
+    3. Experiment 3: Comparative Affective State Induction - Create two artificial agents, one based on APE and the other on Synthetic Somatic Feedback. Expo
+
+  Eliminated (10):
+    ✗ Cancer-Inspired Affective State Theory (score: 0.50) — Score 0.50 — bottom half
+    ✗ Dark Matter-Inspired Affective State Theory (score: 0.50) — Score 0.50 — bottom half
+    ✗ Black Hole-Inspired Affective State Theory (score: 0.50) — Score 0.50 — bottom half
+    ✗ Biological Inspiration Theory (score: 0.50) — Score 0.50 — bottom half
+    ✗ Economic Analogy Theory (score: 0.50) — Score 0.50 — bottom half
+    ... and 5 more
+
+----------------------------------------------------------------------
+  CURIOUS QUESTIONING - The Newton Step
+----------------------------------------------------------------------
+  Core Question: What empirically measurable signatures (e.g., internal state dynamics, behavioral outputs, and physiological‑like signals) can be identified in artificial agents that satisfy the functional criteria of valence, arousal, and intentionality, thereby establishing an affective state equivalent to human emotions?
+  Question Hypothesis: Artificial agents that implement deep reinforcement‑learning architectures generate internal valuation signals (reward prediction errors, policy entropy, and affect‑modulated gating) that, when coupled with embodied feedback loops, produce stable, reproducible patterns analogous to human emotional s
+  Why It Matters: Answering this would provide a concrete, testable definition of machine emotion, enabling reliable emotional AI, improving human‑machine collaboration, informing safety protocols, and shedding light o
+  Questions Generated: 8
+    [assumption_attack] What assumption does everyone accept about Can we define and empirically detect 
+    [scale_transfer] Does a mechanism at one scale (quantum/molecular) also drive Can we define and e
+    [assumption_attack] What if the standard model of define empirically detect affective stat is fundam
+    [assumption_attack] What if the prevailing assumption that emotions require a biological substrate (
+    [missing_variable] Which unmeasured internal variable—such as a unified 'affective value' signal in
+  Cross-Domain Connections (Newton's Move): 3
+    Domain A: affective neuroscience: Human emotional arousal is linked to increased neural variability and long‑range
+    Domain B: statistical physics: Physical systems near a second‑order phase transition (e.g., ferromagnets near t
+    Connection: Both phenomena reflect a system poised at criticality, where small perturbations produce large, scal
+    Hypothesis: Emotional arousal in artificial agents emerges when the internal recurrent network dynamics are tune
+    Prediction: If the hypothesis is correct, agents whose recurrent weights are adjusted to the edge of chaos will 
+
+    Domain A: neuroscience / psychology: Human emotions rely on a dopamine‑mediated reward‑prediction‑error (RPE) signal 
+    Domain B: econophysics / computational finance: Financial market models treat price changes as prediction‑error signals; agents 
+    Connection: Both systems use a scalar error signal as a valence‑like quantity that directly biases future action
+    Hypothesis: Embedding a dopamine‑like scalar prediction‑error signal in artificial agents will generate measurab
+    Prediction: Manipulating the magnitude of the RPE signal (e.g., by varying reward stochasticity) will produce sy
+
+    Domain A: psychophysiology: Human emotional intentionality is expressed through coordinated changes in auton
+    Domain B: robotics / collective behavior: Swarm‑robotic platforms allow individual robots to modulate an internal ‘energy’
+    Connection: In both cases, an internal homeostatic variable is coupled to the decision‑making process, providing
+    Hypothesis: An artificial agent’s affective state can be operationalized as a tunable coupling coefficient betwe
+    Prediction: Increasing the coupling coefficient will amplify the correlation between the simulated physiological
+
+  Curiosity Constraint (Track B):
+    Forbidden Theories: Reinforcement‑Learning based emotion models (e.g., reward‑prediction‑error driven affect), OCC (Ortony‑Clore‑Collins) cognitive appraisal theory applied to agents, Homeostatic / drive‑reduction emotion frameworks, Predictive‑processing / active‑inference accounts of affect, Embodied cognition models linking bodily states to artificial emotion
+    Required Properties:
+      + Provides empirically measurable signatures (e.g., hidden‑state trajectories, behavioral patterns, physiological‑like signals)
+      + Maps onto the functional triad of valence, arousal, and intentionality
+      + Demonstrates reproducibility across different agent architectures and tasks
+    Novelty Direction: Explore multi‑scale dynamical regimes that combine neuromodulatory‑style scalar signals with critical‑state network dynamics, allowing affective states to emerge from the interaction of fast prediction‑error fluctuations and slower homeostatic or embodied loops. Emphasize mechanisms that can be probed experimentally (e.g., latent‑space perturbations, causal interventions) and that bridge the gap between purely algorithmic reward signals and biologically inspired affective architectures.
+
+----------------------------------------------------------------------
+  DUAL-TRACK COMPARISON: Curiosity vs Pipeline
+----------------------------------------------------------------------
+
+  Two independent approaches were used:
+  1. CURIOUS ENGINE: Generated a question-driven hypothesis
+  2. CONVENTIONAL PIPELINE: Ran full 21-phase discovery
+
+  These are SEPARATE tracks. The curiosity hypothesis was NOT
+  injected into the pipeline. Both ran independently.
+
+  TRACK A: CONVENTIONAL PIPELINE WINNER
+    Name: Affective Predictive Entropy Theory
+    Score: 0.65
+    Description: This theory proposes that artificial agents can exhibit affective states through affective predictive entropy (APE), which quantifies the uncertainty of the agent's internal predictive distribution ov
+
+  TRACK B: CURIOSITY-DRIVEN HYPOTHESIS
+    Core Question: What empirically measurable signatures (e.g., internal state dynamics, behavioral outputs, and physi
+    Hypothesis: Artificial agents that implement deep reinforcement‑learning architectures generate internal valuation signals (reward prediction errors, policy entropy, and affect‑modulated gating) that, when coupled with embodied feedback loops, produce stable, reproducible patterns analogous to human emotional s
+
+  COMPARISON:
+    Pipeline says: Affective Predictive Entropy Theory
+    Curiosity says: Artificial agents that implement deep reinforcement‑learning...
+
+  Both tracks contribute to the discovery. The pipeline
+  validates through evidence and scoring. The curiosity
+  engine identifies the RIGHT QUESTION to ask.
+
+  A discovery needs both: the right question AND the right answer.
+
+──────────────────────────────────────────────────────────────────────
+  ADVERSARIAL TEST — What Survived the Attack
+──────────────────────────────────────────────────────────────────────
+  hidden_variables: 9 tested → 3 survived, 0 weakened, 0 killed
+  mechanisms: 3 tested → 2 survived, 0 weakened, 0 killed
+  theories: 5 tested → 2 survived, 0 weakened, 0 killed
+  Hidden Variables:
+    ✓ Affective Internal Energy (AIE) [survived, attack score: 0.52]
+      Existing theory: Affective states in artificial agents are already modeled using scalar variables such as arousal/val
+      Can remove: coupling_coefficient_to_computational_energy, field_spatial_extent
+      Falsification: If, after controlling for all known reward and drive signals, variations in the measured proxy for A
+      Verdict: Existing affective and motivational theories already account for the phenomena AIE aims to explain, making the new scala
+    ? Cognitive Resonance Field (CRF) [challenged, attack score: 0.45]
+      Existing theory: Dynamic systems models of affective entrainment and predictive coding frameworks (e.g., Barrett 2017
+      Can remove: vector_field_representation
+      Falsification: If, across >1000 interaction trials, the Pearson correlation between the dominant frequency of inter
+      Verdict: Existing dynamical‑systems and predictive‑coding theories already account for affective synchrony without invoking a new
+    ? Fluctuation‑Driven Decision Noise (FDDN) [challenged, attack score: 0.35]
+      Existing theory: Stochastic decision policies in reinforcement learning (e.g., softmax/Boltzmann exploration, epsilon
+      Can remove: affect‑modulated noise term (FDDN)
+      Falsification: If, after controlling for all known exploration parameters (temperature, epsilon, intrinsic motivati
+      Verdict: Existing stochastic policies and affect‑modulated RL already explain the observed decision noise, making the proposed FD
+    ✓ Affective Predictive Entropy (APE) [survived, attack score: 0.60]
+      Existing theory: Predictive coding and the Free Energy Principle (Friston 2010) describe affective states as arising 
+      Can remove: conditioning on reward‑prediction error
+      Falsification: If an agent exhibits a high APE (>0.8 bits) while simultaneously showing behavioral markers of posit
+      Verdict: The proposed APE metric maps onto well‑established concepts of uncertainty and prediction error in neuroscience and RL, 
+    ✓ Synthetic Somatic Feedback Coefficient (SSFC) [survived, attack score: 0.67]
+      Existing theory: Interoceptive inference and the somatic marker hypothesis (e.g., Damasio 1994; Friston 2010) which d
+      Can remove: dimensionless scaling coefficient (SSFC)
+      Falsification: If, across a statistically powered set of agents (N ≥ 30), the Pearson correlation r between changes
+      Verdict: The SSFC is essentially a re‑branding of already‑established concepts of interoceptive modulation of affective responses
+  Mechanisms:
+    ? Affective Internal Energy (AIE) Field [challenged, attack score: 0.42]
+      Existing theory: The free‑energy principle (Friston, 2010) and homeostatic drive models in affective computing alread
+      Can remove: D, λ
+      Falsification: If repeated measurements of a proposed proxy for AIE (e.g., internal activation energy inferred from
+      Verdict: The AIE field overlaps with established free‑energy and drive‑based models, and its core parameters can be reduced witho
+    ✓ Cognitive Resonance Field (CRF) [survived, attack score: 0.60]
+      Existing theory: Neural entrainment and affective resonance models (e.g., interoceptive predictive coding by Friston 
+      Can remove: σ
+      Falsification: If empirical measurements of the phase‑locking value (PLV) between internal affective oscillations (
+      Verdict: The phenomenon of phase synchronization between internal affective cycles and external cues is already explained by esta
+    ✓ Fluctuation‑Driven Decision Noise (FDDN) [survived, attack score: 0.57]
+      Existing theory: Boltzmann (softmax) exploration in reinforcement learning, affect‑modulated decision noise in affect
+      Can remove: π₀, α
+      Falsification: If, across a wide range of measured affective temperature values (10⁰–10²), the variance of the agen
+      Verdict: The proposed mechanism largely overlaps with established stochastic exploration models and affect‑modulated noise framew
+  Theories:
+    ✓ Synthetic Somatic Feedback Theory [survived, attack score: 0.52]
+      Existing theory: Homeostatic reinforcement learning and affective computing frameworks (e.g., Picard 1997; Breazeal 2
+      Can remove: SSFC_value, external_stimulus
+      Falsification: If, for a fixed external stimulus (e.g., value 0.5 arbitrary units), varying the internal somatic va
+      Verdict: The core idea of coupling internal simulated bodily states to external stimuli is already covered by homeostatic and aff
+    ✓ Affective Predictive Entropy Theory [survived, attack score: 0.60]
+      Existing theory: Predictive coding / free‑energy principle (Friston 2010) and reinforcement‑learning models that link
+      Can remove: APE_value
+      Falsification: If, across a large set of agents (N ≥ 30), the correlation between measured APE (entropy of the pred
+      Verdict: The core idea is already covered by well‑established predictive‑coding and RL theories, making the new variable (APE) un
+    ? Cross-Domain Affective State Theory [superseded, attack score: 0.15]
+      Existing theory: Multimodal affective computing and cross‑modal transfer learning (e.g., Picard 1997; Calvo & D'Mello
+      Can remove: CDAT_value, domain_transfer
+      Falsification: If a controlled experiment shows that an agent employing the CDAT mechanism does not achieve a stati
+      Verdict: The proposed cross‑domain affective state mechanism is already encompassed by well‑established multimodal affective comp
+    ? Affective Resonance Theory [challenged, attack score: 0.35]
+      Existing theory: Appraisal theory and established affective computing frameworks (e.g., the OCC model, affective loop
+      Can remove: CRF_value, Cognitive Resonance Field (CRF)
+      Falsification: If, across ≥100 experimental trials, the Pearson correlation between the purported CRF_value and the
+      Verdict: Existing affective computing and appraisal theories already explain the proposed phenomena, and the core construct (CRF)
+    ? Fluctuation-Driven Affective State Theory [challenged, attack score: 0.35]
+      Existing theory: Affective modulation of decision noise is already explained by existing frameworks such as the Somat
+      Can remove: FDDN_value
+      Falsification: In a controlled decision‑making task with fixed uncertainty_level = 0.8, if agents with FDDN_value =
+      Verdict: The phenomenon the theory aims to explain is already captured by well‑established models of affect‑modulated stochastic 
+
+──────────────────────────────────────────────────────────────────────
+  CRITICAL EVALUATION — 6-Dimension Assessment
+──────────────────────────────────────────────────────────────────────
+  Overall Score: 4.5/10
+  Recommendation: major_revision
+  Summary: Synthetic Somatic Feedback Theory offers an intriguing perspective on how artificial agents might develop affective states through internally generated feedback loops that emulate bodily signals. The concept pushes the field toward a more embodied view of machine affect, which could be transformativ
+  Novelty: 7/10 — The proposal of a synthetic somatic feedback loop that mirrors physiological aff
+  Methodology: 4/10 — The description mixes high‑level thermodynamic analogies with vague mathematical
+  Significance: 6/10 — If the theory could be substantiated, it would provide a principled route to bui
+  Clarity: 5/10 — The manuscript conveys the core idea but suffers from inconsistent terminology, 
+  Limitations: 3/10 — The authors acknowledge only a few limitations (e.g., hidden variables surviving
+  Reproducibility: 2/10 — No detailed algorithmic description, simulation code, or experimental setup is p
+  Major issues (3):
+    ! Absence of precise mathematical definitions for the core constructs (AIE field, CRF, SSFC, etc.).
+    ! Lack of experimental or simulation protocols that allow the stated predictions to be tested.
+    ! Inadequate discussion of how synthetic somatic variables would be measured or validated in practice.
+  Minor issues (3):
+    - Typographical errors and truncated sentences in the predictions section.
+    - Inconsistent use of abbreviations (e.g., "AIE" vs. "Affective Internal Energy").
+    - The adversarial test summary is presented without context or explanation of its relevance.
+  Questions for authors:
+    ? Can you provide explicit equations governing the dynamics of the AIE field and its coupling to external stimuli?
+    ? What concrete hardware or software platform will you use to instantiate the synthetic somatic variables, and how will yo
+    ? How do you define and compute the decision variance and response latency metrics referenced in the interventional and co
+    ? Have you considered alternative explanations (e.g., purely algorithmic noise) for the observed affect‑modulated behavior
+    ? What ethical safeguards do you propose for agents that might be interpreted as having affective states?
+
+──────────────────────────────────────────────────────────────────────
+  CONTRADICTIONS (6)
+──────────────────────────────────────────────────────────────────────
+  1. 
+     Severity: 0.4
+  2. 
+     Severity: 0.4
+  3. 
+     Severity: 0.4
+  4. 
+     Severity: 0.9
+  5. 
+     Severity: 0.6
+
+──────────────────────────────────────────────────────────────────────
+  COMPUTATIONAL VERIFICATION
+──────────────────────────────────────────────────────────────────────
+  Computations run: 9
+  Support level: moderate
+    → Network has 4 hub entities with degree > 78. Mean degree: 3.1. Hub concentration: high.
+    → Average clustering coefficient: 0.3270. Low clustering suggests sparse connections.
+    → Top bridging entity: quantum (centrality: 1.0000). These entities connect different parts of the knowledge graph.
+    → Found 173 distinct communities. Multiple disconnected communities suggest knowledge fragmentation.
+    → Found 3 paths between theory entities. Strong structural support.
+
+──────────────────────────────────────────────────────────────────────
+  SKEPTIC REVIEW
+──────────────────────────────────────────────────────────────────────
+  Recommendation: revise
+  Revised confidence: 66%
+  Strengths (3):
+    + Provides a concrete, mechanistic feedback loop that can be implemented in embodied AI systems.
+    + Links affective-like behavior to internal homeostatic variables, echoing well‑established biological principles.
+    + Encourages interdisciplinary dialogue between robotics, affective science, and computational neuroscience.
+  Weaknesses (5):
+    - Lacks a formal mathematical model describing the dynamics of synthetic somatic variables.
+    - No explicit, falsifiable predictions are articulated; the predictions list is empty.
+    - Evidence cited is predominantly theoretical or anecdotal; empirical validation is minimal.
+    - Does not explain how somatic feedback integrates with higher‑level cognition or decision‑making modules.
+    - Potential circularity: affective states are defined by the very feedback loop the theory proposes, without independent criteria.
+
+──────────────────────────────────────────────────────────────────────
+  DISCOVERY SCORING
+──────────────────────────────────────────────────────────────────────
+  Overall Score: 54/100
+  Grade: C
+  Dimension scores:
+    novelty: 81.0
+    explanatory_power: 91
+    predictive_power: 100.0
+    falsifiability: 100.0
+    simplicity: 10.0
+    evidence_strength: 60.4
+    mathematical_rigor: 20.0
+  Strengths: novelty: 81/100; explanatory_power: 91/100; predictive_power: 100/100
+  Weaknesses: simplicity: 10/100; mathematical_rigor: 20/100
+  Summary: 'Synthetic Somatic Feedback Theory' (alternative) scores 54/100 (Grade: C). Strongest: predictive_power (100/100). Weakest: simplicity (10/100). Promising but needs stronger evidence or predictions.
+
+──────────────────────────────────────────────────────────────────────
+  DISCOVERY CLASSIFICATION — What's Known vs What's New
+──────────────────────────────────────────────────────────────────────
+  Classification: extension
+  Meaning: New application of known mechanisms — applies existing physics to new domain
+  Details:
+    New mechanism proposed: False
+    New prediction generated: True
+    New mathematics introduced: False
+    Not found in literature: True
+
+======================================================================

@@ -1,0 +1,352 @@
+======================================================================
+  DISCOVERY REPORT
+======================================================================
+  Topic: Does the immunomodulatory effect of specific gut bacteria depend not on their metabolic output but on strain-specific molecular patterns that directly engage pattern recognition receptors on dendritic cells in the gut-draining lymph nodes, creating a tissue-specific imprint that licenses systemic anti-tumor immunity?
+  Domain: drug_discovery
+  Mode: full
+  Duration: 45601.4s
+
+──────────────────────────────────────────────────────────────────────
+  PAPERS (94)
+──────────────────────────────────────────────────────────────────────
+  [crossref] Immunomodulatory Effect of Vitamin C and E on Non-Specific Immune Parameters in 
+    Authors: Ankita Singh, Seema Jain
+    Year: 2022
+  [crossref] Immunomodulatory effect of bifido- and lactobacilli complex on non-specific humo
+    Authors: A. D. Zhandalgarova
+    Year: 2025
+  [crossref] Mining Novel Specific Rumen Bacteria to Enhance the Bioactive Function of Mulber
+    Authors: Bing Wang, Hailing Luo
+  [pubmed] The Effect of the Gut Microbiota on Systemic and Anti-Tumor Immunity and Respons
+    Year: 2022
+  [pubmed] Synergistic antitumor and immunomodulatory effects of Bifidobacterium animalis s
+    Year: 2026
+  [arxiv] Introducing Dendritic Cells as a Novel Immune-Inspired Algorithm for Anomoly Det
+    Authors: Julie Greensmith, Uwe Aickelin, Steve Cayzer
+    Year: 2010
+  [core] The innate immune response to HSV-1: glycoprotein mediated activation of dendrit
+    Authors: Reske, A., Reske, A
+    Year: 2009
+  [pubmed] Lactic acid bacteria fermentation of porphyran: Compositional transformation and
+    Year: 2026
+  [pubmed] Translating 3D-printed PEEK for orthopaedic implants: nonlinear effects of gamma
+    Year: 2026
+  [pubmed] Live biotherapeutic enterococcus lactis MNC-168 promotes the efficacy of immune 
+    Year: 2025
+  ... and 84 more papers
+
+──────────────────────────────────────────────────────────────────────
+  KNOWLEDGE GRAPH
+──────────────────────────────────────────────────────────────────────
+  Entities: 428
+  Relationships: 5167
+
+──────────────────────────────────────────────────────────────────────
+  KNOWLEDGE GAPS (10)
+──────────────────────────────────────────────────────────────────────
+  [orphan_observation] (6 gaps)
+    - 'Acceleration' is a phenomenon mentioned in 9 paper(s) but has no causal/explanatory mechanism in the graph. It is obser
+    - 'fluctuation' is a phenomenon mentioned in 8 paper(s) but has no causal/explanatory mechanism in the graph. It is observ
+    - 'puzzle' is a phenomenon mentioned in 5 paper(s) but has no causal/explanatory mechanism in the graph. It is observed bu
+  [structural_hole] (4 gaps)
+    - These 1920 and 1 entities share type(s) concept but have no connecting relationships. This may indicate an unexplored cr
+    - These 1920 and 1 entities share type(s) concept but have no connecting relationships. This may indicate an unexplored cr
+    - These 1920 and 1 entities share type(s) concept but have no connecting relationships. This may indicate an unexplored cr
+
+──────────────────────────────────────────────────────────────────────
+  ANOMALIES (4)
+──────────────────────────────────────────────────────────────────────
+  [outlier_entity] 'cancer' has degree 74 (z=5.2), much higher than average (6.4). It's a hub — either a genuine driver or an over-studied 
+  [outlier_entity] 'quantum' has degree 125 (z=9.1), much higher than average (6.4). It's a hub — either a genuine driver or an over-studie
+  [outlier_entity] 'dark matter' has degree 83 (z=5.9), much higher than average (6.4). It's a hub — either a genuine driver or an over-stu
+  [outlier_entity] 'act' has degree 70 (z=4.9), much higher than average (6.4). It's a hub — either a genuine driver or an over-studied ent
+
+──────────────────────────────────────────────────────────────────────
+  HIDDEN VARIABLES (3)
+──────────────────────────────────────────────────────────────────────
+  1. [counterfactual] Mucosal Pattern Recognition Signature (MPRS)
+     Description: A composite quantitative index that captures the density and spatial arrangement of strain‑specific microbe‑associated molecular patterns (MAMPs) on the surface of gut bacteria that are capable of eng
+
+  2. [counterfactual] Dendritic Cell Imprint Index (DCII)
+     Description: A measurable parameter representing the epigenetic and transcriptional ‘imprint’ left on gut‑draining lymph node dendritic cells after exposure to a specific bacterial strain. DCII combines chromatin 
+
+  3. [counterfactual] Gut‑Associated Lymphoid Node Molecular Pattern Flux (GALN‑MPF)
+     Description: A dynamic, time‑resolved metric quantifying the rate at which strain‑specific MAMPs are translocated from the intestinal lumen to the mesenteric lymph node via dendritic cell sampling. GALN‑MPF is der
+
+
+──────────────────────────────────────────────────────────────────────
+  MECHANISMS (3)
+──────────────────────────────────────────────────────────────────────
+  1. [causal_pathway] Mechanism: Mucosal Pattern Recognition Signature (MPRS)
+     A composite quantitative index that captures the density and spatial arrangement of strain‑specific microbe‑associated molecular patterns (MAMPs) on the surface of gut bacteria that are capable of eng
+     Step 1: A composite quantitative index that captures the density
+     Step 2: spatial arrangement of strain‑specific microbe‑associated molecular patterns (MAMPs) on the surface of gut bacteria that are capable of engaging Toll‑
+     Step 3: C-type lectin receptors (CLR) on dendritic cells within the mesenteric lymph node (MLN)
+     Step 4: MPRS is calculated from high‑resolution imaging mass spectrometry data combined with spatial transcriptomics of dendritic cell PRR activation markers,
+
+  2. [causal_pathway] Mechanism: Dendritic Cell Imprint Index (DCII)
+     A measurable parameter representing the epigenetic and transcriptional ‘imprint’ left on gut‑draining lymph node dendritic cells after exposure to a specific bacterial strain. DCII combines chromatin 
+     Step 1: A measurable parameter representing the epigenetic
+     Step 2: transcriptional ‘imprint’ left on gut‑draining lymph node dendritic cells after exposure to a specific bacterial strain
+     Step 3: DCII combines chromatin accessibility (ATAC‑seq) at PRR‑responsive enhancers, methylation status of the CIITA promoter,
+     Step 4: expression levels of the co‑stimulatory molecule CD80, normalized to a reference dendritic cell population
+
+  3. [causal_pathway] Mechanism: Gut‑Associated Lymphoid Node Molecular Pattern Flux (GALN‑MPF)
+     A dynamic, time‑resolved metric quantifying the rate at which strain‑specific MAMPs are translocated from the intestinal lumen to the mesenteric lymph node via dendritic cell sampling. GALN‑MPF is der
+     Step 1: A dynamic, time‑resolved metric quantifying the rate at which strain‑specific MAMPs are translocated from the intestinal lumen to the mesenteric lymph
+     Step 2: GALN‑MPF is derived from in vivo labeling of bacterial surface glycans with a stable isotope, followed by kinetic mass‑spectrometric tracking of label
+
+
+──────────────────────────────────────────────────────────────────────
+  PREDICTIONS (7 generated, 7 accepted)
+──────────────────────────────────────────────────────────────────────
+  1. [correlational] If the Mucosal Pattern Recognition Signature (MPRS) of a specific gut bacterial strain is greater than 0.8, then the Dendritic Cell Imprint Index (DCII) will be increased by at lea
+     Confidence: 0.8
+     Test: Measure MPRS using high-resolution imaging mass spectrometry and spatial transcriptomics, and DCII using chromatin acces
+     Falsification: Observing no significant increase in DCII after exposure to a bacterial strain with MPRS > 0.8.
+
+  2. [interventional] If the Gut-Associated Lymphoid Node Molecular Pattern Flux (GALN-MPF) is increased by 30% through dendritic cell sampling, then the systemic anti-tumor immunity will be enhanced by
+     Confidence: 0.9
+     Test: Use in vivo labeling of bacterial surface glycans with a stable isotope and kinetic mass-spectrometric tracking of label
+     Falsification: Observing no significant enhancement of systemic anti-tumor immunity after increasing GALN-MPF by 30%.
+
+  3. [counterfactual] If a specific gut bacterial strain had not been present in the gut microbiome, then the DCII would be decreased by at least 10%.
+     Confidence: 0.7
+     Test: Use germ-free mice or antibiotic-treated mice to establish a gut microbiome without the specific bacterial strain. Measu
+     Falsification: Observing no significant decrease in DCII in the absence of the specific gut bacterial strain.
+
+  4. [correlational] If the MPRS of a specific gut bacterial strain is correlated with the expression levels of CD80 on dendritic cells, then the strain will induce a stronger systemic anti-tumor immun
+     Confidence: 0.6
+     Test: Measure MPRS using high-resolution imaging mass spectrometry and spatial transcriptomics, and CD80 expression levels usi
+     Falsification: Observing no significant correlation between MPRS and CD80 expression levels, or no significant induction of systemic an
+
+  5. [interventional] If the GALN-MPF is increased by 20% through dendritic cell sampling, then the time to tumor growth will be increased by at least 10 days.
+     Confidence: 0.8
+     Test: Use in vivo labeling of bacterial surface glycans with a stable isotope and kinetic mass-spectrometric tracking of label
+     Falsification: Observing no significant increase in time to tumor growth after increasing GALN-MPF by 20%.
+
+  6. [correlational] If the DCII is increased by 15% after exposure to a specific gut bacterial strain, then the expression levels of CD80 on dendritic cells will be increased by at least 20%.
+     Confidence: 0.7
+     Test: Measure DCII using chromatin accessibility, methylation status, and expression levels of CD80. Measure CD80 expression l
+     Falsification: Observing no significant increase in CD80 expression levels after increasing DCII by 15%.
+
+  7. [novel] If the MPRS of a specific gut bacterial strain is greater than 0.9, then the strain will induce a significant increase in systemic anti-tumor immunity, resulting in a 20% reduction
+     Confidence: 0.9
+     Test: Measure MPRS using high-resolution imaging mass spectrometry and spatial transcriptomics. Measure systemic anti-tumor im
+     Falsification: Observing no significant reduction in tumor growth after exposure to a bacterial strain with MPRS > 0.9.
+
+
+──────────────────────────────────────────────────────────────────────
+  THEORY TOURNAMENT (1 entered, 4 survived, 0 eliminated)
+──────────────────────────────────────────────────────────────────────
+  Tournament rounds:
+    Round 1: generation — 1 candidates
+
+  Survivors (ranked):
+  1. Unnamed Theory (score: 0.00) [alternative]
+     Causal status: no_causal_claim
+
+  2. Scale‑Dependent Hub Hypothesis (score: 0.00) [contradiction_resolution]
+     Both sides of the 'theory_quantum' tension are correct because the apparent hub status of the quantum‑level entity depends on the spatial‑temporal resolution of the measurement. At nanometer‑scale, qu
+
+  3. Complexity‑Modulated Model Integration (score: 0.00) [contradiction_resolution]
+     The 'theory_model' hub discrepancy is reconciled by recognizing that the number of connections an abstract model entity forms varies with the biological complexity of the system under study. In simple
+
+  4. Metabolite‑Mediated Dark Matter Hub Hypothesis (score: 0.00) [contradiction_resolution]
+     Both sides of the 'entity_dark_matter' tension are valid because the hub‑like behavior of the dark‑matter‑analogue entity is contingent on the presence of specific gut‑derived metabolites that act as 
+
+
+----------------------------------------------------------------------
+  CURIOUS QUESTIONING - The Newton Step
+----------------------------------------------------------------------
+  Core Question: Do specific strain-level molecular patterns of gut bacteria directly engage dendritic cell pattern‑recognition receptors in gut‑draining lymph nodes to imprint a tissue‑specific program that is necessary and sufficient for systemic anti‑tumor immunity, independent of their metabolic products?
+  Question Hypothesis: Strain‑specific surface molecules (e.g., unique lipopolysaccharide variants, peptidoglycan motifs, or secreted proteins) bind distinct dendritic cell receptors (TLR, C-type lectin, NOD) in the mesenteric lymph node, triggering a transcriptional program that licenses dendritic cells to prime cytotoxi
+  Why It Matters: If true, it would redefine how we harness the microbiome for cancer immunotherapy, enabling precision engineering of bacterial strains or synthetic mimetics that program dendritic cells to launch robu
+  Surprising Observations: 1
+    - however, upstream regulators of tsl cells generation remain elusive, and direct evidence 
+  Questions Generated: 9
+    [assumption_attack] What assumption does everyone accept about Does the immunomodulatory effect of s
+    [scale_transfer] Does a mechanism at one scale (quantum/molecular) also drive Does the immunomodu
+    [cross_domain] What field solved an analogous problem to: however, upstream regulators of tsl c
+    [assumption_attack] What if the standard model of immunomodulatory effect specific bacteri is fundam
+    [assumption_attack] Is the prevailing view that bacterial metabolites (short‑chain fatty acids, tryp
+  Cross-Domain Connections (Newton's Move): 3
+    Domain A: drug_discovery: Strain‑specific surface molecules of gut bacteria (e.g., a unique lipoprotein or
+    Domain B: plant_immunology: Beneficial rhizobacteria in plants expose a defined flagellin peptide (flg22) th
+    Connection: In both systems a discrete, strain‑level molecular pattern (bacterial surface protein or peptide) is
+    Hypothesis: A conserved ‘pattern‑only’ immune imprinting mechanism exists across kingdoms: the engagement of a s
+    Prediction: Synthetic delivery of the identified bacterial surface peptide to the mouse gut (e.g., via oral gava
+
+    Domain A: drug_discovery: Gut‑derived dendritic cells require engagement of a specific bacterial surface m
+    Domain B: neuroscience: During neurodevelopment, neurons display a unique phosphatidylserine‑exposed ‘ea
+    Connection: Both contexts involve a peripheral cell (dendritic cell or microglia) interpreting a specific surfac
+    Hypothesis: Pattern‑driven imprinting is a generic principle of innate immune cells: the identity of the surface
+    Prediction: Genetically removing the bacterial surface motif while preserving metabolic activity will abolish th
+
+    Domain A: drug_discovery: A defined bacterial surface antigen (e.g., a capsular polysaccharide epitope) en
+    Domain B: computer_security: Signature‑based intrusion detection systems (IDS) in computer security flag mali
+    Connection: Both systems rely on a discrete pattern cue to trigger a global defensive state, decoupling the dete
+    Hypothesis: The immune system functions analogously to a signature‑based IDS: recognition of a precise molecular
+    Prediction: Introducing a synthetic mimic of the bacterial surface epitope into a metabolically inert bacterial 
+
+
+----------------------------------------------------------------------
+  DUAL-TRACK COMPARISON: Curiosity vs Pipeline
+----------------------------------------------------------------------
+
+  Two independent approaches were used:
+  1. CURIOUS ENGINE: Generated a question-driven hypothesis
+  2. CONVENTIONAL PIPELINE: Ran full 21-phase discovery
+
+  These are SEPARATE tracks. The curiosity hypothesis was NOT
+  injected into the pipeline. Both ran independently.
+
+  TRACK A: CONVENTIONAL PIPELINE WINNER
+    Name: Unnamed Theory
+    Score: 0.00
+    Description: 
+
+  TRACK B: CURIOSITY-DRIVEN HYPOTHESIS
+    Core Question: Do specific strain-level molecular patterns of gut bacteria directly engage dendritic cell pattern‑r
+    Hypothesis: Strain‑specific surface molecules (e.g., unique lipopolysaccharide variants, peptidoglycan motifs, or secreted proteins) bind distinct dendritic cell receptors (TLR, C-type lectin, NOD) in the mesenteric lymph node, triggering a transcriptional program that licenses dendritic cells to prime cytotoxi
+
+  COMPARISON:
+    Pipeline says: Unnamed Theory
+    Curiosity says: Strain‑specific surface molecules (e.g., unique lipopolysacc...
+
+  Both tracks contribute to the discovery. The pipeline
+  validates through evidence and scoring. The curiosity
+  engine identifies the RIGHT QUESTION to ask.
+
+  A discovery needs both: the right question AND the right answer.
+
+──────────────────────────────────────────────────────────────────────
+  ADVERSARIAL TEST — What Survived the Attack
+──────────────────────────────────────────────────────────────────────
+  hidden_variables: 3 tested → 3 survived, 0 weakened, 0 killed
+  mechanisms: 3 tested → 3 survived, 0 weakened, 0 killed
+  theories: 1 tested → 1 survived, 0 weakened, 0 killed
+  Hidden Variables:
+    ✓ Mucosal Pattern Recognition Signature (MPRS) [survived, attack score: 0.92]
+      Existing theory: The effect of the gut microbiota on systemic and anti-tumor immunity and response to systemic therap
+      Falsification: If we observe that the immunomodulatory effect of gut bacteria is independent of their molecular pat
+      Verdict: The hidden variable proposes a novel mechanism by which gut bacteria influence anti-tumor immunity, but existing theory 
+    ✓ Dendritic Cell Imprint Index (DCII) [survived, attack score: 0.92]
+      Existing theory: The effect of gut microbiota on systemic and anti-tumor immunity, as well as the role of pattern rec
+      Falsification: If the dendritic cell imprint index is not significantly correlated with anti-tumor immunity in a la
+      Verdict: The hypothesis that the immunomodulatory effect of specific gut bacteria depends on strain-specific molecular patterns e
+    ✓ Gut‑Associated Lymphoid Node Molecular Pattern Flu [survived, attack score: 0.92]
+      Existing theory: The Effect of the Gut Microbiota on Systemic and Anti-Tumor Immunity and Response to Systemic Therap
+      Falsification: If we observe that the immunomodulatory effect of gut bacteria is not dependent on strain-specific m
+      Verdict: The hidden variable introduces a new mechanism for the immunomodulatory effect of gut bacteria, which is not fully expla
+  Mechanisms:
+    ✓ Mechanism: Mucosal Pattern Recognition Signature ( [survived, attack score: 0.92]
+      Existing theory: The effect of the gut microbiota on systemic and anti-tumor immunity and response to systemic therap
+      Falsification: If we observe no significant difference in anti-tumor immunity between mice colonized with gut bacte
+      Verdict: The proposed mechanism provides a novel explanation for the immunomodulatory effect of specific gut bacteria, and while 
+    ✓ Mechanism: Dendritic Cell Imprint Index (DCII) [survived, attack score: 0.92]
+      Existing theory: The Effect of the Gut Microbiota on Systemic and Anti-Tumor Immunity and Response to Systemic Therap
+      Falsification: If we observe no significant difference in anti-tumor immunity between mice colonized with different
+      Verdict: The proposed mechanism provides a novel explanation for the immunomodulatory effect of specific gut bacteria, and existi
+    ✓ Mechanism: Gut‑Associated Lymphoid Node Molecular  [survived, attack score: 0.92]
+      Existing theory: The Effect of the Gut Microbiota on Systemic and Anti-Tumor Immunity and Response to Systemic Therap
+      Falsification: If we observe that the immunomodulatory effect of gut bacteria is independent of strain-specific mol
+      Verdict: The mechanism proposes a novel explanation for the immunomodulatory effect of specific gut bacteria, but it is partially
+  Theories:
+    ✓ Unnamed Theory [survived, attack score: 0.92]
+      Existing theory: The Effect of the Gut Microbiota on Systemic and Anti-Tumor Immunity and Response to Systemic Therap
+      Falsification: If we observe that the immunomodulatory effect of gut bacteria is independent of strain-specific mol
+      Verdict: The theory that the immunomodulatory effect of specific gut bacteria depends on strain-specific molecular patterns that 
+
+──────────────────────────────────────────────────────────────────────
+  CRITICAL EVALUATION — 6-Dimension Assessment
+──────────────────────────────────────────────────────────────────────
+  Overall Score: 5/10
+  Recommendation: major_revision
+  Summary: The proposed theory offers an intriguing shift from metabolic to pattern‑recognition‑driven immunomodulation by gut bacteria, suggesting that specific MAMPs could imprint dendritic cells in gut‑draining lymph nodes to license systemic anti‑tumor responses. This concept, if substantiated, would have 
+  Novelty: 7/10 — The hypothesis that strain‑specific molecular patterns, rather than metabolic pr
+  Methodology: 5/10 — The reasoning links several composite indices (MPRS, DCI, GALN‑MPF) without prov
+  Significance: 7/10 — If validated, the theory could reshape microbiome‑based immunotherapy strategies
+  Clarity: 4/10 — The description is fragmented; many abbreviations and indices are introduced wit
+  Limitations: 5/10 — The manuscript briefly mentions hidden variables and survivorship of mechanisms,
+  Reproducibility: 3/10 — Key methodological details (e.g., how MPRS is quantified, sample sizes, controls
+  Major issues (3):
+    ! Lack of detailed experimental design: no description of how MPRS, DCI, or GALN‑MPF are measured, nor the biological samp
+    ! Incomplete prediction statements: several bullet points are truncated, leaving the intended hypotheses ambiguous.
+    ! Insufficient justification of causal links: the manuscript assumes direct engagement of pattern‑recognition receptors wi
+  Minor issues (3):
+    - Overuse of acronyms without prior definition (e.g., MPRS, DCI, GALN‑MPF).
+    - Typographical errors and missing words (e.g., "anti-tumo", "correlati").
+    - Formatting inconsistencies in the list of predictions and mechanisms.
+  Questions for authors:
+    ? How is the Mucosal Pattern Recognition Signature (MPRS) quantitatively calculated, and what experimental techniques are 
+    ? What specific pattern‑recognition receptors (e.g., TLRs, C-type lectin receptors) are hypothesized to mediate the dendri
+    ? Can you provide a detailed protocol for measuring the Dendritic Cell Imprint Index (DCII), including the epigenetic and 
+    ? What control bacterial strains (e.g., isogenic knock‑outs lacking specific MAMPs) will be employed to disentangle patter
+    ? How will you address potential confounding variables such as host genetics, diet, and existing microbiota composition in
+
+──────────────────────────────────────────────────────────────────────
+  CONTRADICTIONS (3)
+──────────────────────────────────────────────────────────────────────
+  1. 
+     Severity: 0.4
+  2. 
+     Severity: 0.4
+  3. 
+     Severity: 0.4
+
+──────────────────────────────────────────────────────────────────────
+  COMPUTATIONAL VERIFICATION
+──────────────────────────────────────────────────────────────────────
+  Computations run: 9
+  Support level: moderate
+    → Network has 2 hub entities with degree > 76. Mean degree: 3.1. Hub concentration: high.
+    → Average clustering coefficient: 0.2909. Low clustering suggests sparse connections.
+    → Top bridging entity: ? (centrality: 1.0000). These entities connect different parts of the knowledge graph.
+    → Found 164 distinct communities. Multiple disconnected communities suggest knowledge fragmentation.
+    → Found 5 paths between theory entities. Strong structural support.
+
+──────────────────────────────────────────────────────────────────────
+  SKEPTIC REVIEW
+──────────────────────────────────────────────────────────────────────
+  Recommendation: revise
+  Revised confidence: 62%
+  Strengths (3):
+    + Provides a quantitative link (MPRS) between microbial composition and response to checkpoint inhibitors.
+    + Generates clear, experimentally tractable predictions (e.g., TLR2 knockout effects).
+    + Integrates immunological readouts (DCII signatures) with clinical outcomes, facilitating translational relevance.
+  Weaknesses (4):
+    - Relies heavily on correlation; causal mechanisms linking MPRS to DCII activation are not delineated.
+    - Assumes a single dominant PRR (TLR2) governs the anti‑tumor effect, ignoring redundancy among PRRs and other innate pathways.
+    - Neglects potential contributions of metabolic mediators beyond SCFAs, such as bile acids or tryptophan metabolites.
+    - Limited discussion of host genetic variability and tumor microenvironment heterogeneity that could modulate the proposed pathway.
+
+──────────────────────────────────────────────────────────────────────
+  DISCOVERY SCORING
+──────────────────────────────────────────────────────────────────────
+  Overall Score: 54/100
+  Grade: C
+  Dimension scores:
+    novelty: 51.0
+    explanatory_power: 92
+    predictive_power: 100.0
+    falsifiability: 100.0
+    simplicity: 80
+    evidence_strength: 54.0
+    mathematical_rigor: 20.0
+  Strengths: explanatory_power: 92/100; predictive_power: 100/100; falsifiability: 100/100
+  Weaknesses: mathematical_rigor: 20/100
+  Summary: 'Unnamed Theory' (alternative) scores 54/100 (Grade: C). Strongest: predictive_power (100/100). Weakest: mathematical_rigor (20/100). Promising but needs stronger evidence or predictions.
+
+──────────────────────────────────────────────────────────────────────
+  DISCOVERY CLASSIFICATION — What's Known vs What's New
+──────────────────────────────────────────────────────────────────────
+  Classification: extension
+  Meaning: New application of known mechanisms — applies existing physics to new domain
+  Details:
+    New mechanism proposed: False
+    New prediction generated: True
+    New mathematics introduced: False
+    Not found in literature: False
+
+======================================================================

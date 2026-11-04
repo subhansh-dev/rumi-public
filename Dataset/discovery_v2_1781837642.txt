@@ -1,0 +1,358 @@
+======================================================================
+  DISCOVERY REPORT
+======================================================================
+  Topic: What microscopic electronic or structural feature distinguishes topological superconductors that host non‑abelian anyons from structurally similar materials that do not, and how can this feature be deliberately engineered?
+  Domain: materials_science
+  Mode: full
+  Duration: 47760.9s
+
+──────────────────────────────────────────────────────────────────────
+  PAPERS (0)
+──────────────────────────────────────────────────────────────────────
+
+──────────────────────────────────────────────────────────────────────
+  KNOWLEDGE GRAPH
+──────────────────────────────────────────────────────────────────────
+  Entities: 398
+  Relationships: 5192
+
+──────────────────────────────────────────────────────────────────────
+  KNOWLEDGE GAPS (10)
+──────────────────────────────────────────────────────────────────────
+  [orphan_observation] (6 gaps)
+    - 'Acceleration' is a phenomenon mentioned in 9 paper(s) but has no causal/explanatory mechanism in the graph. It is obser
+    - 'fluctuation' is a phenomenon mentioned in 8 paper(s) but has no causal/explanatory mechanism in the graph. It is observ
+    - 'Carcinoma' is a disease mentioned in 6 paper(s) but has no causal/explanatory mechanism in the graph. It is observed bu
+  [structural_hole] (4 gaps)
+    - These 1938 and 34 entities share type(s) chemical, unknown, protein, organism, phenomenon but have no connecting relatio
+    - These 1938 and 4 entities share type(s) concept but have no connecting relationships. This may indicate an unexplored cr
+    - These 1938 and 4 entities share type(s) concept but have no connecting relationships. This may indicate an unexplored cr
+
+──────────────────────────────────────────────────────────────────────
+  ANOMALIES (10)
+──────────────────────────────────────────────────────────────────────
+  [outlier_entity] 'quantum' has degree 125 (z=8.9), much higher than average (7.2). It's a hub — either a genuine driver or an over-studie
+  [outlier_entity] 'dark matter' has degree 83 (z=5.7), much higher than average (7.2). It's a hub — either a genuine driver or an over-stu
+  [outlier_entity] 'cancer' has degree 72 (z=4.9), much higher than average (7.2). It's a hub — either a genuine driver or an over-studied 
+  [outlier_entity] 'act' has degree 70 (z=4.7), much higher than average (7.2). It's a hub — either a genuine driver or an over-studied ent
+  [outlier_entity] 'black hole' has degree 57 (z=3.8), much higher than average (7.2). It's a hub — either a genuine driver or an over-stud
+  [prediction_violation] There's a path concept_proteolysis_targeting_chimeras→cancer→concept_nobel_prize but no direct connection. Either the di
+  [prediction_violation] There's a path concept_proteolysis_targeting_chimeras→cancer→concept_genomic_analysis but no direct connection. Either t
+  [prediction_violation] There's a path concept_proteolysis_targeting_chimeras→cancer→Intestinal Microbiota but no direct connection. Either the 
+
+──────────────────────────────────────────────────────────────────────
+  HIDDEN VARIABLES (13)
+──────────────────────────────────────────────────────────────────────
+  1. [proposed] Hidden mechanism connecting Acceleration to framework, monte_carlo, kinetic_monte_carlo_framework
+     Description: The observation 'Acceleration' appears in the literature but lacks a causal explanation. Based on the knowledge graph, it may be connected to framework, monte_carlo, kinetic_monte_carlo_framework. Pro
+     Parameter: entity = Acceleration   
+
+  2. [proposed] Hidden mechanism connecting fluctuation to liquid–liquid_phase_separation, planck_satellite, planck_npipe_dataset
+     Description: The observation 'fluctuation' appears in the literature but lacks a causal explanation. Based on the knowledge graph, it may be connected to liquid–liquid_phase_separation, planck_satellite, planck_np
+     Parameter: entity = fluctuation   
+
+  3. [proposed] Hidden mechanism connecting Carcinoma to kras, cancer, proteasome_system
+     Description: The observation 'Carcinoma' appears in the literature but lacks a causal explanation. Based on the knowledge graph, it may be connected to kras, cancer, proteasome_system. Propose a domain-specific me
+     Parameter: entity = Carcinoma   
+
+  4. [proposed] Hidden mechanism connecting resonance to bound, kras, ras
+     Description: The observation 'resonance' appears in the literature but lacks a causal explanation. Based on the knowledge graph, it may be connected to bound, kras, ras. Propose a domain-specific mechanism that ex
+     Parameter: entity = resonance   
+
+  5. [proposed] Hidden mechanism connecting puzzle to biological_homochirality, electron
+     Description: The observation 'puzzle' appears in the literature but lacks a causal explanation. Based on the knowledge graph, it may be connected to biological_homochirality, electron. Propose a domain-specific me
+     Parameter: entity = puzzle   
+
+  6. [proposed] Central role of quantum in What microscopic electronic or structural feature distinguishes topological superconductors that host non‑abelian anyons from structurally similar materials that do not, and how can this feature be deliberately engineered?
+     Description: 'quantum' is a hub entity (z=8.9) connecting: chemical_axion, concept_classical_field, theory, concept_quantum_teleportation, concept_topological_insulator. This unusually high connectivity suggests q
+     Parameter: z_score = 8.9   
+
+  7. [proposed] Central role of dark matter in What microscopic electronic or structural feature distinguishes topological superconductors that host non‑abelian anyons from structurally similar materials that do not, and how can this feature be deliberately engineered?
+     Description: 'dark matter' is a hub entity (z=5.7) connecting: cancer. This unusually high connectivity suggests dark matter plays a mechanistic role that current models may underestimate. Propose that dark matter
+     Parameter: z_score = 5.73   
+
+  8. [proposed] Central role of cancer in What microscopic electronic or structural feature distinguishes topological superconductors that host non‑abelian anyons from structurally similar materials that do not, and how can this feature be deliberately engineered?
+     Description: 'cancer' is a hub entity (z=4.9) connecting: technology_crispr/cas9, concept_essential_genes, concept_resistance_mechanisms, concept_endocrine_therapy, concept_potential_novel_treatment_strategies. Th
+     Parameter: z_score = 4.9   
+
+  9. [proposed] Central role of act in What microscopic electronic or structural feature distinguishes topological superconductors that host non‑abelian anyons from structurally similar materials that do not, and how can this feature be deliberately engineered?
+     Description: 'act' is a hub entity (z=4.8) connecting: theory_hypothesis, framework, telescope, dataset, concept_short_periodic_features. This unusually high connectivity suggests act plays a mechanistic role that
+     Parameter: z_score = 4.75   
+
+  10. [proposed] Central role of black hole in What microscopic electronic or structural feature distinguishes topological superconductors that host non‑abelian anyons from structurally similar materials that do not, and how can this feature be deliberately engineered?
+     Description: 'black hole' is a hub entity (z=3.8) connecting: multiple domains. This unusually high connectivity suggests black hole plays a mechanistic role that current models may underestimate. Propose that bla
+     Parameter: z_score = 3.76   
+
+  11. [proposed] Connection: cancer ↔ BRAF
+     Description: Entities 'cancer' and 'BRAF' share 3 common neighbors but have no direct relationship. In the context of What microscopic electronic or structural feature distinguishes topological superconductors tha
+     Parameter: common_neighbors = 3   
+
+  12. [alternative] Common cause: Bound ↔ limit
+     Description: The processes 'Bound' and 'limit' both appear in the What microscopic electronic or structural feature distinguishes topological superconductors that host non‑abelian anyons from structurally similar 
+
+  13. [alternative] Novel interpretation of Bound
+     Description: The measured property 'Bound' in the context of What microscopic electronic or structural feature distinguishes topological superconductors that host non‑abelian anyons from structurally similar mater
+     Parameter: Bound = to be determined   
+
+
+──────────────────────────────────────────────────────────────────────
+  MECHANISMS (5)
+──────────────────────────────────────────────────────────────────────
+  1. [causal_pathway] Mechanism: Hidden mechanism connecting Acceleration to framework, monte_carlo, kinetic_monte_carlo_framework
+     In the context of What microscopic electronic or structural feature distinguishes topological superconductors that host non‑abelian anyons from structurally similar materials that do not, and how can 
+     Step 1: The observation 'Acceleration' appears in the literature but lacks a causal explanation
+     Step 2: Based on the knowledge graph, it may be connected to framework, monte_carlo, kinetic_monte_carlo_framework
+     Step 3: Propose a domain-specific mechanism that explains this orphan observation in the context of What microscopic electronic or structural feature distingu
+     Step 4: how can this feature be deliberately engineered?
+     Key parameters:
+       entity = Acceleration 
+
+  2. [causal_pathway] Mechanism: Hidden mechanism connecting fluctuation to liquid–liquid_phase_separation, planck_satellite, planck_npipe_dataset
+     In the context of What microscopic electronic or structural feature distinguishes topological superconductors that host non‑abelian anyons from structurally similar materials that do not, and how can 
+     Step 1: The observation 'fluctuation' appears in the literature but lacks a causal explanation
+     Step 2: Based on the knowledge graph, it may be connected to liquid–liquid_phase_separation, planck_satellite, planck_npipe_dataset
+     Step 3: Propose a domain-specific mechanism that explains this orphan observation in the context of What microscopic electronic or structural feature distingu
+     Step 4: how can this feature be deliberately engineered?
+     Key parameters:
+       entity = fluctuation 
+
+  3. [causal_pathway] Mechanism: Hidden mechanism connecting Carcinoma to kras, cancer, proteasome_system
+     In the context of What microscopic electronic or structural feature distinguishes topological superconductors that host non‑abelian anyons from structurally similar materials that do not, and how can 
+     Step 1: The observation 'Carcinoma' appears in the literature but lacks a causal explanation
+     Step 2: Based on the knowledge graph, it may be connected to kras, cancer, proteasome_system
+     Step 3: Propose a domain-specific mechanism that explains this orphan observation in the context of What microscopic electronic or structural feature distingu
+     Step 4: how can this feature be deliberately engineered?
+     Key parameters:
+       entity = Carcinoma 
+
+  4. [causal_pathway] Mechanism: Hidden mechanism connecting resonance to bound, kras, ras
+     In the context of What microscopic electronic or structural feature distinguishes topological superconductors that host non‑abelian anyons from structurally similar materials that do not, and how can 
+     Step 1: The observation 'resonance' appears in the literature but lacks a causal explanation
+     Step 2: Based on the knowledge graph, it may be connected to bound, kras, ras
+     Step 3: Propose a domain-specific mechanism that explains this orphan observation in the context of What microscopic electronic or structural feature distingu
+     Step 4: how can this feature be deliberately engineered?
+     Key parameters:
+       entity = resonance 
+
+  5. [causal_pathway] Mechanism: Hidden mechanism connecting puzzle to biological_homochirality, electron
+     In the context of What microscopic electronic or structural feature distinguishes topological superconductors that host non‑abelian anyons from structurally similar materials that do not, and how can 
+     Step 1: The observation 'puzzle' appears in the literature but lacks a causal explanation
+     Step 2: Based on the knowledge graph, it may be connected to biological_homochirality, electron
+     Step 3: Propose a domain-specific mechanism that explains this orphan observation in the context of What microscopic electronic or structural feature distingu
+     Step 4: how can this feature be deliberately engineered?
+     Key parameters:
+       entity = puzzle 
+
+
+──────────────────────────────────────────────────────────────────────
+  PREDICTIONS (5 generated, 5 accepted)
+──────────────────────────────────────────────────────────────────────
+  1. [correlational] If a hidden mechanism connects 'Acceleration' to framework, monte_carlo, kinetic_monte_carlo_framework, then targeted experiments should reveal correlations between them.
+     Confidence: 0.4
+     Falsification: Observe the opposite of: If a hidden mechanism connects 'Acceleration' to framework, monte_carlo, kinetic_monte_carlo_fr
+
+  2. [correlational] If a hidden mechanism connects 'fluctuation' to liquid–liquid_phase_separation, planck_satellite, planck_npipe_dataset, then targeted experiments should reveal correlations between
+     Confidence: 0.4
+     Falsification: Observe the opposite of: If a hidden mechanism connects 'fluctuation' to liquid–liquid_phase_separation, planck_satellit
+
+  3. [correlational] If a hidden mechanism connects 'Carcinoma' to kras, cancer, proteasome_system, then targeted experiments should reveal correlations between them.
+     Confidence: 0.4
+     Falsification: Observe the opposite of: If a hidden mechanism connects 'Carcinoma' to kras, cancer, proteasome_system, then targeted ex
+
+  4. [correlational] If a hidden mechanism connects 'resonance' to bound, kras, ras, then targeted experiments should reveal correlations between them.
+     Confidence: 0.4
+     Falsification: Observe the opposite of: If a hidden mechanism connects 'resonance' to bound, kras, ras, then targeted experiments shoul
+
+  5. [correlational] If a hidden mechanism connects 'puzzle' to biological_homochirality, electron, then targeted experiments should reveal correlations between them.
+     Confidence: 0.4
+     Falsification: Observe the opposite of: If a hidden mechanism connects 'puzzle' to biological_homochirality, electron, then targeted ex
+
+
+──────────────────────────────────────────────────────────────────────
+  THEORY TOURNAMENT (0 entered, 4 survived, 0 eliminated)
+──────────────────────────────────────────────────────────────────────
+  Tournament rounds:
+    Round 1: generation — 0 candidates
+
+  Survivors (ranked):
+  1. Central role of quantum in What microscopic electronic or structural feature distinguishes topological superconductors that host non‑abelian anyons from structurally similar materials that do not, and how can this feature be deliberately engineered? (score: 0.56) [proposed]
+     'quantum' is a hub entity (z=8.9) connecting: chemical_axion, concept_classical_field, theory, concept_quantum_teleportation, concept_topological_insulator. This unusually high connectivity suggests q
+     Causal status: no_causal_claim
+
+  2. Hidden mechanism connecting Acceleration to framework, monte_carlo, kinetic_monte_carlo_framework (score: 0.52) [proposed]
+     The observation 'Acceleration' appears in the literature but lacks a causal explanation. Based on the knowledge graph, it may be connected to framework, monte_carlo, kinetic_monte_carlo_framework. Pro
+     Causal status: no_causal_claim
+
+  3. Hidden mechanism connecting fluctuation to liquid–liquid_phase_separation, planck_satellite, planck_npipe_dataset (score: 0.52) [proposed]
+     The observation 'fluctuation' appears in the literature but lacks a causal explanation. Based on the knowledge graph, it may be connected to liquid–liquid_phase_separation, planck_satellite, planck_np
+     Causal status: no_causal_claim
+
+  4. Hidden mechanism connecting Carcinoma to kras, cancer, proteasome_system (score: 0.52) [proposed]
+     The observation 'Carcinoma' appears in the literature but lacks a causal explanation. Based on the knowledge graph, it may be connected to kras, cancer, proteasome_system. Propose a domain-specific me
+     Causal status: no_causal_claim
+
+
+----------------------------------------------------------------------
+  CURIOUS QUESTIONING - The Newton Step
+----------------------------------------------------------------------
+  Core Question: What assumption does everyone accept about What microscopic electronic or structural feature ? What if it's wrong?
+  Questions Generated: 3
+    [assumption_attack] What assumption does everyone accept about What microscopic electronic or struct
+    [scale_transfer] Does a mechanism at one scale (quantum/molecular) also drive What microscopic el
+    [assumption_attack] What if the standard model of microscopic electronic structural featur is fundam
+
+----------------------------------------------------------------------
+  DUAL-TRACK COMPARISON: Curiosity vs Pipeline
+----------------------------------------------------------------------
+
+  Two independent approaches were used:
+  1. CURIOUS ENGINE: Generated a question-driven hypothesis
+  2. CONVENTIONAL PIPELINE: Ran full 21-phase discovery
+
+  These are SEPARATE tracks. The curiosity hypothesis was NOT
+  injected into the pipeline. Both ran independently.
+
+  TRACK A: CONVENTIONAL PIPELINE WINNER
+    Name: Central role of quantum in What microscopic electronic or structural feature distinguishes topological superconductors that host non‑abelian anyons from structurally similar materials that do not, and how can this feature be deliberately engineered?
+    Score: 0.56
+    Description: 'quantum' is a hub entity (z=8.9) connecting: chemical_axion, concept_classical_field, theory, concept_quantum_teleportation, concept_topological_insulator. This unusually high connectivity suggests q
+
+  COMPARISON:
+
+──────────────────────────────────────────────────────────────────────
+  ADVERSARIAL TEST — What Survived the Attack
+──────────────────────────────────────────────────────────────────────
+  hidden_variables: 13 tested → 0 survived, 0 weakened, 0 killed
+  mechanisms: 5 tested → 0 survived, 0 weakened, 0 killed
+  theories: 4 tested → 0 survived, 0 weakened, 0 killed
+  Hidden Variables:
+    ? Hidden mechanism connecting Acceleration to framew [untested, attack score: 0.30]
+      Existing theory: Test failed — could not evaluate
+      Falsification: Test failed — could not evaluate
+      Verdict: Adversarial test failed due to LLM error — marked as untested
+    ? Hidden mechanism connecting fluctuation to liquid– [untested, attack score: 0.30]
+      Existing theory: Test failed — could not evaluate
+      Falsification: Test failed — could not evaluate
+      Verdict: Adversarial test failed due to LLM error — marked as untested
+    ? Hidden mechanism connecting Carcinoma to kras, can [untested, attack score: 0.30]
+      Existing theory: Test failed — could not evaluate
+      Falsification: Test failed — could not evaluate
+      Verdict: Adversarial test failed due to LLM error — marked as untested
+    ? Hidden mechanism connecting resonance to bound, kr [untested, attack score: 0.30]
+      Existing theory: Test failed — could not evaluate
+      Falsification: Test failed — could not evaluate
+      Verdict: Adversarial test failed due to LLM error — marked as untested
+    ? Hidden mechanism connecting puzzle to biological_h [untested, attack score: 0.30]
+      Existing theory: Test failed — could not evaluate
+      Falsification: Test failed — could not evaluate
+      Verdict: Adversarial test failed due to LLM error — marked as untested
+  Mechanisms:
+    ? Mechanism: Hidden mechanism connecting Acceleratio [untested, attack score: 0.30]
+      Existing theory: Test failed — could not evaluate
+      Falsification: Test failed — could not evaluate
+      Verdict: Adversarial test failed due to LLM error — marked as untested
+    ? Mechanism: Hidden mechanism connecting fluctuation [untested, attack score: 0.30]
+      Existing theory: Test failed — could not evaluate
+      Falsification: Test failed — could not evaluate
+      Verdict: Adversarial test failed due to LLM error — marked as untested
+    ? Mechanism: Hidden mechanism connecting Carcinoma t [untested, attack score: 0.30]
+      Existing theory: Test failed — could not evaluate
+      Falsification: Test failed — could not evaluate
+      Verdict: Adversarial test failed due to LLM error — marked as untested
+    ? Mechanism: Hidden mechanism connecting resonance t [untested, attack score: 0.30]
+      Existing theory: Test failed — could not evaluate
+      Falsification: Test failed — could not evaluate
+      Verdict: Adversarial test failed due to LLM error — marked as untested
+    ? Mechanism: Hidden mechanism connecting puzzle to b [untested, attack score: 0.30]
+      Existing theory: Test failed — could not evaluate
+      Falsification: Test failed — could not evaluate
+      Verdict: Adversarial test failed due to LLM error — marked as untested
+  Theories:
+    ? Central role of quantum in What microscopic electr [untested, attack score: 0.30]
+      Existing theory: Test failed — could not evaluate
+      Falsification: Test failed — could not evaluate
+      Verdict: Adversarial test failed due to LLM error — marked as untested
+    ? Hidden mechanism connecting Acceleration to framew [untested, attack score: 0.30]
+      Existing theory: Test failed — could not evaluate
+      Falsification: Test failed — could not evaluate
+      Verdict: Adversarial test failed due to LLM error — marked as untested
+    ? Hidden mechanism connecting fluctuation to liquid– [untested, attack score: 0.30]
+      Existing theory: Test failed — could not evaluate
+      Falsification: Test failed — could not evaluate
+      Verdict: Adversarial test failed due to LLM error — marked as untested
+    ? Hidden mechanism connecting Carcinoma to kras, can [untested, attack score: 0.30]
+      Existing theory: Test failed — could not evaluate
+      Falsification: Test failed — could not evaluate
+      Verdict: Adversarial test failed due to LLM error — marked as untested
+
+──────────────────────────────────────────────────────────────────────
+  CRITICAL EVALUATION — 6-Dimension Assessment
+──────────────────────────────────────────────────────────────────────
+  Overall Score: 5.0/10
+  Recommendation: major_revision
+  Summary: Critical evaluation could not be completed. 
+  Novelty: 5/10 — Review failed
+  Methodology: 5/10 — Review failed
+  Significance: 5/10 — Review failed
+  Clarity: 5/10 — Review failed
+  Limitations: 5/10 — Review failed
+  Reproducibility: 5/10 — Review failed
+  Major issues (1):
+    ! Review failed — could not evaluate
+
+──────────────────────────────────────────────────────────────────────
+  CONTRADICTIONS (3)
+──────────────────────────────────────────────────────────────────────
+  1. 
+     Severity: 0.4
+  2. 
+     Severity: 0.4
+  3. 
+     Severity: 0.4
+
+──────────────────────────────────────────────────────────────────────
+  COMPUTATIONAL VERIFICATION
+──────────────────────────────────────────────────────────────────────
+  Computations run: 9
+  Support level: strong
+    → Network has 2 hub entities with degree > 76. Mean degree: 3.1. Hub concentration: high.
+    → Average clustering coefficient: 0.3376. Low clustering suggests sparse connections.
+    → Top bridging entity: cancer (centrality: 1.0000). These entities connect different parts of the knowledge graph.
+    → Found 95 distinct communities. Multiple disconnected communities suggest knowledge fragmentation.
+    → Found 5 paths between theory entities. Strong structural support.
+
+──────────────────────────────────────────────────────────────────────
+  SKEPTIC REVIEW
+──────────────────────────────────────────────────────────────────────
+  Recommendation: unknown
+  Revised confidence: 0%
+
+──────────────────────────────────────────────────────────────────────
+  DISCOVERY SCORING
+──────────────────────────────────────────────────────────────────────
+  Overall Score: 55/100
+  Grade: C
+  Dimension scores:
+    novelty: 70
+    explanatory_power: 91
+    predictive_power: 98
+    falsifiability: 100.0
+    simplicity: 80
+    evidence_strength: 40
+    mathematical_rigor: 20.0
+  Strengths: novelty: 70/100; explanatory_power: 91/100; predictive_power: 98/100
+  Weaknesses: mathematical_rigor: 20/100
+  Summary: 'Central role of quantum in What microscopic electronic or structural feature distinguishes topological superconductors that host non‑abelian anyons from structurally similar materials that do not, an
+
+──────────────────────────────────────────────────────────────────────
+  DISCOVERY CLASSIFICATION — What's Known vs What's New
+──────────────────────────────────────────────────────────────────────
+  Classification: extension
+  Meaning: New application of known mechanisms — applies existing physics to new domain
+  Details:
+    New mechanism proposed: False
+    New prediction generated: True
+    New mathematics introduced: False
+    Not found in literature: True
+
+======================================================================

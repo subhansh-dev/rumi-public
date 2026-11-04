@@ -1,0 +1,484 @@
+======================================================================
+  DISCOVERY REPORT
+======================================================================
+  Topic: Does dreaming function as an active predictive simulation that integrates new experiences with existing memory networks to consolidate memory and regulate emotion?
+  Domain: general
+  Mode: full
+  Duration: 1386.0s
+
+──────────────────────────────────────────────────────────────────────
+  PAPERS (116)
+──────────────────────────────────────────────────────────────────────
+  [crossref] Dreaming and dream amnesia in the light of reactive and predictive homeostasis
+    Authors: Péter Simor, Philippe Peigneux, Robert Bodizs
+  [crossref] Does Dreaming Have Any Adaptive Function(s)?
+    Authors: G. William Domhoff
+    Year: 2017
+  [arxiv] Predictive Simulation: Using Regression and Artificial Neural Networks to Negate
+    Authors: Gregory Gutmann, Akihiko Konagaya
+    Year: 2019
+  [arxiv] Association between Experiences and Representations: Memory, Dreaming, Dementia 
+    Authors: Xiaoqiu Huang
+    Year: 2013
+  [crossref] Active Dreaming Memory: Biologically-Inspired Episodic Consolidation for Lifelon
+    Authors: Dudekula Kasim Vali
+  [arxiv] A computational account of dreaming: learning and memory consolidation
+    Authors: Qi Zhang
+    Year: 2026
+  [crossref] Active Imagination as an  Alternative to Lucid Dreaming: Theory and Experimental
+    Authors: ALEXEY TURCHIN
+  [arxiv] Dream-SLAM: Dreaming the Unseen for Active SLAM in Dynamic Environments
+    Authors: Xiangqi Meng, Pengxu Hou, Zhenjun Zhao
+    Year: 2026
+  [arxiv] Modelling Reactive and Proactive Behaviour in Simulation
+    Authors: Mazlina Abdul Majid, Peer-Olaf Siebers, Uwe Aickelin
+    Year: 2010
+  [arxiv] Lucid Dreaming for Experience Replay: Refreshing Past States with the Current Po
+    Authors: Yunshu Du, Garrett Warnell, Assefaw Gebremedhin
+    Year: 2020
+  ... and 106 more papers
+
+──────────────────────────────────────────────────────────────────────
+  KNOWLEDGE GRAPH
+──────────────────────────────────────────────────────────────────────
+  Entities: 575
+  Relationships: 6037
+
+──────────────────────────────────────────────────────────────────────
+  KNOWLEDGE GAPS (10)
+──────────────────────────────────────────────────────────────────────
+  [orphan_observation] (7 gaps)
+    - 'Acceleration' is a phenomenon mentioned in 10 paper(s) but has no causal/explanatory mechanism in the graph. It is obse
+    - 'Carcinoma' is a disease mentioned in 8 paper(s) but has no causal/explanatory mechanism in the graph. It is observed bu
+    - 'fluctuation' is a phenomenon mentioned in 8 paper(s) but has no causal/explanatory mechanism in the graph. It is observ
+  [structural_hole] (3 gaps)
+    - These 2239 and 8 entities share type(s) concept, unknown but have no connecting relationships. This may indicate an unex
+    - These 2239 and 4 entities share type(s) concept but have no connecting relationships. This may indicate an unexplored cr
+    - These 2239 and 4 entities share type(s) concept but have no connecting relationships. This may indicate an unexplored cr
+
+──────────────────────────────────────────────────────────────────────
+  ANOMALIES (10)
+──────────────────────────────────────────────────────────────────────
+  [outlier_entity] 'quantum' has degree 125 (z=9.7), much higher than average (5.6). It's a hub — either a genuine driver or an over-studie
+  [outlier_entity] 'cancer' has degree 114 (z=8.8), much higher than average (5.6). It's a hub — either a genuine driver or an over-studied
+  [outlier_entity] 'act' has degree 87 (z=6.6), much higher than average (5.6). It's a hub — either a genuine driver or an over-studied ent
+  [outlier_entity] 'dark matter' has degree 83 (z=6.3), much higher than average (5.6). It's a hub — either a genuine driver or an over-stu
+  [outlier_entity] 'black hole' has degree 57 (z=4.2), much higher than average (5.6). It's a hub — either a genuine driver or an over-stud
+  [prediction_violation] There's a path concept_data_augmentation→dataset→concept_extremely_active_cycle but no direct connection. Either the dir
+  [prediction_violation] There's a path concept_data_augmentation→dataset→Artificial Intelligence but no direct connection. Either the direct lin
+  [prediction_violation] There's a path concept_data_augmentation→dataset→dark matter but no direct connection. Either the direct link doesn't ex
+
+──────────────────────────────────────────────────────────────────────
+  HIDDEN VARIABLES (11)
+──────────────────────────────────────────────────────────────────────
+  1. [process / field] Predictive‑Error Integration Field (PEIF)
+     Description: A distributed neural field that continuously integrates the magnitude of prediction errors generated during wakefulness and re‑evaluates them during REM sleep. PEIF acts as a scalar field ϕ(x,t) over 
+
+  2. [entity / neuromodulatory signal] Emotional‑Homeostatic Modulation Signal (EHMS)
+     Description: A transient, hormone‑like signal that is largely silenced during REM but re‑emerges in brief micro‑arousals to rebalance affective tone. EHMS is hypothesized to be a noradrenaline‑derived pulse that e
+
+  3. [condition / scalar] Memory‑Trace Resonance Parameter (MTR)
+     Description: A hidden resonance metric that quantifies the alignment between a newly encoded episodic trace and the intrinsic eigenmodes of the existing cortical‑hippocampal network. High resonance facilitates eff
+
+  4. [counterfactual] Dream‑Integrated Predictive Encoding Index (DIPEI)
+     Description: A scalar metric that quantifies the degree to which neural replay sequences observed during REM sleep align with a computational predictive model built from the subject’s most recent waking experience
+
+  5. [counterfactual] Emotional Homeostatic Drift (EHD)
+     Description: A hidden variable representing the slow‑drift of affective set‑point across a sleep episode, inferred from the valence distribution of dream reports and concurrent peripheral cortisol rhythms. EHD pos
+
+  6. [counterfactual] Synaptic Plasticity Phase Gradient (SPPG)
+     Description: An unconstrained quantity describing the systematic phase offset between theta oscillations in the hippocampus and neocortical regions during REM sleep. SPPG is defined as the average angular differen
+
+  7. [contradiction_explanation] Quantum Theory Contextuality
+     Description: The hub status of 'theory_quantum' arises because its explanatory power changes with the observational scale and the interpretive paradigm used. At microscopic scales and under a Copenhagen‑type measu
+
+  8. [contradiction_explanation] Cancer Heterogeneity Mechanism
+     Description: The extensive connectivity of 'disease_cancer' reflects the fact that cancer is not a single disease but a collection of heterogeneous pathologies. The apparent contradiction between universal cancer 
+
+  9. [contradiction_explanation] Model Theory Applicability Spectrum
+     Description: The hub status of 'theory_model' emerges because models are employed across many disciplines at varying levels of abstraction. Competing explanations coexist because a model’s explanatory success depe
+
+  10. [contradiction_explanation] Dream Function Duality
+     Description: Dreaming can be both an epiphenomenon and a functional process because its role is modulated by sleep‑stage depth and the emotional salience of recent experiences. In deep REM sleep following highly e
+
+  11. [contradiction_explanation] Dream Content Randomness vs Active Predictive Simulation
+     Description: Dream content appears random because the brain’s predictive coding hierarchy is operating with low prediction error during sleep. However, when waking prediction error is high (e.g., after novel learn
+
+
+──────────────────────────────────────────────────────────────────────
+  MECHANISMS (2)
+──────────────────────────────────────────────────────────────────────
+  1. [causal_pathway] Predictive‑Error Integration Field (PEIF) driven Bayesian synaptic renormalization
+     During wakefulness the cortex generates prediction errors ε(x,t) at each hierarchical level x. The PEIF ϕ(x,t) integrates the squared error magnitude over a moving window τ_w and, during REM sleep, us
+     Step 1: Starting from: During wakefulness the cortex generates prediction errors ε(x,t) at each hierarchical level x. The PEIF ϕ(x,t) integrates the squared e
+     Derivation:
+       {"step_1_starting_assumptions": ["Assume the brain implements hierarchical predictive coding (Friston 2010) where each l
+     Key parameters:
+       τ_w = 10^0–10^1 s seconds  [ESTIMATED]
+         typical duration of REM micro‑episodes used for moving‑window integration
+       η = 10^-3–10^-2 s⁻¹  [DERIVED]
+         learning‑rate constant that scales PEIF influence on synaptic weight change
+       σ_ε = 10^-2–10^-1 dimensionless  [ESTIMATED]
+         standard deviation of prediction‑error magnitude during wakeful encoding
+
+  2. [causal_pathway] Emotional‑Homeostatic Modulation Signal (EHMS) via noradrenaline micro‑arousals
+     A brief pulse of locus coeruleus (LC) noradrenaline (NA) released during REM micro‑arousals (≈ 2–5 s) acts as a homeostatic reset signal that re‑balances affective tone by modulating amygdala‑hippocam
+     Step 1: Starting from: A brief pulse of locus coeruleus (LC) noradrenaline (NA) released during REM micro‑arousals (≈ 2–5 s) acts as a homeostatic reset signa
+     Derivation:
+       {"step_1_starting_assumptions": ["Assume LC firing follows a Poisson process with baseline rate r\u2080 \u2248 0.5\u202f
+     Key parameters:
+       τ = 7 s seconds  [ESTIMATED]
+         LC‑NA clearance (half‑life ≈ 1–2 s) plus postsynaptic β‑adrenergic signaling cascade (~5 s) gives an
+       A_eq = 1.0 dimensionless (normalized)  [DERIVED]
+         A is defined as a normalized affective‑homeostatic variable; the baseline (no‑arousal) state is set 
+       κ = 0.15 dimensionless  [ESTIMATED]
+         From in‑vitro slice work the β‑adrenergic potentiation of LTP in amygdala is ≈ 15 % per 0.5 µM NA (R
+       N₀ = 0.5 µM  [CITED]
+         Peak extracellular NA during LC phasic bursts in REM is ~0.4–0.6 µM (Berridge & Waterhouse, 2003; Sa
+
+
+──────────────────────────────────────────────────────────────────────
+  PREDICTIONS (6 generated, 6 accepted)
+──────────────────────────────────────────────────────────────────────
+  1. [correlational] If the Predictive‑Error Integration Field (PEIF) integrates the squared prediction‑error magnitude over a moving window τ_w = 30 s during wakefulness, then the total PEIF activity 
+     Confidence: 0.78
+     Test: Record high‑density EEG and compute a source‑localized PEIF proxy (sum of squared prediction‑error‑related potentials) a
+     Falsification: If the correlation coefficient is not significantly different from zero (|r| < 0.10, p > 0.5) despite adequate power (N 
+
+  2. [interventional] If locus coeruleus noradrenaline micro‑arousals (≈ 3 s pulses) are pharmacologically suppressed during REM using low‑dose propranolol (0.5 mg·kg⁻¹), then amygdala BOLD reactivity t
+     Confidence: 0.81
+     Test: Double‑blind crossover study (N = 24) where participants receive propranolol or placebo before a night of polysomnograph
+     Falsification: If amygdala reactivity does not differ between drug and placebo (difference < 5 % with 95 % CI crossing zero), the predi
+
+  3. [counterfactual] If a full night of REM sleep were absent (counterfactual), then the Dream‑Integrated Predictive Encoding Index (DIPEI) would be lower by 0.35 ± 0.07 units, and the cortisol awakeni
+     Confidence: 0.7
+     Test: Use a within‑subject design where participants experience a REM‑deprivation night (awakening upon any REM onset) and a c
+     Falsification: If DIPEI reduction is <0.10 units or CAR change is <5 % despite confirmed REM loss, the prediction is falsified.
+
+  4. [novel] If the Memory‑Trace Resonance Parameter (MTR) exceeds 0.80 for a newly learned visual sequence, then spindle density during the subsequent N2 stage will increase by 0.30 spindles·m
+     Confidence: 0.75
+     Test: Participants learn two sets of visual sequences; MTR is estimated from a computational model of cortical eigenmode align
+     Falsification: If spindle density does not differ between high‑MTR and low‑MTR conditions (difference <0.05 spindles·min⁻¹, p > 0.3), t
+
+  5. [novel] If Emotional Homeostatic Drift (EHD) during a sleep episode shifts the mean dream valence by +0.20 on a –1 to +1 scale, then peripheral cortisol measured from hourly blood samples 
+     Confidence: 0.68
+     Test: Collect dream reports each morning and rate valence; compute nightly EHD; simultaneously draw blood every hour for corti
+     Falsification: If the regression slope is not significantly negative (p > 0.2) or the effect size <0.1 pg·mL⁻¹ per 0.01 valence shift, 
+
+  6. [interventional] If closed‑loop auditory stimulation is timed to peaks of the PEIF (identified in real‑time EEG as 0.5‑2 Hz bursts) and boosts PEIF amplitude by 10 % ± 2 %, then declarative memory 
+     Confidence: 0.73
+     Test: Implement a real‑time algorithm that detects PEIF peaks during REM and delivers brief (50 ms) pink‑noise clicks; compare
+     Falsification: If PEIF amplitude is not increased (Δϕ < 5 %) or memory gain is <5 % with 95 % CI overlapping zero, the prediction is fa
+
+
+──────────────────────────────────────────────────────────────────────
+  THEORY TOURNAMENT (20 entered, 9 survived, 14 eliminated)
+──────────────────────────────────────────────────────────────────────
+  Tournament rounds:
+    Round 1: generation — 20 candidates
+    Round 2: elimination — 10 survived, 10 eliminated
+    Round 3: cross_comparison_elimination — 6 survived, 4 eliminated
+    Round final: survivors — ? candidates
+
+  Analysis: Winner: Dreaming as Active Predictive Simulation (score: 0.65). 6 theories survived the tournament. 14 were eliminated. Close competition — runner-up Dream-Integrated Predictive Encoding Index Theory is within 0.03. NULL HYPOTHESIS CHECK: Winner beats best conventional explanation 'Memory Consolidat
+
+  Survivors (ranked):
+  1. Dreaming as Active Predictive Simulation (score: 0.65) [proposed]
+     Dreaming functions as an active predictive simulation that integrates new experiences with existing memory networks to consolidate memory and regulate emotion. This process is driven by the Predictive
+     Mechanism: PEIF and EHMS drive the integration of new experiences with existing memory networks during REM sleep, leading to memory consolidation and emotional r
+     Explains: O; b; s
+     Fails to explain: N; o; n
+     Key assumptions: D; r; e
+     Causal status: no_causal_claim
+
+  2. Dream-Integrated Predictive Encoding Index Theory (score: 0.62) [proposed]
+     The Dream-Integrated Predictive Encoding Index (DIPEI) drives the integration of new experiences with existing memory networks during REM sleep, leading to memory consolidation and emotional regulatio
+     Mechanism: DIPEI drives the integration of new experiences with existing memory networks during REM sleep, leading to memory consolidation and emotional regulati
+     Explains: O; b; s
+     Fails to explain: N; o; n
+     Key assumptions: D; I; P
+
+  3. Cross-Domain Explanation Theory (score: 0.55) [creative]
+     The integration of new experiences with existing memory networks during REM sleep is driven by a cross-domain mechanism, involving both cognitive and emotional processes.
+     Mechanism: Cross-domain mechanism drives the integration of new experiences with existing memory networks during REM sleep, leading to memory consolidation and e
+     Explains: O; b; s
+     Fails to explain: N; o; n
+     Key assumptions: C; r; o
+     Causal status: no_causal_claim
+
+  4. Emotional Homeostatic Drift Theory (score: 0.55) [proposed]
+     The Emotional Homeostatic Drift (EHD) drives the integration of new experiences with existing memory networks during REM sleep, leading to memory consolidation and emotional regulation.
+     Mechanism: EHD drives the integration of new experiences with existing memory networks during REM sleep, leading to memory consolidation and emotional regulation
+     Explains: O; b; s
+     Fails to explain: N; o; n
+     Key assumptions: E; H; D
+
+  5. Memory-Trace Resonance Theory (score: 0.55) [proposed]
+     The Memory-Trace Resonance Parameter (MTR) drives the integration of new experiences with existing memory networks during REM sleep, leading to memory consolidation and emotional regulation.
+     Mechanism: MTR drives the integration of new experiences with existing memory networks during REM sleep, leading to memory consolidation and emotional regulation
+     Explains: O; b; s
+     Fails to explain: N; o; n
+     Key assumptions: M; T; R
+
+  6. Acceleration and Fluctuation Theory (score: 0.48) [alternative]
+     The observations are driven by acceleration and fluctuation in the brain, which influence dreaming and memory consolidation. This theory proposes that acceleration and fluctuation play a key role in t
+     Mechanism: Acceleration and fluctuation drive the integration of new experiences with existing memory networks during REM sleep, leading to memory consolidation 
+     Explains: O; b; s
+     Fails to explain: O; b; s
+     Key assumptions: A; c; c
+     Causal status: no_causal_claim
+
+  7. Stage‑Dependent Dream Function Hypothesis (score: 0.00) [contradiction_resolution]
+     Dreams serve different functional roles depending on the sleep stage in which they occur. During REM sleep, dreaming operates as an active predictive simulation that integrates new experiences with ex
+
+  Discriminating experiments (would separate top 2):
+    1. Experiment 1: Manipulating Memory Consolidation - Participants will be given a new skill to learn before sleep, with one group receiving a predictive 
+    2. Experiment 2: Emotional Regulation during REM Sleep - Participants will be exposed to emotionally charged stimuli before sleep, with brain activity mo
+    3. Experiment 3: Causal Inference of Predictive Simulation on Memory - Using transcranial magnetic stimulation (TMS) or transcranial direct current stimu
+
+  Eliminated (14):
+    ✗ Neural Resonance Theory (score: 0.50) — Score 0.50 — bottom half
+    ✗ Emotional Homeostasis Theory (score: 0.50) — Score 0.50 — bottom half
+    ✗ Quantum Consciousness Theory (score: 0.50) — Score 0.50 — bottom half
+    ✗ Memory Consolidation Theory (score: 0.50) — Score 0.50 — bottom half
+    ✗ Null Hypothesis Theory (score: 0.50) — Score 0.50 — bottom half
+    ... and 9 more
+
+----------------------------------------------------------------------
+  CURIOUS QUESTIONING - The Newton Step
+----------------------------------------------------------------------
+  Core Question: Does dreaming actively generate predictive simulations that integrate new experiences with existing memory networks to both consolidate memory and regulate emotional states?
+  Question Hypothesis: Dreaming functions as a temporally compressed, predictive rehearsal of recent experiences, during which hippocampal‑cortical replay is biased toward emotionally salient events, thereby strengthening relevant memory traces while attenuating the affective impact of stressful experiences.
+  Why It Matters: Answering this would unify disparate findings on sleep, memory consolidation, and emotion regulation, potentially revealing a fundamental brain algorithm that could be harnessed to improve learning, t
+  Surprising Observations: 2
+    - however, existing active slam pipelines are limited by three main factors. first, they in
+    - however, in doing so we have introduced a new problem, namely increased latency. interact
+  Questions Generated: 10
+    [assumption_attack] What assumption does everyone accept about Does dreaming function as an active p
+    [scale_transfer] Does a mechanism at one scale (quantum/molecular) also drive Does dreaming funct
+    [cross_domain] What field solved an analogous problem to: however, existing active slam pipelin
+    [cross_domain] What field solved an analogous problem to: however, in doing so we have introduc
+    [assumption_attack] What if the standard model of dreaming function active predictive simu is fundam
+  Cross-Domain Connections (Newton's Move): 3
+    Domain A: neuroscience (sleep & memory): During REM sleep, hippocampal place cells replay sequences of recent experiences
+    Domain B: artificial intelligence / robotics: In model‑based reinforcement learning, agents construct an internal world model 
+    Connection: Both systems use an internal generative model to simulate possible future states without external in
+    Hypothesis: If dreaming serves as an offline model‑based planner, then disrupting hippocampal replay specificall
+    Prediction: After selective REM‑phase disruption of hippocampal replay, participants will show a reduced relianc
+
+    Domain A: neuroscience (sleep, emotion): Nightly REM episodes preferentially re‑activate emotionally charged memories and
+    Domain B: clinical psychology / behavioral therapy: In exposure‑based psychotherapy, repeated imagined exposure to feared stimuli (e
+    Connection: Both dreaming and imagined exposure generate a safe, internally generated simulation of a threat, al
+    Hypothesis: If dreaming acts as an automatic exposure therapy, then enhancing REM density (e.g., via cholinergic
+    Prediction: Participants receiving a REM‑enhancing drug after a laboratory‑induced fear conditioning will show f
+
+    Domain A: neuroscience (sleep, memory integration): Dream reports often contain novel recombinations of recent episodic details with
+    Domain B: developmental linguistics: In child language acquisition, learners over‑generalize grammatical rules to nov
+    Connection: Both processes involve a generative stage that creates predictions by applying existing structures t
+    Hypothesis: If dreaming implements a hypothesis‑testing engine for memory, then a night of enriched REM sleep sh
+    Prediction: After a learning session on a novel artificial grammar, participants allowed a full night of REM sle
+
+  Curiosity Constraint (Track B):
+    Forbidden Theories: Activation‑Synthesis Hypothesis, Threat‑Simulation Theory, Memory‑Consolidation Theory, Emotional‑Regulation Theory of Dreaming, Predictive‑Coding Theory of Dreaming
+    Required Properties:
+      + demonstrates how new experiences are integrated with pre‑existing memory networks during sleep
+      + provides a mechanism for temporal compression of replayed events
+      + shows a bias toward emotionally salient or stressful experiences that can be experimentally measured
+    Novelty Direction: Explore dreaming as an offline, model‑based planning system that leverages predictive‑coding and reinforcement‑learning principles.  Consider how hippocampal‑cortical replay during REM could act as a hypothesis‑testing engine, modulated by neuromodulators (e.g., acetylcholine, norepinephrine) to selectively strengthen or attenuate affective traces.  Cross‑link this with computational frameworks such as prioritized experience replay or meta‑learning to generate fresh, testable predictions.
+
+----------------------------------------------------------------------
+  DUAL-TRACK COMPARISON: Curiosity vs Pipeline
+----------------------------------------------------------------------
+
+  Two independent approaches were used:
+  1. CURIOUS ENGINE: Generated a question-driven hypothesis
+  2. CONVENTIONAL PIPELINE: Ran full 21-phase discovery
+
+  These are SEPARATE tracks. The curiosity hypothesis was NOT
+  injected into the pipeline. Both ran independently.
+
+  TRACK A: CONVENTIONAL PIPELINE WINNER
+    Name: Dream-Integrated Predictive Encoding Index Theory
+    Score: 0.62
+    Description: The Dream-Integrated Predictive Encoding Index (DIPEI) drives the integration of new experiences with existing memory networks during REM sleep, leading to memory consolidation and emotional regulatio
+
+  TRACK B: CURIOSITY-DRIVEN HYPOTHESIS
+    Core Question: Does dreaming actively generate predictive simulations that integrate new experiences with existing 
+    Hypothesis: Dreaming functions as a temporally compressed, predictive rehearsal of recent experiences, during which hippocampal‑cortical replay is biased toward emotionally salient events, thereby strengthening relevant memory traces while attenuating the affective impact of stressful experiences.
+
+  COMPARISON:
+    Pipeline says: Dream-Integrated Predictive Encoding Index Theory
+    Curiosity says: Dreaming functions as a temporally compressed, predictive re...
+
+  Both tracks contribute to the discovery. The pipeline
+  validates through evidence and scoring. The curiosity
+  engine identifies the RIGHT QUESTION to ask.
+
+  A discovery needs both: the right question AND the right answer.
+
+──────────────────────────────────────────────────────────────────────
+  ADVERSARIAL TEST — What Survived the Attack
+──────────────────────────────────────────────────────────────────────
+  hidden_variables: 11 tested → 4 survived, 0 weakened, 0 killed
+  mechanisms: 2 tested → 0 survived, 0 weakened, 0 killed
+  theories: 6 tested → 1 survived, 0 weakened, 0 killed
+  Hidden Variables:
+    ? Predictive‑Error Integration Field (PEIF) [challenged, attack score: 0.45]
+      Existing theory: Predictive coding / active inference frameworks (Friston 2010; Hobson & Friston 2012) and the Synapt
+      Can remove: PEIF as a distinct scalar field, global cumulative error integration across the whole cortex
+      Falsification: If, in a within‑subject experiment (n≥30), the correlation between the magnitude of wake‑generated p
+      Verdict: The predictive‑error integration function attributed to PEIF is already explained by well‑established predictive coding 
+    ✓ Emotional‑Homeostatic Modulation Signal (EHMS) [survived, attack score: 0.52]
+      Existing theory: Active system consolidation (Rasch & Born 2013) and the Synaptic Homeostasis Hypothesis (Tononi & Ci
+      Can remove: Emotional‑Homeostatic Modulation Signal (EHMS) as a distinct entity
+      Falsification: If fast‑scan cyclic voltammetry or microdialysis shows that norepinephrine levels during REM micro‑a
+      Verdict: Existing sleep‑memory theories already account for the role of noradrenergic bursts in emotional regulation, making the 
+    ✓ Memory‑Trace Resonance Parameter (MTR) [survived, attack score: 0.52]
+      Existing theory: Systems consolidation and predictive coding frameworks (e.g., McClelland et al., 1995; Hassabis & Ma
+      Can remove: Memory‑Trace Resonance Parameter (MTR)
+      Falsification: If, in a sufficiently powered experiment (N≥30), the correlation between the calculated MTR for a ne
+      Verdict: Existing consolidation and predictive‑coding theories already account for the observed phenomena, and the MTR can be red
+    ✓ Dream‑Integrated Predictive Encoding Index (DIPEI) [survived, attack score: 0.77]
+      Existing theory: Predictive coding and memory consolidation theories (e.g., Buzsáki 2015; Walker & Stickgold 2004; Ha
+      Can remove: Bayesian predictive hierarchy generation, 12‑hour sensory input window
+      Falsification: If, across a cohort of ≥30 subjects, the correlation between DIPEI and subsequent memory performance
+      Verdict: Existing predictive‑coding and sleep‑consolidation frameworks already account for most of the observed phenomena, and th
+    ✓ Emotional Homeostatic Drift (EHD) [survived, attack score: 0.57]
+      Existing theory: Sleep‑dependent emotional regulation and memory consolidation theories (e.g., Walker & van der Helm,
+      Can remove: Emotional Homeostatic Drift (EHD)
+      Falsification: If, across a sufficiently powered sample (N ≥ 30), the correlation between nightly dream‑valence dis
+      Verdict: Established sleep‑research literature already explains the integration of new experiences, memory consolidation, and emo
+  Mechanisms:
+    ? Predictive‑Error Integration Field (PEIF) driven B [challenged, attack score: 0.40]
+      Existing theory: Predictive coding frameworks (Friston 2010), the Synaptic Homeostasis Hypothesis (Tononi & Cirelli 2
+      Can remove: τ_w, η, σ_ε
+      Falsification: If, across a large cohort (N>30), the magnitude of the integrated squared prediction error ϕ measure
+      Verdict: The predictive‑error integration and Bayesian synaptic renormalization are already embodied in well‑established predicti
+    ? Emotional‑Homeostatic Modulation Signal (EHMS) via [challenged, attack score: 0.50]
+      Existing theory: Active system consolidation during REM sleep (Rasch & Born, 2013) and the Synaptic Homeostasis Hypot
+      Can remove: τ, A_eq, κ
+      Falsification: If selective pharmacological blockade of LC‑derived noradrenaline during REM micro‑arousals (e.g., v
+      Verdict: The proposed EHMS is largely encompassed by well‑established REM‑sleep memory consolidation theories, and its unique qua
+  Theories:
+    ✓ Dreaming as Active Predictive Simulation [survived, attack score: 0.52]
+      Existing theory: Active system consolidation during sleep (Rasch & Born, 2013), Threat Simulation Theory (Revonsuo, 2
+      Can remove: PEIF_strength, EHMS_frequency
+      Falsification: If REM‑sleep subjects show no statistically significant improvement in a hippocampus‑dependent memor
+      Verdict: The proposed theory overlaps substantially with well‑established sleep‑memory and threat‑simulation models, and its nove
+    ? Dream-Integrated Predictive Encoding Index Theory [challenged, attack score: 0.35]
+      Existing theory: Memory consolidation during REM sleep (Walker & Stickgold, 2004) and Threat Simulation Theory (Revon
+      Can remove: DIPEI_strength
+      Falsification: If the correlation between any neurophysiological proxy for DIPEI (e.g., REM theta power) and post‑s
+      Verdict: Established theories already explain the predictive, integrative, and emotional functions of REM dreaming. The DIPEI con
+    ? Cross-Domain Explanation Theory [challenged, attack score: 0.45]
+      Existing theory: Active system consolidation theory (Walker & Stickgold 2004; Rasch & Born 2013) together with the th
+      Can remove: cross_domain_strength, cross_domain_mechanism
+      Falsification: If, during REM, the proportion of replay events that simultaneously involve newly encoded hippocampa
+      Verdict: The proposed cross‑domain mechanism does not add new, measurable variables beyond what is already captured by establishe
+    ? Emotional Homeostatic Drift Theory [challenged, attack score: 0.45]
+      Existing theory: Active system consolidation during sleep (Walker & Stickgold, 2004), predictive coding frameworks fo
+      Can remove: EHD_strength
+      Falsification: If the Pearson correlation between REM‑associated hippocampal replay magnitude and post‑sleep change
+      Verdict: The core claims of the Emotional Homeostatic Drift Theory are already covered by well‑established sleep‑memory and emoti
+    ? Memory-Trace Resonance Theory [challenged, attack score: 0.35]
+      Existing theory: Active System Consolidation Theory (Rasch & Born, 2007) and Threat Simulation Theory (Revonsuo, 2000
+      Can remove: MTR_strength
+      Falsification: If, across a large sample (N>100), the correlation between a measured MTR proxy (e.g., theta-gamma c
+      Verdict: The phenomenon is already explained by well‑established consolidation and threat‑simulation frameworks, making the new M
+
+──────────────────────────────────────────────────────────────────────
+  CRITICAL EVALUATION — 6-Dimension Assessment
+──────────────────────────────────────────────────────────────────────
+  Overall Score: 4.7/10
+  Recommendation: major_revision
+  Summary: The Dream-Integrated Predictive Encoding Index Theory proposes that REM sleep integrates new experiences with existing memory networks via a predictive‑error field and noradrenergic micro‑arousals. The idea is intriguing and could bridge gaps between predictive coding, memory consolidation, and affe
+  Novelty: 5/10 — The DIPEI concept builds on existing predictive coding and sleep consolidation f
+  Methodology: 4/10 — The reasoning is largely conceptual with limited quantitative specification. Key
+  Significance: 6/10 — If validated, the theory could provide a unifying account of dreaming, memory in
+  Clarity: 5/10 — The manuscript repeats several phrases and introduces many acronyms without clea
+  Limitations: 5/10 — The authors note some failures to explain certain phenomena, but the discussion 
+  Reproducibility: 3/10 — The description lacks concrete experimental protocols, parameter values, and dat
+  Major issues (3):
+    ! Insufficient quantitative formulation of the PEIF integration and its relationship to synaptic renormalization.
+    ! Lack of detailed experimental protocols for the proposed correlational and interventional predictions (e.g., timing, dos
+    ! Inadequate justification of how the DIPEI metric is derived and validated against existing neurophysiological data.
+  Minor issues (3):
+    - Overuse of undefined acronyms (DIPEI, PEIF, EHMS) and repetitive phrasing.
+    - The 'Fails to explain' list contains placeholder letters rather than concrete phenomena.
+    - Typographical errors and incomplete sentences in the mechanism descriptions.
+  Questions for authors:
+    ? Can you provide a formal mathematical definition of the DIPEI and specify how it is computed from neural recordings?
+    ? What are the exact parameters (e.g., window length τ_w, pulse duration) used in the PEIF integration, and how were they 
+    ? How does the proposed LC noradrenaline micro‑arousal signal differ from known REM‑related neuromodulatory patterns?
+    ? Which behavioral or neuroimaging measures will you use to assess the predicted 0.35 reduction in DIPEI when REM is absen
+    ? Have you considered alternative explanations (e.g., synaptic homeostasis, replay) that could account for the same observ
+
+──────────────────────────────────────────────────────────────────────
+  CONTRADICTIONS (6)
+──────────────────────────────────────────────────────────────────────
+  1. 
+     Severity: 0.4
+  2. 
+     Severity: 0.4
+  3. 
+     Severity: 0.4
+  4. 
+     Severity: 0.9
+  5. 
+     Severity: 0.6
+
+──────────────────────────────────────────────────────────────────────
+  COMPUTATIONAL VERIFICATION
+──────────────────────────────────────────────────────────────────────
+  Computations run: 9
+  Support level: strong
+    → Network has 4 hub entities with degree > 76. Mean degree: 3.1. Hub concentration: high.
+    → Average clustering coefficient: 0.2882. Low clustering suggests sparse connections.
+    → Top bridging entity: black hole (centrality: 1.0000). These entities connect different parts of the knowledge graph.
+    → Found 256 distinct communities. Multiple disconnected communities suggest knowledge fragmentation.
+    → Found 5 paths between theory entities. Strong structural support.
+
+──────────────────────────────────────────────────────────────────────
+  SKEPTIC REVIEW
+──────────────────────────────────────────────────────────────────────
+  Recommendation: revise
+  Revised confidence: 62%
+  Strengths (3):
+    + Provides a unified framework linking memory consolidation and emotional regulation during REM sleep.
+    + Grounds the process in predictive coding, a well‑established computational principle in neuroscience.
+    + Generates concrete neurophysiological markers (e.g., theta‑gamma coupling, spindle‑like events) that can be empirically probed.
+  Weaknesses (4):
+    - Vague definition of the "Predictive Encoding Index"; lacks a formal computational formulation.
+    - No explicit, testable predictions are listed; the theory is currently unfalsifiable.
+    - Relies heavily on correlational evidence; causal manipulations (e.g., selective REM suppression) are not addressed.
+    - Does not clearly differentiate its explanatory power from the "Dreaming as Active Predictive Simulation" model.
+
+──────────────────────────────────────────────────────────────────────
+  DISCOVERY SCORING
+──────────────────────────────────────────────────────────────────────
+  Overall Score: 49/100
+  Grade: D
+  Dimension scores:
+    novelty: 56.9
+    explanatory_power: 100.0
+    predictive_power: 100.0
+    falsifiability: 100.0
+    simplicity: 10.0
+    evidence_strength: 59.4
+    mathematical_rigor: 55.0
+  Strengths: explanatory_power: 100/100; predictive_power: 100/100; falsifiability: 100/100
+  Weaknesses: simplicity: 10/100
+  Summary: 'Dream-Integrated Predictive Encoding Index Theory' (proposed) scores 49/100 (Grade: D). Strongest: explanatory_power (100/100). Weakest: simplicity (10/100). Needs significant improvement before pres
+
+──────────────────────────────────────────────────────────────────────
+  DISCOVERY CLASSIFICATION — What's Known vs What's New
+──────────────────────────────────────────────────────────────────────
+  Classification: extension
+  Meaning: New application of known mechanisms — applies existing physics to new domain
+  Details:
+    New mechanism proposed: False
+    New prediction generated: True
+    New mathematics introduced: False
+    Not found in literature: False
+
+======================================================================

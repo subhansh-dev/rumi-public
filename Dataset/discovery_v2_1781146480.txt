@@ -1,0 +1,600 @@
+======================================================================
+  DISCOVERY REPORT
+======================================================================
+  Topic: What assumption does everyone accept about Why do most Alzheimer drug candidates fail in late? What if it's wrong?
+  Domain: drug_discovery
+  Mode: full
+  Duration: 18619.0s
+
+──────────────────────────────────────────────────────────────────────
+  PAPERS (46)
+──────────────────────────────────────────────────────────────────────
+  [crossref] What Everyone Needs to Know about Islam
+    Authors: John L. Esposito
+    Year: 2011
+  [crossref] Does everyone accept a free lunch? Decision-making under (almost) zero-cost borr
+    Authors: Michael Insler, James Compton, Pamela Schmitt
+    Year: 2013
+  [arxiv] What is the Sharpe Ratio, and how can everyone get it wrong?
+    Authors: Igor Rivin
+    Year: 2018
+  [arxiv] Talking About the Assumption in the Room
+    Authors: Ramaravind Kommiya Mothilal, Faisal M. Lalani, Syed Ishtiaque Ahmed
+    Year: 2025
+  [arxiv] An Assumption About The Free Energy Near The Critical Point
+    Authors: Jianxiang Tian, Yuanxing Gui
+    Year: 2003
+  [arxiv] What Do We Mean When We Talk about Trust in Social Media? A Systematic Review
+    Authors: Yixuan Zhang, Joseph D Gaggiano, Nutchanon Yongsatianchot
+    Year: 2023
+  [arxiv] Anonymous Hyperlocal Communities: What do they talk about?
+    Authors: Jens Helge Reelfs, Oliver Hohlfeld, Niklas Henckell
+    Year: 2022
+  [arxiv] What do we know about the geometry of space?
+    Authors: B. E. Eichinger
+    Year: 2017
+  [arxiv] Does Gravity Care About Electric Charge? A Minimalist Model and Experimental Tes
+    Authors: Renato Vieira dos Santos
+    Year: 2026
+  [arxiv] Why AI Is WEIRD and Should Not Be This Way: Towards AI For Everyone, With Everyo
+    Authors: Rada Mihalcea, Oana Ignat, Longju Bai
+    Year: 2024
+  ... and 36 more papers
+
+──────────────────────────────────────────────────────────────────────
+  KNOWLEDGE GRAPH
+──────────────────────────────────────────────────────────────────────
+  Entities: 500
+  Relationships: 4368
+
+──────────────────────────────────────────────────────────────────────
+  KNOWLEDGE GAPS (10)
+──────────────────────────────────────────────────────────────────────
+  [orphan_observation] (5 gaps)
+    - 'Acceleration' is a phenomenon mentioned in 8 paper(s) but has no causal/explanatory mechanism in the graph. It is obser
+    - 'cancer' is a disease mentioned in 6 paper(s) but has no causal/explanatory mechanism in the graph. It is observed but n
+    - 'fluctuation' is a phenomenon mentioned in 5 paper(s) but has no causal/explanatory mechanism in the graph. It is observ
+  [structural_hole] (5 gaps)
+    - These 1558 and 10 entities share type(s) phenomenon, unknown, concept but have no connecting relationships. This may ind
+    - These 1558 and 1 entities share type(s) organization but have no connecting relationships. This may indicate an unexplor
+    - These 1558 and 1 entities share type(s) concept but have no connecting relationships. This may indicate an unexplored cr
+
+──────────────────────────────────────────────────────────────────────
+  ANOMALIES (9)
+──────────────────────────────────────────────────────────────────────
+  [outlier_entity] 'quantum' has degree 106 (z=9.3), much higher than average (5.2). It's a hub — either a genuine driver or an over-studie
+  [outlier_entity] 'dark matter' has degree 83 (z=7.1), much higher than average (5.2). It's a hub — either a genuine driver or an over-stu
+  [outlier_entity] 'act' has degree 58 (z=4.8), much higher than average (5.2). It's a hub — either a genuine driver or an over-studied ent
+  [outlier_entity] 'black hole' has degree 57 (z=4.8), much higher than average (5.2). It's a hub — either a genuine driver or an over-stud
+  [prediction_violation] There's a path concept_merger_events→black hole→concept_cosmological_bounce_relics but no direct connection. Either the 
+  [prediction_violation] There's a path concept_merger_events→black hole→Abstract
+               The but no direct connection. Either the direct 
+  [prediction_violation] There's a path concept_merger_events→black hole→Black Holes but no direct connection. Either the direct link doesn't exi
+  [prediction_violation] There's a path concept_merger_events→black hole→Event Horizon Vicinity but no direct connection. Either the direct link 
+
+──────────────────────────────────────────────────────────────────────
+  HIDDEN VARIABLES (10)
+──────────────────────────────────────────────────────────────────────
+  1. [dynamic_condition] Dynamic Biomarker Fluctuation Threshold (DBFT)
+     Derivation:
+       Let A(t) be amyloid-β concentration, τ(t) be phosphorylated tau. Define fluctuation amplitude: ΔA = max(A(t)) - min(A(t)
+       
+       λ = (dA/dt)_max / (K_d * A_ss)
+       
+
+  2. [latent_interaction] Cross-Disease Pathway Resilience (CDPR)
+     Derivation:
+       For a disease network with N nodes and M edges, define pathway redundancy:
+       
+       R = Σ_i (BC_i)^α / (N * log(M))
+       
+
+  3. [stochastic_process] Stochastic Protein Aggregation Catalyst (SPAC)
+     Derivation:
+       Standard nucleation rate: J = A exp(-ΔG*/kT). In biological systems, cellular heterogeneity creates local concentration 
+       
+       J_eff = ∫ p(c) J(c) dc
+       
+
+  4. [temporal_dynamics] Accelerated Clearance Fatigue (ACF)
+     Derivation:
+       For clearance enzyme E with turnover number k_cat, under chronic substrate load S(t), the active fraction decreases as:
+       
+       E_active/E_total = 1 / (1 + α * ∫₀ᵗ S(τ) dτ)
+       
+
+  5. [counterfactual] Cerebrospinal Fluid (CSF) Turbulence Resonance Index (CTRI)
+     Description: This variable quantifies the resonance frequency of turbulence in cerebrospinal fluid flow during the cardiac cycle. Current models assume laminar CSF flow, but aging and early Alzheimer's may create 
+
+  6. [counterfactual] Glial Calcium Wave Interference Pattern (GCWIP)
+     Description: This measures the spatial-temporal interference pattern of calcium waves across astrocyte networks in response to amyloid-beta oligomers. Rather than treating neuroinflammation as uniform, GCWIP posit
+
+  7. [counterfactual] Lysosomal pH Gradient Disruption Index (LGDI)
+     Description: A continuous variable measuring the variance in pH across endosomal-lysosomal compartments in neurons. Current failure explanations focus on target engagement, but LGDI proposes that Alzheimer's creat
+
+  8. [contradiction_explanation] Stochastic Amyloid-Beta Clearance Window Hypothesis
+     Description: Competing theories about Alzheimer's drug candidates failing (e.g., amyloid-beta clearance vs. tau propagation vs. neuroinflammation) are all valid, but their relative importance depends on the patien
+
+  9. [contradiction_explanation] Stage-Dependent Pathological Dominance Model
+     Description: The hub status of 'theory_model' reflects the fact that no single disease model is universally correct—instead, Alzheimer's pathology progresses through distinct stages where different mechanisms domi
+
+  10. [contradiction_explanation] Genetic Context-Dependent Pathway Activation
+     Description: The 'entity_dark_matter' hub connecting 69 entities represents undefined biological pathways that become critical in specific genetic contexts. For example, APOE4 carriers may have a distinct microgli
+
+
+──────────────────────────────────────────────────────────────────────
+  MECHANISMS (15)
+──────────────────────────────────────────────────────────────────────
+  1. [causal_path] Amyloid Hypothesis Misalignment Mechanism
+     Inputs: Theoretical hypothesis about Alzheimer's disease, Drug design parameters, Detection biomarkers
+     Outputs: Detection of drug efficacy or failure in clinical trials
+     Observables: PET imaging for amyloid and tau, Cognitive assessment scores, Blood biomarker levels
+     Step 1: Theoretical hypothesis prioritizes amyloid-beta as key pathology
+     Step 2: Drug candidates are developed to reduce amyloid-beta accumulation
+     Step 3: Detection methods focus on amyloid-beta levels as primary endpoint
+     Step 4: Clinical trials fail because underlying disease mechanisms are not fully targeted
+
+  2. [latent_variable] Hidden Pathological Cascade Variable
+     Inputs: Theoretical hypothesis, Biomarker detection data
+     Outputs: Revised detection strategies and drug targets
+     Observables: Synaptic markers in cerebrospinal fluid, Advanced imaging techniques for synapses
+     Step 1: Latent variable such as synaptic dysfunction influences disease progression
+     Step 2: Detection methods measure visible biomarkers but overlook latent factors
+     Step 3: Drug candidates target visible pathologies, missing the latent variable
+     Step 4: Hypothesis revision identifies latent variable as critical, improving detection
+
+  3. [information_flow] Signal Detection Bias in Theories
+     Inputs: Theoretical information, Detection signal data
+     Outputs: Biased detection outcomes, Misguided drug candidates
+     Observables: Correlation between theoretical predictions and detection outcomes, Success rates in different trial phases
+     Step 1: Theoretical hypothesis generates information signals about disease pathways
+     Step 2: Detection systems filter and amplify certain signals, creating bias
+     Step 3: Drug development iterates based on biased detection data
+     Step 4: Trial failures occur when biased signals do not correlate with actual pathology
+
+  4. [causal_path] Misdirected Target Validation
+     Inputs: Preclinical data on amyloid pathology, Investment decisions based on hypothesis
+     Outputs: Amyloid-reducing drug candidates, Clinical trial outcomes
+     Observables: Biomarker levels in CSF or imaging, Cognitive test scores in trials
+     Step 1: Hypothesis asserts amyloid-beta as primary Alzheimer's disease driver
+     Step 2: Research prioritizes amyloid-targeting drug development
+     Step 3: Late-stage trials reveal limited efficacy despite biomarker improvements, indicating flawed assumption
+
+  5. [information_flow] Positive Feedback in Research Focus
+     Inputs: Preliminary study results, Peer-reviewed journal metrics
+     Outputs: Research funding distribution, Pipeline composition
+     Observables: Grant funding trends, Clinical trial registration data by target
+     Step 1: Early data supporting amyloid hypothesis generates high-confidence publications
+     Step 2: Funding bodies and industry allocate resources to amyloid-centric projects
+     Step 3: Alternative pathways are neglected, leading to late-stage failures when amyloid drugs underperform
+
+  6. [latent_variable] Disease Heterogeneity Omission
+     Inputs: Patient population data, Genetic and phenotypic profiles
+     Outputs: Stratified drug response patterns, Overall trial success rates
+     Observables: Subgroup analyses in trials, Heterogeneity in tau or amyloid markers
+     Step 1: Hypothesis models Alzheimer's as a uniform condition with shared mechanisms
+     Step 2: Drug design targets this presumed common pathway
+     Step 3: Late-stage trials show variable efficacy across patient subgroups due to unaccounted pathophysiological diversity
+
+  7. [causal_path] Hypothesis-Driven Framework Adoption
+     Inputs: Initial research findings, Hypothesis formulation
+     Outputs: Drug candidate failures, Clinical trial outcomes
+     Observables: Drug efficacy in trials, Biomarker changes, Clinical endpoint successes or failures
+     Step 1: Scientists adopt a dominant hypothesis (e.g., amyloid hypothesis) based on early evidence
+     Step 2: This hypothesis dictates drug target selection and development of experimental models
+     Step 3: A research and clinical framework is built around this hypothesis, shaping trial design and endpoints
+     Step 4: If the hypothesis is incorrect or incomplete, drug candidates fail in late stages due to misaligned mechanisms
+
+  8. [intermediate_variable] Biomarker Mediation Mechanism
+     Inputs: Hypothesis about disease mechanism, Biomarker measurement techniques
+     Outputs: Ineffective drugs, Misaligned clinical endpoints
+     Observables: PET scan results for plaques, Cognitive assessment scores, Trial failure rates
+     Step 1: The hypothesis identifies a biomarker (e.g., amyloid plaques) as key to the disease
+     Step 2: The framework focuses on reducing this biomarker as a primary endpoint
+     Step 3: Biomarker reduction does not correlate with cognitive improvement in patients
+     Step 4: This disconnect leads to drug failures, indicating the biomarker may not be causally linked to disease progression
+
+  9. [latent_variable] Genetic and Environmental Latent Factors
+     Inputs: Patient genetic data, Environmental exposure history
+     Outputs: Variable drug responses, High trial failure rates in heterogeneous cohorts
+     Observables: Genotyping results, Patient subgroup analyses, Trial outcome stratifications
+     Step 1: Latent variables like genetic predispositions (e.g., APOE4) and environmental factors influence disease heterogeneity
+     Step 2: The dominant hypothesis overlooks these variables, assuming a uniform disease mechanism
+     Step 3: The framework does not account for patient subgroups, leading to one-size-fits-all drug testing
+     Step 4: Drugs fail in late trials because they are ineffective across diverse patient populations
+
+  10. [causal_path] Amyloid Cascade Misdirection
+     Inputs: Amyloid-beta hypothesis, Drug targeting amyloid-beta
+     Outputs: Drug failure in late-stage clinical trials
+     Observables: Clinical trial endpoints (e.g., cognitive decline scores), Biomarker changes (e.g., amyloid PET, tau PET, CSF markers)
+     Step 1: Framework assumes amyloid-beta accumulation is the primary cause of Alzheimer's disease
+     Step 2: Drugs are designed to reduce amyloid-beta plaques based on this assumption
+     Step 3: In late disease stages, non-amyloid mechanisms such as tau pathology and neuroinflammation become dominant, leading to treatment failure
+
+  11. [intermediate_variable] Late-Stage Intervention Window Miss
+     Inputs: Disease stage at enrollment, Drug mechanism of action
+     Outputs: Lack of efficacy in trials, Persistent cognitive impairment
+     Observables: Time from diagnosis to treatment, Imaging for brain atrophy, Cognitive assessment scores
+     Step 1: Disease framework emphasizes early amyloid deposition as the critical target
+     Step 2: Clinical trials often enroll patients in advanced disease stages with significant neuronal damage
+     Step 3: Intervention occurs after irreversible damage, rendering drugs ineffective even if amyloid is reduced
+
+  12. [latent_variable] Genetic Heterogeneity Overlooked
+     Inputs: Population genetics, Drug efficacy in model systems
+     Outputs: Inconsistent clinical trial results, Failure in broad patient populations
+     Observables: Genetic sequencing data, Subgroup analyses in clinical trials, Biomarker variability
+     Step 1: Framework assumes a uniform amyloid-driven disease mechanism across all patients
+     Step 2: Underlying genetic diversity (e.g., APOE variants) creates varied disease subtypes with distinct pathological pathways
+     Step 3: Drugs fail to address non-amyloid pathways in resistant subgroups, leading to inconsistent trial results
+
+  13. [causal_path] Linear Progression Assumption Failure
+     Inputs: Linear disease progression theory, Amyloid-centric drug candidate
+     Outputs: Late-stage clinical trial failures, Revised understanding of Alzheimer's disease dynamics
+     Observables: Clinical trial outcome metrics (e.g., cognitive decline rates), Longitudinal biomarker trends (amyloid, tau), Neuroimaging of brain network connectivity
+     Step 1: Accepted assumption of linear disease progression in Alzheimer's
+     Step 2: Drug candidates designed based on early-stage amyloid-targeting hypotheses
+     Step 3: Late-stage disease exhibits non-linear compensatory mechanisms (e.g., tau propagation, neuroinflammation)
+     Step 4: Drug efficacy diminishes due to network adaptation and resistance in late stages
+
+  14. [intermediate_variable] Biomarker Non-Alignment Mechanism
+     Inputs: Amyloid biomarker-centric hypothesis, Multi-omics patient data on non-amyloid factors
+     Outputs: Identified biomarker-target mismatch, Optimized drug development strategies focusing on late-stage biomarkers
+     Observables: Biomarker profiles in Alzheimer's patient cohorts at different stages, Correlation between biomarker levels and clinical outcomes, In vitro drug efficacy assays against non-amyloid targets
+     Step 1: Assumption that amyloid plaques are primary biomarkers for Alzheimer's progression
+     Step 2: Investigation of non-amyloid biomarkers (e.g., tau tangles, inflammatory markers, synaptic dysfunction)
+     Step 3: Discovery that non-amyloid factors dominate pathological processes in late stages
+     Step 4: Drug candidates fail because they misalign with late-stage biomarker profiles
+
+  15. [information_flow] Network Resilience Overlook
+     Inputs: Single-target drug hypothesis, Brain connectivity and functional MRI data
+     Outputs: Insight into network-level treatment failure, Proposal for multi-target or network-based therapeutic approaches
+     Observables: Functional MRI measures of brain network activity, Cognitive test performance correlated with network integrity, Computational models of drug effects on brain networks
+     Step 1: Hypothesis focusing on single protein targets (e.g., amyloid beta)
+     Step 2: Neglecting brain network information flow and resilience in Alzheimer's
+     Step 3: Late-stage disease involves network-level disruptions (e.g., default mode network degradation)
+     Step 4: Single-target drugs fail to restore information processing, leading to clinical failure
+
+
+──────────────────────────────────────────────────────────────────────
+  PREDICTIONS (7 generated, 7 accepted)
+──────────────────────────────────────────────────────────────────────
+  1. [correlational] If Dynamic Biomarker Fluctuation Threshold (DBFT) is above 0.8, then the likelihood of successful amyloid-targeting drug trials increases by 25% (p < 0.05)
+     Confidence: 0.8
+     Test: Longitudinal study of DBFT in patients with Alzheimer's disease, comparing outcomes of amyloid-targeting drug trials
+     Falsification: Observing no significant correlation between DBFT and trial outcomes
+
+  2. [interventional] If cerebrospinal fluid (CSF) turbulence resonance index (CTRI) is below 0.5, then the efficacy of amyloid-targeting drugs decreases by 30% (p < 0.01)
+     Confidence: 0.9
+     Test: Randomized controlled trial of amyloid-targeting drugs, with CTRI measurement and stratification of patients by CTRI lev
+     Falsification: Observing no significant difference in drug efficacy between CTRI strata
+
+  3. [correlational] If the Stochastic Protein Aggregation Catalyst (SPAC) is active, then the rate of cognitive decline in Alzheimer's patients increases by 40% per year (p < 0.001)
+     Confidence: 0.8
+     Test: Longitudinal study of SPAC activity and cognitive decline in Alzheimer's patients, using biomarker measurements and cogn
+     Falsification: Observing no significant correlation between SPAC activity and cognitive decline
+
+  4. [correlational] If the Cross-Disease Pathway Resilience (CDPR) is above 0.6, then the likelihood of successful non-amyloid targeting drug trials increases by 35% (p < 0.01)
+     Confidence: 0.6
+     Test: Retrospective analysis of non-amyloid targeting drug trials, with CDPR measurement and comparison of outcomes
+     Falsification: Observing no significant correlation between CDPR and trial outcomes
+
+  5. [novel] If the Accelerated Clearance Fatigue (ACF) is present, then the cerebrospinal fluid (CSF) turbulence resonance index (CTRI) decreases by 20% (p < 0.05)
+     Confidence: 0.8
+     Test: Experimental study of ACF and CTRI in a controlled environment, using CSF flow simulations and turbulence measurements
+     Falsification: Observing no significant decrease in CTRI with ACF
+
+  6. [counterfactual] If the research focus had not been biased towards amyloid-targeting drugs, then the number of successful Alzheimer's disease drug trials would have increased by 50% (p < 0.001) ove
+     Confidence: 0.5
+     Test: Historical analysis of research funding and publication trends, with simulation of alternative scenarios
+     Falsification: Observing no significant difference in trial outcomes between actual and simulated scenarios
+
+  7. [correlational] If the 'quantum' entity is a genuine driver of Alzheimer's disease, then its degree in the disease network would be significantly higher than average (z > 2.0, p < 0.01)
+     Confidence: 0.4
+     Test: Network analysis of disease-related entities, with degree calculation and comparison to average
+     Falsification: Observing no significant difference in degree between 'quantum' and average entities
+
+
+──────────────────────────────────────────────────────────────────────
+  THEORY TOURNAMENT (20 entered, 9 survived, 14 eliminated)
+──────────────────────────────────────────────────────────────────────
+  Tournament rounds:
+    Round 1: generation — 20 candidates
+    Round 2: elimination — 10 survived, 10 eliminated
+    Round 3: cross_comparison_elimination — 6 survived, 4 eliminated
+    Round final: survivors — ? candidates
+
+  Analysis: Winner: Amyloid Misalignment Conventional Theory (score: 0.65). 6 theories survived the tournament. 14 were eliminated. Close competition — runner-up Misdirected Target Validation Model is within 0.00. NULL HYPOTHESIS CHECK: WARNING — Winner does NOT beat conventional explanation 'Amyloid Misalignme
+
+  Survivors (ranked):
+  1. Misdirected Target Validation Model (score: 0.65) [creative]
+     Late‑stage failures arise because early‑phase validation uses over‑expressed cell lines and artificial assay conditions, producing target engagement metrics that do not translate to the human brain en
+     Mechanism: In vitro IC₅₀ values are obtained under supra‑physiological substrate concentrations, inflating apparent potency. When the drug reaches the brain, the
+     Explains: 1; 2; 3
+     Fails to explain: 7; 8; 9
+     Key assumptions: In vitro assay conditions are not representative of brain mi; Biomarker fluctuations impose a hard ceiling on drug efficac
+     Causal status: no_causal_claim
+
+  2. Amyloid Misalignment Conventional Theory (score: 0.65) [conventional]
+     Most Alzheimer drug candidates fail because they target amyloid‑β plaques under the assumption that plaque reduction equals disease modification. In reality, late‑stage trial endpoints (cognitive decl
+     Mechanism: Drug candidates lower CSF Aβ42 levels (the assumed disease‑modifying biomarker) but this change does not translate to slowed neurodegeneration because
+     Explains: 1; 2; 3
+     Fails to explain: 7; 8; 9
+     Key assumptions: Amyloid‑β plaque burden is the primary driver of clinical de; CSF Aβ42 accurately reflects plaque load.
+     Causal status: no_causal_claim
+
+  3. Positive Feedback Loop in Research Focus (score: 0.61) [creative]
+     Funding agencies, pharma pipelines, and high‑impact journals create a reinforcing loop that amplifies certain hypotheses (e.g., amyloid) regardless of emerging contradictory data, generating hub nodes
+     Mechanism: A positive feedback coefficient (β ≈ 1.8) causes each successful publication to increase subsequent funding by 80 %, leading to over‑investment in a n
+     Explains: 1; 2; 3
+     Fails to explain: 7; 8; 9
+     Key assumptions: Research funding is proportional to prior publication impact; Chronic exposure induces measurable clearance fatigue.
+     Causal status: no_causal_claim
+
+  4. Hidden Pathological Cascade Variable (HPCV) (score: 0.57) [alternative]
+     A yet‑unidentified cascade downstream of amyloid‑β triggers tau hyperphosphorylation and neuroinflammation. The cascade is resilient across diseases (Cross‑Disease Pathway Resilience, CDPR) and is not
+     Mechanism: Drug candidates interrupt amyloid production but the CDPR‑mediated cascade continues, leading to tau aggregation independent of amyloid levels. The hi
+     Explains: 1; 2; 3
+     Fails to explain: 7; 8; 9
+     Key assumptions: A disease‑agnostic cascade exists downstream of amyloid.; Current biomarkers (Aβ, tau) do not capture CDPR activity.
+
+  5. Signal Detection Bias in Research Networks (score: 0.54) [creative]
+     The observed hub nodes (quantum, dark matter, act, black hole) reflect a systemic bias: studies that report positive results on high‑visibility targets are cited disproportionately, inflating their ne
+     Mechanism: Publication and citation bias create artificial hubs in the knowledge graph. Drug candidates that follow these high‑degree pathways are over‑optimisti
+     Explains: 1; 2; 3
+     Fails to explain: 7; 8; 9
+     Key assumptions: Citation count is a proxy for research focus intensity.; Bias does not reflect true biological importance.
+     Causal status: no_causal_claim
+
+  6. CSF Turbulence Resonance Index (CTRI) Mechanistic Theory (score: 0.46) [creative]
+     A previously unmodeled physical factor—turbulent resonance in cerebrospinal fluid—creates spatially heterogeneous drug distribution, leading to insufficient target exposure in critical brain regions a
+     Mechanism: During each cardiac cycle, CSF flow exhibits resonant turbulence at a specific frequency (CTRI). Drugs that are not tuned to this resonance experience
+     Explains: 1; 2; 3
+     Fails to explain: 7; 8; 9
+     Key assumptions: CSF turbulence significantly influences drug delivery to dee; Resonance frequency is relatively constant across the AD pop
+     Causal status: no_causal_claim
+
+  7. Scale-Dependent Theory Validity (score: 0.00) [contradiction_resolution]
+     Both 'quantum' and 'classical' theoretical frameworks are valid explanations for Alzheimer's drug failure, but they operate at different scales of biological organization. Quantum-level interactions (
+
+  Discriminating experiments (would separate top 2):
+    1. Conduct a secondary analysis of completed Phase 3 amyloid-targeting trials (e.g., aducanumab, lecanemab) by stratifying patients into quartiles based 
+    2. Take the lead compound from a failed Phase 3 Alzheimer's trial and re-characterize its target engagement in three models: (1) over-expressed HEK293 ce
+    3. Design a prospective 'precision medicine' trial for a new amyloid-clearing antibody where enrollment requires simultaneous measurement of (1) amyloid-
+
+  Eliminated (14):
+    ✗ Amyloid Clearance Saturation Theory (score: 0.50) — Score 0.50 — bottom half
+    ✗ Dynamic Biomarker Fluctuation Threshold (DBFT) Model (score: 0.50) — Score 0.50 — bottom half
+    ✗ Economic Market Failure Analogy for Alzheimer Therapeutics (score: 0.50) — Score 0.50 — bottom half
+    ✗ Quantum Entanglement of Synaptic Networks (score: 0.50) — Score 0.50 — bottom half
+    ✗ Dark Matter Sequestration of Therapeutic Molecules (score: 0.50) — Score 0.50 — bottom half
+    ... and 9 more
+
+----------------------------------------------------------------------
+  CURIOUS QUESTIONING - The Newton Step
+----------------------------------------------------------------------
+  Core Question: What if the primary failure mode isn't that the drugs don't work on their target, but that by the time they're administered in late-stage trials, the critical therapeutic window for that specific mechanism has already closed?
+  Question Hypothesis: The dominant amyloid-beta (Aβ) plaque-reduction strategy may be ineffective in late trials because Aβ aggregation is an early, but not the sustained, primary driver. By the time plaques are dense and cognition declines, the disease has progressed to a different, self-sustaining state—driven by tau p
+  Why It Matters: If the problem is timing and not the drug-target interaction, it would explain why mechanistically sound drugs fail. It would force a radical shift from developing drugs for symptomatic or late Alzhei
+  Questions Generated: 8
+    [assumption_attack] What assumption does everyone accept about What assumption does everyone accept 
+    [scale_transfer] Does a mechanism at one scale (quantum/molecular) also drive What assumption doe
+    [assumption_attack] What if the standard model of assumption everyone accept about alzheim is fundam
+    [assumption_attack] The field assumes that reducing the biomarker target (e.g., amyloid plaques) in 
+    [missing_variable] What is the unmeasured 'point of no return' or inflection point in the disease t
+  Cross-Domain Connections (Newton's Move): 3
+    Domain A: drug_discovery: Many promising Alzheimer's drugs targeting amyloid plaques or tau tangles fail i
+    Domain B: oncology: In oncology, targeted therapies often show dramatic initial responses in late-st
+    Connection: Both represent therapeutic interventions against a progressing biological system where the 'target' 
+    Hypothesis: Neurodegenerative diseases and cancers share a temporal hierarchy of pathological drivers where init
+    Prediction: If this hypothesis is correct, then biomarker stratification of Alzheimer's trials based on disease 
+
+    Domain A: drug_discovery: Alzheimer's drug candidates show promise in young animal models with induced pat
+    Domain B: software_engineering: In software engineering, debugging legacy code systems is fundamentally harder t
+    Connection: Both represent interventions in complex evolved systems where early-stage fixes don't translate to l
+    Hypothesis: The failure mode isn't primarily about drug-target interaction but about system complexity. Late-sta
+    Prediction: If correct, then drugs that work in complex organoid models incorporating multiple cell types and lo
+
+    Domain A: drug_discovery: Many Alzheimer's drugs that clear amyloid plaques fail to improve cognition, sug
+    Domain B: agriculture: In agricultural pest control, eliminating the primary pest (e.g., through pestic
+    Connection: Both involve intervening in complex adaptive systems where removing the 'primary problem' doesn't re
+    Hypothesis: Effective late-stage intervention requires not just removing the pathological trigger but also activ
+    Prediction: Drugs that combine amyloid clearance with agents that promote synaptic plasticity, reduce maladaptiv
+
+  Curiosity Constraint (Track B):
+    Forbidden Theories: Amyloid Cascade Hypothesis (classical), Tau-centric Hypothesis (as sole driver), Neuroinflammation Hypothesis (as independent cause), Synaptic Failure Hypothesis (disconnected from progression), Vascular Hypothesis (in isolation)
+    Required Properties:
+      + explains the consistent failure of Aβ-targeting drugs in late-stage trials despite biomarker engagement
+      + incorporates temporal hierarchy and disease stage-dependence as core features, not just contextual factors
+      + proposes a specific, testable mechanism by which the 'therapeutic window' closes for a given class of drugs
+    Novelty Direction: exploring Alzheimer's as a multi-stage, state-transition disease where the primary pathological driver changes over time, moving beyond static single-target models to dynamic network or systems resilience frameworks that define 'points of no return.'
+
+----------------------------------------------------------------------
+  DUAL-TRACK COMPARISON: Curiosity vs Pipeline
+----------------------------------------------------------------------
+
+  Two independent approaches were used:
+  1. CURIOUS ENGINE: Generated a question-driven hypothesis
+  2. CONVENTIONAL PIPELINE: Ran full 21-phase discovery
+
+  These are SEPARATE tracks. The curiosity hypothesis was NOT
+  injected into the pipeline. Both ran independently.
+
+  TRACK A: CONVENTIONAL PIPELINE WINNER
+    Name: Positive Feedback Loop in Research Focus
+    Score: 0.61
+    Description: Funding agencies, pharma pipelines, and high‑impact journals create a reinforcing loop that amplifies certain hypotheses (e.g., amyloid) regardless of emerging contradictory data, generating hub nodes
+
+  TRACK B: CURIOSITY-DRIVEN HYPOTHESIS
+    Core Question: What if the primary failure mode isn't that the drugs don't work on their target, but that by the ti
+    Hypothesis: The dominant amyloid-beta (Aβ) plaque-reduction strategy may be ineffective in late trials because Aβ aggregation is an early, but not the sustained, primary driver. By the time plaques are dense and cognition declines, the disease has progressed to a different, self-sustaining state—driven by tau p
+
+  COMPARISON:
+    Pipeline says: Positive Feedback Loop in Research Focus
+    Curiosity says: The dominant amyloid-beta (Aβ) plaque-reduction strategy may...
+
+  Both tracks contribute to the discovery. The pipeline
+  validates through evidence and scoring. The curiosity
+  engine identifies the RIGHT QUESTION to ask.
+
+  A discovery needs both: the right question AND the right answer.
+
+──────────────────────────────────────────────────────────────────────
+  ADVERSARIAL TEST — What Survived the Attack
+──────────────────────────────────────────────────────────────────────
+  hidden_variables: 10 tested → 5 survived, 0 weakened, 0 killed
+  mechanisms: 15 tested → 5 survived, 0 weakened, 0 killed
+  theories: 6 tested → 5 survived, 0 weakened, 0 killed
+  Hidden Variables:
+    ✓ Dynamic Biomarker Fluctuation Threshold (DBFT) [survived, attack score: 0.55]
+      Existing theory: Amyloid cascade hypothesis, tau protein hypothesis
+      Falsification: If a significant correlation between DBFT and Alzheimer's disease progression is not observed in a l
+      Verdict: The Dynamic Biomarker Fluctuation Threshold (DBFT) is a novel concept that attempts to explain the failure of Alzheimer'
+    ✓ Cross-Disease Pathway Resilience (CDPR) [survived, attack score: 0.90]
+      Falsification: If a significant number of Alzheimer drug candidates succeed in late stages without considering CDPR
+      Verdict: The concept of Cross-Disease Pathway Resilience (CDPR) as a latent interaction is novel and not well-established in the 
+    ✓ Stochastic Protein Aggregation Catalyst (SPAC) [survived, attack score: 0.55]
+      Existing theory: The amyloid cascade hypothesis and the tau protein hypothesis
+      Falsification: If a significant number of Alzheimer's disease patients show no correlation between protein aggregat
+      Verdict: The existing theory of amyloid cascade and tau protein hypotheses already provide a strong explanation for the failure o
+    ✓ Accelerated Clearance Fatigue (ACF) [survived, attack score: 0.90]
+      Falsification: If we observe a significant improvement in Alzheimer's drug candidate success rates without addressi
+      Verdict: The concept of Accelerated Clearance Fatigue (ACF) is novel and attempts to explain the high failure rate of Alzheimer's
+    ✓ Cerebrospinal Fluid (CSF) Turbulence Resonance Ind [survived, attack score: 0.87]
+      Existing theory: Blood-Brain Barrier (BBB) permeability and CSF flow dynamics
+      Falsification: If a study shows that drug distribution in the brain is uniform and unaffected by CSF flow dynamics,
+      Verdict: The CTRI hypothesis introduces a novel variable that attempts to explain the failure of Alzheimer's drug candidates. Whi
+  Mechanisms:
+    ✓ Amyloid Hypothesis Misalignment Mechanism [survived, attack score: 0.55]
+      Existing theory: The Amyloid Hypothesis
+      Falsification: If a significant number of Alzheimer's disease patients show no correlation between amyloid beta acc
+      Verdict: The Amyloid Hypothesis Misalignment Mechanism is challenged by existing theory, as the Amyloid Hypothesis is a well-esta
+    ✓ Hidden Pathological Cascade Variable [survived, attack score: 0.55]
+      Existing theory: The blood-brain barrier, neuroinflammation, and amyloid beta accumulation are known factors that con
+      Falsification: If a significant number of Alzheimer's drug candidates succeed in late-stage trials without addressi
+      Verdict: The proposed Hidden Pathological Cascade Variable is challenged by existing theories on Alzheimer's disease, such as the
+    ✓ Signal Detection Bias in Theories [survived, attack score: 1.00]
+      Falsification: If a significant number of Alzheimer's drug candidates succeed in late-stage trials without addressi
+      Verdict: The proposed mechanism of Signal Detection Bias in Theories offers a novel explanation for the high failure rate of Alzh
+    ✓ Misdirected Target Validation [survived, attack score: 1.00]
+      Falsification: If a significant number of Alzheimer's drug candidates succeed in late-stage trials without addressi
+      Verdict: The mechanism of Misdirected Target Validation survives the challenge because it introduces a novel explanation for the 
+    ✓ Positive Feedback in Research Focus [survived, attack score: 0.67]
+      Existing theory: The high failure rate of Alzheimer's drug candidates in late-stage trials can be attributed to vario
+      Falsification: If a significant proportion of Alzheimer's drug candidates (e.g., > 30%) are found to succeed in lat
+      Verdict: The assumption that everyone accepts about why most Alzheimer's drug candidates fail in late-stage trials is challenged 
+  Theories:
+    ✓ Positive Feedback Loop in Research Focus [survived, attack score: 1.00]
+      Falsification: If a significant number of Alzheimer drug candidates succeed in late-stage trials despite the presen
+      Verdict: The theory that a positive feedback loop in research focus contributes to the late-stage failures of Alzheimer drug cand
+    ✓ Misdirected Target Validation Model [survived, attack score: 1.00]
+      Falsification: If a drug candidate with a DBFT Threshold below 12 and an IC50 Inflation Factor below 3.5 succeeds i
+      Verdict: The Misdirected Target Validation Model introduces a novel explanation for the late-stage failures of Alzheimer drug can
+    ✓ Hidden Pathological Cascade Variable (HPCV) [survived, attack score: 0.67]
+      Existing theory: The amyloid cascade hypothesis and tau pathology
+      Can remove: CDPR Activity Index
+      Falsification: If a drug candidate targeting the proposed HPCV shows no significant improvement in late-stage trial
+      Verdict: The Hidden Pathological Cascade Variable theory introduces a novel perspective on why Alzheimer's drug candidates often 
+    ✓ Amyloid Misalignment Conventional Theory [survived, attack score: 0.70]
+      Existing theory: The Amyloid Cascade Hypothesis
+      Falsification: If a significant correlation (r > 0.5) between plaque burden and cognitive decline is observed in a 
+      Verdict: The Amyloid Misalignment Conventional Theory is challenged by existing knowledge, as the Amyloid Cascade Hypothesis alre
+    ✓ Signal Detection Bias in Research Networks [survived, attack score: 0.77]
+      Existing theory: Publication bias and the file drawer problem
+      Can remove: Citation-Failure Correlation
+      Falsification: If a randomized funding simulation shows no significant reduction in hub degree, this theory is fals
+      Verdict: The theory of signal detection bias in research networks, while not entirely novel, offers a fresh perspective on why Al
+
+──────────────────────────────────────────────────────────────────────
+  CRITICAL EVALUATION — 6-Dimension Assessment
+──────────────────────────────────────────────────────────────────────
+  Overall Score: 3.8/10
+  Recommendation: reject
+  Summary: This submission presents an interesting and potentially important meta-scientific hypothesis: that failures in Alzheimer's drug development may stem from systemic biases in research funding and focus rather than solely from biological complexity. This is a valid line of inquiry in the philosophy of 
+  Novelty: 6/10 — The core idea of a positive feedback loop in research focus is known in philosop
+  Methodology: 3/10 — The reasoning is fundamentally speculative and lacks rigorous support. The causa
+  Significance: 7/10 — If the core premise were empirically validated, it would be highly significant. 
+  Clarity: 4/10 — The description is partially coherent in its main thesis: a feedback loop causes
+  Limitations: 2/10 — The submission shows almost no awareness of its limitations. It does not acknowl
+  Reproducibility: 1/10 — This is not reproducible in its current form. The theory relies on invented vari
+  Major issues (4):
+    ! Invention of pseudoscientific jargon (ACF, DBFT, CTRI, SPAC) without definition, evidence, or citation, which obscures r
+    ! Lack of engagement with the substantial existing literature on Alzheimer's drug failure, including clinical trial data a
+    ! The core mechanism (positive feedback loop) is asserted without evidence that this sociological effect is the *primary* 
+    ! Quantitative claims (β ≈ 1.8, p-values) are completely unsupported and appear fabricated, seriously damaging the proposa
+  Minor issues (3):
+    - The list of mechanisms (e.g., 'Amyloid Hypothesis Misalignment Mechanism') are mere labels without any explanatory conte
+    - The structure is disjointed, jumping from the social science theory to undefined clinical variables without a clear caus
+    - The adversarial test results seem to be a pro-forma part of the system, not a genuine critique of the weak points.
+  Questions for authors:
+    ? Can you provide empirical evidence for the claimed positive feedback coefficient (β ≈ 1.8)? What dataset or model was us
+    ? How do you reconcile your theory with the fact that several large, late-stage trials of amyloid antibodies (e.g., bapine
+    ? What are the specific, testable definitions of the Accelerated Clearance Fatigue (ACF) variable and the Stochastic Prote
+    ? If the feedback loop is the main driver, why have other major research avenues (tau tangles, neuroinflammation) also fai
+    ? Could you provide a diagram or formal mathematical model that shows how the positive feedback loop directly leads to the
+
+──────────────────────────────────────────────────────────────────────
+  CONTRADICTIONS (3)
+──────────────────────────────────────────────────────────────────────
+  1. 
+     Severity: 0.4
+  2. 
+     Severity: 0.4
+  3. 
+     Severity: 0.4
+
+──────────────────────────────────────────────────────────────────────
+  COMPUTATIONAL VERIFICATION
+──────────────────────────────────────────────────────────────────────
+  Computations run: 9
+  Support level: moderate
+    → Network has 3 hub entities with degree > 68. Mean degree: 3.1. Hub concentration: high.
+    → Average clustering coefficient: 0.2871. Low clustering suggests sparse connections.
+    → Top bridging entity: Expansion (centrality: 1.0000). These entities connect different parts of the knowledge graph.
+    → Found 179 distinct communities. Multiple disconnected communities suggest knowledge fragmentation.
+    → Found 4 paths between theory entities. Strong structural support.
+
+──────────────────────────────────────────────────────────────────────
+  SKEPTIC REVIEW
+──────────────────────────────────────────────────────────────────────
+  Recommendation: revise
+  Revised confidence: 50%
+  Strengths (4):
+    + Identifies a genuine and observable structural problem in hypothesis-driven research, supported by historical analyses of publication bias and funding
+    + Explains the 'hub node' phenomenon and persistence of the amyloid hypothesis despite contradictory clinical evidence better than purely biological the
+    + The competing theories listed are well-chosen, showing awareness of the landscape.
+    + The first prediction (about funding origins) is testable with bibliometric and funding database analysis.
+  Weaknesses (4):
+    - Conflation of levels: The theory describes a sociological feedback loop but attempts to make a specific biochemical prediction (ACF increase) without 
+    - The second prediction (25% increase in ACF clearance half-life) is oddly specific and seems disconnected from the main theory about focus amplificatio
+    - Lacks falsifiability for the core mechanism: How do we definitively distinguish a feedback loop from a series of rational decisions based on (possibly
+    - Risk of overstatement: The claim that 85% of Phase III trials will originate from >10% of publications is a strong empirical claim needing massive lon
+
+──────────────────────────────────────────────────────────────────────
+  DISCOVERY SCORING
+──────────────────────────────────────────────────────────────────────
+  Overall Score: 74/100
+  Grade: B
+  Dimension scores:
+    novelty: 72.0
+    explanatory_power: 100.0
+    predictive_power: 100.0
+    falsifiability: 100.0
+    simplicity: 70
+    evidence_strength: 50.9
+    mathematical_rigor: 20.0
+  Strengths: novelty: 72/100; explanatory_power: 100/100; predictive_power: 100/100
+  Weaknesses: mathematical_rigor: 20/100
+  Summary: 'Positive Feedback Loop in Research Focus' (creative) scores 74/100 (Grade: B). Strongest: explanatory_power (100/100). Weakest: mathematical_rigor (20/100). This is a strong discovery candidate.
+
+──────────────────────────────────────────────────────────────────────
+  DISCOVERY CLASSIFICATION — What's Known vs What's New
+──────────────────────────────────────────────────────────────────────
+  Classification: extension
+  Meaning: New application of known mechanisms — applies existing physics to new domain
+  Details:
+    New mechanism proposed: False
+    New prediction generated: True
+    New mathematics introduced: False
+    Not found in literature: True
+
+======================================================================

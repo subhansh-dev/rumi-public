@@ -1,0 +1,540 @@
+======================================================================
+  DISCOVERY REPORT
+======================================================================
+  Topic: What assumption does everyone accept about What happens to information when it crosses a blac? What if it's wrong?
+  Domain: general
+  Mode: full
+  Duration: 3784.6s
+
+──────────────────────────────────────────────────────────────────────
+  PAPERS (121)
+──────────────────────────────────────────────────────────────────────
+  [crossref] What Everyone Needs to Know about Islam
+    Authors: John L. Esposito
+    Year: 2011
+  [crossref] Does everyone accept a free lunch? Decision-making under (almost) zero-cost borr
+    Authors: Michael Insler, James Compton, Pamela Schmitt
+    Year: 2013
+  [crossref] Hormones and disease: What happens when things go wrong?
+    Authors: Joy Hinson, Peter Raven
+    Year: 2019
+  [arxiv] What is the Sharpe Ratio, and how can everyone get it wrong?
+    Authors: Igor Rivin
+    Year: 2018
+  [arxiv] Talking About the Assumption in the Room
+    Authors: Ramaravind Kommiya Mothilal, Faisal M. Lalani, Syed Ishtiaque Ahmed
+    Year: 2025
+  [arxiv] An Assumption About The Free Energy Near The Critical Point
+    Authors: Jianxiang Tian, Yuanxing Gui
+    Year: 2003
+  [arxiv] Collision Replay: What Does Bumping Into Things Tell You About Scene Geometry?
+    Authors: Alexander Raistrick, Nilesh Kulkarni, David F. Fouhey
+    Year: 2021
+  [arxiv] Searchers Seeking: What Happens When you Frustrate Searchers?
+    Authors: Gareth Renaud
+    Year: 2014
+  [crossref] What Happens When Negroes Don’t March?
+    Authors: David Lucander
+    Year: 2017
+  [arxiv] What Does It Take to Get Guarantees? Systematizing Assumptions in Cyber-Physical
+    Authors: Chengyu Li, Saleh Faghfoorian, Ivan Ruchkin
+    Year: 2025
+  ... and 111 more papers
+
+──────────────────────────────────────────────────────────────────────
+  KNOWLEDGE GRAPH
+──────────────────────────────────────────────────────────────────────
+  Entities: 543
+  Relationships: 4354
+
+──────────────────────────────────────────────────────────────────────
+  KNOWLEDGE GAPS (10)
+──────────────────────────────────────────────────────────────────────
+  [orphan_observation] (5 gaps)
+    - 'Acceleration' is a phenomenon mentioned in 8 paper(s) but has no causal/explanatory mechanism in the graph. It is obser
+    - 'cancer' is a disease mentioned in 6 paper(s) but has no causal/explanatory mechanism in the graph. It is observed but n
+    - 'fluctuation' is a phenomenon mentioned in 5 paper(s) but has no causal/explanatory mechanism in the graph. It is observ
+  [structural_hole] (5 gaps)
+    - These 1555 and 10 entities share type(s) phenomenon, concept, unknown but have no connecting relationships. This may ind
+    - These 1555 and 1 entities share type(s) concept but have no connecting relationships. This may indicate an unexplored cr
+    - These 1555 and 1 entities share type(s) concept but have no connecting relationships. This may indicate an unexplored cr
+
+──────────────────────────────────────────────────────────────────────
+  ANOMALIES (9)
+──────────────────────────────────────────────────────────────────────
+  [outlier_entity] 'quantum' has degree 106 (z=9.6), much higher than average (4.7). It's a hub — either a genuine driver or an over-studie
+  [outlier_entity] 'dark matter' has degree 83 (z=7.4), much higher than average (4.7). It's a hub — either a genuine driver or an over-stu
+  [outlier_entity] 'act' has degree 58 (z=5.0), much higher than average (4.7). It's a hub — either a genuine driver or an over-studied ent
+  [outlier_entity] 'black hole' has degree 57 (z=4.9), much higher than average (4.7). It's a hub — either a genuine driver or an over-stud
+  [prediction_violation] There's a path concept_neutrino_star_singularity→black hole→Quantum Gravity but no direct connection. Either the direct 
+  [prediction_violation] There's a path concept_neutrino_star_singularity→black hole→Abstract
+               Because but no direct connection. Ei
+  [prediction_violation] There's a path concept_neutrino_star_singularity→black hole→concept_pulsar_timing_array but no direct connection. Either
+  [prediction_violation] There's a path concept_neutrino_star_singularity→black hole→Virgo but no direct connection. Either the direct link doesn
+
+──────────────────────────────────────────────────────────────────────
+  HIDDEN VARIABLES (8)
+──────────────────────────────────────────────────────────────────────
+  1. [Physical quantity / field] Holographic Information Density (ρ_info)
+     Description: A scalar field representing the information density per Planck area on holographic screens. While the holographic principle suggests information is encoded on surfaces, ρ_info proposes this is a measu
+
+  2. [Dimensionless coupling constant] Quantum Gravity Entanglement Threshold (E_QG)
+     Description: A critical entanglement entropy between quantum matter and spacetime geometry at which classical information dynamics break down. Below E_QG, information behaves as in quantum field theory in curved s
+
+  3. [Measurable distortion field] Cosmic Microwave Background Information Echoes (Φ_CMB)
+     Description: Residual signatures in the cosmic microwave background from information processing during the early universe. If information is conserved across black hole events, imprints of primordial black hole fo
+
+  4. [counterfactual] Quantum Fluctuation Informational Carry (QFIC)
+     Description: The standard assumption is that quantum fluctuations near event horizons are random thermal noise containing no recoverable information. QFIC proposes instead that structured information from falling 
+
+  5. [counterfactual] Informational Dark Pressure (IDP)
+     Description: The 'Acceleration' orphan observation and 'Hubble' isolation suggest cosmic expansion lacks a causal mechanism linked to quantum information. IDP proposes that the universe's accelerating expansion is
+
+  6. [counterfactual] Singularity Information Replication Rate (SIRR)
+     Description: The 'cancer' orphan observation metaphorically suggests uncontrolled replication. SIRR proposes that singularities don't destroy information but *replicate* it uncontrollably through quantum cloning-l
+
+  7. [contradiction_explanation] Phenomenon-Specific Validity of Theoretical Models
+     Description: The competing theoretical models (like different quantum gravity approaches) aren't universally wrong or right—they're effective descriptions valid for specific phenomena. One model might perfectly pr
+
+  8. [contradiction_explanation] Environment-Dependent Dark Matter Interaction
+     Description: The dark matter contradiction (particle vs. modified gravity) persists because both explanations capture different aspects of reality depending on galactic environment. In high-density environments (g
+
+
+──────────────────────────────────────────────────────────────────────
+  MECHANISMS (14)
+──────────────────────────────────────────────────────────────────────
+  1. [information_flow] Information Preservation via Hawking Radiation
+     Inputs: Hypothesis about information conservation, Black hole physical parameters
+     Outputs: Detection data from Hawking radiation measurements
+     Observables: Hawking radiation spectrum, Entanglement patterns in emitted particles
+     Step 1: Theoretical hypothesis proposes that information is conserved when crossing a black hole
+     Step 2: This leads to predictions of specific patterns in Hawking radiation that encode the information
+     Step 3: Observations or experiments are designed to detect these radiation signatures
+     Step 4: Detection data is analyzed to verify or falsify the information preservation hypothesis
+
+  2. [intermediate_variable] Entropy-Mediated Detection Mechanism
+     Inputs: Theory hypothesis on information and entropy, Black hole thermodynamic properties
+     Outputs: Detection of entropy-related measurements, Empirical validation or refutation
+     Observables: Black hole temperature variations, Radiation entropy flux
+     Step 1: Hypothesis links information loss to entropy changes in black holes
+     Step 2: Entropy evolution is modeled during black hole formation and evaporation
+     Step 3: Thermodynamic measurements are made to detect entropy-related signals in black hole environments
+     Step 4: Detection results correlate entropy changes with information theory predictions, testing the hypothesis
+
+  3. [causal_path] Theoretical Prediction to Gravitational Wave Detection
+     Inputs: Theory hypothesis, General relativity and quantum mechanics frameworks
+     Outputs: Gravitational wave detection data, Updated theoretical models
+     Observables: Gravitational wave waveforms, Event rates from black hole mergers
+     Step 1: A theoretical model is developed from the hypothesis about information crossing black holes
+     Step 2: The model makes quantitative predictions for detectable gravitational wave signatures
+     Step 3: Gravitational wave detectors are calibrated or designed to capture these specific signatures
+     Step 4: Observed data is compared with predictions, leading to confirmation or rejection of the hypothesis
+
+  4. [information_flow] Hawking Radiation Information Encoding
+     Inputs: infalling_information, black_hole_quantum_state
+     Outputs: information_in_Hawking_radiation, black_hole_evaporation_products
+     Observables: Hawking_radiation_spectrum, quantum_correlations_in_radiation
+     Step 1: Information falls into black hole and crosses event horizon
+     Step 2: Information is scrambled and encoded in quantum fields near horizon
+     Step 3: Hawking radiation carries encoded information outward, preserving it
+
+  5. [latent_variable] Holographic Boundary Information Projection
+     Inputs: information_infalling, event_horizon_geometry
+     Outputs: information_on_boundary, holographic_entropy
+     Observables: boundary_correlators, AdS/CFT_theoretical_predictions
+     Step 1: Information approaches black hole and interacts with event horizon
+     Step 2: Information is projected onto the horizon as holographic degrees of freedom
+     Step 3: Information is preserved in boundary theory and accessible via dual descriptions
+
+  6. [causal_path] Black Hole Interior Information Storage
+     Inputs: information_crossing_horizon, black_hole_mass
+     Outputs: information_stored_or_released, gravitational_waves
+     Observables: black_hole_evaporation_rate, final_state_radiation
+     Step 1: Information crosses event horizon and enters black hole interior
+     Step 2: Information is stored in singularity or remnant structure
+     Step 3: Information may be released during evaporation or remains inaccessible
+
+  7. [conservation_law] Information Conservation via Holographic Principle
+     Inputs: Information falling into black hole
+     Outputs: Preserved information in radiation or boundary states
+     Observables: Black hole entropy measurements, Correlations in Hawking radiation spectra
+     Step 1: Information crosses the event horizon of a black hole.
+     Step 2: Holographic principle encodes information on the black hole's boundary or event horizon.
+     Step 3: Information is preserved and can be recovered through Hawking radiation or boundary theories.
+
+  8. [causal_path] Quantum Entanglement Bridge for Information Transfer
+     Inputs: Quantum state of infalling information
+     Outputs: Correlated quantum states in Hawking radiation
+     Observables: Bell inequality violations in radiation, Entanglement entropy measurements
+     Step 1: Information creates quantum entanglement with particles inside the black hole.
+     Step 2: Entanglement is transferred to outgoing Hawking radiation particles via interactions at the horizon.
+     Step 3: Information emerges in Hawking radiation through entanglement swapping or similar quantum processes.
+
+  9. [energy_flow] Firewall Hypothesis Energy Conversion Mechanism
+     Inputs: Infalling information and black hole mass-energy
+     Outputs: High-energy radiation and potential information loss
+     Observables: Gamma-ray bursts from black holes, Anomalies in black hole evaporation rates
+     Step 1: Information crosses the event horizon, triggering a high-energy event at the horizon.
+     Step 2: Energy from the black hole's mass or infalling matter is released as a firewall of high-energy particles.
+     Step 3: Information is destroyed or converted to thermal energy in the radiation, challenging conservation laws.
+
+  10. [conservation_law] Quantum Information Preservation via Hawking Radiation
+     Inputs: Quantum information payload falling into black hole
+     Outputs: Hawking radiation with entanglement preserving information
+     Observables: Correlations in Hawking radiation, Black hole evaporation rate
+     Step 1: Information approaches event horizon
+     Step 2: Quantum entanglement encodes information in virtual particle pairs
+     Step 3: Hawking radiation carries encoded information outward
+
+  11. [causal_path] Classical General Relativity Information Loss
+     Inputs: Classical information signal entering black hole
+     Outputs: No recoverable information in final state
+     Observables: Absence of information in emitted radiation, Black hole disappearance without information trace
+     Step 1: Information crosses event horizon
+     Step 2: Information becomes causally disconnected from exterior observers
+     Step 3: Black hole evaporation via Hawking radiation results in apparent information loss
+
+  12. [information_flow] Hawking Radiation Information Encoding
+     Inputs: Infalling matter or radiation with quantum information
+     Outputs: Hawking radiation carrying preserved information
+     Observables: Correlations in Hawking radiation measurements, Black hole evaporation patterns, Consistency with quantum unitarity tests
+     Step 1: Information-bearing object crosses event horizon
+     Step 2: Information undergoes scrambling in black hole interior
+     Step 3: Scrambled information is encoded into virtual particles near horizon
+     Step 4: Encoded information is radiated via Hawking radiation
+
+  13. [causal_path] Black Hole Complementarity Information Duality
+     Inputs: Quantum state of infalling system
+     Outputs: Consistent information accessible to external observer
+     Observables: Thought experiment outcomes, Consistency in theoretical models, Potential gravitational wave signatures
+     Step 1: External observer detects information in Hawking radiation
+     Step 2: Infalling observer experiences information crossing horizon
+     Step 3: Complementary descriptions reconcile without information loss
+     Step 4: Theoretical framework ensures global consistency
+
+  14. [conservation_law] Firewall Information Dissipation
+     Inputs: Infalling quantum information
+     Outputs: Randomized Hawking radiation without encoded information
+     Observables: Detection of high-energy particles at horizon, Violations of equivalence principle in black hole mergers, Deviations from expected Hawking radiation spectrum
+     Step 1: Information approaches event horizon
+     Step 2: High-energy firewall forms at horizon
+     Step 3: Information is destroyed upon contact with firewall
+     Step 4: Radiation becomes thermal without information content
+
+
+──────────────────────────────────────────────────────────────────────
+  PREDICTIONS (7 generated, 7 accepted)
+──────────────────────────────────────────────────────────────────────
+  1. [correlational] If information preservation via Hawking radiation occurs, then the entropy of Hawking radiation will be 0.75 ± 0.05 times the entropy of the matter that fell into the black hole
+     Confidence: 0.7
+     Test: Measure the entropy of Hawking radiation and compare it to the entropy of matter that fell into the black hole using adv
+     Falsification: Observing an entropy ratio significantly different from 0.75 (e.g., 0.2 or 1.2) would falsify this prediction
+
+  2. [interventional] If we increase the mass of a black hole by 20%, then the rate of Hawking radiation will decrease by 12% ± 3% due to the increased gravitational pull
+     Confidence: 0.6
+     Test: Create a controlled experiment with two black holes of different masses and measure the rate of Hawking radiation using 
+     Falsification: Observing no significant change in the rate of Hawking radiation would falsify this prediction
+
+  3. [counterfactual] If the universe had not undergone a period of rapid expansion in the early universe, then the cosmic microwave background would contain 30% ± 10% fewer information echoes from prim
+     Confidence: 0.5
+     Test: Analyze the cosmic microwave background for signatures of information echoes and compare to simulations of the early uni
+     Falsification: Observing no significant difference in the number of information echoes between simulations would falsify this predictio
+
+  4. [correlational] If the holographic information density (ρ_info) is greater than 10^66 bits/m^2, then the entropy of black holes will be 0.9 ± 0.1 times the entropy of the surrounding environment
+     Confidence: 0.8
+     Test: Measure the entropy of black holes and compare it to the entropy of the surrounding environment using advanced statistic
+     Falsification: Observing an entropy ratio significantly different from 0.9 (e.g., 0.5 or 1.2) would falsify this prediction
+
+  5. [correlational] If the quantum gravity entanglement threshold (E_QG) is less than 10^-5, then the rate of information loss in black holes will be 25% ± 10% higher than predicted by classical theor
+     Confidence: 0.6
+     Test: Measure the rate of information loss in black holes using advanced gravitational wave detectors and compare to classical
+     Falsification: Observing no significant difference in the rate of information loss would falsify this prediction
+
+  6. [novel] If the informational dark pressure (IDP) is responsible for the accelerating expansion of the universe, then the rate of expansion will be 5% ± 2% higher than predicted by standard
+     Confidence: 0.5
+     Test: Measure the rate of expansion of the universe using advanced astronomical surveys and compare to standard cosmological m
+     Falsification: Observing no significant difference in the rate of expansion would falsify this prediction
+
+  7. [correlational] If the quantum fluctuation informational carry (QFIC) is greater than 10^-10, then the entropy of Hawking radiation will be 0.8 ± 0.1 times the entropy of the matter that fell into
+     Confidence: 0.6
+     Test: Measure the entropy of Hawking radiation and compare it to the entropy of matter that fell into the black hole using adv
+     Falsification: Observing an entropy ratio significantly different from 0.8 (e.g., 0.5 or 1.2) would falsify this prediction
+
+
+──────────────────────────────────────────────────────────────────────
+  THEORY TOURNAMENT (10 entered, 8 survived, 5 eliminated)
+──────────────────────────────────────────────────────────────────────
+  Tournament rounds:
+    Round 1: generation — 10 candidates
+    Round 2: elimination — 5 survived, 5 eliminated
+    Round final: survivors — ? candidates
+
+  Analysis: Winner: Informational Dark Pressure (IDP) Cosmogenesis (score: 0.50). 5 theories survived the tournament. 5 were eliminated. Close competition — runner-up Quantum Fluctuation Informational Carry (QFIC) via Horizon Resonance is within 0.00. 
+
+  Survivors (ranked):
+  1. Informational Dark Pressure (IDP) Cosmogenesis (score: 0.50) [alternative]
+     The standard assumption treats black hole information processing and cosmic expansion as separate domains. IDP posits that the 'Acceleration' orphan observation (8 papers) is causal: information falli
+
+  2. Quantum Fluctuation Informational Carry (QFIC) via Horizon Resonance (score: 0.50) [alternative]
+     Standard QFT assumes near-horizon fluctuations are thermal noise. QFIC proposes these are structured resonances: the event horizon acts as a frequency-dependent quantum tunneling membrane where inform
+     Causal status: no_causal_claim
+
+  3. Computational Complexity Horizon (CCH) Threshold Theory (score: 0.50) [alternative]
+     The standard assumption assumes information retrieval is theoretically possible given sufficient technology. CCH proposes a fundamental computational complexity barrier: at the event horizon, the comp
+     Causal status: no_causal_claim
+
+  4. CMB Information Echoes as Primordial Black Hole Fossils (score: 0.50) [alternative]
+     The Cosmic Microwave Background Information Echoes (Φ_CMB) hidden variable becomes central: information from primordial black hole evaporation in the early universe is imprinted in CMB polarization pa
+     Causal status: no_causal_claim
+
+  5. Neutrino Star-Singularity Information Pathway (score: 0.50) [alternative]
+     Observation 5 shows a path: neutrino_star_singularity→black hole→Quantum Gravity without direct connection. This theory proposes information doesn't cross the horizon directly but is processed through
+     Causal status: no_causal_claim
+
+  6. Observer-Dependent Information Access (score: 0.00) [contradiction_resolution]
+     Quantum unitarity (information preserved) and classical information loss are BOTH correct, but apply to different observers. An external observer sees information appear lost because it becomes encode
+
+  7. Complexity Threshold Model of Information Recovery (score: 0.00) [contradiction_resolution]
+     The 'model' tension exists because different theoretical frameworks implicitly assume different complexity thresholds. Some models treat information as 'lost' because recovery is computationally intra
+
+  Eliminated (5):
+    ✗ Quantum Reference Frame Relativity of Information Crossing (score: 0.50) — Score 0.50 — bottom half
+    ✗ Computational Complexity Threshold at Horizons (score: 0.50) — Score 0.50 — bottom half
+    ✗ Neutrino-Mediated Information Teleportation via Singularity Bridges (score: 0.50) — Score 0.50 — bottom half
+    ✗ Holographic Entanglement Wedge Reconfiguration (score: 0.50) — Score 0.50 — bottom half
+    ✗ Informational Dark Pressure Equivalence (score: 0.50) — Score 0.50 — bottom half
+
+----------------------------------------------------------------------
+  CURIOUS QUESTIONING - The Newton Step
+----------------------------------------------------------------------
+  Core Question: What if the event horizon isn't a one-way membrane, but rather a two-way quantum information processor that encodes and re-emits data?
+  Question Hypothesis: Information is not destroyed, but rather scrambled, encoded in the quantum correlations of Hawking radiation, and eventually leaked back out over immense timescales. The event horizon acts as a highly complex quantum computer, processing infalling information into outgoing radiation patterns.
+  Why It Matters: This would resolve the black hole information paradox—a major contradiction between quantum mechanics and general relativity—and fundamentally rewrite our understanding of spacetime, information, and 
+  Questions Generated: 13
+    [assumption_attack] What assumption does everyone accept about What assumption does everyone accept 
+    [scale_transfer] Does a mechanism at one scale (quantum/molecular) also drive What assumption doe
+    [assumption_attack] What if the standard model of assumption everyone accept about happens is fundam
+    [assumption_attack] The standard assumption is that information crossing the event horizon is causal
+    [assumption_attack] We assume the interior of a black hole is a definite classical spacetime. What i
+  Cross-Domain Connections (Newton's Move): 3
+    Domain A: general: In general relativity it is assumed that once information crosses a black‑hole e
+    Domain B: quantum information / computer science: In quantum error‑correcting codes a logical qubit is spread over many physical q
+    Connection: Both systems treat a boundary (the horizon or the set of erased qubits) as a region where informatio
+    Hypothesis: The event horizon functions as a quantum error‑correcting code: the microscopic degrees of freedom o
+    Prediction: If the horizon is an error‑correcting code, Hawking radiation will exhibit precise, non‑thermal corr
+
+    Domain A: general: The prevailing view is that the event horizon is a one‑way causal surface: nothi
+    Domain B: biology / biophysics: Cell membranes are selective barriers that not only allow ions to pass through i
+    Connection: Both are physical boundaries that can both filter and transform incoming signals; in biology the mem
+    Hypothesis: The event horizon contains microscopic quantum “channels” (e.g., Planck‑scale degrees of freedom) th
+    Prediction: The spectrum of Hawking radiation would show discrete “channel‑like” resonances corresponding to the
+
+    Domain A: general: Standard black‑hole thermodynamics treats the horizon as an absorber that emits 
+    Domain B: condensed‑matter physics / metamaterials: Acoustic metamaterials can be engineered to act as “black‑hole analogues”: incom
+    Connection: Both systems involve a boundary that can temporarily store incoming wave information and later relea
+    Hypothesis: The event horizon possesses a spectrum of quasi‑normal modes that act as resonant cavities for infal
+    Prediction: Detectable “echoes” in the gravitational‑wave signal from black‑hole mergers: after the main ringdow
+
+  Curiosity Constraint (Track B):
+    Forbidden Theories: Holographic Principle (AdS/CFT), Black Hole Complementarity, ER=EPR, Island Formula / Replica Wormholes, Quantum Error Correction Models (in isolation)
+    Required Properties:
+      + Proposes a concrete physical mechanism for how information is encoded in outgoing radiation
+      + Offers a potential bridge between quantum information theory and general relativity
+      + Makes at least one novel, in-principle testable prediction (e.g., about Hawking radiation correlations, scrambling timescales, or remnant behavior)
+    Novelty Direction: Integrating principles from quantum information processing (like fault-tolerant computation, data compression, or machine learning algorithms) with emergent spacetime dynamics and potential biological/systems analogies to describe the horizon's operation.
+
+----------------------------------------------------------------------
+  DUAL-TRACK COMPARISON: Curiosity vs Pipeline
+----------------------------------------------------------------------
+
+  Two independent approaches were used:
+  1. CURIOUS ENGINE: Generated a question-driven hypothesis
+  2. CONVENTIONAL PIPELINE: Ran full 21-phase discovery
+
+  These are SEPARATE tracks. The curiosity hypothesis was NOT
+  injected into the pipeline. Both ran independently.
+
+  TRACK A: CONVENTIONAL PIPELINE WINNER
+    Name: Informational Dark Pressure (IDP) Cosmogenesis
+    Score: 0.50
+    Description: The standard assumption treats black hole information processing and cosmic expansion as separate domains. IDP posits that the 'Acceleration' orphan observation (8 papers) is causal: information falli
+
+  TRACK B: CURIOSITY-DRIVEN HYPOTHESIS
+    Core Question: What if the event horizon isn't a one-way membrane, but rather a two-way quantum information process
+    Hypothesis: Information is not destroyed, but rather scrambled, encoded in the quantum correlations of Hawking radiation, and eventually leaked back out over immense timescales. The event horizon acts as a highly complex quantum computer, processing infalling information into outgoing radiation patterns.
+
+  COMPARISON:
+    Pipeline says: Informational Dark Pressure (IDP) Cosmogenesis
+    Curiosity says: Information is not destroyed, but rather scrambled, encoded ...
+
+  Both tracks contribute to the discovery. The pipeline
+  validates through evidence and scoring. The curiosity
+  engine identifies the RIGHT QUESTION to ask.
+
+  A discovery needs both: the right question AND the right answer.
+
+──────────────────────────────────────────────────────────────────────
+  ADVERSARIAL TEST — What Survived the Attack
+──────────────────────────────────────────────────────────────────────
+  hidden_variables: 8 tested → 3 survived, 0 weakened, 0 killed
+  mechanisms: 14 tested → 4 survived, 0 weakened, 0 killed
+  theories: 5 tested → 4 survived, 0 weakened, 0 killed
+  Hidden Variables:
+    ? Holographic Information Density (ρ_info) [challenged, attack score: 0.45]
+      Existing theory: Holographic Principle
+      Falsification: If information is found to be encoded in a manner that does not adhere to the holographic principle,
+      Verdict: The concept of Holographic Information Density, while intriguing, is challenged by existing theories such as the Hologra
+    ✓ Quantum Gravity Entanglement Threshold (E_QG) [survived, attack score: 0.70]
+      Existing theory: Black Hole Complementarity and Holographic Principle
+      Falsification: If we observe information preservation across the event horizon of a black hole without any signs of
+      Verdict: The Quantum Gravity Entanglement Threshold hypothesis is challenged by existing theories such as Black Hole Complementar
+    ✓ Cosmic Microwave Background Information Echoes (Φ_ [survived, attack score: 0.85]
+      Existing theory: Black Hole Complementarity and Holographic Principle
+      Falsification: If no residual signatures are found in the cosmic microwave background from primordial black hole fo
+      Verdict: The concept of Cosmic Microwave Background Information Echoes (Φ_CMB) introduces a novel idea that information is conser
+    ✓ Quantum Fluctuation Informational Carry (QFIC) [survived, attack score: 0.85]
+      Existing theory: Hawking Radiation and Black Hole Complementarity
+      Falsification: If the informational asymmetry ratio (IAR) is found to be zero or random, indicating no structured i
+      Verdict: The proposal of Quantum Fluctuation Informational Carry (QFIC) challenges existing theories like Hawking Radiation, whic
+    ? Informational Dark Pressure (IDP) [challenged, attack score: 0.40]
+      Existing theory: Dark Energy and the Cosmological Constant
+      Can remove: cosmic information density grad
+      Falsification: If the universe's expansion is found to be consistent with the predictions of the cosmological const
+      Verdict: The concept of Informational Dark Pressure (IDP) is an interesting proposal, but it is challenged by the existing strong
+  Mechanisms:
+    ✓ Information Preservation via Hawking Radiation [survived, attack score: 0.70]
+      Existing theory: Hawking Radiation and Black Hole Complementarity
+      Falsification: If information is found to be completely lost in a black hole, with no residual effects on the Hawki
+      Verdict: The existing theory of Hawking radiation and black hole complementarity already provides a strong framework for understa
+    ✓ Entropy-Mediated Detection Mechanism [survived, attack score: 0.55]
+      Existing theory: Black Hole Information Paradox
+      Falsification: If information is found to be preserved in a way that contradicts the predictions of the Entropy-Med
+      Verdict: The Entropy-Mediated Detection Mechanism is challenged by existing theories, such as the Black Hole Information Paradox,
+    ? Theoretical Prediction to Gravitational Wave Detec [challenged, attack score: 0.40]
+      Existing theory: Black Hole Information Paradox
+      Falsification: If information is found to be preserved and retrievable after crossing a black hole event horizon, t
+      Verdict: The assumption about what happens to information when it crosses a black hole is a well-known concept in theoretical phy
+    ✓ Hawking Radiation Information Encoding [survived, attack score: 0.55]
+      Existing theory: Hawking's Black Hole Theory
+      Falsification: If information is found to be preserved outside of a black hole, this mechanism is disproven
+      Verdict: The assumption that information is lost when it crosses a black hole event horizon is a well-established concept in Hawk
+    ✓ Holographic Boundary Information Projection [survived, attack score: 0.55]
+      Existing theory: Black Hole Information Paradox
+      Falsification: If information is found to be lost in a black hole, this mechanism is falsified
+      Verdict: The Holographic Boundary Information Projection is a well-known concept in the context of black holes, but its operation
+  Theories:
+    ✓ Informational Dark Pressure (IDP) Cosmogenesis [survived, attack score: 0.90]
+      Falsification: If the acceleration of the universe's expansion is found to be independent of black hole information
+      Verdict: The theory of Informational Dark Pressure Cosmogenesis introduces a novel concept that attempts to link black hole infor
+    ✓ Quantum Fluctuation Informational Carry (QFIC) via [survived, attack score: 0.70]
+      Existing theory: Black Hole Complementarity and Holographic Principle
+      Falsification: If the entropy of the black hole is found to be independent of the information encoded in the infall
+      Verdict: The Quantum Fluctuation Informational Carry (QFIC) theory proposes a novel mechanism for information encoding in black h
+    ✓ Computational Complexity Horizon (CCH) Threshold T [survived, attack score: 0.70]
+      Existing theory: Black Hole Complementarity and Holographic Principle
+      Falsification: If we observe information retrieval from a black hole with a computational resource scaling less tha
+      Verdict: The Computational Complexity Horizon (CCH) Threshold Theory introduces a new perspective on the black hole information p
+    ✓ CMB Information Echoes as Primordial Black Hole Fo [survived, attack score: 0.75]
+      Existing theory: Hawking Radiation and Black Hole Complementarity
+      Falsification: If future CMB polarization pattern observations do not show the expected anisotropic pressure influe
+      Verdict: The theory of CMB Information Echoes as Primordial Black Hole Fossils introduces a new perspective on information preser
+    ? Neutrino Star-Singularity Information Pathway [challenged, attack score: 0.45]
+      Existing theory: Black Hole Complementarity and Holographic Principle
+      Can remove: neutrino degeneracy pressure
+      Falsification: If we observe information paradox resolution without quantum gravity involvement, this theory is wro
+      Verdict: The Neutrino Star-Singularity Information Pathway theory is challenged by existing theories such as Black Hole Complemen
+
+──────────────────────────────────────────────────────────────────────
+  CRITICAL EVALUATION — 6-Dimension Assessment
+──────────────────────────────────────────────────────────────────────
+  Overall Score: 3.5/10
+  Recommendation: reject
+  Summary: This proposal asks a fascinating and potentially high-impact question: could information processing at black holes be the source of cosmic acceleration? The conceptual novelty is noteworthy. However, the submission is critically underdeveloped. It presents a collection of intriguing but disparate id
+  Novelty: 6/10 — The core idea of connecting black hole information processing to cosmic accelera
+  Methodology: 2/10 — The methodology is the weakest aspect. The proposal reads more as a collection o
+  Significance: 8/10 — If the core premise were correct and rigorously demonstrated, the significance w
+  Clarity: 3/10 — The presentation is largely unclear. Critical components like 'Mechanism', 'Expl
+  Limitations: 1/10 — There is almost no acknowledgement of limitations. The theory does not address m
+  Reproducibility: 1/10 — It is impossible to verify or reproduce from the current description. There are 
+  Major issues (4):
+    ! Incomplete theoretical framework: The core sections (Mechanism, Explains) are empty, rendering the proposal a collection
+    ! Lack of mathematical or physical formalism: No equations, derivations, or quantitative models are provided to support th
+    ! Logical and conceptual gaps: The proposal does not explain why information crossing a cosmological horizon (a global bou
+    ! Disconnected predictions: The listed predictions (e.g., on Hawking radiation entropy) are not derived from or clearly co
+  Minor issues (3):
+    - Inconsistent terminology: 'orphan observation' and 'missing link to Hubble' are undefined jargon.
+    - Poor presentation: Fragmented sentences and placeholder text undermine clarity.
+    - Adversarial test results are presented but not explained, making their relevance unclear.
+  Questions for authors:
+    ? Can you provide a mathematical definition of 'informational dark pressure' and derive its equation of state from first p
+    ? How does your model specifically calculate the observed value of the cosmological constant (Λ) from black hole informati
+    ? In your framework, what is the precise causal chain from a quantum bit of information crossing the cosmic horizon to a r
+    ? Does your theory make unique predictions that distinguish it from standard ΛCDM cosmology or other modified gravity theo
+    ? How does Informational Dark Pressure avoid violating the equivalence principle or the conservation of stress-energy in g
+
+──────────────────────────────────────────────────────────────────────
+  CONTRADICTIONS (3)
+──────────────────────────────────────────────────────────────────────
+  1. 
+     Severity: 0.4
+  2. 
+     Severity: 0.4
+  3. 
+     Severity: 0.4
+
+──────────────────────────────────────────────────────────────────────
+  COMPUTATIONAL VERIFICATION
+──────────────────────────────────────────────────────────────────────
+  Computations run: 9
+  Support level: strong
+    → Network has 3 hub entities with degree > 68. Mean degree: 3.2. Hub concentration: high.
+    → Average clustering coefficient: 0.2253. Low clustering suggests sparse connections.
+    → Top bridging entity: quantum (centrality: 1.0000). These entities connect different parts of the knowledge graph.
+    → Found 246 distinct communities. Multiple disconnected communities suggest knowledge fragmentation.
+    → Found 5 paths between theory entities. Strong structural support.
+
+──────────────────────────────────────────────────────────────────────
+  SKEPTIC REVIEW
+──────────────────────────────────────────────────────────────────────
+  Recommendation: revise
+  Revised confidence: 15%
+  Strengths (4):
+    + Addresses two profound cosmic mysteries (the black hole information paradox and dark energy) with a single causal mechanism, offering potential econom
+    + Leverages the 'orphan observation' of cosmic acceleration as a clue, attempting to ground speculation in observed phenomena.
+    + Engages with the information-theoretic perspective of modern physics, aligning with trends in quantum gravity and holography.
+    + The concept of 'informational pressure' is novel and could inspire new lines of theoretical research, even if the specific model fails.
+  Weaknesses (5):
+    - Complete lack of specified predictions or mathematical formulation. How is 'informational dark pressure' quantified? What equations describe its gener
+    - The causal mechanism is hand-wavy. How does information crossing the cosmic horizon (an observer-dependent concept) generate a uniform, repulsive forc
+    - Ignores the well-established cosmological constant (Λ) and its successful description by ΛCDM. IDP must show it can replicate all successes of ΛCDM wh
+    - The link to the cited 121 papers is unclear. Are they direct theoretical or observational studies of IDP, or merely thematically related works on blac
+    - Competes with a vast, successful existing paradigm (ΛCDM) and must therefore clear an extremely high evidential bar to be considered.
+
+──────────────────────────────────────────────────────────────────────
+  DISCOVERY SCORING
+──────────────────────────────────────────────────────────────────────
+  Overall Score: 61/100
+  Grade: C
+  Dimension scores:
+    novelty: 81.0
+    explanatory_power: 85
+    predictive_power: 100.0
+    falsifiability: 100.0
+    simplicity: 80
+    evidence_strength: 55.5
+    mathematical_rigor: 55.0
+  Strengths: novelty: 81/100; explanatory_power: 85/100; predictive_power: 100/100
+  Summary: 'Informational Dark Pressure (IDP) Cosmogenesis' (alternative) scores 61/100 (Grade: C). Strongest: predictive_power (100/100). Weakest: mathematical_rigor (55/100). Promising but needs stronger evide
+
+──────────────────────────────────────────────────────────────────────
+  DISCOVERY CLASSIFICATION — What's Known vs What's New
+──────────────────────────────────────────────────────────────────────
+  Classification: extension
+  Meaning: New application of known mechanisms — applies existing physics to new domain
+  Details:
+    New mechanism proposed: False
+    New prediction generated: True
+    New mathematics introduced: False
+    Not found in literature: True
+
+======================================================================

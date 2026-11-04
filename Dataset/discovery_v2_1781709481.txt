@@ -1,0 +1,567 @@
+======================================================================
+  DISCOVERY REPORT
+======================================================================
+  Topic: Does the immunomodulatory effect of specific gut bacteria depend not on their metabolic output but on strain-specific molecular patterns that directly engage pattern recognition receptors on dendritic cells in the gut-draining lymph nodes, creating a tissue-specific imprint that licenses systemic anti-tumor immunity?
+  Domain: drug_discovery
+  Mode: full
+  Duration: 14371.3s
+
+──────────────────────────────────────────────────────────────────────
+  PAPERS (113)
+──────────────────────────────────────────────────────────────────────
+  [crossref] Immunomodulatory Effect of Vitamin C and E on Non-Specific Immune Parameters in 
+    Authors: Ankita Singh, Seema Jain
+    Year: 2022
+  [crossref] Immunomodulatory effect of bifido- and lactobacilli complex on non-specific humo
+    Authors: A. D. Zhandalgarova
+    Year: 2025
+  [crossref] Mining Novel Specific Rumen Bacteria to Enhance the Bioactive Function of Mulber
+    Authors: Bing Wang, Hailing Luo
+  [core] Each Mycobacterium Requires a Specific Culture Medium Composition for Triggering
+    Authors: Marina Luquin, Sandra Guallar-Garrido, Guallar Garrido, Sandra
+    Year: 2020
+  [core] Mechanism of Action of Probiotic Bacteria on Intestinal and Systemic Immunities 
+    Authors: El-Nezami, H, Kirjavainen, P, Fong, FLY
+    Year: 2015
+  [core] Identification of genetic loci in Lactobacillus plantarum that modulate the immu
+    Authors: Kleerebezem, M., Vos, P., de, Bilsen, J.
+    Year: 2010
+  [pubmed] Synergistic antitumor and immunomodulatory effects of Bifidobacterium animalis s
+    Year: 2026
+  [core] Human milk bacteria individually or as a synthetic community exhibited contraste
+    Authors: Even, Sergine, Le Loir, Yves, Boursarghin, Latifa
+    Year: 2023
+  [core] Interactions of intestinal epithelial cells with bacterial extracellular product
+    Authors: Patten, Daniel
+    Year: None
+  [arxiv] Introducing Dendritic Cells as a Novel Immune-Inspired Algorithm for Anomoly Det
+    Authors: Julie Greensmith, Uwe Aickelin, Steve Cayzer
+    Year: 2010
+  ... and 103 more papers
+
+──────────────────────────────────────────────────────────────────────
+  KNOWLEDGE GRAPH
+──────────────────────────────────────────────────────────────────────
+  Entities: 507
+  Relationships: 4930
+
+──────────────────────────────────────────────────────────────────────
+  KNOWLEDGE GAPS (5)
+──────────────────────────────────────────────────────────────────────
+  [structural_hole] (1 gaps)
+    - These 1795 and 1 entities share type(s) protein but have no connecting relationships. This may indicate an unexplored cr
+  [orphan_observation] (4 gaps)
+    - 'Acceleration' is a phenomenon mentioned in 9 paper(s) but has no causal/explanatory mechanism in the graph. It is obser
+    - 'fluctuation' is a phenomenon mentioned in 8 paper(s) but has no causal/explanatory mechanism in the graph. It is observ
+    - 'resonance' is a phenomenon mentioned in 5 paper(s) but has no causal/explanatory mechanism in the graph. It is observed
+
+──────────────────────────────────────────────────────────────────────
+  ANOMALIES (6)
+──────────────────────────────────────────────────────────────────────
+  [outlier_entity] 'cancer' has degree 59 (z=4.5), much higher than average (5.3). It's a hub — either a genuine driver or an over-studied 
+  [prediction_violation] There's a path concept_colorectal_cancer→cancer→concept_immune_infiltration but no direct connection. Either the direct 
+  [prediction_violation] There's a path concept_colorectal_cancer→cancer→concept_background
+____________________the but no direct connection. Eit
+  [prediction_violation] There's a path concept_colorectal_cancer→cancer→Checkpoint Inhibition but no direct connection. Either the direct link d
+  [prediction_violation] There's a path concept_colorectal_cancer→cancer→concept_rc but no direct connection. Either the direct link doesn't exis
+  [prediction_violation] There's a path concept_colorectal_cancer→cancer→Tumor Immunity but no direct connection. Either the direct link doesn't 
+
+──────────────────────────────────────────────────────────────────────
+  HIDDEN VARIABLES (7)
+──────────────────────────────────────────────────────────────────────
+  1. [object] Unnamed Variable
+
+  2. [counterfactual] Mucosal Pattern Recognition Signature (MPRS)
+     Description: A composite, quantitative index that integrates (i) the surface density of strain‑specific microbe‑associated molecular patterns (MAMPs) on gut bacteria, (ii) the binding affinity of each MAMP for a d
+
+  3. [counterfactual] Dendritic Cell Epigenetic Imprint Index (DC‑EII)
+     Description: A multiplexed epigenomic score derived from (a) locus‑specific histone acetylation (H3K27ac) at genes governing antigen presentation, (b) DNA methylation patterns at cytokine promoters, and (c) chroma
+
+  4. [counterfactual] Gut‑Immune Crosstalk Resonance Factor (GICRF)
+     Description: A hidden variable representing the degree of phase‑locking (resonance) between oscillatory expression of bacterial surface proteins (measured by time‑resolved proteomics) and the intrinsic signaling o
+
+  5. [contradiction_explanation] Redox‑Modulated Dual‑Signal Hypothesis
+     Description: Both the metabolic output of gut bacteria and their strain‑specific molecular patterns can drive anti‑tumor immunity, but which signal dominates is set by the local redox environment in the gut‑draini
+
+  6. [contradiction_explanation] Host‑Genotype Dependent Signal Preference Model
+     Description: The apparent conflict between studies that credit bacterial metabolites versus strain‑specific molecular patterns arises because the host’s genetic makeup determines which dendritic‑cell signaling pat
+
+  7. [contradiction_explanation] Outer‑Membrane Vesicle (OMV) Dual‑Cargo Hypothesis
+     Description: Both sides of the debate are correct because bacterial outer‑membrane vesicles (OMVs) simultaneously deliver metabolic products and strain‑specific molecular patterns to dendritic cells. The relative 
+
+
+──────────────────────────────────────────────────────────────────────
+  MECHANISMS (15)
+──────────────────────────────────────────────────────────────────────
+  1. [information_flow] MAMP‑PRR Engagement Cascade
+     Inputs: Strain‑specific bacterial MAMPs, Gut dendritic cells expressing PRRs
+     Outputs: Activated dendritic cells, Pro‑inflammatory cytokines (IL‑12, TNF‑α), Systemic anti‑tumor T‑cell responses
+     Observables: Flow cytometry for DC activation markers (CD80, CD86), ELISA or multiplex assay for cytokines, T‑cell proliferation / IFN‑γ ELISPOT
+     Step 1: Strain‑specific molecular patterns (MAMPs) bind pattern recognition receptors (PRRs) on gut dendritic cells (DCs)
+     Step 2: PRR engagement triggers intracellular signaling (NF‑κB, MAPK) leading to DC activation and cytokine secretion
+     Step 3: Activated DCs migrate to gut‑draining lymph nodes, present tumor antigens and prime systemic anti‑tumor T cells
+
+  2. [latent_variable] Epigenetic Imprinting of Gut‑Draining Dendritic Cells
+     Inputs: Strain‑specific bacterial MAMPs, Gut dendritic cells, Epigenetic enzyme cofactors (acetyl‑CoA, SAM)
+     Outputs: DCs with stable epigenetic marks, Enhanced antigen presentation capacity, Amplified systemic anti‑tumor T‑cell activation
+     Observables: ChIP‑seq or CUT&RUN for histone marks, Bisulfite sequencing for DNA methylation, Functional assays of DC antigen presentation (e.g., OT‑I T‑cell activation)
+     Step 1: MAMP‑PRR interaction activates epigenetic modifiers (histone acetyltransferases, DNA demethylases) in DCs
+     Step 2: Epigenetic modifications create a latent imprint that sustains a heightened activation state
+     Step 3: Upon tumor antigen encounter, imprinted DCs present antigen more efficiently, driving robust systemic anti‑tumor immunity
+
+  3. [causal_path] Vesicle‑Mediated Metabolic‑Independent MAMP Delivery
+     Inputs: Strain‑specific bacterial outer‑membrane vesicles, Gut dendritic cells in lymph nodes
+     Outputs: DC activation without metabolic by‑product involvement, Cytokine release and T‑cell priming, Systemic anti‑tumor immune response
+     Observables: Nanoparticle tracking analysis of OMVs in fecal/lymph samples, Confocal microscopy of DC uptake of labeled OMVs, Cytokine profiling and T‑cell activation assays
+     Step 1: Specific gut bacterial strains release outer‑membrane vesicles (OMVs) enriched in strain‑specific MAMPs
+     Step 2: OMVs transit through the mucus layer and are taken up by dendritic cells in gut‑draining lymph nodes
+     Step 3: Internalized MAMPs trigger PRR signaling in DCs independent of bacterial metabolites, leading to systemic anti‑tumor immunity
+
+  4. [information_flow] PRR‑mediated dendritic cell activation
+     Inputs: Strain‑specific molecular patterns, Pattern recognition receptors on dendritic cells
+     Outputs: Activated dendritic cells, Tumor‑specific CD8⁺ T cell responses
+     Observables: Flow cytometry of CD80/CD86 on lymph‑node DCs, Phospho‑NF‑κB levels by Western blot, Serum cytokine panel (IL‑12, IFN‑β), Tumor growth delay in vivo
+     Step 1: Strain‑specific surface molecules (e.g., lipoproteins, capsular polysaccharides) bind pattern recognition receptors (TLR2, Dectin‑1) on gut‑draining l
+     Step 2: Receptor engagement triggers intracellular signaling cascades (MyD88/NF‑κB) that up‑regulate co‑stimulatory molecules and cytokines (IL‑12, type I IFN
+     Step 3: Activated dendritic cells migrate to systemic sites, present tumor antigens, and prime cytotoxic CD8⁺ T cells that mediate anti‑tumor immunity.
+
+  5. [latent_variable] Strain‑specific epigenetic imprinting of dendritic cells
+     Inputs: Strain‑specific surface ligands, PRR signaling components
+     Outputs: Epigenetically reprogrammed dendritic cells, Enhanced Th1/CTL differentiation
+     Observables: ATAC‑seq or ChIP‑seq of DCs from gut‑draining nodes, RNA‑seq showing Th1‑biased gene signatures, In vivo tumor rejection assays after DC transfer
+     Step 1: Bacterial surface ligands engage PRRs without requiring metabolic metabolites.
+     Step 2: Signal transduction induces epigenetic modifiers (e.g., DNMT3a, H3K27ac) that remodel the chromatin landscape of dendritic cells.
+     Step 3: Epigenetically programmed DCs acquire a tissue‑specific transcriptional program that preferentially drives Th1/CTL polarization, enhancing systemic an
+
+  6. [causal_path] Outer membrane vesicle (OMV) delivery of immunostimulatory ligands
+     Inputs: Strain‑derived OMVs, Lymphatic transport system
+     Outputs: Mature dendritic cells with cross‑presenting capacity, Activated tumor‑specific CD8⁺ T cells
+     Observables: Nanoparticle tracking analysis of OMVs in lymph, Immunofluorescence of OMV uptake by DCs, Cross‑presentation assay (e.g., SIINFEKL/H‑2Kb complex detection), Tumor growth curves in OMV‑treated mice
+     Step 1: Specific gut bacterial strains release outer membrane vesicles enriched in lipoproteins and peptidoglycan fragments.
+     Step 2: OMVs travel via lymphatics to mesenteric lymph nodes and fuse with dendritic cell membranes, delivering ligands directly to intracellular PRRs (NOD2, 
+     Step 3: Intracellular PRR activation leads to robust DC maturation and cross‑presentation of tumor antigens, culminating in systemic anti‑tumor immunity.
+
+  7. [information_flow] MAMP‑PRR signaling cascade
+     Inputs: Strain‑specific bacterial surface molecules (e.g., lipoproteins, peptidoglycan fragments), Pattern recognition receptors on dendritic cells (TLR2, Dectin‑1, etc.), Resident dendritic cells in the gut mucosa
+     Outputs: Activated dendritic cells expressing co‑stimulatory molecules (CD80/CD86), Cytokine milieu (IL‑12, IL‑6, TNF‑α), T cells with enhanced cytotoxic phenotype and tumor‑targeting capacity
+     Observables: Flow cytometry for CD80/CD86 on dendritic cells, Phospho‑NF‑κB or MAPK levels in DCs, Cytokine profiling (ELISA, multiplex) in lymph node tissue, Tumor growth kinetics in murine models
+     Step 1: Strain‑specific molecular patterns (MAMPs) bind pattern recognition receptors (PRRs) on dendritic cells in the gut lamina propria
+     Step 2: PRR engagement triggers intracellular signaling pathways (NF‑κB, MAPK) leading to dendritic cell activation and cytokine production
+     Step 3: Activated dendritic cells migrate to gut‑draining lymph nodes, imprint naïve T cells with a tissue‑specific program that enhances systemic anti‑tumor 
+
+  8. [latent_variable] Strain‑specific epigenetic imprinting of dendritic cells
+     Inputs: Strain‑specific bacterial surface ligands, Dendritic cells with functional PRR signaling, Cellular epigenetic machinery (e.g., HATs, DNMTs)
+     Outputs: Dendritic cells with stable epigenetic marks (e.g., H3K27ac enrichment at immune‑regulatory loci), Skewed cytokine production profile, Enhanced generation of tumor‑reactive CD8+ T cells
+     Observables: ChIP‑seq for H3K27ac and H3K9me3 in DCs, ATAC‑seq for chromatin accessibility, RNA‑seq of DC transcriptional output, In vivo tumor control assays after adoptive transfer of reprogrammed DCs
+     Step 1: Molecular patterns from a specific bacterial strain engage PRRs on dendritic cells
+     Step 2: PRR signaling recruits epigenetic modifiers (histone acetyltransferases, DNA methyltransferases) that remodel the DC chromatin landscape
+     Step 3: The epigenetically reprogrammed DCs maintain an altered transcriptional program that biases T‑cell priming toward anti‑tumor effector functions
+
+  9. [causal_path] Outer membrane vesicle‑mediated MAMP delivery
+     Inputs: Strain‑specific bacterial outer membrane vesicles, Dendritic cells in mesenteric lymph nodes, PRRs capable of recognizing vesicle‑associated MAMPs
+     Outputs: Mature dendritic cells with up‑regulated co‑stimulatory markers, Cytokine secretion (IL‑12, IFN‑γ), Expansion of tumor‑specific cytotoxic T lymphocytes
+     Observables: Nanoparticle tracking analysis of OMV size and concentration, Fluorescent labeling of OMVs to monitor DC uptake (confocal microscopy, flow cytometry), Measurement of DC activation markers (CD86, MHC‑II), Tumor burden assessment in treated versus control animals
+     Step 1: Gut bacteria release outer membrane vesicles (OMVs) enriched in strain‑specific MAMPs
+     Step 2: OMVs traverse the mucus layer and are taken up by dendritic cells in the gut‑draining lymph nodes
+     Step 3: Delivered MAMPs activate dendritic cell PRRs, leading to DC maturation and promotion of systemic anti‑tumor T‑cell responses
+
+  10. [information_flow] Strain-specific MAMP-PRR signaling cascade
+     Inputs: strain-specific surface molecules (lipoproteins, flagellin), gut dendritic cells, tumor antigens
+     Outputs: activated dendritic cells, tumor‑specific CD8+ T cells, reduced tumor growth
+     Observables: flow cytometry of DC surface markers, ELISA for IL‑12 and other cytokines, tetramer staining of tumor‑specific CD8+ T cells, in vivo tumor size measurements, phenotype of PRR‑knockout mice
+     Step 1: Bacterial surface MAMPs bind pattern recognition receptors (e.g., TLR2) on gut dendritic cells
+     Step 2: PRR engagement triggers dendritic cell maturation and migration to mesenteric lymph nodes
+     Step 3: Mature dendritic cells present tumor antigens and produce cytokines that polarize CD8+ T cells, leading to systemic anti‑tumor immunity
+
+  11. [intermediate_variable] Extracellular vesicle‑mediated pattern delivery
+     Inputs: bacterial extracellular vesicles, gut dendritic cells, intracellular pattern recognition receptors
+     Outputs: activated dendritic cells, type I interferon production, tumor‑specific T‑cell priming
+     Observables: nanoparticle tracking analysis of EV size and concentration, confocal microscopy of EV uptake by DCs, qPCR of NOD2‑dependent signaling genes, immune profiling of tumor‑specific T cells, tumor progression assays in EV‑treated vs. control mice
+     Step 1: Strain‑specific gut bacteria release extracellular vesicles (EVs) enriched in proteins and nucleic acids
+     Step 2: EVs traverse the mucus layer and are endocytosed by dendritic cells, delivering pattern molecules to intracellular PRRs (e.g., NOD2)
+     Step 3: Intracellular PRR activation induces DC cytokine production and migration, imprinting T cells for anti‑tumor activity
+
+  12. [latent_variable] Epigenetic imprinting via strain‑specific peptidoglycan fragments
+     Inputs: peptidoglycan fragments, NOD1 receptor, dendritic cell epigenetic machinery
+     Outputs: epigenetically primed dendritic cells, enhanced cytokine output, tumor control
+     Observables: mass spectrometry identification of strain‑specific PG fragments, ChIP‑seq for H3K27ac enrichment at IL‑12 locus, ELISA for IL‑12 protein, tumor growth curves in mice with/without NOD1 signaling, effect of NOD1 knockout on DC epigenetic marks
+     Step 1: Strain‑specific peptidoglycan fragments are released during bacterial turnover and bind NOD1 on gut dendritic cells
+     Step 2: NOD1 signaling induces epigenetic remodeling (e.g., H3K27ac) at cytokine gene loci, establishing a latent transcriptional program
+     Step 3: When encountering tumor antigens, primed DCs rapidly produce IL‑12 and co‑stimulatory signals, driving robust CD8+ T‑cell activation and systemic anti
+
+  13. [information_flow] Direct PRR Engagement Imprint
+     Inputs: Strain-specific MAMPs (e.g., lipoproteins, flagellin), Dendritic cells expressing PRRs (TLR2, TLR5, Dectin-1), Gut microenvironment (cytokine milieu)
+     Outputs: Activated DCs (CD80⁺CD86⁺, CCR7⁺), Primed T cells with gut-homing imprint (α4β7⁺, CCR9⁺) and enhanced cytotoxic potential, Reduced tumor growth in distal sites
+     Observables: Flow cytometry of DC activation (CD80/CD86, CCR7), Phospho‑NF‑κB and MAPK signaling in DCs, ELISA of cytokines in lymph node homogenates, Tumor volume measurements in mouse models, T‑cell phenotype by tetramer staining
+     Step 1: Strain-specific surface molecular patterns (MAMPs) bind to pattern recognition receptors (PRRs) on dendritic cells (DCs) in the gut lamina propria
+     Step 2: Activated DCs upregulate costimulatory molecules and migrate to gut-draining lymph nodes where they present antigen and provide cytokine cues
+     Step 3: T cells receiving this DC-derived signal acquire a tissue-specific imprint that programs them for systemic anti-tumor activity
+
+  14. [intermediate_variable] Bacterial Extracellular Vesicle (EV) Mediated PRR Activation
+     Inputs: Bacterial EVs (size 50‑200 nm), Dendritic cells in lamina propria, Host intracellular PRRs (NOD2, NLRP3)
+     Outputs: DCs with up‑regulated IL‑12 and type‑I interferon signatures, T cells bearing a gut‑derived imprint (CCR9⁺, CXCR3⁺), Enhanced systemic cytotoxic response against tumor cells
+     Observables: Nanoparticle tracking analysis of EVs, Proteomic profiling of EV cargo, Western blot for RIP2‑p and IRF7‑p in DCs, In‑vivo tumor growth curves after EV‑treated DC transfer, Serum cytokine panel (IFN‑β, IL‑12)
+     Step 1: Specific gut bacterial strains release extracellular vesicles enriched in strain‑unique proteins and peptidoglycan fragments
+     Step 2: EVs traverse the mucus layer and are taken up by dendritic cells, delivering MAMPs that engage intracellular PRRs (e.g., NOD2)
+     Step 3: DCs undergo a transcriptional reprogramming that imprints migrating T cells with anti‑tumor effector functions
+
+  15. [latent_variable] Epigenetic Imprint via Strain‑Specific PRR Signaling
+     Inputs: Strain‑specific MAMPs, Dendritic cells with functional PRRs, Histone acetyltransferases (p300/CBP) and demethylases
+     Outputs: DCs with increased H3K27ac at Il12b and Ifnb1 promoters, T cells primed to produce IFN‑γ and perforin, Systemic anti‑tumor immunity observable as tumor regression
+     Observables: ChIP‑seq for H3K27ac in DCs after bacterial exposure, ATAC‑seq to assess chromatin accessibility changes, qPCR of Il12b and Ifnb1 transcripts, Flow cytometry for IFN‑γ⁺ CD8⁺ T cells, Tumor burden assessment in treated versus control mice
+     Step 1: MAMPs from a particular bacterial strain bind surface PRRs on dendritic cells, initiating a signaling cascade
+     Step 2: Signal transduction recruits chromatin‑modifying enzymes (e.g., p300/CBP) that deposit activating histone marks at loci controlling cytokine productio
+     Step 3: The resulting epigenetic landscape creates a durable DC memory that programs downstream T cells toward a tumor‑rejecting phenotype
+
+
+──────────────────────────────────────────────────────────────────────
+  PREDICTIONS (7 generated, 7 accepted)
+──────────────────────────────────────────────────────────────────────
+  1. [correlational] If the surface density of strain-specific MAMPs on gut bacteria is greater than 100 molecules/μm², then the activation rate of dendritic cells in the gut-draining lymph nodes will 
+     Confidence: 0.7
+     Test: Flow cytometry analysis of dendritic cell activation markers (e.g., CD80, CD86) in response to MAMP stimulation, with su
+     Falsification: Observing no significant increase in dendritic cell activation rate despite high MAMP surface density.
+
+  2. [interventional] If outer-membrane vesicles (OMVs) from specific gut bacterial strains are depleted of strain-specific MAMPs, then the ability of these OMVs to induce systemic anti-tumor immunity w
+     Confidence: 0.8
+     Test: Tumor challenge experiments in mice, with OMV treatment and subsequent analysis of tumor growth and immune cell infiltra
+     Falsification: Observing no significant decrease in anti-tumor immunity induction despite MAMP depletion from OMVs.
+
+  3. [counterfactual] If the epigenetic imprinting of dendritic cells by strain-specific MAMPs had not occurred, then the systemic anti-tumor immune response would be reduced by at least 40% (p < 0.01).
+     Confidence: 0.75
+     Test: Epigenome editing (e.g., CRISPR-Cas9) to disrupt MAMP-induced epigenetic modifications in dendritic cells, followed by t
+     Falsification: Observing no significant reduction in anti-tumor immunity despite the absence of epigenetic imprinting.
+
+  4. [correlational] If the Gut-Immune Crosstalk Resonance Factor (GICRF) is greater than 0.5, then the efficacy of checkpoint inhibition therapy will increase by at least 25% (p < 0.05).
+     Confidence: 0.65
+     Test: Clinical trials analyzing the correlation between GICRF (measured via time-resolved proteomics and signaling analysis) a
+     Falsification: Observing no significant increase in checkpoint inhibition therapy efficacy despite high GICRF.
+
+  5. [correlational] If the Dendritic Cell Epigenetic Imprint Index (DC-EII) is increased by at least 20% (p < 0.01) in response to strain-specific MAMP stimulation, then the tumor antigen presentation
+     Confidence: 0.7
+     Test: Epigenomic analysis (e.g., ChIP-seq, ATAC-seq) of dendritic cells in response to MAMP stimulation, followed by tumor ant
+     Falsification: Observing no significant increase in tumor antigen presentation efficiency despite increased DC-EII.
+
+  6. [novel] If the mucosal pattern recognition signature (MPRS) of gut bacteria is altered by at least 30% (p < 0.01) in response to changes in the gut microbiome, then the systemic anti-tumor
+     Confidence: 0.75
+     Test: Gut microbiome manipulation (e.g., fecal microbiota transplantation) and subsequent analysis of MPRS and systemic anti-t
+     Falsification: Observing no significant modulation of anti-tumor immunity despite changes in MPRS.
+
+  7. [novel] If the expression of specific bacterial surface proteins is oscillating at a frequency of 10-20 hours, then the resonance between these oscillations and the intrinsic signaling osc
+     Confidence: 0.8
+     Test: Time-resolved proteomics and signaling analysis to measure the oscillations of bacterial surface proteins and dendritic 
+     Falsification: Observing no significant enhancement of anti-tumor immunity despite resonance between oscillations.
+
+
+──────────────────────────────────────────────────────────────────────
+  THEORY TOURNAMENT (18 entered, 9 survived, 12 eliminated)
+──────────────────────────────────────────────────────────────────────
+  Tournament rounds:
+    Round 1: generation — 18 candidates
+    Round 2: elimination — 9 survived, 9 eliminated
+    Round 3: cross_comparison_elimination — 6 survived, 3 eliminated
+    Round final: survivors — ? candidates
+
+  Analysis: Winner: Direct MAMP‑PRR Activation (score: 0.65). 6 theories survived the tournament. 12 were eliminated. Close competition — runner-up Vesicle‑Mediated Metabolic‑Independent MAMP Delivery is within 0.04. NULL HYPOTHESIS CHECK: WARNING — Winner does NOT beat conventional explanation 'Direct MAMP‑PRR
+
+  Survivors (ranked):
+  1. Direct MAMP‑PRR Activation (score: 0.65) [conventional]
+     Gut bacterial strains display unique surface‑associated microbe‑associated molecular patterns (MAMPs) that bind pattern‑recognition receptors (PRRs) on dendritic cells (DCs) in gut‑draining lymph node
+     Mechanism: MAMP‑PRR Engagement Cascade → MyD88/TLR signaling → DC maturation → tissue‑specific epigenetic imprint → systemic cytotoxic T‑cell activation.
+     Explains: 1; 2; 3
+     Fails to explain: 1 (protein‑protein disconnect); 2 (acceleration); 3 (fluctuation)
+     Key assumptions: MAMPs are the dominant immunomodulatory signal; metabolic me; PRR signaling is sufficient to generate the epigenetic impri
+
+  2. Vesicle‑Mediated Metabolic‑Independent MAMP Delivery (score: 0.61) [alternative]
+     Specific gut bacteria package MAMPs into outer‑membrane vesicles (OMVs) that travel across the mucus layer and are preferentially taken up by dendritic cells in the gut‑draining lymph nodes. The vesic
+     Mechanism: OMV release → vesicle uptake by DCs → intracellular TLR2/4 activation → DC maturation → systemic anti‑tumor immunity.
+     Explains: 1; 2; 3
+     Fails to explain: 1 (protein‑protein disconnect); 2 (acceleration); 3 (fluctuation)
+     Key assumptions: OMVs are the primary delivery vehicle for immunogenic MAMPs.; DCs can internalize OMVs efficiently in the gut‑draining env
+     Causal status: no_causal_claim
+
+  3. Mucosal Pattern Recognition Signature (MPRS) Composite Theory (score: 0.57) [creative]
+     A quantitative composite index (MPRS) integrates surface density of strain‑specific MAMPs, their binding affinities for PRRs, and the spatial clustering of bacteria on the mucosal surface. High MPRS v
+     Mechanism: MPRS = Σ (MAMP_density_i × Kd_i⁻¹ × clustering_factor_i) → threshold crossing triggers DC maturation → systemic immunity.
+     Explains: 1; 2; 3
+     Fails to explain: 1 (protein‑protein disconnect); 2 (acceleration); 3 (fluctuation)
+     Key assumptions: MPRS captures the essential biophysical determinants of PRR ; Metabolic outputs do not contribute appreciably to the immun
+     Causal status: no_causal_claim
+
+  4. Gut‑Immune Crosstalk Resonance Factor (GICRF) Theory (score: 0.50) [creative]
+     Oscillatory expression of bacterial surface proteins (e.g., flagellin, pili) and host DC signaling pathways can become phase‑locked, creating a resonance that amplifies downstream cytokine production.
+     Mechanism: Time‑resolved proteomics → detection of periodic MAMP expression → entrainment of DC NF‑κB oscillations → resonance (GICRF > 0.8) → amplified cytokine
+     Explains: 1; 2; 3
+     Fails to explain: 1 (protein‑protein disconnect)
+     Key assumptions: Both bacterial and host signaling exhibit measurable oscilla; Resonance, not mere amplitude, drives the immunological outc
+     Causal status: no_causal_claim
+
+  5. Redox‑Modulated Dual‑Signal Hypothesis (score: 0.50) [creative]
+     Both metabolic metabolites (e.g., short‑chain fatty acids) and strain‑specific MAMPs provide signals to DCs, but the dominant pathway is set by the local redox potential in the gut‑draining lymph node
+     Mechanism: Redox state (measured by GSH/GSSG ratio) → biasing of DC signaling branches → either PRR‑dominant or metabolite‑dominant pathway → differential epigen
+     Explains: 1; 2; 3
+     Fails to explain: 1 (protein‑protein disconnect); 2 (acceleration); 3 (fluctuation)
+     Key assumptions: Redox potential can rapidly shift the balance between two si; Both pathways are present and capable of inducing anti‑tumor
+     Causal status: no_causal_claim
+
+  6. Strain‑Specific Epigenetic Imprinting of Dendritic Cells (score: 0.46) [alternative]
+     Distinct bacterial strains induce unique epigenetic modifications on dendritic cells (e.g., H3K27ac at antigen‑presentation loci). These modifications constitute a “DC‑EII” (Dendritic Cell Epigenetic 
+     Mechanism: Strain‑specific MAMPs → PRR signaling → recruitment of histone acetyltransferases → H3K27ac enrichment at CD1d, CIITA, and IL12B promoters → high DC‑E
+     Explains: 1; 2; 3
+     Fails to explain: 1 (protein‑protein disconnect); 2 (acceleration); 3 (fluctuation)
+     Key assumptions: Epigenetic imprinting is stable over weeks and drives functi; MAMP‑induced signaling is sufficient to recruit chromatin mo
+     Causal status: no_causal_claim
+
+  7. Context‑Dependent Centrality of 'theory_quantum' in Biological Networks (score: 0.00) [contradiction_resolution]
+     Both the view that 'theory_quantum' is a hub linking many entities and the view that it has a limited, specialized role are correct because the apparent hubness depends on the biological context (e.g.
+
+  Discriminating experiments (would separate top 2):
+    1. 1. **Selective MAMP‑blocking in vivo**: Generate a mutant of strain A that lacks the surface‑exposed MAMP (e.g., delete the lipoprotein gene) but stil
+    2. 2. **Inhibition of vesicle trafficking**: Treat colonized mice with a pharmacological inhibitor of endocytosis that specifically blocks clathrin‑media
+    3. 3. **Ex vivo DC stimulation with purified components**: Isolate MLN‑DCs from germ‑free mice and culture them in three conditions: (a) live bacteria of
+
+  Eliminated (12):
+    ✗ Cross‑Domain Systems Biology Integration Theory (score: 0.50) — Score 0.50 — bottom half
+    ✗ MAMP‑PRR Engagement Cascade (score: 0.50) — Score 0.50 — bottom half
+    ✗ Epigenetic Imprinting of Gut‑Draining Dendritic Cells (score: 0.50) — Score 0.50 — bottom half
+    ✗ Mucosal Pattern Recognition Signature (MPRS) Composite Index (score: 0.50) — Score 0.50 — bottom half
+    ✗ Resonance Synchronisation Theory (score: 0.50) — Score 0.50 — bottom half
+    ... and 7 more
+
+----------------------------------------------------------------------
+  CURIOUS QUESTIONING - The Newton Step
+----------------------------------------------------------------------
+  Core Question: Does the immunomodulatory effect of specific gut bacteria depend not on their metabolic output but on strain-specific molecular patterns that directly engage pattern recognition receptors on dendritic cells in the gut-draining lymph nodes, creating a tissue-specific imprint that licenses systemic anti-tumor immunity?
+  Question Hypothesis: Specific bacterial strains carry unique molecular signatures (likely cell wall or membrane components) that are sampled by CD103+ dendritic cells in Peyer's patches and mesenteric lymph nodes, where they imprint a tissue-specific epigenetic and transcriptional state; this imprinted DC phenotype then
+  Why It Matters: If true, this would revolutionize microbial therapeutics by shifting focus from metabolite-producing consortia to molecularly-defined, strain-specific vaccines or mimetics that precisely program dendr
+  Surprising Observations: 1
+    - however, upstream regulators of tsl cells generation remain elusive, and direct evidence 
+  Questions Generated: 9
+    [assumption_attack] What assumption does everyone accept about Does the immunomodulatory effect of s
+    [scale_transfer] Does a mechanism at one scale (quantum/molecular) also drive Does the immunomodu
+    [cross_domain] What field solved an analogous problem to: however, upstream regulators of tsl c
+    [assumption_attack] What if the standard model of immunomodulatory effect specific bacteri is fundam
+    [assumption_attack] What if the field's assumption that short-chain fatty acids and other bacterial 
+  Curiosity Constraint (Track B):
+    Forbidden Theories: Metabolite-centric model of gut-immune modulation (e.g., SCFAs, bile acids, tryptophan metabolites as primary mediators), Systemic dissemination of bacterial products (e.g., MAMPs or metabolites entering circulation to directly activate peripheral DCs), Generic TLR/NLR signaling in gut DCs without tissue-specific imprinting (i.e., any PAMP from any source produces equivalent DC education), Bystander activation of pre-existing tumor-specific T cells by gut-derived cytokines (e.g., IL-12, type I IFN) without DC-mediated cross-presentation licensing, Microbiome effects solely through modulating checkpoint inhibitor pharmacokinetics or bioavailability
+    Required Properties:
+      + Explains how strain-specific molecular patterns (not metabolites) confer distinct immunomodulatory outcomes
+      + Accounts for tissue-specific DC imprinting in gut-draining lymph nodes that translates to systemic anti-tumor immunity
+      + Makes testable predictions about DC trafficking, epigenetic state, or antigen cross-presentation capacity
+    Novelty Direction: Explore how strain-specific structural motifs (e.g., peptidoglycan variants, teichoic acid modifications, capsular polysaccharide fine structures, or outer membrane vesicle topology) act as combinatorial codes that engage pattern recognition receptors on CD103+ dendritic cells in a tissue-context-dependent manner, triggering epigenetic reprogramming that persists through DC migration and uniquely licenses cross-presentation in tumor-draining lymph nodes.
+
+----------------------------------------------------------------------
+  DUAL-TRACK COMPARISON: Curiosity vs Pipeline
+----------------------------------------------------------------------
+
+  Two independent approaches were used:
+  1. CURIOUS ENGINE: Generated a question-driven hypothesis
+  2. CONVENTIONAL PIPELINE: Ran full 21-phase discovery
+
+  These are SEPARATE tracks. The curiosity hypothesis was NOT
+  injected into the pipeline. Both ran independently.
+
+  TRACK A: CONVENTIONAL PIPELINE WINNER
+    Name: Direct MAMP‑PRR Activation
+    Score: 0.65
+    Description: Gut bacterial strains display unique surface‑associated microbe‑associated molecular patterns (MAMPs) that bind pattern‑recognition receptors (PRRs) on dendritic cells (DCs) in gut‑draining lymph node
+
+  TRACK B: CURIOSITY-DRIVEN HYPOTHESIS
+    Core Question: Does the immunomodulatory effect of specific gut bacteria depend not on their metabolic output but o
+    Hypothesis: Specific bacterial strains carry unique molecular signatures (likely cell wall or membrane components) that are sampled by CD103+ dendritic cells in Peyer's patches and mesenteric lymph nodes, where they imprint a tissue-specific epigenetic and transcriptional state; this imprinted DC phenotype then
+
+  COMPARISON:
+    Pipeline says: Direct MAMP‑PRR Activation
+    Curiosity says: Specific bacterial strains carry unique molecular signatures...
+
+  Both tracks contribute to the discovery. The pipeline
+  validates through evidence and scoring. The curiosity
+  engine identifies the RIGHT QUESTION to ask.
+
+  A discovery needs both: the right question AND the right answer.
+
+──────────────────────────────────────────────────────────────────────
+  ADVERSARIAL TEST — What Survived the Attack
+──────────────────────────────────────────────────────────────────────
+  hidden_variables: 7 tested → 5 survived, 0 weakened, 0 killed
+  mechanisms: 15 tested → 4 survived, 0 weakened, 0 killed
+  theories: 6 tested → 2 survived, 0 weakened, 0 killed
+  Hidden Variables:
+    ✓ Unnamed Variable [survived, attack score: 0.67]
+      Existing theory: MAMP‑PRR interactions on dendritic cells are known to shape both local and systemic immunity. Strain
+      Can remove: gut‑draining lymph node specificity, tissue‑specific imprint
+      Falsification: If germ‑free mice colonized with a genetically engineered strain lacking all known MAMPs (e.g., Δfla
+      Verdict: The idea that strain‑specific bacterial molecules engage PRRs on DCs to modulate immunity is already documented; the ext
+    ✓ Mucosal Pattern Recognition Signature (MPRS) [survived, attack score: 0.67]
+      Existing theory: The role of microbe‑associated molecular patterns (MAMPs) engaging dendritic‑cell pattern‑recognitio
+      Can remove: spatial colocalization score
+      Falsification: If mice colonized with isogenic strains that differ only in surface MAMP density (e.g., engineered t
+      Verdict: The core idea—that strain‑specific MAMPs engage DC PRRs to shape systemic anti‑tumor immunity—is already supported by ex
+    ✓ Dendritic Cell Epigenetic Imprint Index (DC‑EII) [survived, attack score: 0.67]
+      Existing theory: Trained immunity and dendritic cell conditioning by microbial-associated molecular patterns (MAMPs) 
+      Can remove: DNA methylation at cytokine promoters, ATAC‑seq accessibility
+      Falsification: If mice receiving a bacterial strain that induces a high DC‑EII score (≥0.7 on a 0‑1 normalized scal
+      Verdict: Existing immunology literature already accounts for MAMP‑driven epigenetic reprogramming of DCs, making the DC‑EII large
+    ✓ Gut‑Immune Crosstalk Resonance Factor (GICRF) [survived, attack score: 0.77]
+      Existing theory: Pattern recognition receptors (PRRs) on dendritic cells recognize strain‑specific microbial‑associat
+      Can remove: phase‑locking (resonance) between bacterial surface‑protein oscillations and dendritic‑cell PRR signaling)
+      Falsification: If mice colonized with a bacterial strain that shows no detectable oscillatory surface‑protein expre
+      Verdict: While existing immunology explains much of the phenomenon, the added resonance variable (GICRF) is not required and can 
+    ✓ Redox‑Modulated Dual‑Signal Hypothesis [survived, attack score: 0.77]
+      Existing theory: Both metabolic output (e.g., SCFAs acting via GPR43/GPR109A) and strain‑specific MAMPs (e.g., peptid
+      Can remove: local redox environment as a dominant switch
+      Falsification: If, in a controlled mouse model, two isogenic bacterial strains that differ only in MAMP composition
+      Verdict: Existing literature already links both metabolites and MAMPs to dendritic‑cell conditioning and systemic anti‑tumor immu
+  Mechanisms:
+    ? MAMP‑PRR Engagement Cascade [challenged, attack score: 0.40]
+      Existing theory: The role of microbe‑associated molecular patterns (MAMPs) engaging pattern‑recognition receptors (PR
+      Can remove: gut‑draining lymph node specificity
+      Falsification: If germ‑free mice colonized with a gut bacterial strain that expresses a known PRR ligand (e.g., fla
+      Verdict: The core idea of MAMP‑PRR‑driven DC imprinting is already well documented, so the proposed mechanism is not novel. Howev
+    ✓ Epigenetic Imprinting of Gut‑Draining Dendritic Ce [survived, attack score: 0.67]
+      Existing theory: Trained immunity and PRR‑mediated dendritic cell activation by microbial MAMPs, leading to epigeneti
+      Can remove: tissue‑specific imprint in gut‑draining lymph nodes, explicit strain‑specificity beyond MAMP identity
+      Falsification: If germ‑free mice colonized with two isogenic bacterial strains that differ only in metabolic output
+      Verdict: Existing literature already accounts for PRR‑driven epigenetic reprogramming of dendritic cells, so the proposed mechani
+    ✓ Vesicle‑Mediated Metabolic‑Independent MAMP Delive [survived, attack score: 0.92]
+      Existing theory: Mechanism of Action of Probiotic Bacteria on Intestinal and Systemic Immunities and Antigen-Presenti
+      Falsification: If we observe that the immunomodulatory effect of gut bacteria is abolished in the absence of patter
+      Verdict: The proposed mechanism provides a novel explanation for the immunomodulatory effect of specific gut bacteria, and the ex
+    ✓ PRR‑mediated dendritic cell activation [survived, attack score: 0.60]
+      Existing theory: Pattern recognition receptor (PRR) engagement by microbial-associated molecular patterns (MAMPs) on 
+      Can remove: tissue‑specific imprint, gut‑draining lymph node localisation
+      Falsification: If germ‑free mice colonised with a PRR‑deficient bacterial strain that lacks known MAMPs (e.g., Δtlr
+      Verdict: The proposed mechanism is already comprehensively explained by existing PRR‑DC signaling literature. The extra variables
+    ✓ Strain‑specific epigenetic imprinting of dendritic [survived, attack score: 0.67]
+      Existing theory: Pattern‑recognition receptor (PRR) engagement by microbial‑associated molecular patterns (MAMPs) lea
+      Can remove: epigenetic imprint, gut‑draining lymph node specificity
+      Falsification: If mice colonized with a bacterial strain lacking the proposed strain‑specific MAMPs (e.g., ΔMAMP mu
+      Verdict: Existing literature already links MAMP‑PRR interactions and DC epigenetic reprogramming to systemic immunity, so the cla
+  Theories:
+    ? Direct MAMP‑PRR Activation [challenged, attack score: 0.40]
+      Existing theory: Pattern‑recognition receptor (PRR) activation by microbe‑associated molecular patterns (MAMPs) on de
+      Can remove: Kd_TLR2_MAMP, CD80_upregulation_fold
+      Falsification: If germ‑free mice colonized with a candidate strain lacking the putative MAMP (or with a TLR2‑defici
+      Verdict: The mechanism that gut bacterial MAMPs activate PRRs on DCs to shape systemic immunity is already well established and t
+    ? Vesicle‑Mediated Metabolic‑Independent MAMP Delive [untested, attack score: 0.30]
+      Existing theory: Test failed — could not evaluate
+      Falsification: Test failed — could not evaluate
+      Verdict: Adversarial test failed due to LLM error — marked as untested
+    ✓ Mucosal Pattern Recognition Signature (MPRS) Compo [survived, attack score: 0.77]
+      Existing theory: Pattern recognition receptor (PRR) signaling by microbial-associated molecular patterns (MAMPs) on d
+      Can remove: spatial_clustering
+      Falsification: If a bacterial strain with a calculated MPRS > 1.5 (high surface density, high affinity, high cluste
+      Verdict: The core idea that MAMP‑PRR interactions drive DC activation is well‑established; the added composite index (MPRS) is no
+    ? Gut‑Immune Crosstalk Resonance Factor (GICRF) Theo [challenged, attack score: 0.40]
+      Existing theory: Microbe‑associated molecular pattern (MAMP) engagement of pattern‑recognition receptors (PRRs) on de
+      Can remove: GICRF_threshold, Oscillation_period, GICRF_metric
+      Falsification: If mice colonized with a high‑GICRF strain (GICRF > 0.75) show no statistically significant increase
+      Verdict: The observed immunomodulatory effects are already accounted for by established MAMP‑PRR signaling pathways. The added re
+    ✓ Redox‑Modulated Dual‑Signal Hypothesis [survived, attack score: 0.77]
+      Existing theory: General immunomodulatory model where gut microbial metabolites (e.g., SCFAs) act via G‑protein‑coupl
+      Can remove: GSH_GSSG_ratio_threshold
+      Falsification: If experimental manipulation of the GSH/GSSG ratio in mesenteric lymph nodes from 4 to >12 does not 
+      Verdict: The hypothesis adds a redox‑dependent switch that is not required by existing immunological models and can be removed wi
+
+──────────────────────────────────────────────────────────────────────
+  CRITICAL EVALUATION — 6-Dimension Assessment
+──────────────────────────────────────────────────────────────────────
+  Overall Score: 0.6/10
+  Recommendation: major_revision
+  Summary: The manuscript proposes an intriguing and potentially transformative hypothesis that specific gut bacterial surface molecules directly engage dendritic cell PRRs, imprinting a tissue‑specific epigenetic program that enables systemic anti‑tumor immunity. The concept is novel and could have high signi
+  Novelty: 7/10 — The hypothesis that strain‑specific surface‑associated MAMPs, rather than metabo
+  Methodology: 5/10 — The presented reasoning is conceptually plausible but largely speculative. The d
+  Significance: 8/10 — If validated, the model would shift therapeutic focus toward engineering or sele
+  Clarity: 7/10 — The narrative is generally coherent and the mechanistic flow is understandable, 
+  Limitations: 5/10 — The authors acknowledge that MAMPs are assumed dominant, yet they do not rigorou
+  Reproducibility: 4/10 — The manuscript does not provide sufficient methodological detail (e.g., how MAMP
+  Major issues (5):
+    ! Lack of experimental evidence supporting the MAMP‑PRR → epigenetic imprint → systemic anti‑tumor cascade.
+    ! Insufficient detail on how surface MAMP density is measured and correlated with DC activation.
+    ! No clear strategy to disentangle MAMP effects from metabolic contributions of the same bacterial strains.
+    ! Absence of in vivo validation (e.g., germ‑free or gnotobiotic mouse models) to demonstrate systemic tumor immunity.
+    ! The predictive statements are incomplete, making it difficult to assess testability.
+  Minor issues (4):
+    - Some key terms (e.g., "tissue‑specific imprint", "latent variable") are introduced without definition.
+    - Prediction bullet points are truncated and lack quantitative thresholds.
+    - Formatting inconsistencies (e.g., missing closing brackets, stray line breaks) distract from readability.
+    - The list of failures to explain ("1 (protein‑protein disconnect)" etc.) is not linked to specific data points.
+  Questions for authors:
+    ? How do you quantitatively assess the surface density of strain‑specific MAMPs on bacterial cells?
+    ? Which PRRs (TLR, NLR, etc.) are implicated, and how were they identified as the primary mediators?
+    ? What epigenetic assays (e.g., ATAC‑seq, ChIP‑seq) will you use to demonstrate the DC imprint, and how will you prove cau
+    ? Can you provide experimental designs that isolate MAMP effects from metabolic outputs (e.g., using isogenic mutants lack
+    ? Which in vivo models will be employed to test the systemic anti‑tumor response, and how will you control for host microb
+    ? What statistical power calculations support the correlational threshold of >100 MAMP molecules/μm²?
+    ? How do you address potential variability in DC subsets across gut‑draining lymph nodes that might influence the observed
+
+──────────────────────────────────────────────────────────────────────
+  CONTRADICTIONS (7)
+──────────────────────────────────────────────────────────────────────
+  1. 
+     Severity: 0.4
+  2. 
+     Severity: 0.4
+  3. 
+     Severity: 0.4
+  4. 
+     Severity: 0.9
+  5. 
+     Severity: 0.6
+
+──────────────────────────────────────────────────────────────────────
+  COMPUTATIONAL VERIFICATION
+──────────────────────────────────────────────────────────────────────
+  Computations run: 9
+  Support level: strong
+    → Network has 2 hub entities with degree > 76. Mean degree: 3.1. Hub concentration: high.
+    → Average clustering coefficient: 0.2503. Low clustering suggests sparse connections.
+    → Top bridging entity: electron (centrality: 1.0000). These entities connect different parts of the knowledge graph.
+    → Found 224 distinct communities. Multiple disconnected communities suggest knowledge fragmentation.
+    → Found 5 paths between theory entities. Strong structural support.
+
+──────────────────────────────────────────────────────────────────────
+  SKEPTIC REVIEW
+──────────────────────────────────────────────────────────────────────
+  Recommendation: revise
+  Revised confidence: 68%
+  Strengths (4):
+    + Provides a mechanistic link between specific bacterial surface molecules and dendritic cell activation via well‑characterized PRR pathways.
+    + Generates testable, quantitative predictions (e.g., CD80 up‑regulation, Kd values, tumor growth delay).
+    + Integrates innate signaling (TLR2/TLR4) with adaptive outcomes (co‑stimulatory molecule expression, anti‑tumor immunity).
+    + Consistent with existing data showing that germ‑free mice have impaired DC maturation and that certain commensals can boost anti‑tumor responses.
+  Weaknesses (5):
+    - Assumes direct MAMP‑PRR engagement is the dominant driver of DC maturation, neglecting contributions from soluble metabolites, extracellular vesicles,
+    - Lacks direct evidence that the identified MAMPs are presented to DCs in the mesenteric lymph node in vivo; most data are from in‑vitro binding assays 
+    - The predicted Kd (<50 nM) is unusually high affinity for many TLR ligands, raising concerns about assay artefacts or non‑physiological conditions.
+    - Does not explain why some strains with similar surface MAMP repertoires fail to induce comparable DC activation, suggesting additional layers of regul
+    - The tumor growth delay prediction conflates immune activation with tumor biology without controlling for microbiota‑derived metabolites that can indep
+
+──────────────────────────────────────────────────────────────────────
+  DISCOVERY SCORING
+──────────────────────────────────────────────────────────────────────
+  Overall Score: 47/100
+  Grade: D
+  Dimension scores:
+    novelty: 72.0
+    explanatory_power: 100.0
+    predictive_power: 100.0
+    falsifiability: 100.0
+    simplicity: 74
+    evidence_strength: 55.4
+    mathematical_rigor: 55.0
+  Strengths: novelty: 72/100; explanatory_power: 100/100; predictive_power: 100/100
+  Summary: 'Direct MAMP‑PRR Activation' (conventional) scores 47/100 (Grade: D). Strongest: explanatory_power (100/100). Weakest: mathematical_rigor (55/100). Needs significant improvement before presenting as d
+
+──────────────────────────────────────────────────────────────────────
+  DISCOVERY CLASSIFICATION — What's Known vs What's New
+──────────────────────────────────────────────────────────────────────
+  Classification: extension
+  Meaning: New application of known mechanisms — applies existing physics to new domain
+  Details:
+    New mechanism proposed: False
+    New prediction generated: True
+    New mathematics introduced: False
+    Not found in literature: True
+
+======================================================================
