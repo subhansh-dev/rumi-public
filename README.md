@@ -34,18 +34,31 @@ Everything in this repo is a *measurement artifact*, not a claim. The interestin
 
 ## How to run it
 
-```bash
-# Clone the real engine:
-git clone https://github.com/subhansh-dev/rumi
-cd rumi
+Everything you need to run the discovery pipeline is in `Engine/`:
 
-# Add your (free-tier) API keys to config/api_keys.json — see engine/api_keys.md
-# Run a discovery (grab a coffee, or 21 hours of coffee):
+```bash
+# 1. Clone this repo:
+git clone https://github.com/subhansh-dev/rumi-public
+cd rumi-public/Engine
+
+# 2. Install dependencies:
+pip install -r requirements.txt
+
+# 3. Add your (free-tier) API keys:
+mkdir config
+cp api_keys.md config/  # see api_keys.md for the full provider list
+# Create config/api_keys.json from the example:
+# cp config/api_keys.json.example config/api_keys.json
+# Then fill in your keys (all providers have free tiers — see Engine/api_keys.md)
+
+# 4. Run a discovery (grab a coffee, or 21 hours of coffee):
 python run_discovery.py "your research topic" --mode full
 
-# Then judge it with the frozen harness:
+# 5. Then judge it with the frozen harness:
 python -m eval.harness data/discovery_v2_<timestamp>.json
 ```
+
+The pipeline runs entirely from `Engine/` — `discovery/` has all 101 modules, `eval/` has the frozen judge, and `run_discovery.py` is the entrypoint. No other repos or packages needed beyond the Python dependencies above.
 
 ## Data provenance
 

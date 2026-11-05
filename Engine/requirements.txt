@@ -1,0 +1,15 @@
+# RUMI Discovery Engine — Dependencies
+# Install: pip install -r requirements.txt
+# Python 3.11+ required
+
+# Core (required)
+requests>=2.31.0
+numpy>=2.0.0
+sympy>=1.12.0
+scipy>=1.11.0
+
+# Optional (drug discovery molecule generation)
+# rdkit>=2024.3.0  # Install separately: pip install rdkit
+
+# Optional (Groq SDK — llm_client uses requests directly, so not strictly required)
+# groq>=0.4.0

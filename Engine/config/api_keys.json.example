@@ -1,0 +1,9 @@
+{
+  "_comment": "Copy this to config/api_keys.json and fill in your keys. All providers have free tiers.",
+  "groq_api_key": "gsk_YOUR_KEY_HERE",
+  "cerebras_api_key": "csk_YOUR_KEY_HERE",
+  "nvidia_api_key": "nvapi-YOUR_KEY_HERE",
+  "nvidia_enabled": true,
+  "fireworks_api_key": "fw_YOUR_KEY_HERE",
+  "fireworks_enabled": false
+}
