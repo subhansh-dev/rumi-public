@@ -18,6 +18,31 @@ This repo is what made that comparison possible. These are the artifacts from th
 * **`Engine/eval/`** — the frozen evaluation harness: 6 deterministic metrics, A–F grading, flags for invalid citations / ungrounded claims / rediscovery of the archive, and a hash-chained append-only ledger so nobody (including me) can quietly change a past score. The agent is forbidden from touching `eval/` in its own self-modification loop.
 * **`run_analysis.md`** — the compiled numbers, grouped tables, and a corrections log where I clean up the errors I made along the way.
 
+## What the discovery engine does
+
+RUMI runs a 16-phase autonomous discovery pipeline. Give it a topic and it:
+
+1. **Curious Questioning** — extracts surprise patterns from real paper abstracts, reframes the research question
+2. **Literature Search** — fetches 80-120 real papers from arXiv, PubMed, Semantic Scholar, CrossRef (3 rounds)
+3. **Citation Network** — walks 2-hop citation chains from the fetched papers
+4. **Knowledge Graph** — algorithmic entity extraction + LLM enhancement, persists across runs, enriched via 15 scientific APIs (NIST, PubChem, UniProt, etc.)
+5. **Gap Detection** — algorithmic structural hole detection in the knowledge graph
+6. **Anomaly Detection** — finds contradictions and outliers in the literature
+7. **Hidden Variables** — generates novel hypotheses via counterfactual reasoning, contradiction-driven analysis, and LLM synthesis
+8. **Mechanism Generation** — builds causal chains with derivations, math models, and parameters
+9. **Math Chain** — derives equations for mechanisms (domain-aware depth)
+10. **Prediction Engine** — generates falsifiable predictions with experimental designs
+11. **Theory Tournament** — 20+ competing theories scored across 7 dimensions, with GFlowNet diversity re-ranking
+12. **Adversarial Testing** — attacks every hypothesis/mechanism/theory with a disjoint critic model
+13. **Critical Evaluation** — 6-dimension peer review (novelty, methodology, significance, clarity, limitations, reproducibility)
+14. **Theory Revision** — revises theories based on adversarial + critical feedback
+15. **Computational Verification** — SymPy math checks, Monte Carlo simulations, real data pulls
+16. **Discovery Scoring** — 7 weighted dimensions + penalty/cap stack + domain weighting
+
+Then a **13-stage refinement pipeline** (first-principles reconstruction, multi-model competition, adversarial scientist personas, uncertainty decomposition, scientific courtroom) and a **Reflexion loop** that writes code patches to improve itself, gated by frozen tests.
+
+Modes: `quick` (5 phases), `standard` (8), `full` (all 16+).
+
 ## Headline numbers
 
 * **0 A's. 0 B's. 45 C's. 6 F's.** Every A the engine gave itself was self-reported.
@@ -44,12 +69,10 @@ cd rumi-public/Engine
 # 2. Install dependencies:
 pip install -r requirements.txt
 
-# 3. Add your (free-tier) API keys:
-mkdir config
-cp api_keys.md config/  # see api_keys.md for the full provider list
-# Create config/api_keys.json from the example:
-# cp config/api_keys.json.example config/api_keys.json
-# Then fill in your keys (all providers have free tiers — see Engine/api_keys.md)
+# 3. Add your (free-tier) API keys (all providers have free tiers):
+mkdir -p config
+cp config/api_keys.json.example config/api_keys.json
+# Edit config/api_keys.json and fill in your keys (see Engine/api_keys.md)
 
 # 4. Run a discovery (grab a coffee, or 21 hours of coffee):
 python run_discovery.py "your research topic" --mode full
@@ -62,7 +85,7 @@ The pipeline runs entirely from `Engine/` — `discovery/` has all 101 modules, 
 
 ## Data provenance
 
-* No API keys, tokens, or private data are included. The engine's owndat config file is intentionally absent.
+* No API keys, tokens, or private data are included. You need to create `config/api_keys.json` yourself (see step 3 above).
 * Run reports are LLM generation artifacts — treat them accordingly. The point of the paper is measuring when and how they fail.
 * Copyright: the reports reference ~100 papers per run. Only metadata (title/abstract/urls) is stored in these JSONs, no full texts.
 
